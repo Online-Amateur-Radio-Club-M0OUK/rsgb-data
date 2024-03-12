@@ -2,7 +2,8 @@ name: RSGB API Snapshot
 permissions:
   contents: write
 on: 
-  workflow_dispatch:
+  schedule:
+    - cron: "0 */3 * * *"
 jobs:
   Snapshot-Rsgb-Data:
     runs-on: ubuntu-latest
