@@ -16,7 +16,6 @@ jobs:
           ls ${{ github.workspace }}
       - name: Fetch data
         run: |
-          mkdir data
           curl --silent https://api-beta.rsgb.online/all/systems | jq > data/all-systems.json
       - name: Commit data
         run: |
