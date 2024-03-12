@@ -1,5 +1,6 @@
 name: RSGB API Snapshot
-on: []
+on: 
+  workflow_dispatch:
 jobs:
   Snapshot-Rsgb-Data:
     runs-on: ubuntu-latest
