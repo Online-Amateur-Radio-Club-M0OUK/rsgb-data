@@ -10,6 +10,7 @@ jobs:
       - name: List files in the repository
         run: |
           ls ${{ github.workspace }}
-      - run: |
+      - name: Fetch data
+        run: |
           curl --silent https://api-beta.rsgb.online/all/systems | jq > myfile.json
           cat myfile.json
