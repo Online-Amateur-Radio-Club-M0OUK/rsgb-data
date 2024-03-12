@@ -1,4 +1,6 @@
 name: RSGB API Snapshot
+permissions:
+  contents: write
 on: 
   workflow_dispatch:
 jobs:
@@ -14,3 +16,9 @@ jobs:
         run: |
           curl --silent https://api-beta.rsgb.online/all/systems | jq > myfile.json
           cat myfile.json
+      - name: Commit data
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'm0lte@users.noreply.github.com'
+          git commit -am "Automated commit"
+          git push
