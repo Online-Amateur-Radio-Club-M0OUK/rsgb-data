@@ -1,0 +1,14 @@
+name: GitHub Actions Demo
+on: []
+jobs:
+  Snapshot-Rsgb-Data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v4
+      - name: List files in the repository
+        run: |
+          ls ${{ github.workspace }}
+      - run: |
+          curl --silent https://api-beta.rsgb.online/all/systems | jq > myfile.json
+          cat myfile.json
