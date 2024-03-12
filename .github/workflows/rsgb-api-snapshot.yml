@@ -4,6 +4,7 @@ permissions:
 on: 
   schedule:
     - cron: "0 */3 * * *"
+  workflow_dispatch:
 jobs:
   Snapshot-Rsgb-Data:
     runs-on: ubuntu-latest
