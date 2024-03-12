@@ -1,4 +1,4 @@
-name: GitHub Actions Demo
+name: RSGB API Snapshot
 on: []
 jobs:
   Snapshot-Rsgb-Data:
