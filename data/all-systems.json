@@ -11044,7 +11044,7 @@
     },
     {
       "id": 3451,
-      "fac": false,
+      "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0VBD",
@@ -11053,13 +11053,13 @@
         "F"
       ],
       "tx": 431075000,
-      "repeater": "MB6IAD",
+      "repeater": "MB6AD",
       "rx": 431075000,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO90ER",
-      "dbwErp": 2.5,
+      "dbwErp": 7,
       "extraDetails": null
     },
     {
@@ -31696,30 +31696,6 @@
       }
     },
     {
-      "id": 5518,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M6RWW",
-      "town": "WIDNES",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430075000,
-      "repeater": "M6RWW",
-      "rx": 0,
-      "ctcss": 82.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO83OI",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SJ4986",
-        "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5519,
       "fac": true,
       "type": "DG",
@@ -32151,30 +32127,6 @@
         "ngr": "SP6934",
         "antennaHeight": 5,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 5543,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GW8LGX",
-      "town": "SWANSEA",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145225000,
-      "repeater": "GW8LGX",
-      "rx": 145225000,
-      "ctcss": 77,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO81",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SS6393",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -36125,6 +36077,100 @@
       "extraDetails": {
         "ngr": "SJ2171",
         "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 5781,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M7FGZ",
+      "town": "MANCHESTER",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145237500,
+      "repeater": "M7FGZ",
+      "rx": 144637500,
+      "ctcss": 82.5,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO83VN",
+      "dbwErp": 0,
+      "extraDetails": {
+        "ngr": "SD8607",
+        "antennaHeight": 0,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 5782,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "GM4UYK",
+      "town": "KILMARNOCK",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 431125000,
+      "repeater": "GM4UYK",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO75",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NS4239",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 5785,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0NCZ",
+      "town": "ASHTON-UNDER-LYNE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430250000,
+      "repeater": "GB7XF",
+      "rx": 439250000,
+      "ctcss": 82.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83XM",
+      "dbwErp": 11,
+      "extraDetails": {
+        "ngr": "SD9401",
+        "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 5786,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "GW4NFJ",
+      "town": "SWANSEA",
+      "modeCodes": null,
+      "tx": 145225000,
+      "repeater": "GW4NFJ",
+      "rx": 145225000,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO71XP",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SS5794",
+        "antennaHeight": 10,
         "polarisation": "V"
       }
     }
