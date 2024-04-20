@@ -11408,7 +11408,7 @@
     },
     {
       "id": 3556,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0EAK",
@@ -11583,7 +11583,7 @@
     },
     {
       "id": 3606,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "MM0DRA",
@@ -12127,7 +12127,7 @@
       "id": 3700,
       "fac": false,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MM0RDM",
       "town": "ABERDEEN",
       "modeCodes": [
@@ -13985,7 +13985,7 @@
       "id": 3983,
       "fac": false,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0URF",
       "town": "CHELTENHAM",
       "modeCodes": [
@@ -14355,7 +14355,7 @@
       "id": 4048,
       "fac": false,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "MW0HAC",
       "town": "PORT TALBOT",
       "modeCodes": [
@@ -14644,9 +14644,9 @@
     },
     {
       "id": 4085,
-      "fac": false,
+      "fac": true,
       "type": "AV",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G8PYT",
       "town": "DUDLEY",
       "modeCodes": [
@@ -14659,7 +14659,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO82",
-      "dbwErp": 13.8,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SO9687",
         "antennaHeight": 0,
@@ -16039,7 +16039,7 @@
       "id": 4230,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM0DUN",
       "town": "DUNDEE",
       "modeCodes": [
@@ -19664,9 +19664,9 @@
     },
     {
       "id": 4616,
-      "fac": false,
+      "fac": true,
       "type": "AV",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G8PYT",
       "town": "DUDLEY",
       "modeCodes": [
@@ -20665,30 +20665,6 @@
       "extraDetails": {
         "ngr": "TQ7408",
         "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 4724,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "MM0OVD",
-      "town": "ARDROSSAN",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 431087500,
-      "repeater": "MB6AR",
-      "rx": 431087500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO75OP",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "NS2343",
-        "antennaHeight": 7,
         "polarisation": "V"
       }
     },
@@ -26305,7 +26281,7 @@
       "id": 5168,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0ZAH",
       "town": "THORPE ST ANDREW",
       "modeCodes": [
@@ -28649,7 +28625,11 @@
       "band": "70CM",
       "locator": "JO02",
       "dbwErp": 11.8,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "TL5480",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
     },
     {
       "id": 5311,
@@ -30675,7 +30655,7 @@
       "tx": 145662500,
       "repeater": "GB3RY",
       "rx": 145062500,
-      "ctcss": 0,
+      "ctcss": 67,
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO82",
@@ -31744,30 +31724,6 @@
       }
     },
     {
-      "id": 5523,
-      "fac": true,
-      "type": "AG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0NFI",
-      "town": "PRESCOT",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145225000,
-      "repeater": "MB7IRX",
-      "rx": 145225000,
-      "ctcss": 103.5,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO83",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SJ4396",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 5524,
       "fac": true,
       "type": "AV",
@@ -32507,7 +32463,7 @@
       "tx": 145587500,
       "repeater": "M0ZAH",
       "rx": 144987500,
-      "ctcss": 171.3,
+      "ctcss": 173.8,
       "txbw": 12.5,
       "band": "2M",
       "locator": "JO02QP",
@@ -34931,7 +34887,7 @@
       "id": 5712,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM0RJJ",
       "town": "ALYTH",
       "modeCodes": [
@@ -35338,7 +35294,7 @@
       "id": 5737,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0OFF",
       "town": "GRAVELEY",
       "modeCodes": [
@@ -35609,9 +35565,10 @@
       "fac": true,
       "type": "DV",
       "status": "NOT OPERATIONAL",
-      "keeperCallsign": "2M0BGK",
-      "town": "PRESTONPANS ",
+      "keeperCallsign": "MM0DXE",
+      "town": " PRESTONPANS EAST LOTHIAN ",
       "modeCodes": [
+        "A",
         "D",
         "M",
         "F",
@@ -35619,14 +35576,14 @@
         "N",
         "7"
       ],
-      "tx": 439150000,
+      "tx": 439362500,
       "repeater": "GB7FF",
-      "rx": 430150000,
+      "rx": 430362500,
       "ctcss": 103.5,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO85MW",
-      "dbwErp": 7,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "NT3774",
         "antennaHeight": 10,
@@ -35702,6 +35659,30 @@
       "extraDetails": {
         "ngr": "TL8506",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 5754,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4USP",
+      "town": "LEAMINGTON SPA",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 1297375000,
+      "repeater": "GB3YJ",
+      "rx": 1291375000,
+      "ctcss": 67,
+      "txbw": 25,
+      "band": "23CM",
+      "locator": "IO92FH",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SP3367",
+        "antennaHeight": 29,
         "polarisation": "V"
       }
     },
@@ -36115,7 +36096,7 @@
         "F"
       ],
       "tx": 431125000,
-      "repeater": "GM4UYK",
+      "repeater": "MB6KL",
       "rx": 0,
       "ctcss": 0,
       "txbw": 12.5,
@@ -36126,6 +36107,35 @@
         "ngr": "NS4239",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 5784,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G8NDT",
+      "town": "BIRMINGHAM",
+      "modeCodes": [
+        "D",
+        "M",
+        "F",
+        "P",
+        "N",
+        "7"
+      ],
+      "tx": 144825000,
+      "repeater": "G8NDT",
+      "rx": 144825000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO92BM",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SP1092",
+        "antennaHeight": 15,
+        "polarisation": "V"
       }
     },
     {
@@ -36172,6 +36182,145 @@
         "ngr": "SS5794",
         "antennaHeight": 10,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 5788,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2M0MSU",
+      "town": "MAYBOLE",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 144850000,
+      "repeater": "MB6AY",
+      "rx": 144850000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO75PI",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NS2909",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 5789,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M7GFA",
+      "town": "CHORLEY",
+      "modeCodes": null,
+      "tx": 145225000,
+      "repeater": "MB7ICY",
+      "rx": 145225000,
+      "ctcss": 82.5,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO83",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SD5916",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 5790,
+      "fac": true,
+      "type": "DM",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0OFF",
+      "town": "HUNTINGDON",
+      "modeCodes": [
+        "A",
+        "N"
+      ],
+      "tx": 439150000,
+      "repeater": "M0OFF",
+      "rx": 430150000,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO92VI",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TL2473",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 5791,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM5DNA",
+      "town": "INVERNESS",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "MB7UES",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "IO77",
+      "dbwErp": -7,
+      "extraDetails": {
+        "ngr": "NH6348",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 5792,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G7RUP",
+      "town": "LINCOLN",
+      "modeCodes": null,
+      "tx": 29270000,
+      "repeater": "MB7ILO",
+      "rx": 29270000,
+      "ctcss": 71.9,
+      "txbw": 10,
+      "band": "",
+      "locator": "IO93RE",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SK9768",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 5795,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0NFI",
+      "town": "PRESCOT",
+      "modeCodes": null,
+      "tx": 145262500,
+      "repeater": "M0NFI",
+      "rx": 145262500,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO83",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SJ4396",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
