@@ -1289,14 +1289,13 @@
     },
     {
       "id": 725,
-      "fac": false,
+      "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM0JNL",
       "town": "BERWICK ON TWEED",
       "modeCodes": [
         "A",
-        "M",
         "F"
       ],
       "tx": 145700000,
@@ -13985,7 +13984,7 @@
       "id": 3983,
       "fac": false,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0URF",
       "town": "CHELTENHAM",
       "modeCodes": [
@@ -22962,7 +22961,7 @@
       "id": 4922,
       "fac": false,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M1AEC",
       "town": "WORCESTER",
       "modeCodes": [
@@ -23253,7 +23252,7 @@
       "id": 4944,
       "fac": true,
       "type": "AP",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M1AEC",
       "town": "WORCESTER",
       "modeCodes": [
@@ -23397,7 +23396,7 @@
       "id": 4959,
       "fac": false,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "2M0MSU",
       "town": "MAYBOLE",
       "modeCodes": [
@@ -34094,7 +34093,7 @@
       "id": 5662,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M1CYR",
       "town": "CANNOCK",
       "modeCodes": [
@@ -34143,6 +34142,7 @@
       "keeperCallsign": "M0KDO",
       "town": "WIGAN",
       "modeCodes": [
+        "A",
         "F"
       ],
       "tx": 431112500,
@@ -34235,7 +34235,7 @@
       "id": 5670,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM0TXO",
       "town": "INSCH",
       "modeCodes": [
@@ -34742,7 +34742,7 @@
       "id": 5703,
       "fac": true,
       "type": "PX",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G6FJI",
       "town": "ABINGDON",
       "modeCodes": [
@@ -34766,7 +34766,7 @@
       "id": 5704,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G6FJI",
       "town": "ABINGDON",
       "modeCodes": [
@@ -35199,7 +35199,7 @@
       "id": 5729,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G1JPV",
       "town": "FRODSHAM",
       "modeCodes": null,
@@ -36073,7 +36073,7 @@
       ],
       "tx": 145237500,
       "repeater": "M7FGZ",
-      "rx": 144637500,
+      "rx": 145237500,
       "ctcss": 82.5,
       "txbw": 12.5,
       "band": "2M",
@@ -36089,7 +36089,7 @@
       "id": 5782,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM4UYK",
       "town": "KILMARNOCK",
       "modeCodes": [
@@ -36163,28 +36163,6 @@
       }
     },
     {
-      "id": 5786,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GW4NFJ",
-      "town": "SWANSEA",
-      "modeCodes": null,
-      "tx": 145225000,
-      "repeater": "GW4NFJ",
-      "rx": 145225000,
-      "ctcss": 77,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO71XP",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SS5794",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5788,
       "fac": true,
       "type": "DG",
@@ -36194,9 +36172,9 @@
       "modeCodes": [
         "F"
       ],
-      "tx": 144850000,
+      "tx": 144887500,
       "repeater": "MB6AY",
-      "rx": 144850000,
+      "rx": 144887500,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "2M",
@@ -36321,6 +36299,53 @@
         "ngr": "SJ4396",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 5796,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "GW4NFJ",
+      "town": "SWANSEA",
+      "modeCodes": null,
+      "tx": 145225000,
+      "repeater": "MB7IGG",
+      "rx": 145225000,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO71XP",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SS5794",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 5798,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G5BSD",
+      "town": "LEDBURY",
+      "modeCodes": [
+        "A",
+        "F"
+      ],
+      "tx": 430900000,
+      "repeater": "MB5DL",
+      "rx": 438500000,
+      "ctcss": 118.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO82TA",
+      "dbwErp": 3,
+      "extraDetails": {
+        "ngr": "SO7438",
+        "antennaHeight": 6,
+        "polarisation": "V"
       }
     }
   ]
