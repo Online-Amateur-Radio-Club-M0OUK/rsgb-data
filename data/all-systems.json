@@ -368,7 +368,7 @@
     },
     {
       "id": 233,
-      "fac": false,
+      "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
       "keeperCallsign": "M1EIV",
@@ -384,7 +384,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO83LJ",
-      "dbwErp": 1.2,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "SJ3188",
         "antennaHeight": 10,
@@ -5950,7 +5950,7 @@
     },
     {
       "id": 2275,
-      "fac": false,
+      "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0NCZ",
@@ -5965,7 +5965,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO83XM",
-      "dbwErp": -1.1,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "SD9401",
         "antennaHeight": 7,
@@ -10430,7 +10430,7 @@
     },
     {
       "id": 3329,
-      "fac": false,
+      "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0HBK",
@@ -10439,13 +10439,13 @@
         "A"
       ],
       "tx": 430012500,
-      "repeater": "MB7AEG",
+      "repeater": "MB7IEG",
       "rx": 430012500,
       "ctcss": 77,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO91",
-      "dbwErp": 6,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "SU9566",
         "antennaHeight": 0,
@@ -12886,7 +12886,7 @@
         "A"
       ],
       "tx": 430037500,
-      "repeater": "MB7ILC",
+      "repeater": "MB7ALC",
       "rx": 430037500,
       "ctcss": 71.9,
       "txbw": 12.5,
@@ -13353,7 +13353,7 @@
     },
     {
       "id": 3901,
-      "fac": false,
+      "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
       "keeperCallsign": "GW6CUR",
@@ -13364,13 +13364,13 @@
         "F"
       ],
       "tx": 431112500,
-      "repeater": "MB6ICG",
+      "repeater": "MB6CG",
       "rx": 431112500,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO81KM",
-      "dbwErp": 4.5,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "ST2080",
         "antennaHeight": 5,
@@ -19519,7 +19519,7 @@
     },
     {
       "id": 4599,
-      "fac": false,
+      "fac": true,
       "type": "PX",
       "status": "OPERATIONAL",
       "keeperCallsign": "M5MSX",
@@ -19534,7 +19534,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "JO02",
-      "dbwErp": 8.7,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "TG4803",
         "antennaHeight": 0,
@@ -25188,11 +25188,11 @@
     },
     {
       "id": 5100,
-      "fac": false,
+      "fac": true,
       "type": "PN",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0AHN",
-      "town": "BEECHINGSTOKE",
+      "town": "PEWSEY",
       "modeCodes": [
         "X"
       ],
@@ -25203,7 +25203,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO91",
-      "dbwErp": 3,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SU0959",
         "antennaHeight": 0,
@@ -35233,7 +35233,7 @@
       "id": 5737,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0OFF",
       "town": "GRAVELEY",
       "modeCodes": [
@@ -36494,6 +36494,55 @@
         "ngr": "TQ7670",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 5807,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MM0TXO",
+      "town": "LESLIE",
+      "modeCodes": [
+        "A",
+        "M"
+      ],
+      "tx": 430887500,
+      "repeater": "GB3HL",
+      "rx": 438487500,
+      "ctcss": 67,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO87",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NJ5824",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 5809,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0RNW",
+      "town": "WOLVERHAMPTON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145337500,
+      "repeater": "MB7IDP",
+      "rx": 145337500,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO82WN",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SO9096",
+        "antennaHeight": 5,
+        "polarisation": "V"
       }
     }
   ]
