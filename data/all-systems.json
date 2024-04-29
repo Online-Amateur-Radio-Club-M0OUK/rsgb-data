@@ -1147,7 +1147,7 @@
       "id": 709,
       "fac": false,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G8GQJ",
       "town": "AYLESBURY",
       "modeCodes": [
@@ -28607,30 +28607,6 @@
       }
     },
     {
-      "id": 5313,
-      "fac": false,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G6YIQ",
-      "town": "STEVENAGE OLD TOWN",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 433275000,
-      "repeater": "GB3VV",
-      "rx": 434875000,
-      "ctcss": 82.5,
-      "txbw": 25,
-      "band": "70CM",
-      "locator": "IO91",
-      "dbwErp": 7.3,
-      "extraDetails": {
-        "ngr": "TL2425",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 5314,
       "fac": false,
       "type": "DV",
@@ -33134,7 +33110,7 @@
       "id": 5615,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E1LEX",
       "town": "BEDFORD",
       "modeCodes": [
@@ -35012,7 +34988,7 @@
       "id": 5722,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0EUY",
       "town": "BORDON",
       "modeCodes": [
@@ -35305,7 +35281,7 @@
       "id": 5741,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E1HWE",
       "town": "WESTCLIFF ON SEA",
       "modeCodes": [
@@ -36568,6 +36544,83 @@
         "ngr": "NX0460",
         "antennaHeight": 14,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 5815,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4SBL",
+      "town": "MABLETHORPE",
+      "modeCodes": [
+        "A",
+        "M",
+        "D",
+        "F"
+      ],
+      "tx": 430925000,
+      "repeater": "MB5DS",
+      "rx": 438525000,
+      "ctcss": 82.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO03DH",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TF5083",
+        "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 5816,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "2E1THX",
+      "town": "CAULDON LOW",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 144887500,
+      "repeater": "2E1THX",
+      "rx": 144887500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO93",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SK0747",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 5817,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "2E1THX",
+      "town": "CAULDON LOW",
+      "modeCodes": [
+        "D",
+        "M",
+        "F"
+      ],
+      "tx": 431187500,
+      "repeater": "2E1THX",
+      "rx": 431187500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SK0747",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
