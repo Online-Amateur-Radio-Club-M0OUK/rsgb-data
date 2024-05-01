@@ -16948,7 +16948,7 @@
       "id": 4321,
       "fac": false,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GW0NIS",
       "town": "LLANGOLLEN",
       "modeCodes": [
@@ -18954,7 +18954,7 @@
       "id": 4523,
       "fac": false,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G1MAW",
       "town": "LUDLOW",
       "modeCodes": [
@@ -20301,30 +20301,6 @@
       }
     },
     {
-      "id": 4683,
-      "fac": false,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G6YCA",
-      "town": "BASTON",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430862500,
-      "repeater": "GB3DP",
-      "rx": 438462500,
-      "ctcss": 88.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO92TR",
-      "dbwErp": 12.2,
-      "extraDetails": {
-        "ngr": "TF1114",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 4684,
       "fac": false,
       "type": "AP",
@@ -20836,30 +20812,6 @@
         "ngr": "IH3798",
         "antennaHeight": 0,
         "polarisation": ""
-      }
-    },
-    {
-      "id": 4749,
-      "fac": false,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G8IOA",
-      "town": "STAMFORD",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430962500,
-      "repeater": "GB3SA",
-      "rx": 438562500,
-      "ctcss": 82.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO92RP",
-      "dbwErp": 8.5,
-      "extraDetails": {
-        "ngr": "TF0104",
-        "antennaHeight": 10,
-        "polarisation": "V"
       }
     },
     {
@@ -28152,7 +28104,7 @@
       "id": 5289,
       "fac": false,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0TOG",
       "town": "MANCHESTER",
       "modeCodes": [
@@ -30155,7 +30107,7 @@
       "id": 5407,
       "fac": true,
       "type": "AP",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G8BPQ",
       "town": "NOTTINGHAM",
       "modeCodes": [
@@ -30525,7 +30477,7 @@
       "id": 5429,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G8BPQ",
       "town": "SKIGERSTA",
       "modeCodes": [
@@ -31678,30 +31630,6 @@
       }
     },
     {
-      "id": 5527,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G4XUR",
-      "town": "LYDEARD HILL CP, TAUNTON, SOMERSET",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430937500,
-      "repeater": "GB3GT",
-      "rx": 438537500,
-      "ctcss": 141.3,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81JC",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "ST1833",
-        "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5528,
       "fac": true,
       "type": "PX",
@@ -32113,30 +32041,6 @@
         "ngr": "TQ5721",
         "antennaHeight": 0,
         "polarisation": ""
-      }
-    },
-    {
-      "id": 5555,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G4XUR",
-      "town": "WILMOTS POOL, QUANTOCKS, SOMERSET",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430962500,
-      "repeater": "GB3GK",
-      "rx": 438562500,
-      "ctcss": 141.3,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81JD",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "ST1538",
-        "antennaHeight": 5,
-        "polarisation": "V"
       }
     },
     {
@@ -36629,7 +36533,8 @@
       "keeperCallsign": "G7SOJ",
       "town": "CHULMLEIGH",
       "modeCodes": [
-        "A"
+        "A",
+        "M"
       ],
       "tx": 145750000,
       "repeater": "GB3BG",
@@ -36766,6 +36671,54 @@
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "SU1276",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 5821,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G8BPQ",
+      "town": "NOTTINGHAM",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144950000,
+      "repeater": "G8BPQ",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO92KX",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SK5943",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 5822,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M7EUF",
+      "town": "GILLINGHAM",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 144837500,
+      "repeater": "M7EUF",
+      "rx": 144837500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO01",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TQ8366",
         "antennaHeight": 0,
         "polarisation": ""
       }
