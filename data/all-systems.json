@@ -7030,6 +7030,31 @@
       }
     },
     {
+      "id": 2459,
+      "fac": false,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0HOW",
+      "town": "RYE",
+      "modeCodes": [
+        "A",
+        "F"
+      ],
+      "tx": 0,
+      "repeater": "GB7RY",
+      "rx": 0,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO00HW",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TQ8320",
+        "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 2462,
       "fac": false,
       "type": "PN",
@@ -23498,7 +23523,7 @@
       "type": "DM",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "MM0DXE",
-      "town": "GLENROTHES ",
+      "town": "PRESTONPANS",
       "modeCodes": [
         "A",
         "D",
@@ -23508,17 +23533,17 @@
         "N"
       ],
       "tx": 145737500,
-      "repeater": "GB7GX",
+      "repeater": "GB7FF",
       "rx": 145137500,
       "ctcss": 103.5,
       "txbw": 12.5,
       "band": "2M",
-      "locator": "IO86",
+      "locator": "IO85MW",
       "dbwErp": 14,
       "extraDetails": {
-        "ngr": "NO2602",
-        "antennaHeight": 0,
-        "polarisation": ""
+        "ngr": "NT3774",
+        "antennaHeight": 10,
+        "polarisation": "V"
       }
     },
     {
@@ -27160,7 +27185,7 @@
       "id": 5230,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0LLC",
       "town": "MARYPORT",
       "modeCodes": [
@@ -27932,7 +27957,7 @@
       "id": 5276,
       "fac": false,
       "type": "PN",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0AHN",
       "town": "BEECHINGSTOKE",
       "modeCodes": [
@@ -35388,7 +35413,7 @@
       "type": "DM",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "MM0DXE",
-      "town": " PRESTONPANS EAST LOTHIAN ",
+      "town": "PRESTONPANS ",
       "modeCodes": [
         "A",
         "D",
@@ -35399,7 +35424,7 @@
         "7"
       ],
       "tx": 439362500,
-      "repeater": "GB7FF",
+      "repeater": "GB7GX",
       "rx": 430362500,
       "ctcss": 103.5,
       "txbw": 12.5,
