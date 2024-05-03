@@ -635,7 +635,7 @@
     },
     {
       "id": 516,
-      "fac": false,
+      "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
       "keeperCallsign": "G7NIR",
@@ -650,7 +650,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO83KI",
-      "dbwErp": 3,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "SJ2286",
         "antennaHeight": 6,
@@ -16845,7 +16845,7 @@
     },
     {
       "id": 4313,
-      "fac": false,
+      "fac": true,
       "type": "AP",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0TUM",
@@ -16860,7 +16860,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "JO02PQ",
-      "dbwErp": 3,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "TG2415",
         "antennaHeight": 5,
@@ -19666,7 +19666,7 @@
       "id": 4616,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G8PYT",
       "town": "DUDLEY",
       "modeCodes": [
@@ -22345,7 +22345,7 @@
     },
     {
       "id": 4879,
-      "fac": false,
+      "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
       "keeperCallsign": "2E0ORE",
@@ -22360,7 +22360,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO92OB",
-      "dbwErp": 0.9,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "SP8140",
         "antennaHeight": 6,
@@ -25484,7 +25484,7 @@
     },
     {
       "id": 5125,
-      "fac": false,
+      "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
       "keeperCallsign": "2E0FSI",
@@ -25499,7 +25499,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO90PU",
-      "dbwErp": 2.8,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "SU9106",
         "antennaHeight": 6,
@@ -26404,7 +26404,7 @@
     },
     {
       "id": 5181,
-      "fac": false,
+      "fac": true,
       "type": "PX",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0SMP",
@@ -26419,7 +26419,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO93BH",
-      "dbwErp": 4.6,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SK0681",
         "antennaHeight": 8,
@@ -27086,7 +27086,7 @@
     },
     {
       "id": 5223,
-      "fac": false,
+      "fac": true,
       "type": "RN",
       "status": "OPERATIONAL",
       "keeperCallsign": "G6OHM",
@@ -27101,7 +27101,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "JO02AL",
-      "dbwErp": 7,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "TL3986",
         "antennaHeight": 10,
@@ -27593,7 +27593,7 @@
     },
     {
       "id": 5250,
-      "fac": false,
+      "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
       "keeperCallsign": "MM0ICX",
@@ -27608,7 +27608,7 @@
       "txbw": 10,
       "band": "10M",
       "locator": "IO97",
-      "dbwErp": 4,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "NK1245",
         "antennaHeight": 0,
@@ -30632,7 +30632,7 @@
         "A"
       ],
       "tx": 430825000,
-      "repeater": "GB7CR",
+      "repeater": "MB5CR",
       "rx": 438425000,
       "ctcss": 94.8,
       "txbw": 12.5,
@@ -35736,7 +35736,7 @@
       "tx": 433150000,
       "repeater": "GB3SY",
       "rx": 434750000,
-      "ctcss": 71,
+      "ctcss": 71.9,
       "txbw": 25,
       "band": "70CM",
       "locator": "IO93SE",
@@ -36744,6 +36744,54 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "TQ8366",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 5823,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0JIC",
+      "town": "DONCASTER",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430012500,
+      "repeater": "MB7IMM",
+      "rx": 430012500,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SE6004",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 5827,
+      "fac": true,
+      "type": "PX",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4WQG",
+      "town": "UFFCOTT",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 432675000,
+      "repeater": "GB7NWD",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 25,
+      "band": "70CM",
+      "locator": "IO91",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SU1276",
         "antennaHeight": 0,
         "polarisation": ""
       }
