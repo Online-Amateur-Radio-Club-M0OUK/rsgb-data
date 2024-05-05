@@ -1340,7 +1340,7 @@
       "id": 730,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G8NDT",
       "town": "BIRMINGHAM",
       "modeCodes": [
@@ -13249,7 +13249,7 @@
       "id": 3888,
       "fac": false,
       "type": "AP",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M1TCP",
       "town": "CIRENCESTER",
       "modeCodes": [
@@ -22492,30 +22492,6 @@
       }
     },
     {
-      "id": 4894,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "2E0SGG",
-      "town": "GILLINGHAM",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 144912500,
-      "repeater": "MB7IOK",
-      "rx": 144912500,
-      "ctcss": 103.5,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO01GJ",
-      "dbwErp": 0,
-      "extraDetails": {
-        "ngr": "TQ7869",
-        "antennaHeight": 13,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 4896,
       "fac": false,
       "type": "DV",
@@ -29315,7 +29291,7 @@
       "id": 5363,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "G6JME",
       "town": "EASTBOURNE",
       "modeCodes": [
@@ -33374,7 +33350,7 @@
       "id": 5633,
       "fac": true,
       "type": "PN",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "G6JME",
       "town": "EASTBOURNE",
       "modeCodes": [
@@ -33398,7 +33374,7 @@
       "id": 5634,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MW3ASG",
       "town": "CARDIFF",
       "modeCodes": [
@@ -34622,31 +34598,6 @@
       "extraDetails": {
         "ngr": "SU5098",
         "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 5705,
-      "fac": true,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "2E0SGG",
-      "town": "GILLINGHAM ",
-      "modeCodes": [
-        "D",
-        "F"
-      ],
-      "tx": 439562500,
-      "repeater": "GB7KE",
-      "rx": 430562500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO01GJ",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TQ7869",
-        "antennaHeight": 10,
         "polarisation": "V"
       }
     },
@@ -36311,7 +36262,7 @@
       "id": 5799,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM0PAZ",
       "town": "PAISLEY",
       "modeCodes": [
@@ -36880,9 +36831,9 @@
       "modeCodes": [
         "F"
       ],
-      "tx": 431062500,
+      "tx": 431187500,
       "repeater": "2W0FFN",
-      "rx": 431062500,
+      "rx": 431187500,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
@@ -36935,6 +36886,78 @@
       "extraDetails": {
         "ngr": "SE0541",
         "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 5833,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G1DTG",
+      "town": "BRADFORD",
+      "modeCodes": null,
+      "tx": 431075000,
+      "repeater": "MB6BD",
+      "rx": 431075000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93DS",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SE1931",
+        "antennaHeight": 9,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 5834,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2E0SGG",
+      "town": "CHATHAM",
+      "modeCodes": [
+        "A",
+        "D",
+        "F"
+      ],
+      "tx": 439562500,
+      "repeater": "GB7KE",
+      "rx": 430562500,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO01GI",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TQ7766",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 5835,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2E0SGG",
+      "town": "CHATHAM",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 144912500,
+      "repeater": "MB7IOK",
+      "rx": 144912500,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO01GI",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TQ7766",
+        "antennaHeight": 10,
         "polarisation": "V"
       }
     }
