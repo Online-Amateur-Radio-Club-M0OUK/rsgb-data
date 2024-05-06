@@ -788,7 +788,9 @@
       "keeperCallsign": "MM0SJT",
       "town": "ABERDEEN",
       "modeCodes": [
-        "D"
+        "D",
+        "=",
+        "F"
       ],
       "tx": 144837500,
       "repeater": "MB6ST",
@@ -6115,11 +6117,11 @@
     },
     {
       "id": 2315,
-      "fac": false,
+      "fac": true,
       "type": "PX",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4APL",
-      "town": "CATERHAM",
+      "town": "CATERHAM ON THE HILL",
       "modeCodes": [
         "X"
       ],
@@ -6130,7 +6132,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO91WH",
-      "dbwErp": 10,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "TQ3357",
         "antennaHeight": 7,
@@ -6163,11 +6165,11 @@
     },
     {
       "id": 2318,
-      "fac": false,
+      "fac": true,
       "type": "PX",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4APL",
-      "town": "CATERHAM",
+      "town": "CATERHAM ON THE HILL",
       "modeCodes": [
         "X"
       ],
@@ -6178,7 +6180,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO91WH",
-      "dbwErp": 10.8,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "TQ3357",
         "antennaHeight": 12,
@@ -6187,11 +6189,11 @@
     },
     {
       "id": 2319,
-      "fac": false,
+      "fac": true,
       "type": "PX",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4APL",
-      "town": "CATERHAM",
+      "town": "CATERHAM ON THE HILL",
       "modeCodes": [
         "X"
       ],
@@ -6202,7 +6204,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO91WH",
-      "dbwErp": 13,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "TQ3357",
         "antennaHeight": 9,
@@ -6211,11 +6213,11 @@
     },
     {
       "id": 2320,
-      "fac": false,
+      "fac": true,
       "type": "PX",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4APL",
-      "town": "CATERHAM",
+      "town": "CATERHAM ON THE HILL",
       "modeCodes": [
         "X"
       ],
@@ -6226,7 +6228,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO91WH",
-      "dbwErp": 10,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "TQ3357",
         "antennaHeight": 7,
@@ -6235,11 +6237,11 @@
     },
     {
       "id": 2321,
-      "fac": false,
+      "fac": true,
       "type": "PX",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4APL",
-      "town": "CATERHAM",
+      "town": "CATERHAM ON THE HILL",
       "modeCodes": [
         "X"
       ],
@@ -6307,11 +6309,11 @@
     },
     {
       "id": 2333,
-      "fac": false,
+      "fac": true,
       "type": "PX",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4APL",
-      "town": "CATERHAM",
+      "town": "CATERHAM ON THE HILL",
       "modeCodes": [
         "X"
       ],
@@ -6322,7 +6324,7 @@
       "txbw": 2.5,
       "band": "40M",
       "locator": "IO91WH",
-      "dbwErp": 8.8,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "TQ3357",
         "antennaHeight": 9,
@@ -6331,11 +6333,11 @@
     },
     {
       "id": 2334,
-      "fac": false,
+      "fac": true,
       "type": "PX",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4APL",
-      "town": "CATERHAM",
+      "town": "CATERHAM ON THE HILL",
       "modeCodes": [
         "X"
       ],
@@ -6355,11 +6357,11 @@
     },
     {
       "id": 2335,
-      "fac": false,
+      "fac": true,
       "type": "PX",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4APL",
-      "town": "CATERHAM",
+      "town": "CATERHAM ON THE HILL",
       "modeCodes": [
         "X"
       ],
@@ -6379,11 +6381,11 @@
     },
     {
       "id": 2336,
-      "fac": false,
+      "fac": true,
       "type": "PX",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4APL",
-      "town": "CATERHAM",
+      "town": "CATERHAM ON THE HILL",
       "modeCodes": [
         "X"
       ],
@@ -6403,11 +6405,11 @@
     },
     {
       "id": 2341,
-      "fac": false,
+      "fac": true,
       "type": "PX",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4APL",
-      "town": "CATERHAM",
+      "town": "CATERHAM ON THE HILL",
       "modeCodes": [
         "X"
       ],
@@ -6427,11 +6429,11 @@
     },
     {
       "id": 2342,
-      "fac": false,
+      "fac": true,
       "type": "PX",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4APL",
-      "town": "CATERHAM",
+      "town": "CATERHAM ON THE HILL",
       "modeCodes": [
         "X"
       ],
@@ -6451,11 +6453,11 @@
     },
     {
       "id": 2343,
-      "fac": false,
+      "fac": true,
       "type": "PX",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4APL",
-      "town": "CATERHAM",
+      "town": "CATERHAM ON THE HILL",
       "modeCodes": [
         "X"
       ],
@@ -6466,11 +6468,35 @@
       "txbw": 2.5,
       "band": "10M",
       "locator": "IO91WH",
-      "dbwErp": 8.8,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "TQ3357",
         "antennaHeight": 9,
         "polarisation": "H"
+      }
+    },
+    {
+      "id": 2344,
+      "fac": true,
+      "type": "PN",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G4APL",
+      "town": "CATERHAM ON THE HILL",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144937500,
+      "repeater": "MB7NCR",
+      "rx": 144937500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO91WH",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TQ3357",
+        "antennaHeight": 12,
+        "polarisation": "V"
       }
     },
     {
@@ -12633,11 +12659,11 @@
     },
     {
       "id": 3783,
-      "fac": false,
+      "fac": true,
       "type": "AP",
       "status": "OPERATIONAL",
       "keeperCallsign": "GM0USI",
-      "town": "GLASGOW",
+      "town": "NORTH KELVINSIDE",
       "modeCodes": [
         "X"
       ],
@@ -12648,7 +12674,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO75UV",
-      "dbwErp": 2.5,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "NS5768",
         "antennaHeight": 25,
@@ -14402,7 +14428,7 @@
     },
     {
       "id": 4060,
-      "fac": false,
+      "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0BJR",
@@ -14417,7 +14443,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO83WN",
-      "dbwErp": 2.3,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "SD9207",
         "antennaHeight": 8,
@@ -16524,7 +16550,7 @@
     },
     {
       "id": 4291,
-      "fac": false,
+      "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
       "keeperCallsign": "GM0LVK",
@@ -16539,7 +16565,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO87MM",
-      "dbwErp": 1.4,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "NJ4350",
         "antennaHeight": 5,
@@ -17882,7 +17908,7 @@
     },
     {
       "id": 4407,
-      "fac": false,
+      "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
       "keeperCallsign": "2W0LPU",
@@ -17898,7 +17924,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO81",
-      "dbwErp": -1.7,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "SO1128",
         "antennaHeight": 0,
@@ -20766,7 +20792,7 @@
     },
     {
       "id": 4736,
-      "fac": false,
+      "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0JMS",
@@ -20781,7 +20807,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO91MM",
-      "dbwErp": 3.2,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "SU7080",
         "antennaHeight": 5,
@@ -22791,30 +22817,6 @@
       }
     },
     {
-      "id": 4915,
-      "fac": false,
-      "type": "AP",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G8TNU",
-      "town": "BROADSTONE",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144800000,
-      "repeater": "MB7UTN",
-      "rx": 144800000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO80XS",
-      "dbwErp": 2.6,
-      "extraDetails": {
-        "ngr": "SY9996",
-        "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 4916,
       "fac": false,
       "type": "AP",
@@ -23082,7 +23084,7 @@
     },
     {
       "id": 4937,
-      "fac": false,
+      "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
       "keeperCallsign": "GM0WUQ",
@@ -23098,7 +23100,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO86",
-      "dbwErp": 1.9,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "NS7990",
         "antennaHeight": 0,
@@ -27327,7 +27329,7 @@
     },
     {
       "id": 5238,
-      "fac": false,
+      "fac": true,
       "type": "PX",
       "status": "OPERATIONAL",
       "keeperCallsign": "G7UOD",
@@ -27342,7 +27344,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO92RD",
-      "dbwErp": 2.9,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "TL0249",
         "antennaHeight": 15,
@@ -27351,7 +27353,7 @@
     },
     {
       "id": 5239,
-      "fac": false,
+      "fac": true,
       "type": "PX",
       "status": "OPERATIONAL",
       "keeperCallsign": "G7UOD",
@@ -27366,7 +27368,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO92RD",
-      "dbwErp": 7,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "TL0249",
         "antennaHeight": 15,
@@ -32989,30 +32991,6 @@
       }
     },
     {
-      "id": 5614,
-      "fac": true,
-      "type": "AG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "2E1LEX",
-      "town": "BEDFORD",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430050000,
-      "repeater": "MB7IVY",
-      "rx": 0,
-      "ctcss": 77,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO92SC",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TL0547",
-        "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5615,
       "fac": true,
       "type": "AG",
@@ -36825,7 +36803,7 @@
       "id": 5830,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2W0FFN",
       "town": "CARDIFF",
       "modeCodes": [
@@ -36845,7 +36823,7 @@
       "id": 5831,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MW6HDV",
       "town": "PORTH ",
       "modeCodes": [
@@ -36958,6 +36936,33 @@
       "extraDetails": {
         "ngr": "TQ7766",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 5836,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2E1LEX",
+      "town": "BEDFORD",
+      "modeCodes": [
+        "D",
+        "M",
+        "F",
+        "P"
+      ],
+      "tx": 434475000,
+      "repeater": "MB6VY",
+      "rx": 434475000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO92SC",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TL0547",
+        "antennaHeight": 5,
         "polarisation": "V"
       }
     }
