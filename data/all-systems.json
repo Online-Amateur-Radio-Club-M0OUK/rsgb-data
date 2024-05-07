@@ -1462,7 +1462,7 @@
       "id": 743,
       "fac": false,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GI6JPO",
       "town": "FERMANAGH",
       "modeCodes": [
@@ -17120,7 +17120,7 @@
       "id": 4330,
       "fac": false,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G7RPG",
       "town": "LLANGOLLEN",
       "modeCodes": [
@@ -28730,7 +28730,7 @@
     },
     {
       "id": 5321,
-      "fac": false,
+      "fac": true,
       "type": "AP",
       "status": "OPERATIONAL",
       "keeperCallsign": "G7OMN",
@@ -28742,10 +28742,10 @@
       "repeater": "MB7UCW",
       "rx": 439912500,
       "ctcss": 0,
-      "txbw": 12.5,
+      "txbw": 125,
       "band": "70CM",
       "locator": "IO83SC",
-      "dbwErp": -9,
+      "dbwErp": -10,
       "extraDetails": {
         "ngr": "SJ6754",
         "antennaHeight": 11,
@@ -29173,7 +29173,7 @@
       "id": 5358,
       "fac": true,
       "type": "PX",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0RVB",
       "town": "LEEDS",
       "modeCodes": [
@@ -36943,7 +36943,7 @@
       "id": 5836,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E1LEX",
       "town": "BEDFORD",
       "modeCodes": [
