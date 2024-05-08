@@ -1293,7 +1293,7 @@
       "id": 725,
       "fac": true,
       "type": "DM",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM0JNL",
       "town": "BERWICK ON TWEED",
       "modeCodes": [
@@ -1307,7 +1307,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO85WT",
-      "dbwErp": 9.3,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "NT9458",
         "antennaHeight": 12,
@@ -22495,7 +22495,7 @@
     },
     {
       "id": 4888,
-      "fac": false,
+      "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0VZY ",
@@ -22510,7 +22510,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO90",
-      "dbwErp": 2.2,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "SZ0178",
         "antennaHeight": 0,
@@ -26089,7 +26089,7 @@
     },
     {
       "id": 5163,
-      "fac": false,
+      "fac": true,
       "type": "PX",
       "status": "OPERATIONAL",
       "keeperCallsign": "G7RUP",
@@ -26104,7 +26104,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO93RE",
-      "dbwErp": 6,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SK9668",
         "antennaHeight": 10,
@@ -31340,6 +31340,30 @@
       "extraDetails": {
         "ngr": "NZ2865",
         "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 5499,
+      "fac": true,
+      "type": "DV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0WTV",
+      "town": "WINTER HILL  LANCS",
+      "modeCodes": [
+        "D"
+      ],
+      "tx": 145600000,
+      "repeater": "M0WTV",
+      "rx": 145000000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO83SO",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SD6711",
+        "antennaHeight": 10,
         "polarisation": "V"
       }
     },
@@ -36726,6 +36750,30 @@
       }
     },
     {
+      "id": 5824,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G1ILF",
+      "town": "DONCASTER",
+      "modeCodes": [
+        "M"
+      ],
+      "tx": 439700000,
+      "repeater": "GB7DO",
+      "rx": 430700000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93LO",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SE6510",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 5827,
       "fac": true,
       "type": "PX",
@@ -36777,7 +36825,7 @@
       "id": 5829,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM6BWS",
       "town": "THAINSTONE",
       "modeCodes": [
