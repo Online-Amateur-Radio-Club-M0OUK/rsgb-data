@@ -4346,7 +4346,7 @@
       "id": 1087,
       "fac": false,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0ZPU",
       "town": "ROYSTON",
       "modeCodes": [
@@ -10389,7 +10389,7 @@
       "id": 3312,
       "fac": false,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0ZPU",
       "town": "ROYSTON",
       "modeCodes": [
@@ -14381,7 +14381,7 @@
       "id": 4048,
       "fac": false,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "MW0HAC",
       "town": "PORT TALBOT",
       "modeCodes": [
@@ -30990,30 +30990,6 @@
       }
     },
     {
-      "id": 5467,
-      "fac": true,
-      "type": "PX",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G7SOJ",
-      "town": "WEMBWORTHY",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144925000,
-      "repeater": "GB7PAK",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO80",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SS6609",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 5472,
       "fac": true,
       "type": "DG",
@@ -35054,7 +35030,7 @@
       "repeater": "GB3PKT",
       "rx": 0,
       "ctcss": 0,
-      "txbw": 12.5,
+      "txbw": 0.5,
       "band": "10M",
       "locator": "JO01NT",
       "dbwErp": 14,
@@ -37011,6 +36987,198 @@
       "extraDetails": {
         "ngr": "TL0547",
         "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 5845,
+      "fac": true,
+      "type": "PX",
+      "status": "REDUCED OUTPUT",
+      "keeperCallsign": "G7SOJ",
+      "town": "WEMBWORTHY",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 70487500,
+      "repeater": "GB7PAK",
+      "rx": 70487500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "4M",
+      "locator": "IO80",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SS6609",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 5847,
+      "fac": true,
+      "type": "BN",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G0MBA ",
+      "town": "CLACTON ON SEA ",
+      "modeCodes": [
+        "B"
+      ],
+      "tx": 10144400,
+      "repeater": "G0MBA ",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 0.5,
+      "band": "30M",
+      "locator": "JO01NT",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TM1616",
+        "antennaHeight": 8,
+        "polarisation": "H"
+      }
+    },
+    {
+      "id": 5848,
+      "fac": true,
+      "type": "BN",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G0MBA ",
+      "town": "CLACTON ON SEA ",
+      "modeCodes": [
+        "B"
+      ],
+      "tx": 10139926,
+      "repeater": "G0MBA ",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 0.5,
+      "band": "30M",
+      "locator": "JO01NT",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TM1616",
+        "antennaHeight": 8,
+        "polarisation": "H"
+      }
+    },
+    {
+      "id": 5849,
+      "fac": true,
+      "type": "BM",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G0MBA ",
+      "town": "CLACTON ON SEA ",
+      "modeCodes": [
+        "B"
+      ],
+      "tx": 10139930,
+      "repeater": "G0MBA ",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 0.5,
+      "band": "30M",
+      "locator": "JO01NT",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TM1616",
+        "antennaHeight": 8,
+        "polarisation": "H"
+      }
+    },
+    {
+      "id": 5850,
+      "fac": true,
+      "type": "BN",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G0MBA ",
+      "town": "CLACTON ON SEA ",
+      "modeCodes": [
+        "B"
+      ],
+      "tx": 28126055,
+      "repeater": "G0MBA ",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 0.5,
+      "band": "10M",
+      "locator": "JO01OT",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TM1818",
+        "antennaHeight": 12,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 5851,
+      "fac": true,
+      "type": "BN",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G0MBA ",
+      "town": "CLACTON ON SEA ",
+      "modeCodes": [
+        "B"
+      ],
+      "tx": 28243500,
+      "repeater": "G0MBA ",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 0.5,
+      "band": "10M",
+      "locator": "JO01OT",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TM1818",
+        "antennaHeight": 12,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 5852,
+      "fac": true,
+      "type": "BN",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G0MBA ",
+      "town": "CLACTON ON SEA ",
+      "modeCodes": [
+        "B"
+      ],
+      "tx": 28125691,
+      "repeater": "G0MBA ",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 0.5,
+      "band": "10M",
+      "locator": "JO01OT",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TM1818",
+        "antennaHeight": 12,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 5853,
+      "fac": true,
+      "type": "BN",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G0MBA ",
+      "town": "CLACTON ON SEA ",
+      "modeCodes": [
+        "B"
+      ],
+      "tx": 28125695,
+      "repeater": "G0MBA ",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 0.5,
+      "band": "10M",
+      "locator": "JO01OT",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TM1818",
+        "antennaHeight": 12,
         "polarisation": "V"
       }
     }
