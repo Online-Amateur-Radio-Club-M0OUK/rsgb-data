@@ -36409,7 +36409,7 @@
       "id": 5807,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM0TXO",
       "town": "LESLIE",
       "modeCodes": [
@@ -37181,6 +37181,26 @@
         "antennaHeight": 12,
         "polarisation": "V"
       }
+    },
+    {
+      "id": 5854,
+      "fac": true,
+      "type": "PX",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM5AUG",
+      "town": "NEWTON MEARNS",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "GB7AUG",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "IO75US",
+      "dbwErp": -7,
+      "extraDetails": null
     }
   ]
 }
