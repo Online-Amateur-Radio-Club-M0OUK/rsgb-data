@@ -81,7 +81,7 @@
       "town": "HUDDERSFIELD",
       "modeCodes": [
         "D",
-        "M"
+        "M:1"
       ],
       "tx": 439575000,
       "repeater": "GB7HX",
@@ -105,7 +105,7 @@
       "keeperCallsign": "G1XCC",
       "town": "WAKEFIELD",
       "modeCodes": [
-        "M"
+        "M:1"
       ],
       "tx": 439162500,
       "repeater": "GB7TD",
@@ -666,7 +666,7 @@
       "town": "BARRY",
       "modeCodes": [
         "D",
-        "M",
+        "M:3",
         "F",
         "N"
       ],
@@ -692,7 +692,7 @@
       "keeperCallsign": "M1SWB",
       "town": "LIVERPOOL",
       "modeCodes": [
-        "M"
+        "M:1"
       ],
       "tx": 439400000,
       "repeater": "GB7LP",
@@ -1342,7 +1342,7 @@
       "id": 730,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G8NDT",
       "town": "BIRMINGHAM",
       "modeCodes": [
@@ -2451,7 +2451,7 @@
       "town": "MERE WILTSHIRE",
       "modeCodes": [
         "A",
-        "M"
+        "M:5"
       ],
       "tx": 145787500,
       "repeater": "GB3JB",
@@ -4446,7 +4446,7 @@
       "keeperCallsign": "G0OLX",
       "town": "CATERHAM",
       "modeCodes": [
-        "M"
+        "M:3"
       ],
       "tx": 439162500,
       "repeater": "GB7NS",
@@ -4470,7 +4470,7 @@
       "keeperCallsign": "G4SDR",
       "town": "BRISTOL",
       "modeCodes": [
-        "M"
+        "M:3"
       ],
       "tx": 439162500,
       "repeater": "GB7BS",
@@ -4494,7 +4494,7 @@
       "keeperCallsign": "G4CJZ",
       "town": "BRISTOL",
       "modeCodes": [
-        "M"
+        "M:1"
       ],
       "tx": 439675000,
       "repeater": "GB7AA",
@@ -4518,7 +4518,7 @@
       "keeperCallsign": "G1SYG",
       "town": "CAERGWRLE",
       "modeCodes": [
-        "M"
+        "M:1"
       ],
       "tx": 439637500,
       "repeater": "GB7HM",
@@ -5478,7 +5478,7 @@
       "keeperCallsign": "M0ZPU",
       "town": "TRING",
       "modeCodes": [
-        "M"
+        "M:3"
       ],
       "tx": 145637500,
       "repeater": "GB7CT",
@@ -5574,7 +5574,7 @@
       "keeperCallsign": "G0OXZ",
       "town": "EPSOM",
       "modeCodes": [
-        "M"
+        "M:3"
       ],
       "tx": 439400000,
       "repeater": "GB7EP",
@@ -5598,7 +5598,7 @@
       "keeperCallsign": "G3VPF",
       "town": "WEYMOUTH",
       "modeCodes": [
-        "M"
+        "M:1"
       ],
       "tx": 439412500,
       "repeater": "GB7SD",
@@ -5622,7 +5622,7 @@
       "keeperCallsign": "G0RZR",
       "town": "LINCOLN",
       "modeCodes": [
-        "M"
+        "M:1"
       ],
       "tx": 439400000,
       "repeater": "GB7LN",
@@ -5694,7 +5694,7 @@
       "keeperCallsign": "G0RAS",
       "town": "AYLESBURY",
       "modeCodes": [
-        "M"
+        "M:3"
       ],
       "tx": 439437500,
       "repeater": "GB7AV",
@@ -5718,7 +5718,7 @@
       "keeperCallsign": "G8YPK",
       "town": "SOUTHEND ON SEA",
       "modeCodes": [
-        "M"
+        "M:3"
       ],
       "tx": 439712500,
       "repeater": "GB7EX",
@@ -5742,7 +5742,7 @@
       "keeperCallsign": "M0ZPU",
       "town": "AMERSHAM",
       "modeCodes": [
-        "M"
+        "M:3"
       ],
       "tx": 439462500,
       "repeater": "GB7WL",
@@ -5838,7 +5838,7 @@
       "keeperCallsign": "G4NOY",
       "town": "PRESTATYN",
       "modeCodes": [
-        "M"
+        "M:1"
       ],
       "tx": 439425000,
       "repeater": "GB7PN",
@@ -5910,7 +5910,7 @@
       "keeperCallsign": "G4EML",
       "town": "GUILDFORD",
       "modeCodes": [
-        "M"
+        "M:3"
       ],
       "tx": 439687500,
       "repeater": "GB7GF",
@@ -6285,7 +6285,7 @@
     },
     {
       "id": 2327,
-      "fac": false,
+      "fac": true,
       "type": "PX",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4TNU",
@@ -6751,7 +6751,7 @@
       "keeperCallsign": "G6CKK",
       "town": "ROCHESTER",
       "modeCodes": [
-        "M"
+        "M:3"
       ],
       "tx": 439537500,
       "repeater": "GB7IK",
@@ -6847,7 +6847,7 @@
       "keeperCallsign": "G8DOR",
       "town": "READING",
       "modeCodes": [
-        "M"
+        "M:3"
       ],
       "tx": 439737500,
       "repeater": "GB7BK",
@@ -6895,7 +6895,7 @@
       "keeperCallsign": "G7ICH",
       "town": "POOLE",
       "modeCodes": [
-        "M"
+        "M:5"
       ],
       "tx": 439425000,
       "repeater": "GB7DR",
@@ -7039,7 +7039,7 @@
       "keeperCallsign": "G1XCC",
       "town": "LEEDS",
       "modeCodes": [
-        "M"
+        "M:2"
       ],
       "tx": 439662500,
       "repeater": "GB7LE",
@@ -7210,7 +7210,7 @@
       "keeperCallsign": "M1ERS",
       "town": "SHEFFIELD",
       "modeCodes": [
-        "M"
+        "M:1"
       ],
       "tx": 439675000,
       "repeater": "GB7SN",
@@ -7284,7 +7284,7 @@
       "keeperCallsign": "M0ZZT",
       "town": "EXETER",
       "modeCodes": [
-        "M"
+        "M:5"
       ],
       "tx": 439675000,
       "repeater": "GB7ED",
@@ -7357,7 +7357,7 @@
       "keeperCallsign": "M0PFX",
       "town": "THURROCK",
       "modeCodes": [
-        "M"
+        "M:3"
       ],
       "tx": 439475000,
       "repeater": "GB7SE",
@@ -7381,7 +7381,7 @@
       "keeperCallsign": "G4BLH",
       "town": "NELSON",
       "modeCodes": [
-        "M"
+        "M:2"
       ],
       "tx": 439712500,
       "repeater": "GB7EL",
@@ -7502,7 +7502,7 @@
       "keeperCallsign": "M0JGX",
       "town": "BECCLES",
       "modeCodes": [
-        "M"
+        "M:2"
       ],
       "tx": 439575000,
       "repeater": "GB7EB",
@@ -7577,7 +7577,7 @@
       "town": "ST HELIER",
       "modeCodes": [
         "A",
-        "M"
+        "M:1"
       ],
       "tx": 430900000,
       "repeater": "GB7GJ",
@@ -7597,7 +7597,7 @@
       "keeperCallsign": "GD4HOZ",
       "town": "DOUGLAS",
       "modeCodes": [
-        "M"
+        "M:2"
       ],
       "tx": 430925000,
       "repeater": "GB7CA",
@@ -7621,7 +7621,7 @@
       "keeperCallsign": "GD4HOZ",
       "town": "RAMSEY IOM",
       "modeCodes": [
-        "M"
+        "M:3"
       ],
       "tx": 430925000,
       "repeater": "GB7BR",
@@ -7645,7 +7645,7 @@
       "keeperCallsign": "G8FHI",
       "town": "ANDOVER",
       "modeCodes": [
-        "M"
+        "M:1"
       ],
       "tx": 439500000,
       "repeater": "GB7KT",
@@ -7742,7 +7742,7 @@
       "keeperCallsign": "G4RKY",
       "town": "AXBRIDGE",
       "modeCodes": [
-        "M"
+        "M:3"
       ],
       "tx": 430887500,
       "repeater": "GB7FI",
@@ -7839,7 +7839,7 @@
       "town": "AIRDRIE",
       "modeCodes": [
         "D",
-        "M",
+        "M:1",
         "F"
       ],
       "tx": 145775000,
@@ -7865,7 +7865,7 @@
       "town": "AIRDRIE",
       "modeCodes": [
         "D",
-        "M",
+        "M:1",
         "F"
       ],
       "tx": 439625000,
@@ -7891,7 +7891,7 @@
       "town": "SHIPLEY",
       "modeCodes": [
         "A",
-        "M"
+        "M:1"
       ],
       "tx": 430887500,
       "repeater": "GB3XL",
@@ -7965,7 +7965,7 @@
       "town": "ST AUSTELL",
       "modeCodes": [
         "D",
-        "M",
+        "M:1",
         "F"
       ],
       "tx": 144850000,
@@ -7990,7 +7990,7 @@
       "keeperCallsign": "G8VRI",
       "town": "SWINDON",
       "modeCodes": [
-        "M"
+        "M:2"
       ],
       "tx": 439525000,
       "repeater": "GB7TC",
@@ -8014,7 +8014,7 @@
       "keeperCallsign": "GI6DKQ",
       "town": "CARRICKFERGUS",
       "modeCodes": [
-        "M"
+        "M:1"
       ],
       "tx": 439525000,
       "repeater": "GB7UL",
@@ -8089,7 +8089,7 @@
       "town": "FELLING",
       "modeCodes": [
         "A",
-        "M"
+        "M:10"
       ],
       "tx": 439462500,
       "repeater": "GB7XX",
@@ -8161,7 +8161,7 @@
       "keeperCallsign": "M1CMN",
       "town": "ASHFORD",
       "modeCodes": [
-        "M"
+        "M:3"
       ],
       "tx": 439425000,
       "repeater": "GB7AS",
@@ -8331,7 +8331,7 @@
       "town": "OMAGH",
       "modeCodes": [
         "A",
-        "M"
+        "M:1"
       ],
       "tx": 430950000,
       "repeater": "GB3OM",
@@ -8355,7 +8355,7 @@
       "keeperCallsign": "G4SZM",
       "town": "WESTON-SUPER-MARE",
       "modeCodes": [
-        "M"
+        "M:1"
       ],
       "tx": 439512500,
       "repeater": "GB7IT",
@@ -8379,7 +8379,7 @@
       "keeperCallsign": "G3KYG",
       "town": "ROMSEY",
       "modeCodes": [
-        "M"
+        "M:5"
       ],
       "tx": 439637500,
       "repeater": "GB7MJ",
@@ -8550,7 +8550,7 @@
       "keeperCallsign": "G0TJH",
       "town": "NEWHAVEN",
       "modeCodes": [
-        "M"
+        "M:1"
       ],
       "tx": 439487500,
       "repeater": "GB7NF",
@@ -8600,7 +8600,7 @@
       "town": "TANDRAGEE",
       "modeCodes": [
         "D",
-        "M",
+        "M:1",
         "F"
       ],
       "tx": 439625000,
@@ -8625,7 +8625,7 @@
       "keeperCallsign": "M1FJB",
       "town": "LEICESTER",
       "modeCodes": [
-        "M"
+        "M:1"
       ],
       "tx": 439475000,
       "repeater": "GB7LR",
@@ -8723,7 +8723,7 @@
       "keeperCallsign": "G7KBR",
       "town": "EAST GRINSTEAD",
       "modeCodes": [
-        "M"
+        "M:2"
       ],
       "tx": 439762500,
       "repeater": "GB7EG",
@@ -8747,7 +8747,7 @@
       "keeperCallsign": "M1FJB",
       "town": "LEICESTER",
       "modeCodes": [
-        "M"
+        "M:1"
       ],
       "tx": 439462500,
       "repeater": "GB7SK",
@@ -8819,7 +8819,7 @@
       "keeperCallsign": "M0WTX",
       "town": "NORTHWICH",
       "modeCodes": [
-        "M"
+        "M:3"
       ],
       "tx": 439662500,
       "repeater": "GB7DJ",
@@ -8917,7 +8917,7 @@
       "town": "JEDBURGH",
       "modeCodes": [
         "D",
-        "M",
+        "M:1",
         "N"
       ],
       "tx": 439412500,
@@ -8966,7 +8966,7 @@
       "keeperCallsign": "M1NIZ",
       "town": "IPSWICH",
       "modeCodes": [
-        "M"
+        "M:2"
       ],
       "tx": 439400000,
       "repeater": "GB7AL",
@@ -9015,7 +9015,7 @@
       "keeperCallsign": "M0NWI",
       "town": "BLACKBURN",
       "modeCodes": [
-        "M"
+        "M:2"
       ],
       "tx": 439625000,
       "repeater": "GB7RV",
@@ -9033,7 +9033,7 @@
     },
     {
       "id": 2975,
-      "fac": false,
+      "fac": true,
       "type": "AP",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4FCN",
@@ -9048,7 +9048,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO80EL",
-      "dbwErp": 8.7,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SX8466",
         "antennaHeight": 6,
@@ -9088,7 +9088,7 @@
       "keeperCallsign": "G4RKY",
       "town": "BRISTOL",
       "modeCodes": [
-        "M"
+        "M:3"
       ],
       "tx": 430950000,
       "repeater": "GB7BD",
@@ -9137,7 +9137,7 @@
       "keeperCallsign": "M1NIZ",
       "town": "IPSWICH",
       "modeCodes": [
-        "M"
+        "M:13"
       ],
       "tx": 439600000,
       "repeater": "GB7MK",
@@ -9162,7 +9162,7 @@
       "town": "NAIRN",
       "modeCodes": [
         "D",
-        "M",
+        "M:7",
         "F"
       ],
       "tx": 144837500,
@@ -9187,7 +9187,7 @@
       "keeperCallsign": "G0LGJ",
       "town": "GREAT ELLINGHAM",
       "modeCodes": [
-        "M"
+        "M:1"
       ],
       "tx": 439412500,
       "repeater": "GB7ND",
@@ -9236,7 +9236,7 @@
       "town": "HEXHAM",
       "modeCodes": [
         "D",
-        "M"
+        "M:10"
       ],
       "tx": 439612500,
       "repeater": "GB7TY",
@@ -9358,7 +9358,7 @@
       "town": "NORTH WINGFIELD",
       "modeCodes": [
         "D",
-        "M"
+        "M:3"
       ],
       "tx": 431137500,
       "repeater": "MB6NW",
@@ -9383,7 +9383,7 @@
       "town": "EAST GRINSTEAD",
       "modeCodes": [
         "D",
-        "M",
+        "M:2",
         "F"
       ],
       "tx": 439637500,
@@ -9580,7 +9580,7 @@
       "town": "SHIPLEY",
       "modeCodes": [
         "D",
-        "M",
+        "M:1",
         "F"
       ],
       "tx": 439687500,
@@ -9607,7 +9607,7 @@
       "modeCodes": [
         "A",
         "D",
-        "M",
+        "M:1",
         "F"
       ],
       "tx": 145612500,
@@ -9658,7 +9658,7 @@
       "modeCodes": [
         "A",
         "D",
-        "M",
+        "M:8",
         "F"
       ],
       "tx": 433000000,
@@ -9757,7 +9757,7 @@
       "keeperCallsign": "M0ZPU",
       "town": "CAMBRIDGE",
       "modeCodes": [
-        "M"
+        "M:3"
       ],
       "tx": 430925000,
       "repeater": "GB7PY",
@@ -9782,7 +9782,7 @@
       "town": "STIRLING",
       "modeCodes": [
         "D",
-        "M",
+        "M:1",
         "F"
       ],
       "tx": 439475000,
@@ -9807,7 +9807,7 @@
       "keeperCallsign": "G1IVG",
       "town": "MARKET HARBOROUGH",
       "modeCodes": [
-        "M"
+        "M:2"
       ],
       "tx": 439687500,
       "repeater": "GB7WV",
@@ -10003,7 +10003,7 @@
       "town": "COLERAINE",
       "modeCodes": [
         "D",
-        "M",
+        "M:3",
         "F"
       ],
       "tx": 144825000,
@@ -10175,7 +10175,7 @@
       "keeperCallsign": "G4VZO",
       "town": "SEDGLEY",
       "modeCodes": [
-        "M"
+        "M:11"
       ],
       "tx": 439712500,
       "repeater": "GB7WD",
@@ -10247,7 +10247,7 @@
       "keeperCallsign": "G1HZI",
       "town": "HEXHAM",
       "modeCodes": [
-        "M"
+        "M:10"
       ],
       "tx": 439575000,
       "repeater": "GB7YI",
@@ -10560,7 +10560,7 @@
       "town": "MAGHERAFELT",
       "modeCodes": [
         "D",
-        "M",
+        "M:3",
         "F"
       ],
       "tx": 439675000,
@@ -10611,7 +10611,7 @@
       "town": "TARVIN",
       "modeCodes": [
         "D",
-        "M",
+        "M:3",
         "F"
       ],
       "tx": 439512500,
@@ -10636,7 +10636,7 @@
       "keeperCallsign": "G8NDT",
       "town": "BANBURY",
       "modeCodes": [
-        "M"
+        "M:8"
       ],
       "tx": 430937500,
       "repeater": "GB7EH",
@@ -10661,7 +10661,7 @@
       "town": "ASHINGTON",
       "modeCodes": [
         "D",
-        "M",
+        "M:3",
         "F"
       ],
       "tx": 439450000,
@@ -10710,7 +10710,7 @@
       "keeperCallsign": "G8NSS",
       "town": "STOKE ON TRENT",
       "modeCodes": [
-        "M"
+        "M:1"
       ],
       "tx": 439450000,
       "repeater": "GB7ST",
@@ -10903,7 +10903,7 @@
       "town": "ABERDEEN",
       "modeCodes": [
         "D",
-        "M",
+        "M:5",
         "F",
         "P",
         "N"
@@ -10931,7 +10931,7 @@
       "town": "BALLYCASTLE",
       "modeCodes": [
         "D",
-        "M",
+        "M:1",
         "F"
       ],
       "tx": 430925000,
@@ -10980,7 +10980,7 @@
       "keeperCallsign": "G1ERJ",
       "town": "HAILSHAM",
       "modeCodes": [
-        "M"
+        "M:3"
       ],
       "tx": 439687500,
       "repeater": "GB7KD",
@@ -11096,7 +11096,7 @@
       "keeperCallsign": "MM0BUH",
       "town": "BANFF",
       "modeCodes": [
-        "M"
+        "M:1"
       ],
       "tx": 439712500,
       "repeater": "GB7BB",
@@ -11144,7 +11144,7 @@
       "keeperCallsign": "G3PWJ",
       "town": "MALVERN",
       "modeCodes": [
-        "M"
+        "M:13"
       ],
       "tx": 439737500,
       "repeater": "GB7BJ",
@@ -11194,7 +11194,7 @@
       "modeCodes": [
         "A",
         "D",
-        "M",
+        "M:1",
         "F",
         "P",
         "N"
@@ -11295,7 +11295,7 @@
       "keeperCallsign": "MM1BJO",
       "town": "DALKEITH",
       "modeCodes": [
-        "M",
+        "M:1",
         "N"
       ],
       "tx": 439675000,
@@ -11320,7 +11320,7 @@
       "keeperCallsign": "G1MAW",
       "town": "CHELTENHAM",
       "modeCodes": [
-        "M"
+        "M:2"
       ],
       "tx": 430275000,
       "repeater": "GB7CC",
@@ -11440,7 +11440,7 @@
       "keeperCallsign": "G0EAK",
       "town": "RETFORD",
       "modeCodes": [
-        "M"
+        "M:1"
       ],
       "tx": 439712500,
       "repeater": "GB7RE",
@@ -11489,7 +11489,7 @@
       "town": "EDINBURGH",
       "modeCodes": [
         "D",
-        "M",
+        "M:1",
         "F"
       ],
       "tx": 439437500,
@@ -11510,11 +11510,11 @@
       "id": 3571,
       "fac": false,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0WTZ",
       "town": "WOBURN SANDS",
       "modeCodes": [
-        "M"
+        "M:3"
       ],
       "tx": 439662500,
       "repeater": "GB7DB",
@@ -11539,7 +11539,7 @@
       "town": "BRIGHTON",
       "modeCodes": [
         "D",
-        "M",
+        "M:4",
         "F",
         "P"
       ],
@@ -11566,7 +11566,7 @@
       "town": "BOGNOR REGIS",
       "modeCodes": [
         "D",
-        "M"
+        "M:3"
       ],
       "tx": 439587500,
       "repeater": "GB7BN",
@@ -11617,7 +11617,7 @@
       "modeCodes": [
         "A",
         "D",
-        "M",
+        "M:1",
         "F"
       ],
       "tx": 439750000,
@@ -11738,7 +11738,7 @@
       "keeperCallsign": "M1FJB",
       "town": "LEICESTER",
       "modeCodes": [
-        "M"
+        "M:1"
       ],
       "tx": 145650000,
       "repeater": "GB7IP",
@@ -11763,7 +11763,7 @@
       "town": "GOSPORT",
       "modeCodes": [
         "D",
-        "M"
+        "M:1"
       ],
       "tx": 439525000,
       "repeater": "GB7SO",
@@ -11787,7 +11787,7 @@
       "keeperCallsign": "G3ZXX",
       "town": "WINCANTON",
       "modeCodes": [
-        "M"
+        "M:1"
       ],
       "tx": 439462500,
       "repeater": "GB7JB",
@@ -11839,7 +11839,7 @@
       "town": "WITHERNSEA ",
       "modeCodes": [
         "D",
-        "M",
+        "M:5",
         "F"
       ],
       "tx": 144825000,
@@ -11865,7 +11865,7 @@
       "town": "CAERPHILLY",
       "modeCodes": [
         "D",
-        "M",
+        "M:2",
         "F",
         "P",
         "N"
@@ -11892,7 +11892,7 @@
       "keeperCallsign": "G8NSS",
       "town": "STOCKPORT",
       "modeCodes": [
-        "M"
+        "M:2"
       ],
       "tx": 439412500,
       "repeater": "GB7MN",
@@ -11916,7 +11916,7 @@
       "keeperCallsign": "G1XCC",
       "town": "BURY",
       "modeCodes": [
-        "M"
+        "M:2"
       ],
       "tx": 439737500,
       "repeater": "GB7MR",
@@ -12133,7 +12133,7 @@
       "keeperCallsign": "G4CPO",
       "town": "YELVERTON",
       "modeCodes": [
-        "M"
+        "M:3"
       ],
       "tx": 439687500,
       "repeater": "GB7RD",
@@ -12158,7 +12158,7 @@
       "town": "ABERDEEN",
       "modeCodes": [
         "D",
-        "M",
+        "M:1",
         "F"
       ],
       "tx": 145687500,
@@ -12352,7 +12352,7 @@
       "keeperCallsign": "G4VZO",
       "town": "DUDLEY",
       "modeCodes": [
-        "M"
+        "M:11"
       ],
       "tx": 439575000,
       "repeater": "GB7DY",
@@ -12424,7 +12424,7 @@
       "keeperCallsign": "G8PCB",
       "town": "SALISBURY",
       "modeCodes": [
-        "M"
+        "M:3"
       ],
       "tx": 439750000,
       "repeater": "GB7SP",
@@ -12473,7 +12473,7 @@
       "town": "CHIRK",
       "modeCodes": [
         "D",
-        "M"
+        "M:5"
       ],
       "tx": 439537500,
       "repeater": "GB7RJ",
@@ -12497,7 +12497,7 @@
       "keeperCallsign": "M0LMK",
       "town": "MARGATE",
       "modeCodes": [
-        "M"
+        "M:5"
       ],
       "tx": 430287500,
       "repeater": "GB7TH",
@@ -12617,7 +12617,7 @@
       "keeperCallsign": "G8NDT",
       "town": "WOLVERHAMPTON",
       "modeCodes": [
-        "M"
+        "M:8"
       ],
       "tx": 439750000,
       "repeater": "GB7WN",
@@ -12786,7 +12786,7 @@
       "town": "FAREHAM",
       "modeCodes": [
         "D",
-        "M",
+        "M:3",
         "F",
         "P",
         "N"
@@ -12862,7 +12862,7 @@
       "town": "BRAINTREE",
       "modeCodes": [
         "A",
-        "M"
+        "M:3"
       ],
       "tx": 430850000,
       "repeater": "GB3BZ",
@@ -12886,7 +12886,7 @@
       "keeperCallsign": "MW0XDN",
       "town": "TREFFGARNE",
       "modeCodes": [
-        "M"
+        "M:3"
       ],
       "tx": 439587500,
       "repeater": "GB7DP",
@@ -12959,7 +12959,7 @@
       "town": "MALVERN",
       "modeCodes": [
         "D",
-        "M",
+        "M:5",
         "F",
         "P",
         "N"
@@ -12987,7 +12987,7 @@
       "town": "BRIGHTON",
       "modeCodes": [
         "D",
-        "M",
+        "M:3",
         "F",
         "P",
         "N"
@@ -13063,7 +13063,7 @@
       "town": "NOTTINGHAM",
       "modeCodes": [
         "D",
-        "M"
+        "M:1"
       ],
       "tx": 439437500,
       "repeater": "GB7NR",
@@ -13111,7 +13111,7 @@
       "keeperCallsign": "M0XRS",
       "town": "LEYLAND",
       "modeCodes": [
-        "M"
+        "M:15"
       ],
       "tx": 439437500,
       "repeater": "GB7LD",
@@ -13255,7 +13255,7 @@
       "keeperCallsign": "G8NSS",
       "town": "STOKE-ON-TRENT",
       "modeCodes": [
-        "M"
+        "M:5"
       ],
       "tx": 431175000,
       "repeater": "GB7VT",
@@ -13332,7 +13332,7 @@
       "town": "KENILWORTH",
       "modeCodes": [
         "D",
-        "M"
+        "M:5"
       ],
       "tx": 431087500,
       "repeater": "MB6KW",
@@ -13358,7 +13358,7 @@
       "modeCodes": [
         "A",
         "D",
-        "M",
+        "M:6",
         "F"
       ],
       "tx": 145612500,
@@ -13384,7 +13384,7 @@
       "town": "YSTRAD MYNACH",
       "modeCodes": [
         "D",
-        "M",
+        "M:5",
         "F",
         "P"
       ],
@@ -13411,7 +13411,7 @@
       "town": "CARDIFF",
       "modeCodes": [
         "D",
-        "M",
+        "M:3",
         "F"
       ],
       "tx": 431112500,
@@ -13437,7 +13437,7 @@
       "town": "GALASHIELS",
       "modeCodes": [
         "D",
-        "M",
+        "M:3",
         "F"
       ],
       "tx": 144812500,
@@ -13512,7 +13512,7 @@
       "keeperCallsign": "M1SWB",
       "town": "LIVERPOOL",
       "modeCodes": [
-        "M"
+        "M:1"
       ],
       "tx": 145762500,
       "repeater": "GB7SG",
@@ -13610,7 +13610,7 @@
       "modeCodes": [
         "A",
         "D",
-        "M",
+        "M:6",
         "F"
       ],
       "tx": 430850000,
@@ -13636,7 +13636,7 @@
       "town": "BEWDLEY",
       "modeCodes": [
         "D",
-        "M",
+        "M:13",
         "F",
         "N"
       ],
@@ -13663,7 +13663,7 @@
       "town": "CROOK",
       "modeCodes": [
         "A",
-        "M",
+        "M:10",
         "D",
         "F",
         "N",
@@ -13693,7 +13693,7 @@
       "modeCodes": [
         "A",
         "D",
-        "M",
+        "M:1",
         "F",
         "P",
         "N"
@@ -13794,7 +13794,7 @@
       "keeperCallsign": "GM7RYR",
       "town": "EDINBURGH",
       "modeCodes": [
-        "M"
+        "M:1"
       ],
       "tx": 430925000,
       "repeater": "GB7EE",
@@ -13818,7 +13818,7 @@
       "keeperCallsign": "G6CRV",
       "town": "HEYSHAM",
       "modeCodes": [
-        "M",
+        "M:3",
         "P"
       ],
       "tx": 439750000,
@@ -13991,7 +13991,7 @@
       "keeperCallsign": "M0HBK",
       "town": "SUNNINGDALE",
       "modeCodes": [
-        "M"
+        "M:3"
       ],
       "tx": 439412500,
       "repeater": "GB7RT",
@@ -14183,7 +14183,7 @@
       "keeperCallsign": "G4USP",
       "town": "LEAMINGTON SPA",
       "modeCodes": [
-        "M"
+        "M:3"
       ],
       "tx": 439587500,
       "repeater": "GB7YJ",
@@ -14207,7 +14207,7 @@
       "keeperCallsign": "G1XCC",
       "town": "BRADFORD",
       "modeCodes": [
-        "M"
+        "M:13"
       ],
       "tx": 439762500,
       "repeater": "GB7BA",
@@ -14280,7 +14280,7 @@
       "town": "WOKING",
       "modeCodes": [
         "D",
-        "M",
+        "M:15",
         "F",
         "P",
         "N"
@@ -14332,7 +14332,7 @@
       "town": "BROADSTAIRS",
       "modeCodes": [
         "D",
-        "M",
+        "M:5",
         "F",
         "P",
         "N"
@@ -14360,7 +14360,7 @@
       "town": "COLERAINE",
       "modeCodes": [
         "D",
-        "M",
+        "M:12",
         "F"
       ],
       "tx": 430862500,
@@ -14410,7 +14410,7 @@
       "keeperCallsign": "G1ERJ",
       "town": "HEATHFIELD",
       "modeCodes": [
-        "M"
+        "M:3"
       ],
       "tx": 145650000,
       "repeater": "GB7KB",
@@ -14458,7 +14458,7 @@
       "keeperCallsign": "M0ZPU",
       "town": "PETERBOROUGH",
       "modeCodes": [
-        "M"
+        "M:3"
       ],
       "tx": 439500000,
       "repeater": "GB7PE",
@@ -14507,7 +14507,7 @@
       "town": "ROYSTON",
       "modeCodes": [
         "D",
-        "M",
+        "M:10",
         "P"
       ],
       "tx": 439775000,
@@ -14628,7 +14628,7 @@
       "keeperCallsign": "GM0UDL",
       "town": "MUIR OF ORD",
       "modeCodes": [
-        "M"
+        "M:1"
       ],
       "tx": 439662500,
       "repeater": "GB7BI",
@@ -14870,7 +14870,7 @@
       "town": "CAMBRIDGE",
       "modeCodes": [
         "D",
-        "M",
+        "M:6",
         "N"
       ],
       "tx": 144837500,
@@ -14992,7 +14992,7 @@
       "town": "COMBER",
       "modeCodes": [
         "D",
-        "M",
+        "M:1",
         "F"
       ],
       "tx": 439575000,
@@ -15115,7 +15115,7 @@
       "keeperCallsign": "G3PWJ",
       "town": "CLEE HILL",
       "modeCodes": [
-        "M"
+        "M:13"
       ],
       "tx": 439412500,
       "repeater": "GB7GT",
@@ -15188,7 +15188,7 @@
       "town": "NESTON",
       "modeCodes": [
         "D",
-        "M",
+        "M:5",
         "F"
       ],
       "tx": 439650000,
@@ -15263,7 +15263,7 @@
       "keeperCallsign": "GM6GRE",
       "town": "INVERNESS",
       "modeCodes": [
-        "M"
+        "M:3"
       ],
       "tx": 439450000,
       "repeater": "GB7II",
@@ -15314,7 +15314,7 @@
       "modeCodes": [
         "A",
         "D",
-        "M",
+        "M:3",
         "F"
       ],
       "tx": 430912500,
@@ -15483,7 +15483,7 @@
       "keeperCallsign": "GM7LSI",
       "town": "ELGIN",
       "modeCodes": [
-        "M"
+        "M:1"
       ],
       "tx": 439587500,
       "repeater": "GB7SS",
@@ -15628,7 +15628,7 @@
       "town": "SELKIRK",
       "modeCodes": [
         "D",
-        "M",
+        "M:1",
         "F",
         "P",
         "N"
@@ -15969,7 +15969,7 @@
       "modeCodes": [
         "A",
         "D",
-        "M",
+        "M:3",
         "F",
         "N"
       ],
@@ -16020,7 +16020,7 @@
       "town": "NAIRN",
       "modeCodes": [
         "D",
-        "M",
+        "M:5",
         "F"
       ],
       "tx": 439750000,
@@ -16069,7 +16069,7 @@
       "keeperCallsign": "MM0DUN",
       "town": "DUNDEE",
       "modeCodes": [
-        "M",
+        "M:1",
         "N"
       ],
       "tx": 439662500,
@@ -16142,7 +16142,7 @@
       "keeperCallsign": "G4VZO",
       "town": "CLEOBURY NORTH",
       "modeCodes": [
-        "M"
+        "M:13"
       ],
       "tx": 145675000,
       "repeater": "GB3BX",
@@ -16166,7 +16166,7 @@
       "keeperCallsign": "G4VZO",
       "town": "CLEOBURY NORTH",
       "modeCodes": [
-        "M"
+        "M:11"
       ],
       "tx": 439437500,
       "repeater": "GB7BX",
@@ -16262,7 +16262,7 @@
       "keeperCallsign": "G3PWJ",
       "town": "HEREFORD",
       "modeCodes": [
-        "M"
+        "M:5"
       ],
       "tx": 439525000,
       "repeater": "GB7HC",
@@ -16288,7 +16288,7 @@
       "modeCodes": [
         "A",
         "D",
-        "M",
+        "M:1",
         "F"
       ],
       "tx": 145762500,
@@ -16338,7 +16338,7 @@
       "town": "ROMFORD",
       "modeCodes": [
         "D",
-        "M",
+        "M:3",
         "F"
       ],
       "tx": 439750000,
@@ -16363,7 +16363,7 @@
       "keeperCallsign": "MW0IBF",
       "town": "PORT TALBOT",
       "modeCodes": [
-        "M"
+        "M:5"
       ],
       "tx": 430300000,
       "repeater": "GB7SA",
@@ -16580,7 +16580,7 @@
       "keeperCallsign": "M0MST",
       "town": "EVESHAM",
       "modeCodes": [
-        "M"
+        "M:5"
       ],
       "tx": 431137500,
       "repeater": "MB6IEV",
@@ -16605,7 +16605,7 @@
       "town": "NOTTINGHAM",
       "modeCodes": [
         "A",
-        "M",
+        "M:3",
         "F"
       ],
       "tx": 145625000,
@@ -16674,7 +16674,7 @@
     },
     {
       "id": 4298,
-      "fac": false,
+      "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
       "keeperCallsign": "2E0LVC",
@@ -16689,7 +16689,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO71XB",
-      "dbwErp": 1.2,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "SS5632",
         "antennaHeight": 7,
@@ -16752,7 +16752,7 @@
       "keeperCallsign": "G6ATJ",
       "town": "EXETER",
       "modeCodes": [
-        "M"
+        "M:3"
       ],
       "tx": 439525000,
       "repeater": "GB7EW",
@@ -16801,7 +16801,7 @@
       "keeperCallsign": "G0WDA",
       "town": "BLACKPOOL",
       "modeCodes": [
-        "M"
+        "M:1"
       ],
       "tx": 430275000,
       "repeater": "GB7FO",
@@ -16827,7 +16827,7 @@
       "modeCodes": [
         "A",
         "D",
-        "M",
+        "M:1",
         "F"
       ],
       "tx": 430950000,
@@ -16903,7 +16903,7 @@
       "modeCodes": [
         "A",
         "D",
-        "M",
+        "M:1",
         "F",
         "P",
         "7",
@@ -17003,7 +17003,7 @@
       "keeperCallsign": "GW0NIS",
       "town": "LLANGOLLEN",
       "modeCodes": [
-        "M",
+        "M:12",
         "N"
       ],
       "tx": 439496875,
@@ -17076,7 +17076,7 @@
       "keeperCallsign": "MW0GSR",
       "town": "PORTHMADOG",
       "modeCodes": [
-        "M"
+        "M:5"
       ],
       "tx": 431125000,
       "repeater": "MB6PG",
@@ -17117,30 +17117,6 @@
       }
     },
     {
-      "id": 4330,
-      "fac": false,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G7RPG",
-      "town": "LLANGOLLEN",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 433000000,
-      "repeater": "GB3LL",
-      "rx": 434600000,
-      "ctcss": 94.8,
-      "txbw": 25,
-      "band": "70CM",
-      "locator": "IO82",
-      "dbwErp": 12,
-      "extraDetails": {
-        "ngr": "SJ2340",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 4331,
       "fac": true,
       "type": "DM",
@@ -17150,7 +17126,7 @@
       "modeCodes": [
         "A",
         "D",
-        "M",
+        "M:1",
         "F",
         "P",
         "N"
@@ -17202,7 +17178,7 @@
       "town": "SIDMOUTH",
       "modeCodes": [
         "D",
-        "M",
+        "M:2",
         "F"
       ],
       "tx": 431087500,
@@ -17228,7 +17204,7 @@
       "town": "WORTHING",
       "modeCodes": [
         "D",
-        "M",
+        "M:4",
         "F"
       ],
       "tx": 439612500,
@@ -17375,7 +17351,7 @@
       "town": "PRESTON",
       "modeCodes": [
         "A",
-        "M",
+        "M:10",
         "F"
       ],
       "tx": 433375000,
@@ -17401,7 +17377,7 @@
       "town": "NEW ASH GREEN",
       "modeCodes": [
         "D",
-        "M",
+        "M:15",
         "F",
         "P",
         "N"
@@ -17501,7 +17477,7 @@
       "town": "KILREA",
       "modeCodes": [
         "D",
-        "M",
+        "M:3",
         "F",
         "7"
       ],
@@ -17745,7 +17721,7 @@
       "keeperCallsign": "G1MAW",
       "town": "STROUD",
       "modeCodes": [
-        "M"
+        "M:2"
       ],
       "tx": 430250000,
       "repeater": "GB7KS",
@@ -17769,7 +17745,7 @@
       "keeperCallsign": "G4RKY",
       "town": "LISKEARD",
       "modeCodes": [
-        "M"
+        "M:5"
       ],
       "tx": 430812500,
       "repeater": "GB7LK",
@@ -17866,7 +17842,7 @@
       "town": "HASTINGS",
       "modeCodes": [
         "A",
-        "M"
+        "M:3"
       ],
       "tx": 433050000,
       "repeater": "GB7ZE",
@@ -17890,7 +17866,7 @@
       "keeperCallsign": "G0OXZ",
       "town": "HEATHROW",
       "modeCodes": [
-        "M"
+        "M:3"
       ],
       "tx": 439450000,
       "repeater": "GB7HR",
@@ -17914,7 +17890,7 @@
       "keeperCallsign": "2W0LPU",
       "town": "BRECON",
       "modeCodes": [
-        "M",
+        "M:3",
         "F"
       ],
       "tx": 144850000,
@@ -17964,7 +17940,7 @@
       "town": "ALEXANDRIA",
       "modeCodes": [
         "D",
-        "M",
+        "M:5",
         "F"
       ],
       "tx": 431087500,
@@ -18037,7 +18013,7 @@
       "keeperCallsign": "M0GUY",
       "town": "HIGH WYCOMBE",
       "modeCodes": [
-        "M",
+        "M:5",
         "F"
       ],
       "tx": 439650000,
@@ -18158,7 +18134,7 @@
       "keeperCallsign": "M0UEM",
       "town": "BIRMINGHAM",
       "modeCodes": [
-        "M"
+        "M:5"
       ],
       "tx": 439662500,
       "repeater": "GB7SB",
@@ -18275,7 +18251,7 @@
       "id": 4448,
       "fac": false,
       "type": "TV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0ATW",
       "town": "GRIMSBY",
       "modeCodes": [
@@ -18353,7 +18329,7 @@
       "town": "OMAGH",
       "modeCodes": [
         "D",
-        "M",
+        "M:1",
         "F"
       ],
       "tx": 439600000,
@@ -18426,7 +18402,7 @@
       "keeperCallsign": "G4NAB",
       "town": "ASHINGTON",
       "modeCodes": [
-        "M"
+        "M:10"
       ],
       "tx": 439737500,
       "repeater": "GB7HT",
@@ -18836,7 +18812,7 @@
       "town": "BATH",
       "modeCodes": [
         "D",
-        "M",
+        "M:5",
         "F"
       ],
       "tx": 144825000,
@@ -18983,7 +18959,7 @@
       "town": "TENBURY WELLS",
       "modeCodes": [
         "D",
-        "M",
+        "M:1",
         "F",
         "N"
       ],
@@ -19057,7 +19033,7 @@
       "keeperCallsign": "M0SNR",
       "town": "CASTLE BROMWICH",
       "modeCodes": [
-        "M"
+        "M:14"
       ],
       "tx": 439775000,
       "repeater": "GB7EZ",
@@ -19082,7 +19058,7 @@
       "town": "CLAYTON LE MOORS",
       "modeCodes": [
         "D",
-        "M",
+        "M:5",
         "F",
         "P",
         "N"
@@ -19105,7 +19081,7 @@
       "id": 4540,
       "fac": false,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0WYP",
       "town": "LEOMINISTER",
       "modeCodes": [
@@ -19159,7 +19135,7 @@
       "modeCodes": [
         "A",
         "D",
-        "M",
+        "M:3",
         "F",
         "P",
         "N",
@@ -19187,7 +19163,7 @@
       "keeperCallsign": "G0EWH",
       "town": "KIDDERMINSTER",
       "modeCodes": [
-        "M"
+        "M:8"
       ],
       "tx": 430300000,
       "repeater": "GB7KR",
@@ -19309,7 +19285,7 @@
       "keeperCallsign": "GM7LNO",
       "town": "EYEMOUTH",
       "modeCodes": [
-        "M"
+        "M:3"
       ],
       "tx": 431087500,
       "repeater": "MB6MO",
@@ -19624,7 +19600,7 @@
       "keeperCallsign": "G4TAD",
       "town": "LOWESTOFT",
       "modeCodes": [
-        "M"
+        "M:1"
       ],
       "tx": 145787500,
       "repeater": "GB7YL",
@@ -19666,11 +19642,11 @@
     },
     {
       "id": 4612,
-      "fac": false,
+      "fac": true,
       "type": "PX",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0VAX",
-      "town": "WIRRAL",
+      "town": "WEST KIRBY",
       "modeCodes": [
         "X"
       ],
@@ -19681,7 +19657,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO83JJ",
-      "dbwErp": 7,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SJ2287",
         "antennaHeight": 5,
@@ -19721,7 +19697,7 @@
       "town": "LUMPHANAN",
       "modeCodes": [
         "D",
-        "M",
+        "M:5",
         "F"
       ],
       "tx": 144825000,
@@ -19794,7 +19770,7 @@
       "keeperCallsign": "M0DMP",
       "town": "NEWCASTLE UPON TYNE",
       "modeCodes": [
-        "M"
+        "M:10"
       ],
       "tx": 145775000,
       "repeater": "GB7MS",
@@ -19867,7 +19843,7 @@
       "keeperCallsign": "M0PPR",
       "town": "PORTSMOUTH",
       "modeCodes": [
-        "M"
+        "M:3"
       ],
       "tx": 439712500,
       "repeater": "GB7FT",
@@ -19892,7 +19868,7 @@
       "town": "LINCOLN",
       "modeCodes": [
         "D",
-        "M",
+        "M:5",
         "F",
         "P",
         "N"
@@ -19919,7 +19895,7 @@
       "keeperCallsign": "M0DMP",
       "town": "NEWCASTLE UPON TYNE",
       "modeCodes": [
-        "M"
+        "M:10"
       ],
       "tx": 439425000,
       "repeater": "GB7XY",
@@ -19943,7 +19919,7 @@
       "keeperCallsign": "M1CMN",
       "town": "FOLKESTONE",
       "modeCodes": [
-        "M"
+        "M:3"
       ],
       "tx": 439737500,
       "repeater": "GB7CK",
@@ -20064,7 +20040,7 @@
       "town": "PORT TALBOT",
       "modeCodes": [
         "D",
-        "M",
+        "M:5",
         "F"
       ],
       "tx": 144812500,
@@ -20186,7 +20162,7 @@
       "keeperCallsign": "G0NEF",
       "town": "BRACKNELL",
       "modeCodes": [
-        "M",
+        "M:3",
         "F"
       ],
       "tx": 144837500,
@@ -20433,7 +20409,7 @@
       "modeCodes": [
         "A",
         "D",
-        "M",
+        "M:10",
         "F",
         "P",
         "N"
@@ -20582,7 +20558,7 @@
       "modeCodes": [
         "A",
         "D",
-        "M"
+        "M:3"
       ],
       "tx": 145787500,
       "repeater": "GB3EB",
@@ -20606,7 +20582,7 @@
       "keeperCallsign": "G4WFR",
       "town": "SOUTHAMPTON",
       "modeCodes": [
-        "M"
+        "M:8"
       ],
       "tx": 439450000,
       "repeater": "GB7SU",
@@ -20848,7 +20824,7 @@
       "town": "STRABANE",
       "modeCodes": [
         "D",
-        "M",
+        "M:5",
         "F"
       ],
       "tx": 144837500,
@@ -20971,7 +20947,7 @@
       "modeCodes": [
         "A",
         "D",
-        "M",
+        "M:1",
         "F",
         "P",
         "N"
@@ -21000,7 +20976,7 @@
       "modeCodes": [
         "A",
         "D",
-        "M"
+        "M:1"
       ],
       "tx": 430825000,
       "repeater": "GB7NV",
@@ -21050,7 +21026,7 @@
       "modeCodes": [
         "A",
         "D",
-        "M",
+        "M:5",
         "F"
       ],
       "tx": 430812500,
@@ -21076,7 +21052,7 @@
       "town": "LOWESTOFT",
       "modeCodes": [
         "D",
-        "M",
+        "M:5",
         "F",
         "P",
         "N"
@@ -21103,7 +21079,7 @@
       "keeperCallsign": "G0FHM",
       "town": "DOWNHAM MARKET",
       "modeCodes": [
-        "M",
+        "M:3",
         "F"
       ],
       "tx": 439450000,
@@ -21152,7 +21128,7 @@
       "keeperCallsign": "G8NSS",
       "town": "LEEK",
       "modeCodes": [
-        "M"
+        "M:1"
       ],
       "tx": 439762500,
       "repeater": "GB7SI",
@@ -21178,7 +21154,7 @@
       "modeCodes": [
         "A",
         "D",
-        "M",
+        "M:7",
         "F"
       ],
       "tx": 430887500,
@@ -21323,7 +21299,7 @@
       "keeperCallsign": "G1XCC",
       "town": "HEPTONSTALL",
       "modeCodes": [
-        "M"
+        "M:2"
       ],
       "tx": 439425000,
       "repeater": "GB7HS",
@@ -21419,7 +21395,7 @@
       "keeperCallsign": "GM6GRE",
       "town": "INVERNESS",
       "modeCodes": [
-        "M"
+        "M:5"
       ],
       "tx": 145662500,
       "repeater": "GB7IL",
@@ -21637,7 +21613,7 @@
       "town": "BOURNE",
       "modeCodes": [
         "D",
-        "M",
+        "M:5",
         "F"
       ],
       "tx": 439525000,
@@ -21663,7 +21639,7 @@
       "town": "GRANTHAM",
       "modeCodes": [
         "D",
-        "M",
+        "M:5",
         "F"
       ],
       "tx": 439450000,
@@ -21688,7 +21664,7 @@
       "keeperCallsign": "GM7RYR",
       "town": "GLASGOW",
       "modeCodes": [
-        "M"
+        "M:7"
       ],
       "tx": 430850000,
       "repeater": "GB7GL",
@@ -21713,7 +21689,7 @@
       "town": "BLACKPOOL",
       "modeCodes": [
         "D",
-        "M",
+        "M:5",
         "F"
       ],
       "tx": 430300000,
@@ -21812,7 +21788,7 @@
       "modeCodes": [
         "A",
         "D",
-        "M",
+        "M:3",
         "F"
       ],
       "tx": 430900000,
@@ -22105,7 +22081,7 @@
       "keeperCallsign": "M0PPR",
       "town": "CLANFIELD",
       "modeCodes": [
-        "M"
+        "M:3"
       ],
       "tx": 439625000,
       "repeater": "GB7CF",
@@ -22202,7 +22178,7 @@
       "town": "ILKESTON",
       "modeCodes": [
         "D",
-        "M",
+        "M:5",
         "F",
         "P",
         "N"
@@ -22277,7 +22253,7 @@
       "keeperCallsign": "GM7RYR",
       "town": "BATHGATE",
       "modeCodes": [
-        "M"
+        "M:4"
       ],
       "tx": 439712500,
       "repeater": "GB7CB",
@@ -22302,7 +22278,7 @@
       "town": "LONGRIDGE",
       "modeCodes": [
         "D",
-        "M",
+        "M:10",
         "F",
         "P",
         "N"
@@ -22353,7 +22329,7 @@
       "keeperCallsign": "G3XOU",
       "town": "PRINCETOWN",
       "modeCodes": [
-        "M"
+        "M:3"
       ],
       "tx": 439637500,
       "repeater": "GB7PF",
@@ -22451,7 +22427,7 @@
       "modeCodes": [
         "A",
         "D",
-        "M",
+        "M:10",
         "F"
       ],
       "tx": 145612500,
@@ -22525,7 +22501,7 @@
       "keeperCallsign": "GM4WMM",
       "town": "KIRKWALL",
       "modeCodes": [
-        "M"
+        "M:1"
       ],
       "tx": 439462500,
       "repeater": "GB7OR",
@@ -22671,7 +22647,7 @@
       "modeCodes": [
         "A",
         "D",
-        "M",
+        "M:5",
         "F",
         "P",
         "N"
@@ -22699,7 +22675,7 @@
       "town": "NOTTINGHAM",
       "modeCodes": [
         "A",
-        "M",
+        "M:1",
         "F",
         "N"
       ],
@@ -22726,7 +22702,7 @@
       "town": "KIMPTON",
       "modeCodes": [
         "D",
-        "M",
+        "M:3",
         "F"
       ],
       "tx": 144862500,
@@ -22776,7 +22752,7 @@
       "town": "LARGS",
       "modeCodes": [
         "A",
-        "M"
+        "M:3"
       ],
       "tx": 430950000,
       "repeater": "GB7AC",
@@ -22896,7 +22872,7 @@
       "keeperCallsign": "M0PPR",
       "town": "PORTSMOUTH",
       "modeCodes": [
-        "M"
+        "M:3"
       ],
       "tx": 145687500,
       "repeater": "GB7PS",
@@ -22993,7 +22969,7 @@
       "town": "WAKEFIELD ",
       "modeCodes": [
         "D",
-        "M",
+        "M:2",
         "F"
       ],
       "tx": 439725000,
@@ -23090,7 +23066,7 @@
       "keeperCallsign": "GM0WUQ",
       "town": "STIRLING",
       "modeCodes": [
-        "M",
+        "M:5",
         "F"
       ],
       "tx": 144887500,
@@ -23235,7 +23211,7 @@
       "keeperCallsign": "G1BHM",
       "town": "NEAR HOLSWORTHY",
       "modeCodes": [
-        "M"
+        "M:1"
       ],
       "tx": 439737500,
       "repeater": "GB3ND",
@@ -23356,7 +23332,7 @@
       "keeperCallsign": "GM7RYR",
       "town": "EDINBURGH",
       "modeCodes": [
-        "M"
+        "M:11"
       ],
       "tx": 431175000,
       "repeater": "GB7EV",
@@ -23381,7 +23357,7 @@
       "town": "BECKENHAM",
       "modeCodes": [
         "D",
-        "M",
+        "M:3",
         "F"
       ],
       "tx": 145712500,
@@ -23406,7 +23382,7 @@
       "keeperCallsign": "G1HIG",
       "town": "BECKENHAM",
       "modeCodes": [
-        "M"
+        "M:3"
       ],
       "tx": 439512500,
       "repeater": "GB7LO",
@@ -23455,7 +23431,7 @@
       "town": "HAWICK",
       "modeCodes": [
         "A",
-        "M"
+        "M:3"
       ],
       "tx": 439337500,
       "repeater": "GB7AI",
@@ -23505,7 +23481,7 @@
       "modeCodes": [
         "A",
         "D",
-        "M",
+        "M:1",
         "F",
         "P",
         "N"
@@ -23532,7 +23508,7 @@
       "keeperCallsign": "G8CAP",
       "town": "ASHTON-UNDER-LYNE",
       "modeCodes": [
-        "M",
+        "M:3",
         "F"
       ],
       "tx": 431087500,
@@ -23606,7 +23582,7 @@
       "keeperCallsign": "G3XOU",
       "town": "TAVISTOCK",
       "modeCodes": [
-        "M"
+        "M:3"
       ],
       "tx": 145687500,
       "repeater": "GB7HD",
@@ -23681,7 +23657,7 @@
       "modeCodes": [
         "A",
         "D",
-        "M",
+        "M:1",
         "F"
       ],
       "tx": 430900000,
@@ -23707,7 +23683,7 @@
       "town": "HASTINGS",
       "modeCodes": [
         "A",
-        "M"
+        "M:3"
       ],
       "tx": 145775000,
       "repeater": "GB7RX",
@@ -23732,7 +23708,7 @@
       "town": "BRISTOL",
       "modeCodes": [
         "D",
-        "M",
+        "M:3",
         "F",
         "P"
       ],
@@ -23907,7 +23883,7 @@
       "keeperCallsign": "G0GMB",
       "town": "MILTON KEYNES",
       "modeCodes": [
-        "M"
+        "M:4"
       ],
       "tx": 439612500,
       "repeater": "GB7RS",
@@ -23980,7 +23956,7 @@
       "town": "KENNOWAY  FIFE",
       "modeCodes": [
         "A",
-        "M"
+        "M:1"
       ],
       "tx": 145637500,
       "repeater": "GB7DE",
@@ -24173,7 +24149,7 @@
       "town": "DONCASTER",
       "modeCodes": [
         "D",
-        "M",
+        "M:5",
         "F"
       ],
       "tx": 144837500,
@@ -24222,7 +24198,7 @@
       "keeperCallsign": "G4LRP",
       "town": "BILLINGSHURST",
       "modeCodes": [
-        "M"
+        "M:3"
       ],
       "tx": 439425000,
       "repeater": "GB7WS",
@@ -24246,7 +24222,7 @@
       "keeperCallsign": "G8NDT",
       "town": "SUTTON COLDFIELD",
       "modeCodes": [
-        "M"
+        "M:8"
       ],
       "tx": 439762500,
       "repeater": "GB7GB",
@@ -24368,7 +24344,7 @@
       "town": "HAILSHAM",
       "modeCodes": [
         "D",
-        "M"
+        "M:3"
       ],
       "tx": 439462500,
       "repeater": "GB7PH",
@@ -24441,7 +24417,7 @@
       "town": "DUNKERSWELL",
       "modeCodes": [
         "A",
-        "M"
+        "M:7"
       ],
       "tx": 145625000,
       "repeater": "GB7DW",
@@ -24514,7 +24490,7 @@
       "town": "MERTHYR TYDFIL",
       "modeCodes": [
         "D",
-        "M",
+        "M:2",
         "F",
         "P",
         "N"
@@ -24590,7 +24566,7 @@
       "town": "HAWICK",
       "modeCodes": [
         "A",
-        "M"
+        "M:3"
       ],
       "tx": 145625000,
       "repeater": "GB7HK",
@@ -24784,7 +24760,7 @@
       "keeperCallsign": "M0VKR",
       "town": "YEOVIL",
       "modeCodes": [
-        "M"
+        "M:5"
       ],
       "tx": 439687500,
       "repeater": "GB7YD",
@@ -24808,7 +24784,7 @@
       "keeperCallsign": "G8NDT",
       "town": "BIRMINGHAM",
       "modeCodes": [
-        "M",
+        "M:8",
         "P"
       ],
       "tx": 439400000,
@@ -24978,7 +24954,7 @@
       "keeperCallsign": "M0JXR",
       "town": "DUNDRY",
       "modeCodes": [
-        "M",
+        "M:4",
         "D",
         "F",
         "N"
@@ -25101,7 +25077,7 @@
       "keeperCallsign": "G6HUI",
       "town": "KINGTON LANGLEY",
       "modeCodes": [
-        "M"
+        "M:7"
       ],
       "tx": 439475000,
       "repeater": "GB7WW",
@@ -25174,7 +25150,7 @@
       "keeperCallsign": "GM0NRT",
       "town": "ABERDEEN",
       "modeCodes": [
-        "M"
+        "M:11"
       ],
       "tx": 430925000,
       "repeater": "GB7EC",
@@ -25199,7 +25175,7 @@
       "town": "BRADFORD",
       "modeCodes": [
         "D",
-        "M",
+        "M:2",
         "F",
         "P"
       ],
@@ -25227,7 +25203,7 @@
       "modeCodes": [
         "A",
         "D",
-        "M",
+        "M:3",
         "F"
       ],
       "tx": 430975000,
@@ -25516,7 +25492,7 @@
       "keeperCallsign": "M1CVZ",
       "town": "LEIGHTON BUZZARD",
       "modeCodes": [
-        "M",
+        "M:4",
         "F"
       ],
       "tx": 439675000,
@@ -25613,7 +25589,7 @@
       "keeperCallsign": "M1AEG",
       "town": "ST AUSTELL",
       "modeCodes": [
-        "M"
+        "M:7"
       ],
       "tx": 430937500,
       "repeater": "GB7DT",
@@ -25757,7 +25733,7 @@
       "keeperCallsign": "G3ZXX",
       "town": "MERE  WILTSHIRE",
       "modeCodes": [
-        "M"
+        "M:9"
       ],
       "tx": 439712500,
       "repeater": "GB7JA",
@@ -25853,7 +25829,7 @@
       "keeperCallsign": "M1AXM",
       "town": "ILMINSTER",
       "modeCodes": [
-        "M"
+        "M:10"
       ],
       "tx": 439450000,
       "repeater": "GB7EQ",
@@ -25926,7 +25902,7 @@
       "town": "BIRMINGHAM",
       "modeCodes": [
         "A",
-        "M",
+        "M:8",
         "P"
       ],
       "tx": 145737500,
@@ -25951,7 +25927,7 @@
       "keeperCallsign": "M5ADU",
       "town": "NOTTINGHAM",
       "modeCodes": [
-        "M"
+        "M:1"
       ],
       "tx": 439487500,
       "repeater": "GB3NW",
@@ -25999,7 +25975,7 @@
       "keeperCallsign": "M0MFS",
       "town": "BIDEFORD",
       "modeCodes": [
-        "M"
+        "M:5"
       ],
       "tx": 439475000,
       "repeater": "GB7FB",
@@ -26041,11 +26017,11 @@
     },
     {
       "id": 5157,
-      "fac": false,
+      "fac": true,
       "type": "AP",
       "status": "OPERATIONAL",
       "keeperCallsign": "GM7GDE",
-      "town": "EAST KILBRIDE",
+      "town": "EAST KIBRIDE",
       "modeCodes": [
         "X"
       ],
@@ -26056,7 +26032,7 @@
       "txbw": 125,
       "band": "70CM",
       "locator": "IO75VS",
-      "dbwErp": -8.3,
+      "dbwErp": -10,
       "extraDetails": {
         "ngr": "NS6052",
         "antennaHeight": 5,
@@ -26194,7 +26170,7 @@
       "modeCodes": [
         "A",
         "D",
-        "M",
+        "M:3",
         "F",
         "N"
       ],
@@ -26533,7 +26509,7 @@
       "town": "PRESTONPANS",
       "modeCodes": [
         "D",
-        "M",
+        "M:5",
         "F",
         "P",
         "N"
@@ -26684,7 +26660,7 @@
       "town": "WINKLEIGH",
       "modeCodes": [
         "A",
-        "M"
+        "M:1"
       ],
       "tx": 430912500,
       "repeater": "GB7LZ",
@@ -27315,7 +27291,7 @@
       "keeperCallsign": "GU7DAI",
       "town": "ST. PETER PORT",
       "modeCodes": [
-        "M"
+        "M:5"
       ],
       "tx": 439687500,
       "repeater": "GB7GY",
@@ -27383,7 +27359,7 @@
       "keeperCallsign": "M0TTL",
       "town": "COTTINGHAM",
       "modeCodes": [
-        "M"
+        "M:1"
       ],
       "tx": 439412500,
       "repeater": "GB7WI",
@@ -27431,7 +27407,7 @@
       "keeperCallsign": "G3XOU",
       "town": "PLYMOUTH",
       "modeCodes": [
-        "M"
+        "M:3"
       ],
       "tx": 439712500,
       "repeater": "GB7YM",
@@ -27480,7 +27456,7 @@
       "town": "HARPENDEN",
       "modeCodes": [
         "D",
-        "M",
+        "M:7",
         "F"
       ],
       "tx": 430287500,
@@ -27553,7 +27529,7 @@
       "keeperCallsign": "G4ZWH",
       "town": "HATFIELD",
       "modeCodes": [
-        "M"
+        "M:10"
       ],
       "tx": 439425000,
       "repeater": "GB7VH",
@@ -27601,7 +27577,7 @@
       "keeperCallsign": "M1CGI",
       "town": "CHORLEY",
       "modeCodes": [
-        "M"
+        "M:10"
       ],
       "tx": 439575000,
       "repeater": "GB7HY",
@@ -27649,7 +27625,7 @@
       "keeperCallsign": "M0TWS",
       "town": "SHEFFIELD",
       "modeCodes": [
-        "M"
+        "M:2"
       ],
       "tx": 439637500,
       "repeater": "GB7SR",
@@ -27747,7 +27723,7 @@
       "town": "BEXHILL-ON-SEA",
       "modeCodes": [
         "A",
-        "M"
+        "M:3"
       ],
       "tx": 430987500,
       "repeater": "GB3BH",
@@ -27964,7 +27940,7 @@
       "town": "LADYBANK",
       "modeCodes": [
         "D",
-        "M",
+        "M:5",
         "F",
         "P",
         "N"
@@ -28087,7 +28063,7 @@
       "keeperCallsign": "G4CPO",
       "town": "NEWTON ABBOT",
       "modeCodes": [
-        "M"
+        "M:5"
       ],
       "tx": 439500000,
       "repeater": "GB7HF",
@@ -28160,7 +28136,7 @@
       "town": "CARRBRIDGE",
       "modeCodes": [
         "D",
-        "M"
+        "M:3"
       ],
       "tx": 144812500,
       "repeater": "MB6BS",
@@ -28208,7 +28184,7 @@
       "keeperCallsign": "G7RZU",
       "town": "BARNHAM",
       "modeCodes": [
-        "M"
+        "M:4"
       ],
       "tx": 439500000,
       "repeater": "GB7FR",
@@ -28256,7 +28232,7 @@
       "keeperCallsign": "G0FHM",
       "town": "DOWNHAM MARKET",
       "modeCodes": [
-        "M",
+        "M:3",
         "F"
       ],
       "tx": 434500000,
@@ -28281,7 +28257,7 @@
       "keeperCallsign": "M0VNA",
       "town": "LEDBURY",
       "modeCodes": [
-        "M"
+        "M:10"
       ],
       "tx": 430875000,
       "repeater": "GB7NQ",
@@ -28402,7 +28378,7 @@
       "town": "PORTPATRICK",
       "modeCodes": [
         "A",
-        "M"
+        "M:7"
       ],
       "tx": 430900000,
       "repeater": "GB7DG",
@@ -28857,7 +28833,7 @@
       "town": "FAREHAM",
       "modeCodes": [
         "D",
-        "M",
+        "M:8",
         "F",
         "P",
         "N"
@@ -28884,7 +28860,7 @@
       "keeperCallsign": "M1DAH",
       "town": "DONCASTER",
       "modeCodes": [
-        "M"
+        "M:2"
       ],
       "tx": 439525000,
       "repeater": "GB7YR",
@@ -28908,7 +28884,7 @@
       "keeperCallsign": "GM4ZTO",
       "town": "BALLANTRAE",
       "modeCodes": [
-        "M"
+        "M:9"
       ],
       "tx": 439400000,
       "repeater": "GB7ZT",
@@ -29102,7 +29078,7 @@
       "modeCodes": [
         "A",
         "D",
-        "M",
+        "M:5",
         "F",
         "P",
         "N"
@@ -29346,7 +29322,7 @@
       "town": "FARMBOROUGH",
       "modeCodes": [
         "A",
-        "M"
+        "M:5"
       ],
       "tx": 430287500,
       "repeater": "GB3PC",
@@ -29733,7 +29709,7 @@
       "town": "HEACHAM  KING'S LYNN",
       "modeCodes": [
         "D",
-        "M",
+        "M:10",
         "F"
       ],
       "tx": 144850000,
@@ -30279,7 +30255,7 @@
       "keeperCallsign": "G6YCA",
       "town": "BASTON",
       "modeCodes": [
-        "M"
+        "M:8"
       ],
       "tx": 439625000,
       "repeater": "GB7SL",
@@ -30305,7 +30281,7 @@
       "modeCodes": [
         "A",
         "D",
-        "M",
+        "M:1",
         "F",
         "P",
         "N",
@@ -30335,7 +30311,7 @@
       "modeCodes": [
         "A",
         "D",
-        "M",
+        "M:1",
         "F",
         "P",
         "N",
@@ -30533,7 +30509,7 @@
       "town": "MUNDESLEY",
       "modeCodes": [
         "D",
-        "M"
+        "M:1"
       ],
       "tx": 431125000,
       "repeater": "G3YPP",
@@ -30705,7 +30681,7 @@
       "modeCodes": [
         "A",
         "D",
-        "M",
+        "M:1",
         "F",
         "P",
         "N",
@@ -30830,7 +30806,7 @@
       "town": "ILMINSTER",
       "modeCodes": [
         "D",
-        "M",
+        "M:9",
         "F",
         "P",
         "N"
@@ -30998,7 +30974,7 @@
       "town": "ROTHERHAM",
       "modeCodes": [
         "D",
-        "M",
+        "M:2",
         "F"
       ],
       "tx": 144862500,
@@ -31025,7 +31001,7 @@
       "modeCodes": [
         "A",
         "D",
-        "M",
+        "M:4",
         "F",
         "P",
         "N",
@@ -31132,7 +31108,7 @@
       "keeperCallsign": "MM7KEL",
       "town": "CLYDEBANK",
       "modeCodes": [
-        "M",
+        "M:2",
         "F"
       ],
       "tx": 144875000,
@@ -31183,7 +31159,7 @@
       "modeCodes": [
         "D",
         "F",
-        "M"
+        "M:1"
       ],
       "tx": 144875000,
       "repeater": "MB6TH",
@@ -31544,7 +31520,7 @@
       "keeperCallsign": "MM0ELF",
       "town": "ALEXANDRIA",
       "modeCodes": [
-        "M"
+        "M:7"
       ],
       "tx": 439337500,
       "repeater": "GB7LB",
@@ -31688,7 +31664,7 @@
       "keeperCallsign": "2E0HSV",
       "town": "NORTHAMPTON",
       "modeCodes": [
-        "M",
+        "M:4",
         "F"
       ],
       "tx": 434512500,
@@ -31738,7 +31714,7 @@
       "town": "WASHINGTON",
       "modeCodes": [
         "D",
-        "M"
+        "M:10"
       ],
       "tx": 144812500,
       "repeater": "MB6GW",
@@ -31930,7 +31906,7 @@
       "keeperCallsign": "G8YDE",
       "town": "CHESHAM",
       "modeCodes": [
-        "M"
+        "M:5"
       ],
       "tx": 439575000,
       "repeater": "G8YDE",
@@ -32004,7 +31980,7 @@
       "modeCodes": [
         "A",
         "D",
-        "M",
+        "M:10",
         "F"
       ],
       "tx": 430812500,
@@ -32030,7 +32006,7 @@
       "town": "HEATHFIELD",
       "modeCodes": [
         "A",
-        "M"
+        "M:10"
       ],
       "tx": 430300000,
       "repeater": "GB7RH",
@@ -32055,7 +32031,7 @@
       "town": "EASTBOURNE",
       "modeCodes": [
         "A",
-        "M"
+        "M:10"
       ],
       "tx": 430250000,
       "repeater": "GB7RU",
@@ -32127,7 +32103,7 @@
       "keeperCallsign": "M0NGT",
       "town": "TANSLEY NR MATLOCK",
       "modeCodes": [
-        "M"
+        "M:1"
       ],
       "tx": 439650000,
       "repeater": "GB7IN",
@@ -32151,7 +32127,7 @@
       "keeperCallsign": "M0NGT",
       "town": "KIMBERLEY",
       "modeCodes": [
-        "M"
+        "M:1"
       ],
       "tx": 439612500,
       "repeater": "GB7RR",
@@ -32391,7 +32367,7 @@
       "keeperCallsign": "GM4CCN",
       "town": "DULNAIN BRIDGE",
       "modeCodes": [
-        "M"
+        "M:1"
       ],
       "tx": 431100000,
       "repeater": "MB6DB",
@@ -32850,7 +32826,7 @@
       "town": "CHORLEY",
       "modeCodes": [
         "D",
-        "M",
+        "M:10",
         "F",
         "P",
         "N"
@@ -33140,7 +33116,7 @@
       "modeCodes": [
         "A",
         "D",
-        "M",
+        "M:1",
         "F",
         "P",
         "N",
@@ -33501,7 +33477,7 @@
       "keeperCallsign": "G0MBA",
       "town": "CLACTON ON SEA",
       "modeCodes": [
-        "M"
+        "M:3"
       ],
       "tx": 439637500,
       "repeater": "GB7CL",
@@ -33792,7 +33768,7 @@
       "keeperCallsign": "M0KKN",
       "town": "ST HELENS",
       "modeCodes": [
-        "M"
+        "M:10"
       ],
       "tx": 431162500,
       "repeater": "MB6KN",
@@ -33914,7 +33890,7 @@
       "keeperCallsign": "2E0LNX",
       "town": "GOSPORT",
       "modeCodes": [
-        "M",
+        "M:3",
         "F"
       ],
       "tx": 439437500,
@@ -34032,7 +34008,7 @@
       "keeperCallsign": "MM0TXO",
       "town": "INSCH",
       "modeCodes": [
-        "M"
+        "M:2"
       ],
       "tx": 431125000,
       "repeater": "MB6JH",
@@ -34057,7 +34033,7 @@
       "town": "CANNOCK",
       "modeCodes": [
         "A",
-        "M"
+        "M:15"
       ],
       "tx": 430975000,
       "repeater": "GB7CN",
@@ -34149,7 +34125,7 @@
       "keeperCallsign": "G0OFC",
       "town": "BRIXWORTH",
       "modeCodes": [
-        "M",
+        "M:3",
         "F"
       ],
       "tx": 144862500,
@@ -34295,7 +34271,7 @@
       "town": "WEMBWORTHY",
       "modeCodes": [
         "A",
-        "M"
+        "M:7"
       ],
       "tx": 430975000,
       "repeater": "GB7TG",
@@ -34369,7 +34345,7 @@
       "modeCodes": [
         "A",
         "D",
-        "M",
+        "M:5",
         "F"
       ],
       "tx": 438387500,
@@ -34419,7 +34395,7 @@
       "town": "HEXHAM",
       "modeCodes": [
         "D",
-        "M"
+        "M:10"
       ],
       "tx": 144825000,
       "repeater": "MB6HX",
@@ -34779,7 +34755,7 @@
       "keeperCallsign": "M0YDG",
       "town": "WAKEFIELD",
       "modeCodes": [
-        "M"
+        "M:5"
       ],
       "tx": 430287500,
       "repeater": "GB7YN",
@@ -34948,7 +34924,7 @@
       "town": "LONDONDERRY",
       "modeCodes": [
         "D",
-        "M",
+        "M:3",
         "F"
       ],
       "tx": 144862500,
@@ -34999,7 +34975,7 @@
       "modeCodes": [
         "A",
         "D",
-        "M",
+        "M:6",
         "F"
       ],
       "tx": 145587500,
@@ -35013,30 +34989,6 @@
       "extraDetails": {
         "ngr": "SE3814",
         "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 5734,
-      "fac": true,
-      "type": "BN",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G0MBA",
-      "town": "CLACTON ON SEA ",
-      "modeCodes": [
-        "B"
-      ],
-      "tx": 0,
-      "repeater": "GB3PKT",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 0.5,
-      "band": "10M",
-      "locator": "JO01NT",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TM1616",
-        "antennaHeight": 14,
         "polarisation": "V"
       }
     },
@@ -35223,7 +35175,7 @@
       "town": "WORKSOP",
       "modeCodes": [
         "D",
-        "M",
+        "M:1",
         "F"
       ],
       "tx": 439562500,
@@ -35346,7 +35298,7 @@
       "modeCodes": [
         "A",
         "D",
-        "M",
+        "M:1",
         "F",
         "P",
         "N",
@@ -35926,7 +35878,7 @@
       "town": "BIRMINGHAM",
       "modeCodes": [
         "D",
-        "M",
+        "M:8",
         "F",
         "P",
         "N",
@@ -36244,7 +36196,7 @@
       "keeperCallsign": "MM0PAZ",
       "town": "PAISLEY",
       "modeCodes": [
-        "M"
+        "M:1"
       ],
       "tx": 439525000,
       "repeater": "GB7PA",
@@ -36309,30 +36261,6 @@
       }
     },
     {
-      "id": 5803,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0WVV",
-      "town": "HORSHAM ST. FAITH",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430925000,
-      "repeater": "MX0WVV",
-      "rx": 438525000,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO02PQ",
-      "dbwErp": 11.5,
-      "extraDetails": {
-        "ngr": "TG2114",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5804,
       "fac": true,
       "type": "DM",
@@ -36389,7 +36317,7 @@
       "keeperCallsign": "2E0MIK",
       "town": "CHATHAM",
       "modeCodes": [
-        "M"
+        "M:12"
       ],
       "tx": 433125000,
       "repeater": "GB7FX",
@@ -36414,7 +36342,7 @@
       "town": "LESLIE",
       "modeCodes": [
         "A",
-        "M"
+        "M:1"
       ],
       "tx": 430887500,
       "repeater": "GB3HL",
@@ -36487,7 +36415,7 @@
       "town": "STRANRAER",
       "modeCodes": [
         "A",
-        "M"
+        "M:5"
       ],
       "tx": 430987500,
       "repeater": "GB7RG",
@@ -36512,7 +36440,7 @@
       "town": "CHULMLEIGH",
       "modeCodes": [
         "A",
-        "M"
+        "M:1"
       ],
       "tx": 145750000,
       "repeater": "GB3BG",
@@ -36537,7 +36465,7 @@
       "town": "MABLETHORPE",
       "modeCodes": [
         "A",
-        "M",
+        "M:7",
         "D",
         "F"
       ],
@@ -36588,7 +36516,7 @@
       "town": "CAULDON LOW",
       "modeCodes": [
         "D",
-        "M",
+        "M:14",
         "F"
       ],
       "tx": 431187500,
@@ -36729,11 +36657,11 @@
       "id": 5824,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G1ILF",
       "town": "DONCASTER",
       "modeCodes": [
-        "M"
+        "M:2"
       ],
       "tx": 439700000,
       "repeater": "GB7DO",
@@ -36806,7 +36734,7 @@
       "town": "THAINSTONE",
       "modeCodes": [
         "D",
-        "M",
+        "M:1",
         "F"
       ],
       "tx": 431075000,
@@ -36875,7 +36803,7 @@
       "keeperCallsign": "M0DIT",
       "town": "KEIGHLEY",
       "modeCodes": [
-        "M"
+        "M:5"
       ],
       "tx": 430300000,
       "repeater": "MB5KT",
@@ -36972,7 +36900,7 @@
       "town": "BEDFORD",
       "modeCodes": [
         "D",
-        "M",
+        "M:3",
         "F",
         "P"
       ],
@@ -37065,7 +36993,7 @@
     {
       "id": 5849,
       "fac": true,
-      "type": "BM",
+      "type": "BN",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0MBA ",
       "town": "CLACTON ON SEA ",
@@ -37200,7 +37128,53 @@
       "band": "70CM",
       "locator": "IO75US",
       "dbwErp": -7,
+      "extraDetails": {
+        "ngr": "NS5355",
+        "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 5871,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M6NVO ",
+      "town": "DUDLEY",
+      "modeCodes": null,
+      "tx": 431112500,
+      "repeater": "M6NVO ",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO82WM",
+      "dbwErp": 7,
       "extraDetails": null
+    },
+    {
+      "id": 5872,
+      "fac": true,
+      "type": "AV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G7RPG",
+      "town": "LLANGOLLEN",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 433000000,
+      "repeater": "GB3LL",
+      "rx": 438000000,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO82",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SJ2340",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
     }
   ]
 }
