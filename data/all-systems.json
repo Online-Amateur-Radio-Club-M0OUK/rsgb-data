@@ -17730,7 +17730,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO81",
-      "dbwErp": 14,
+      "dbwErp": 13.8,
       "extraDetails": {
         "ngr": "SO8303",
         "antennaHeight": 0,
@@ -24362,7 +24362,7 @@
     },
     {
       "id": 5052,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4LRP",
@@ -35292,7 +35292,7 @@
       "id": 5750,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM0DXE",
       "town": "PRESTONPANS ",
       "modeCodes": [
@@ -37172,6 +37172,31 @@
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "SJ2340",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 5873,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G1MAW",
+      "town": "CHURCHDOWN",
+      "modeCodes": [
+        "M:13",
+        "N"
+      ],
+      "tx": 439612500,
+      "repeater": "GB7GH",
+      "rx": 430612500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SO8818",
         "antennaHeight": 0,
         "polarisation": ""
       }
