@@ -4346,7 +4346,7 @@
       "id": 1087,
       "fac": false,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0ZPU",
       "town": "ROYSTON",
       "modeCodes": [
@@ -11731,30 +11731,6 @@
       }
     },
     {
-      "id": 3629,
-      "fac": false,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M1FJB",
-      "town": "LEICESTER",
-      "modeCodes": [
-        "M:1"
-      ],
-      "tx": 145650000,
-      "repeater": "GB7IP",
-      "rx": 145050000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO92KP",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SK5904",
-        "antennaHeight": 95,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 3639,
       "fac": true,
       "type": "DV",
@@ -17149,7 +17125,7 @@
       "id": 4332,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "2E0KOA",
       "town": "MILTON KEYNES",
       "modeCodes": [
@@ -31371,7 +31347,7 @@
       "id": 5503,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0ZPU",
       "town": "BARKWAY",
       "modeCodes": [
@@ -31854,7 +31830,7 @@
       "id": 5540,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G1YFF",
       "town": "WICKHAMBROOK",
       "modeCodes": [
