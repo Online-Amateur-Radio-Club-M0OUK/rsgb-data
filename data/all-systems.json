@@ -903,30 +903,6 @@
       }
     },
     {
-      "id": 644,
-      "fac": false,
-      "type": "PN",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GM4UPX",
-      "town": "JEDBURGH",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 433625000,
-      "repeater": "MB7NJD",
-      "rx": 433625000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO85RL",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "NT6520",
-        "antennaHeight": 20,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 649,
       "fac": true,
       "type": "AP",
@@ -1460,7 +1436,7 @@
     },
     {
       "id": 743,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "GI6JPO",
@@ -1475,7 +1451,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO64IG",
-      "dbwErp": 10.5,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "IH5181",
         "antennaHeight": 30,
@@ -18830,31 +18806,6 @@
       }
     },
     {
-      "id": 4513,
-      "fac": false,
-      "type": "DM",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "MW0HAC",
-      "town": "PORT TALBOT",
-      "modeCodes": [
-        "A",
-        "F"
-      ],
-      "tx": 430875000,
-      "repeater": "GB3WG",
-      "rx": 438475000,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81CP",
-      "dbwErp": 11,
-      "extraDetails": {
-        "ngr": "SS7893",
-        "antennaHeight": 20,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 4517,
       "fac": true,
       "type": "AG",
@@ -20430,7 +20381,7 @@
     },
     {
       "id": 4690,
-      "fac": false,
+      "fac": true,
       "type": "AP",
       "status": "OPERATIONAL",
       "keeperCallsign": "MM0NBW",
@@ -20445,7 +20396,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO86",
-      "dbwErp": 2.1,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "NT5584",
         "antennaHeight": 0,
@@ -24243,7 +24194,7 @@
       "id": 5036,
       "fac": false,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0DIT",
       "town": "KEIGHLEY",
       "modeCodes": [
@@ -33722,14 +33673,14 @@
         "M",
         "F"
       ],
-      "tx": 145587500,
+      "tx": 145737500,
       "repeater": "GB3NX",
-      "rx": 144987500,
+      "rx": 145137500,
       "ctcss": 77,
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO70",
-      "dbwErp": 7,
+      "dbwErp": 11,
       "extraDetails": {
         "ngr": "SS3807",
         "antennaHeight": 0,
@@ -36821,7 +36772,7 @@
       "id": 5834,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0SGG",
       "town": "CHATHAM",
       "modeCodes": [
@@ -36847,7 +36798,7 @@
       "id": 5835,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0SGG",
       "town": "CHATHAM",
       "modeCodes": [
@@ -37173,6 +37124,50 @@
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "SO8818",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 5874,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0EUY",
+      "town": "BORDON",
+      "modeCodes": [
+        "D"
+      ],
+      "tx": 144812500,
+      "repeater": "M0EUY",
+      "rx": 144812500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO91NC",
+      "dbwErp": 7,
+      "extraDetails": null
+    },
+    {
+      "id": 5875,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MM7LWS",
+      "town": "STONEHOUSE",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "MM7LWS",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "IO85",
+      "dbwErp": -7,
+      "extraDetails": {
+        "ngr": "NS7546",
         "antennaHeight": 0,
         "polarisation": ""
       }
