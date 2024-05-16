@@ -12683,7 +12683,7 @@
     },
     {
       "id": 3793,
-      "fac": false,
+      "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
       "keeperCallsign": "GI0VKP",
@@ -12698,7 +12698,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO74",
-      "dbwErp": 1.2,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "IJ4664",
         "antennaHeight": 0,
@@ -14177,7 +14177,7 @@
     },
     {
       "id": 4024,
-      "fac": false,
+      "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
       "keeperCallsign": "G8KOC",
@@ -14192,7 +14192,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "JO02FS",
-      "dbwErp": 0.5,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "TF6423",
         "antennaHeight": 4,
@@ -16240,7 +16240,6 @@
       "modeCodes": [
         "A",
         "D",
-        "M:1",
         "F"
       ],
       "tx": 145762500,
@@ -20165,7 +20164,6 @@
       "modeCodes": [
         "A",
         "D",
-        "M",
         "F"
       ],
       "tx": 430925000,
@@ -24194,7 +24192,7 @@
       "id": 5036,
       "fac": false,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0DIT",
       "town": "KEIGHLEY",
       "modeCodes": [
@@ -25149,11 +25147,11 @@
     },
     {
       "id": 5107,
-      "fac": false,
+      "fac": true,
       "type": "AP",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0VRM",
-      "town": "NORTH NEWBALD",
+      "town": "MARKET WEIGHTON",
       "modeCodes": [
         "X"
       ],
@@ -25164,7 +25162,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO93QT",
-      "dbwErp": 5,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SE9136",
         "antennaHeight": 5,
@@ -25606,11 +25604,11 @@
     },
     {
       "id": 5139,
-      "fac": false,
+      "fac": true,
       "type": "PX",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0JSV",
-      "town": "NR EYE",
+      "town": "EYE",
       "modeCodes": [
         "X"
       ],
@@ -25621,7 +25619,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "JO02NH",
-      "dbwErp": 5.4,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "TM1070",
         "antennaHeight": 8,
@@ -26357,7 +26355,7 @@
     },
     {
       "id": 5189,
-      "fac": false,
+      "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
       "keeperCallsign": "2M0BGK",
@@ -26372,7 +26370,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO85MW",
-      "dbwErp": 0.2,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "NT3774",
         "antennaHeight": 10,
@@ -30878,11 +30876,11 @@
       "modeCodes": [
         "E"
       ],
-      "tx": 439218800,
+      "tx": 439218750,
       "repeater": "GB7TB",
-      "rx": 430218800,
+      "rx": 430218750,
       "ctcss": 0,
-      "txbw": 25,
+      "txbw": 37.5,
       "band": "70CM",
       "locator": "IO92TR",
       "dbwErp": 11,
@@ -35102,8 +35100,7 @@
       "town": "WORKSOP",
       "modeCodes": [
         "D",
-        "M:1",
-        "F"
+        "M:1"
       ],
       "tx": 439562500,
       "repeater": "GB7XN",
@@ -37170,6 +37167,78 @@
         "ngr": "NS7546",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 5876,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0VXT",
+      "town": "PRESTON",
+      "modeCodes": [
+        "E"
+      ],
+      "tx": 439218750,
+      "repeater": "GB7PU",
+      "rx": 430218750,
+      "ctcss": 0,
+      "txbw": 37.5,
+      "band": "70CM",
+      "locator": "IO83",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SD5429",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 5877,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4YWD",
+      "town": "HOOTON, WIRRAL",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 439325000,
+      "repeater": "GB3HP",
+      "rx": 430325000,
+      "ctcss": 67,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83MH",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SJ3778",
+        "antennaHeight": 15,
+        "polarisation": "H"
+      }
+    },
+    {
+      "id": 5878,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0YDG",
+      "town": "BARNSLEY",
+      "modeCodes": [
+        "M:5"
+      ],
+      "tx": 431150000,
+      "repeater": "MB6BW",
+      "rx": 431150000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93GN",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SE3505",
+        "antennaHeight": 5,
+        "polarisation": "V"
       }
     }
   ]
