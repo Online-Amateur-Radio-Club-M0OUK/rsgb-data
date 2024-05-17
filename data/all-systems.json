@@ -20894,12 +20894,11 @@
     {
       "id": 4764,
       "fac": true,
-      "type": "DM",
+      "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0NGT",
       "town": "NOTTINGHAM",
       "modeCodes": [
-        "A",
         "D",
         "M:1"
       ],
@@ -30754,7 +30753,7 @@
       "id": 5456,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7HMV",
       "town": "LUTON",
       "modeCodes": [
@@ -34388,7 +34387,7 @@
       "id": 5701,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7HMV",
       "town": "HARPENDEN",
       "modeCodes": [
@@ -37199,7 +37198,7 @@
       "type": "DM",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4YWD",
-      "town": "HOOTON, WIRRAL",
+      "town": "HOOTON  WIRRAL",
       "modeCodes": [
         "A"
       ],
@@ -37214,7 +37213,7 @@
       "extraDetails": {
         "ngr": "SJ3778",
         "antennaHeight": 15,
-        "polarisation": "H"
+        "polarisation": "V"
       }
     },
     {
@@ -37239,6 +37238,31 @@
         "ngr": "SE3505",
         "antennaHeight": 5,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 5879,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G1BHM",
+      "town": "BUDE",
+      "modeCodes": [
+        "A",
+        "M:1"
+      ],
+      "tx": 430962500,
+      "repeater": "GB3BU",
+      "rx": 438562500,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO70",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SS2105",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
