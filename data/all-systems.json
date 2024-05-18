@@ -11483,30 +11483,6 @@
       }
     },
     {
-      "id": 3571,
-      "fac": false,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G0WTZ",
-      "town": "WOBURN SANDS",
-      "modeCodes": [
-        "M:3"
-      ],
-      "tx": 439662500,
-      "repeater": "GB7DB",
-      "rx": 430662500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO92QA",
-      "dbwErp": 10.8,
-      "extraDetails": {
-        "ngr": "SP9236",
-        "antennaHeight": 7,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 3572,
       "fac": false,
       "type": "DV",
@@ -17548,7 +17524,7 @@
       "id": 4379,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GW8VFQ",
       "town": "SWANSEA",
       "modeCodes": [
@@ -19107,7 +19083,7 @@
     },
     {
       "id": 4546,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0LMN",
@@ -37263,6 +37239,105 @@
         "ngr": "SS2105",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 5880,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M1CNX",
+      "town": "BOSTON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145225000,
+      "repeater": "M1CNX",
+      "rx": 145225000,
+      "ctcss": 71.9,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO92VW",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TF2237",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 5881,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0PLT",
+      "town": "BIGGLESWADE",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UBG",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO92UB",
+      "dbwErp": 9.3,
+      "extraDetails": {
+        "ngr": "TL1943",
+        "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 5882,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4VZO",
+      "town": "KINGSWINFORD",
+      "modeCodes": [
+        "A",
+        "M:11",
+        "N"
+      ],
+      "tx": 433250000,
+      "repeater": "G4VZO",
+      "rx": 438250000,
+      "ctcss": 123,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO82",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SO8789",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 5883,
+      "fac": true,
+      "type": "DM",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G3PWJ",
+      "town": "STOURBRIDGE",
+      "modeCodes": [
+        "A",
+        "M:5"
+      ],
+      "tx": 433262500,
+      "repeater": "G3PWJ",
+      "rx": 438262500,
+      "ctcss": 67,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO82WK",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SO9183",
+        "antennaHeight": 7,
+        "polarisation": "V"
       }
     }
   ]
