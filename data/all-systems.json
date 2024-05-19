@@ -14965,7 +14965,7 @@
       "id": 4118,
       "fac": false,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0KCL",
       "town": "RINGWOOD",
       "modeCodes": [
@@ -33252,7 +33252,7 @@
       "id": 5635,
       "fac": true,
       "type": "PX",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0JQQ",
       "town": "CRAMLINGTON",
       "modeCodes": [
@@ -34627,7 +34627,7 @@
       "id": 5717,
       "fac": true,
       "type": "PX",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0JQQ",
       "town": "CRAMLINGTON",
       "modeCodes": [
@@ -36163,7 +36163,7 @@
       "id": 5804,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0LLC",
       "town": "SOUTHPORT",
       "modeCodes": [
@@ -37337,6 +37337,74 @@
       "extraDetails": {
         "ngr": "SO9183",
         "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 5884,
+      "fac": true,
+      "type": "PX",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G8BPQ",
+      "town": "NOTTINGHAM",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144950000,
+      "repeater": "GB7NOT",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO92KX",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SK5943",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 5885,
+      "fac": true,
+      "type": "PN",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G6JME",
+      "town": "EASTBOURNE",
+      "modeCodes": null,
+      "tx": 70487500,
+      "repeater": "MB7NEB",
+      "rx": 70487500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "4M",
+      "locator": "JO00",
+      "dbwErp": 11.8,
+      "extraDetails": {
+        "ngr": "TQ5801",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 5887,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "2E0PSV",
+      "town": "PLYMOUTH",
+      "modeCodes": null,
+      "tx": 145337500,
+      "repeater": "MB7IJP",
+      "rx": 0,
+      "ctcss": 127.3,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO70WJ",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SX4757",
+        "antennaHeight": 8,
         "polarisation": "V"
       }
     }
