@@ -25071,7 +25071,7 @@
       "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2E0VOE",
+      "keeperCallsign": "M0VOB",
       "town": "BRADFORD",
       "modeCodes": [
         "D",
@@ -37405,6 +37405,54 @@
       "extraDetails": {
         "ngr": "SX4757",
         "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 5890,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G6GOS",
+      "town": "LEWES",
+      "modeCodes": [
+        "A",
+        "D",
+        "M:3"
+      ],
+      "tx": 145587500,
+      "repeater": "G6GOS",
+      "rx": 144987500,
+      "ctcss": 82.5,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO00AV",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TQ4010",
+        "antennaHeight": 25,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 5891,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G1DTG",
+      "town": "BRADFORD",
+      "modeCodes": null,
+      "tx": 430012500,
+      "repeater": "MB7IDB",
+      "rx": 430012500,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93DS",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SE1931",
+        "antennaHeight": 12,
         "polarisation": "V"
       }
     }
