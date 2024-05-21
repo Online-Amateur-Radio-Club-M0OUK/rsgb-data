@@ -31951,7 +31951,7 @@
       "id": 5557,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0VXT",
       "town": "PRESTON",
       "modeCodes": [
@@ -32407,7 +32407,7 @@
       "id": 5587,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M7PTH",
       "town": "TAL-Y-BONT",
       "modeCodes": [
@@ -37453,6 +37453,50 @@
       "extraDetails": {
         "ngr": "SE1931",
         "antennaHeight": 12,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 5892,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G0BMH",
+      "town": "OSWALDTWISTLE",
+      "modeCodes": null,
+      "tx": 144950000,
+      "repeater": "GB7OSW",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO83",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SD7427",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 5893,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G8BPQ",
+      "town": "NOTTINGHAM",
+      "modeCodes": null,
+      "tx": 7050500,
+      "repeater": "GB7NOT",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 2.5,
+      "band": "40M",
+      "locator": "IO92KX",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SK5943",
+        "antennaHeight": 10,
         "polarisation": "V"
       }
     }
