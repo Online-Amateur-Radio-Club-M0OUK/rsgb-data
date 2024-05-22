@@ -16900,7 +16900,7 @@
     },
     {
       "id": 4320,
-      "fac": false,
+      "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
       "keeperCallsign": "GW3WSU",
@@ -16915,7 +16915,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO81IK",
-      "dbwErp": -1.6,
+      "dbwErp": 3,
       "extraDetails": {
         "ngr": "ST1269",
         "antennaHeight": 6,
@@ -25218,7 +25218,7 @@
     },
     {
       "id": 5117,
-      "fac": false,
+      "fac": true,
       "type": "AP",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4LVV",
@@ -25233,7 +25233,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO82",
-      "dbwErp": 3,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SO8549",
         "antennaHeight": 0,
@@ -29311,30 +29311,6 @@
       }
     },
     {
-      "id": 5370,
-      "fac": true,
-      "type": "PX",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GM5AUG",
-      "town": "NEWTON MEARNS",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 439987500,
-      "repeater": "GM5AUG",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO75US",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "NS5355",
-        "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5371,
       "fac": true,
       "type": "PX",
@@ -29746,7 +29722,7 @@
       "id": 5390,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M7APR",
       "town": "SWINDON",
       "modeCodes": [
@@ -32828,12 +32804,12 @@
       "modeCodes": [
         "F"
       ],
-      "tx": 144812500,
+      "tx": 431062500,
       "repeater": "MB6BC",
-      "rx": 144812500,
+      "rx": 431062500,
       "ctcss": 0,
       "txbw": 12.5,
-      "band": "2M",
+      "band": "70CM",
       "locator": "IO82",
       "dbwErp": 7,
       "extraDetails": {
@@ -34866,33 +34842,6 @@
       }
     },
     {
-      "id": 5732,
-      "fac": true,
-      "type": "DM",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0XYN",
-      "town": "WAKEFIELD",
-      "modeCodes": [
-        "A",
-        "D",
-        "M:6",
-        "F"
-      ],
-      "tx": 145587500,
-      "repeater": "M0XYN",
-      "rx": 144987500,
-      "ctcss": 82.5,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO93HP",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SE3814",
-        "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5736,
       "fac": true,
       "type": "PX",
@@ -35505,7 +35454,7 @@
       "id": 5766,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4LUE",
       "town": "BARNSLEY",
       "modeCodes": [
@@ -37496,6 +37445,81 @@
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "SK5943",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 5894,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2E0IPK",
+      "town": "DAGENHAM",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 433650000,
+      "repeater": "2E0IPK",
+      "rx": 433650000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO01BM",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TQ4884",
+        "antennaHeight": 15,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 5895,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0YDG ",
+      "town": "WAKEFIELD",
+      "modeCodes": [
+        "A",
+        "D",
+        "M",
+        "F"
+      ],
+      "tx": 145587500,
+      "repeater": "MB5BW",
+      "rx": 144987500,
+      "ctcss": 82.5,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO93HP",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SE3814",
+        "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 5896,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G5BSD",
+      "town": "LEDBURY",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 50670000,
+      "repeater": "G5BSD",
+      "rx": 50670000,
+      "ctcss": 0,
+      "txbw": 10,
+      "band": "6M",
+      "locator": "IO82TA",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SO7438",
         "antennaHeight": 10,
         "polarisation": "V"
       }
