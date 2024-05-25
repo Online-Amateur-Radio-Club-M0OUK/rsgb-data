@@ -2709,6 +2709,30 @@
       }
     },
     {
+      "id": 876,
+      "fac": true,
+      "type": "TV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M5SJM",
+      "town": "LINCOLN",
+      "modeCodes": [
+        "T"
+      ],
+      "tx": 10240000000,
+      "repeater": "GB3LX",
+      "rx": 10425000000,
+      "ctcss": 0,
+      "txbw": 16000,
+      "band": "3CM",
+      "locator": "IO93RF",
+      "dbwErp": 12,
+      "extraDetails": {
+        "ngr": "SK9771",
+        "antennaHeight": 83,
+        "polarisation": "H"
+      }
+    },
+    {
       "id": 877,
       "fac": false,
       "type": "AV",
@@ -3835,6 +3859,30 @@
         "ngr": "TL2214",
         "antennaHeight": 30,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 1001,
+      "fac": true,
+      "type": "TV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M5SJM",
+      "town": "LINCOLN",
+      "modeCodes": [
+        "T"
+      ],
+      "tx": 1310000000,
+      "repeater": "GB3VL",
+      "rx": 1270000000,
+      "ctcss": 0,
+      "txbw": 4000,
+      "band": "23CM",
+      "locator": "IO93RF",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SK9771",
+        "antennaHeight": 83,
+        "polarisation": "H"
       }
     },
     {
@@ -11314,7 +11362,7 @@
     },
     {
       "id": 3542,
-      "fac": false,
+      "fac": true,
       "type": "RL",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4OCO",
@@ -11329,7 +11377,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO70MK",
-      "dbwErp": 9,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "SW9163",
         "antennaHeight": 3,
@@ -11814,7 +11862,7 @@
     },
     {
       "id": 3671,
-      "fac": false,
+      "fac": true,
       "type": "RL",
       "status": "OPERATIONAL",
       "keeperCallsign": "G8KOC",
@@ -11829,7 +11877,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "JO02FS",
-      "dbwErp": 8.5,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "TF6423",
         "antennaHeight": 3,
@@ -12130,11 +12178,11 @@
     },
     {
       "id": 3714,
-      "fac": false,
+      "fac": true,
       "type": "AP",
       "status": "OPERATIONAL",
       "keeperCallsign": "G7IDB",
-      "town": "LONDON",
+      "town": "CRYSTAL PALACE",
       "modeCodes": [
         "X"
       ],
@@ -12145,7 +12193,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO91",
-      "dbwErp": 4.2,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "TQ3472",
         "antennaHeight": 0,
@@ -12419,7 +12467,7 @@
     },
     {
       "id": 3761,
-      "fac": false,
+      "fac": true,
       "type": "AP",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0PJA",
@@ -12434,7 +12482,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO93II",
-      "dbwErp": 8.2,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SK4982",
         "antennaHeight": 8,
@@ -12587,7 +12635,7 @@
     },
     {
       "id": 3787,
-      "fac": false,
+      "fac": true,
       "type": "AP",
       "status": "OPERATIONAL",
       "keeperCallsign": "GM4EMX",
@@ -12602,7 +12650,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO87UC",
-      "dbwErp": 7,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "NJ8202",
         "antennaHeight": 5,
@@ -16405,7 +16453,7 @@
     },
     {
       "id": 4288,
-      "fac": false,
+      "fac": true,
       "type": "PN",
       "status": "OPERATIONAL",
       "keeperCallsign": "GM7LUN",
@@ -16420,7 +16468,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO85",
-      "dbwErp": 10,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "NT4436",
         "antennaHeight": 0,
@@ -17199,7 +17247,7 @@
     },
     {
       "id": 4354,
-      "fac": false,
+      "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
       "keeperCallsign": "G1DCG",
@@ -17214,7 +17262,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO81",
-      "dbwErp": 0.3,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "ST4266",
         "antennaHeight": 0,
@@ -18127,6 +18175,30 @@
       }
     },
     {
+      "id": 4448,
+      "fac": true,
+      "type": "TV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G0ATW",
+      "town": "GRIMSBY",
+      "modeCodes": [
+        "T"
+      ],
+      "tx": 1310000000,
+      "repeater": "GB3GG",
+      "rx": 1280000000,
+      "ctcss": 0,
+      "txbw": 4000,
+      "band": "23CM",
+      "locator": "IO93XN",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TA2709",
+        "antennaHeight": 19,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 4449,
       "fac": false,
       "type": "DV",
@@ -18153,7 +18225,7 @@
     },
     {
       "id": 4450,
-      "fac": false,
+      "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0UKB",
@@ -18168,7 +18240,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO84VV",
-      "dbwErp": 2.4,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "NY8456",
         "antennaHeight": 8,
@@ -20134,7 +20206,7 @@
     },
     {
       "id": 4679,
-      "fac": false,
+      "fac": true,
       "type": "AP",
       "status": "OPERATIONAL",
       "keeperCallsign": "G7NVQ",
@@ -20149,7 +20221,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO81",
-      "dbwErp": 2.8,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "ST8026",
         "antennaHeight": 0,
@@ -25098,11 +25170,11 @@
     },
     {
       "id": 5109,
-      "fac": false,
+      "fac": true,
       "type": "AV",
-      "status": "REDUCED OUTPUT",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0YDG",
-      "town": "WAKEFIELD",
+      "town": "LEEDS",
       "modeCodes": [
         "A"
       ],
@@ -25112,11 +25184,11 @@
       "ctcss": 82.5,
       "txbw": 10,
       "band": "10M",
-      "locator": "IO93HP",
-      "dbwErp": 11.3,
+      "locator": "IO93HS",
+      "dbwErp": 14,
       "extraDetails": {
-        "ngr": "SE3814",
-        "antennaHeight": 5,
+        "ngr": "SE4230",
+        "antennaHeight": 10,
         "polarisation": "V"
       }
     },
@@ -25531,11 +25603,11 @@
     },
     {
       "id": 5140,
-      "fac": false,
+      "fac": true,
       "type": "PN",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0UKF",
-      "town": "MILTON KEYNES ",
+      "town": "MILTON KEYNES",
       "modeCodes": [
         "X"
       ],
@@ -25546,7 +25618,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO92OB",
-      "dbwErp": 5.7,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SP8539",
         "antennaHeight": 18,
@@ -26406,7 +26478,7 @@
     },
     {
       "id": 5195,
-      "fac": false,
+      "fac": true,
       "type": "PX",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0WDA",
@@ -26421,7 +26493,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO83LT",
-      "dbwErp": 7,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SD3135",
         "antennaHeight": 6,
@@ -31054,7 +31126,7 @@
       "id": 5493,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G3EWE",
       "town": "OLD ARLESFORD",
       "modeCodes": [
@@ -34070,30 +34142,6 @@
       }
     },
     {
-      "id": 5684,
-      "fac": true,
-      "type": "PX",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G0BMH",
-      "town": "OSWALDTWISTLE",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 14105000,
-      "repeater": "GB7OSW",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 2.7,
-      "band": "20M",
-      "locator": "IO83",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SD7427",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 5685,
       "fac": true,
       "type": "DM",
@@ -35604,7 +35652,7 @@
       "id": 5779,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GW7VFJ",
       "town": "HOLYWELL",
       "modeCodes": [
@@ -37408,7 +37456,7 @@
       "id": 5894,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0IPK",
       "town": "DAGENHAM",
       "modeCodes": [
@@ -37501,6 +37549,30 @@
         "ngr": "SE3505",
         "antennaHeight": 5,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 5901,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G0BMH",
+      "town": "OSWALDTWISTLE",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 14102300,
+      "repeater": "GB7OSW",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 0.5,
+      "band": "20M",
+      "locator": "IO83",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SD7427",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
