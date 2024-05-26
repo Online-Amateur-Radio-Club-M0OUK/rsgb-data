@@ -17524,7 +17524,7 @@
       "id": 4379,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GW8VFQ",
       "town": "SWANSEA",
       "modeCodes": [
@@ -24165,7 +24165,7 @@
     },
     {
       "id": 5036,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0DIT",
@@ -24176,11 +24176,11 @@
       "tx": 430850000,
       "repeater": "GB3KT",
       "rx": 438450000,
-      "ctcss": 82.5,
+      "ctcss": 74.4,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO93AU",
-      "dbwErp": 10,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SE0541",
         "antennaHeight": 7,
@@ -29531,7 +29531,7 @@
       "id": 5380,
       "fac": true,
       "type": "PX",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "2E0IJC",
       "town": "KILLINGWORTH",
       "modeCodes": [
@@ -32477,10 +32477,10 @@
     {
       "id": 5593,
       "fac": true,
-      "type": "PN",
+      "type": "PX",
       "status": "OPERATIONAL",
       "keeperCallsign": "M7SVN",
-      "town": "DORCHESTER",
+      "town": "WEYMOUTH",
       "modeCodes": [
         "X"
       ],
@@ -32490,11 +32490,11 @@
       "ctcss": 0,
       "txbw": 12.5,
       "band": "2M",
-      "locator": "IO80SR",
+      "locator": "IO80SQ",
       "dbwErp": 7,
       "extraDetails": {
-        "ngr": "SY6890",
-        "antennaHeight": 6,
+        "ngr": "SY6785",
+        "antennaHeight": 5,
         "polarisation": "V"
       }
     },
@@ -36192,8 +36192,7 @@
       "keeperCallsign": "MM0TXO",
       "town": "LESLIE",
       "modeCodes": [
-        "A",
-        "M:1"
+        "A"
       ],
       "tx": 430887500,
       "repeater": "GB3HL",
@@ -36650,7 +36649,7 @@
       "id": 5832,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0DIT",
       "town": "KEIGHLEY",
       "modeCodes": [
@@ -37571,6 +37570,55 @@
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "SD7427",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 5903,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0YDG",
+      "town": "WAKEFIELD",
+      "modeCodes": [
+        "A",
+        "D"
+      ],
+      "tx": 430950000,
+      "repeater": "GB3WP-B",
+      "rx": 438550000,
+      "ctcss": 88.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93HO",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "SE3914",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 5904,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M1VSR",
+      "town": "STOCKPORT",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430087500,
+      "repeater": "MB7IMA",
+      "rx": 430087500,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SJ9589",
         "antennaHeight": 0,
         "polarisation": ""
       }
