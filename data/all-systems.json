@@ -1677,30 +1677,6 @@
       }
     },
     {
-      "id": 771,
-      "fac": false,
-      "type": "AV",
-      "status": "REDUCED OUTPUT",
-      "keeperCallsign": "G1YFF",
-      "town": "WICKHAMBROOK",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145687500,
-      "repeater": "GB3EA",
-      "rx": 145087500,
-      "ctcss": 110.9,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO02GE",
-      "dbwErp": 12.8,
-      "extraDetails": {
-        "ngr": "TL7457",
-        "antennaHeight": 81,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 776,
       "fac": false,
       "type": "AV",
@@ -7028,31 +7004,6 @@
       "extraDetails": {
         "ngr": "SE3039",
         "antennaHeight": 37,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 2459,
-      "fac": false,
-      "type": "DM",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0HOW",
-      "town": "RYE",
-      "modeCodes": [
-        "A",
-        "F"
-      ],
-      "tx": 0,
-      "repeater": "GB7RY",
-      "rx": 0,
-      "ctcss": 103.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO00HW",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TQ8320",
-        "antennaHeight": 7,
         "polarisation": "V"
       }
     },
@@ -13790,11 +13741,11 @@
     },
     {
       "id": 3972,
-      "fac": false,
+      "fac": true,
       "type": "PX",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0ODZ",
-      "town": "EASINGTON LANE",
+      "town": "HOUGHTON LE SPRING",
       "modeCodes": [
         "X"
       ],
@@ -13805,7 +13756,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO94GT",
-      "dbwErp": 10,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "NZ3646",
         "antennaHeight": 12,
@@ -14229,7 +14180,7 @@
     },
     {
       "id": 4036,
-      "fac": false,
+      "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
       "keeperCallsign": "2M0FPI",
@@ -14244,7 +14195,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO87WC",
-      "dbwErp": -0.5,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "NJ9303",
         "antennaHeight": 8,
@@ -16160,7 +16111,7 @@
     },
     {
       "id": 4254,
-      "fac": false,
+      "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
       "keeperCallsign": "G1JKE",
@@ -16175,7 +16126,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO94JC",
-      "dbwErp": -2.9,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "SE5369",
         "antennaHeight": 6,
@@ -16949,7 +16900,7 @@
     },
     {
       "id": 4325,
-      "fac": false,
+      "fac": true,
       "type": "AP",
       "status": "OPERATIONAL",
       "keeperCallsign": "G7KDM",
@@ -16964,7 +16915,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO91ES",
-      "dbwErp": 4.4,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SP2807",
         "antennaHeight": 7,
@@ -18830,11 +18781,11 @@
     },
     {
       "id": 4520,
-      "fac": false,
+      "fac": true,
       "type": "AP",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0WKR",
-      "town": "HARROGATE",
+      "town": "SUMMERBRIDGE",
       "modeCodes": [
         "X"
       ],
@@ -18845,7 +18796,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO94EB",
-      "dbwErp": 3.2,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SE2263",
         "antennaHeight": 6,
@@ -20254,7 +20205,7 @@
     },
     {
       "id": 4685,
-      "fac": false,
+      "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
       "keeperCallsign": "2M0JUM",
@@ -20269,7 +20220,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO75",
-      "dbwErp": 1.6,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "NS3980",
         "antennaHeight": 0,
@@ -22099,11 +22050,11 @@
     },
     {
       "id": 4871,
-      "fac": false,
+      "fac": true,
       "type": "AP",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4HDS",
-      "town": "ROCHESTER",
+      "town": "OTTERBURN",
       "modeCodes": [
         "X"
       ],
@@ -22114,7 +22065,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO85UG",
-      "dbwErp": 2.6,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "NY8298",
         "antennaHeight": 9,
@@ -25555,7 +25506,7 @@
     },
     {
       "id": 5135,
-      "fac": false,
+      "fac": true,
       "type": "PN",
       "status": "OPERATIONAL",
       "keeperCallsign": "G7HMV",
@@ -25570,7 +25521,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO91QV",
-      "dbwErp": 7,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SP9323",
         "antennaHeight": 8,
@@ -26916,7 +26867,7 @@
     },
     {
       "id": 5222,
-      "fac": false,
+      "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
       "keeperCallsign": "2M0ROT",
@@ -26931,7 +26882,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO75PW",
-      "dbwErp": -1.3,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "NS3174",
         "antennaHeight": 6,
@@ -36112,6 +36063,30 @@
       }
     },
     {
+      "id": 5803,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0WVV",
+      "town": "HORSHAM ST. FAITH",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430925000,
+      "repeater": "MX0WVV",
+      "rx": 438525000,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO02PQ",
+      "dbwErp": 11.5,
+      "extraDetails": {
+        "ngr": "TG2114",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 5804,
       "fac": true,
       "type": "DM",
@@ -37099,7 +37074,7 @@
       "id": 5876,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0VXT",
       "town": "PRESTON",
       "modeCodes": [
@@ -37578,7 +37553,7 @@
       "id": 5903,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "M0YDG",
       "town": "WAKEFIELD",
       "modeCodes": [
@@ -37621,6 +37596,55 @@
         "ngr": "SJ9589",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 5905,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G1YFF",
+      "town": "6.5MILES SW BURY ST EDMUNDS ",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145687500,
+      "repeater": "GB3EA ",
+      "rx": 145087500,
+      "ctcss": 110.9,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "J002",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TL7856",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 5907,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2M0FPI",
+      "town": "ABERDEEN",
+      "modeCodes": [
+        "D",
+        "F"
+      ],
+      "tx": 439150000,
+      "repeater": "2M0FPI",
+      "rx": 430150000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO87WC",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NJ9303",
+        "antennaHeight": 8,
+        "polarisation": "V"
       }
     }
   ]
