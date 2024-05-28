@@ -12153,7 +12153,7 @@
     },
     {
       "id": 3718,
-      "fac": false,
+      "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0VAF",
@@ -12168,7 +12168,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO93HW",
-      "dbwErp": -1,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "SE3949",
         "antennaHeight": 1,
@@ -14429,7 +14429,7 @@
     },
     {
       "id": 4074,
-      "fac": false,
+      "fac": true,
       "type": "AP",
       "status": "OPERATIONAL",
       "keeperCallsign": "MM0ROR",
@@ -14444,7 +14444,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO87",
-      "dbwErp": 5.1,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "NJ9008",
         "antennaHeight": 0,
@@ -18956,7 +18956,7 @@
     },
     {
       "id": 4542,
-      "fac": false,
+      "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
       "keeperCallsign": "G6XJZ",
@@ -18971,7 +18971,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO90",
-      "dbwErp": 1.4,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "SU4221",
         "antennaHeight": 0,
@@ -20743,7 +20743,7 @@
     },
     {
       "id": 4758,
-      "fac": false,
+      "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
       "keeperCallsign": "G6JVT",
@@ -20758,7 +20758,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO90ST",
-      "dbwErp": 1.3,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "TQ1103",
         "antennaHeight": 6,
@@ -25145,7 +25145,7 @@
     },
     {
       "id": 5112,
-      "fac": false,
+      "fac": true,
       "type": "AP",
       "status": "OPERATIONAL",
       "keeperCallsign": "GI0AZB",
@@ -25160,7 +25160,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO64MW",
-      "dbwErp": 3,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "IC6509",
         "antennaHeight": 4,
@@ -26722,7 +26722,7 @@
     },
     {
       "id": 5211,
-      "fac": false,
+      "fac": true,
       "type": "PX",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4EKM",
@@ -26737,7 +26737,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO94GV",
-      "dbwErp": 7,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "NZ3554",
         "antennaHeight": 10,
@@ -26794,7 +26794,7 @@
     },
     {
       "id": 5217,
-      "fac": false,
+      "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4JBW",
@@ -26809,7 +26809,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO81PD",
-      "dbwErp": 2.3,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "ST4836",
         "antennaHeight": 8,
@@ -32357,7 +32357,7 @@
       "id": 5587,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M7PTH",
       "town": "TAL-Y-BONT",
       "modeCodes": [
@@ -32868,7 +32868,7 @@
       "id": 5618,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4SBL",
       "town": "LINCOLNSHIRE",
       "modeCodes": [
@@ -35974,6 +35974,7 @@
       "town": "LEDBURY",
       "modeCodes": [
         "A",
+        "D",
         "F"
       ],
       "tx": 430900000,
@@ -35983,10 +35984,10 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO82TA",
-      "dbwErp": 3,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "SO7438",
-        "antennaHeight": 6,
+        "antennaHeight": 10,
         "polarisation": "V"
       }
     },
@@ -36187,7 +36188,7 @@
       "id": 5809,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0RNW",
       "town": "WOLVERHAMPTON",
       "modeCodes": [
@@ -37578,7 +37579,7 @@
       "id": 5904,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M1VSR",
       "town": "STOCKPORT",
       "modeCodes": [
@@ -37623,6 +37624,30 @@
       }
     },
     {
+      "id": 5906,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G1YFF",
+      "town": "6.5MILES SW BURY ST EDMUNDS ",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430975000,
+      "repeater": "GB3EZ",
+      "rx": 438575000,
+      "ctcss": 110.9,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "J002",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TL7856",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
       "id": 5907,
       "fac": true,
       "type": "DV",
@@ -37645,6 +37670,55 @@
         "ngr": "NJ9303",
         "antennaHeight": 8,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 5908,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MW0MPD",
+      "town": "BRIDGEND",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 431125000,
+      "repeater": "MW0MPD",
+      "rx": 431125000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81EM",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SS8980",
+        "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 5909,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G1TTR",
+      "town": "ERDINGTON",
+      "modeCodes": [
+        "A",
+        "M:8"
+      ],
+      "tx": 433300000,
+      "repeater": "G1TTR",
+      "rx": 438300000,
+      "ctcss": 67,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO92",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SP1192",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
