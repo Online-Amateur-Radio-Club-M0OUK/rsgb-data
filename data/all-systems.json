@@ -123,7 +123,7 @@
     },
     {
       "id": 165,
-      "fac": false,
+      "fac": true,
       "type": "RL",
       "status": "OPERATIONAL",
       "keeperCallsign": "G7OCK",
@@ -9826,7 +9826,7 @@
     },
     {
       "id": 3175,
-      "fac": false,
+      "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0DYL",
@@ -9835,7 +9835,7 @@
         "F"
       ],
       "tx": 431100000,
-      "repeater": "MB6IYL",
+      "repeater": "MB6YL",
       "rx": 431100000,
       "ctcss": 0,
       "txbw": 12.5,
@@ -9850,7 +9850,7 @@
     },
     {
       "id": 3180,
-      "fac": false,
+      "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0NFI",
@@ -9865,7 +9865,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO83TR",
-      "dbwErp": 1,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "SD7427",
         "antennaHeight": 10,
@@ -9874,7 +9874,7 @@
     },
     {
       "id": 3181,
-      "fac": false,
+      "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0NFI",
@@ -9883,13 +9883,13 @@
         "A"
       ],
       "tx": 70387500,
-      "repeater": "MB7ANM",
+      "repeater": "MB7INM",
       "rx": 70387500,
       "ctcss": 82.5,
       "txbw": 12.5,
       "band": "4M",
       "locator": "IO83TR",
-      "dbwErp": 0.4,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "SD7427",
         "antennaHeight": 10,
@@ -12273,7 +12273,7 @@
     },
     {
       "id": 3746,
-      "fac": false,
+      "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
       "keeperCallsign": "2E0KVJ",
@@ -12288,7 +12288,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO80IR",
-      "dbwErp": 1.3,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "SY0892",
         "antennaHeight": 10,
@@ -15476,7 +15476,7 @@
     },
     {
       "id": 4166,
-      "fac": false,
+      "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0MVK",
@@ -15485,7 +15485,7 @@
         "A"
       ],
       "tx": 430062500,
-      "repeater": "MB7ANL",
+      "repeater": "MB7INL",
       "rx": 430062500,
       "ctcss": 77,
       "txbw": 12.5,
@@ -15918,7 +15918,7 @@
     },
     {
       "id": 4227,
-      "fac": false,
+      "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0MVK",
@@ -15933,7 +15933,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO82",
-      "dbwErp": 0.5,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "SJ8443",
         "antennaHeight": 0,
@@ -16461,7 +16461,7 @@
         "M:5"
       ],
       "tx": 431137500,
-      "repeater": "MB6IEV",
+      "repeater": "MB6EV",
       "rx": 431137500,
       "ctcss": 0,
       "txbw": 12.5,
@@ -16827,7 +16827,7 @@
     },
     {
       "id": 4319,
-      "fac": false,
+      "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
       "keeperCallsign": "G7LFC",
@@ -16836,13 +16836,13 @@
         "F"
       ],
       "tx": 431125000,
-      "repeater": "MB6IOK",
+      "repeater": "MB6OK",
       "rx": 431125000,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO83NN",
-      "dbwErp": 0.6,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "SD4007",
         "antennaHeight": 7,
@@ -17049,7 +17049,7 @@
     },
     {
       "id": 4334,
-      "fac": false,
+      "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
       "keeperCallsign": "G1IAR",
@@ -17060,13 +17060,13 @@
         "F"
       ],
       "tx": 431087500,
-      "repeater": "MB6ISM",
+      "repeater": "MB6SM",
       "rx": 431087500,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO80JQ",
-      "dbwErp": -15.9,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "SY1289",
         "antennaHeight": 7,
@@ -19252,30 +19252,6 @@
       }
     },
     {
-      "id": 4576,
-      "fac": false,
-      "type": "AP",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G0TRT",
-      "town": "WARMINSTER",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144800000,
-      "repeater": "MB7VW",
-      "rx": 144800000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO81",
-      "dbwErp": 3,
-      "extraDetails": {
-        "ngr": "ST8647",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 4584,
       "fac": false,
       "type": "DM",
@@ -19912,7 +19888,7 @@
     },
     {
       "id": 4657,
-      "fac": false,
+      "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0MZR",
@@ -19921,13 +19897,13 @@
         "F"
       ],
       "tx": 431075000,
-      "repeater": "MB6IRN",
+      "repeater": "MB6RN",
       "rx": 431075000,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO83QQ",
-      "dbwErp": 3.2,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "SD5623",
         "antennaHeight": 5,
@@ -21192,7 +21168,7 @@
     },
     {
       "id": 4803,
-      "fac": false,
+      "fac": true,
       "type": "AP",
       "status": "OPERATIONAL",
       "keeperCallsign": "2E0TKK",
@@ -22297,7 +22273,7 @@
     },
     {
       "id": 4885,
-      "fac": false,
+      "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
       "keeperCallsign": "G7EVY",
@@ -22313,7 +22289,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO83OO",
-      "dbwErp": -2.2,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "SD4511",
         "antennaHeight": 6,
@@ -25362,7 +25338,7 @@
     },
     {
       "id": 5129,
-      "fac": false,
+      "fac": true,
       "type": "RL",
       "status": "OPERATIONAL",
       "keeperCallsign": "GW4OBA",
@@ -25377,7 +25353,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO72",
-      "dbwErp": 2.1,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "SN4945",
         "antennaHeight": 0,
@@ -27735,11 +27711,11 @@
     },
     {
       "id": 5275,
-      "fac": false,
+      "fac": true,
       "type": "PN",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0AHN",
-      "town": "BEECHINGSTOKE",
+      "town": "PEWSEY",
       "modeCodes": [
         "X"
       ],
@@ -27750,7 +27726,7 @@
       "txbw": 10,
       "band": "6M",
       "locator": "IO91",
-      "dbwErp": 3.2,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SU0959",
         "antennaHeight": 0,
@@ -28342,7 +28318,7 @@
     },
     {
       "id": 5311,
-      "fac": false,
+      "fac": true,
       "type": "RL",
       "status": "OPERATIONAL",
       "keeperCallsign": "MW0KJN",
@@ -28357,7 +28333,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO81",
-      "dbwErp": -1.2,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "SS7098",
         "antennaHeight": 0,
@@ -37455,7 +37431,7 @@
       "id": 5895,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "M0YDG ",
       "town": "WAKEFIELD",
       "modeCodes": [
@@ -37591,12 +37567,12 @@
       "ctcss": 77,
       "txbw": 12.5,
       "band": "70CM",
-      "locator": "IO83",
+      "locator": "IO83XJ",
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "SJ9589",
-        "antennaHeight": 0,
-        "polarisation": ""
+        "antennaHeight": 10,
+        "polarisation": "V"
       }
     },
     {
@@ -37719,6 +37695,30 @@
         "ngr": "SP1192",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 5910,
+      "fac": true,
+      "type": "RL",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0YDG",
+      "town": "WAKEFIELD",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 438550000,
+      "repeater": "GB3WP-L",
+      "rx": 430950000,
+      "ctcss": 88.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93HP",
+      "dbwErp": 0,
+      "extraDetails": {
+        "ngr": "SE3814",
+        "antennaHeight": 3,
+        "polarisation": "V"
       }
     }
   ]
