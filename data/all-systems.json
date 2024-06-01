@@ -491,7 +491,7 @@
     },
     {
       "id": 355,
-      "fac": false,
+      "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
       "keeperCallsign": "G3SNA",
@@ -500,7 +500,7 @@
         "A"
       ],
       "tx": 430012500,
-      "repeater": "MB7AGF",
+      "repeater": "MB7IGF",
       "rx": 430012500,
       "ctcss": 82.5,
       "txbw": 12.5,
@@ -6769,7 +6769,7 @@
     },
     {
       "id": 2426,
-      "fac": false,
+      "fac": true,
       "type": "AP",
       "status": "OPERATIONAL",
       "keeperCallsign": "G7FBD",
@@ -6784,7 +6784,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO81TK",
-      "dbwErp": 10,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "ST7170",
         "antennaHeight": 7,
@@ -8227,7 +8227,7 @@
     },
     {
       "id": 2775,
-      "fac": false,
+      "fac": true,
       "type": "AP",
       "status": "OPERATIONAL",
       "keeperCallsign": "G7FBD",
@@ -8242,7 +8242,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO81",
-      "dbwErp": -2.4,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "ST6570",
         "antennaHeight": 0,
@@ -9181,11 +9181,11 @@
     },
     {
       "id": 3035,
-      "fac": false,
+      "fac": true,
       "type": "AP",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0OCB",
-      "town": "STANLEY CROOK",
+      "town": "CROOK",
       "modeCodes": [
         "X"
       ],
@@ -9196,7 +9196,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO94DR",
-      "dbwErp": 7,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "NZ1637",
         "antennaHeight": 10,
@@ -10823,7 +10823,7 @@
     },
     {
       "id": 3415,
-      "fac": false,
+      "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
       "keeperCallsign": "GM7KBK",
@@ -10842,7 +10842,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO87VD",
-      "dbwErp": 2.8,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "NJ8906",
         "antennaHeight": 8,
@@ -14769,7 +14769,7 @@
     },
     {
       "id": 4103,
-      "fac": false,
+      "fac": true,
       "type": "AP",
       "status": "OPERATIONAL",
       "keeperCallsign": "MM0ROR",
@@ -14784,7 +14784,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO87WD",
-      "dbwErp": 3.6,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "NJ9308",
         "antennaHeight": 15,
@@ -15237,7 +15237,7 @@
     },
     {
       "id": 4142,
-      "fac": false,
+      "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4TXA",
@@ -15246,13 +15246,13 @@
         "A"
       ],
       "tx": 430025000,
-      "repeater": "MB7ABB",
+      "repeater": "MB7IBB",
       "rx": 430025000,
       "ctcss": 67,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO92HB",
-      "dbwErp": 5.6,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "SP4439",
         "antennaHeight": 5,
@@ -18907,7 +18907,7 @@
       "id": 4529,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0NTO",
       "town": "CLAYTON LE MOORS",
       "modeCodes": [
@@ -19767,7 +19767,7 @@
     },
     {
       "id": 4644,
-      "fac": false,
+      "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
       "keeperCallsign": "MW0PUG",
@@ -19776,13 +19776,13 @@
         "A"
       ],
       "tx": 430025000,
-      "repeater": "MB7AGS",
+      "repeater": "MB7IGS",
       "rx": 430025000,
       "ctcss": 110.9,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO83",
-      "dbwErp": 5.5,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "SH9476",
         "antennaHeight": 0,
@@ -20525,7 +20525,7 @@
     },
     {
       "id": 4733,
-      "fac": false,
+      "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4NJI",
@@ -20540,7 +20540,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO93HK",
-      "dbwErp": 1.9,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "SK4493",
         "antennaHeight": 8,
@@ -20573,7 +20573,7 @@
     },
     {
       "id": 4735,
-      "fac": false,
+      "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4NJI",
@@ -20582,13 +20582,13 @@
         "A"
       ],
       "tx": 430062500,
-      "repeater": "MB7ALB",
+      "repeater": "MB7ILB",
       "rx": 430062500,
       "ctcss": 71.9,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO93HK",
-      "dbwErp": 4.1,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "SK4493",
         "antennaHeight": 8,
@@ -20606,7 +20606,7 @@
         "F"
       ],
       "tx": 433650000,
-      "repeater": "MB6ISC",
+      "repeater": "MB6SC",
       "rx": 433650000,
       "ctcss": 0,
       "txbw": 12.5,
@@ -29335,30 +29335,6 @@
       }
     },
     {
-      "id": 5374,
-      "fac": true,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0RVB",
-      "town": "LEEDS",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 438800000,
-      "repeater": "M0RVB",
-      "rx": 434000000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO93EU",
-      "dbwErp": 0,
-      "extraDetails": {
-        "ngr": "SE2638",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5375,
       "fac": true,
       "type": "AG",
@@ -35579,20 +35555,20 @@
       "id": 5781,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M7FGZ",
       "town": "MANCHESTER",
       "modeCodes": [
         "A"
       ],
-      "tx": 145237500,
+      "tx": 430062500,
       "repeater": "M7FGZ",
-      "rx": 145237500,
+      "rx": 430062500,
       "ctcss": 82.5,
       "txbw": 12.5,
-      "band": "2M",
+      "band": "70CM",
       "locator": "IO83VN",
-      "dbwErp": 0,
+      "dbwErp": 3,
       "extraDetails": {
         "ngr": "SD8607",
         "antennaHeight": 0,
@@ -35688,7 +35664,7 @@
       ],
       "tx": 430075000,
       "repeater": "MB7IRW",
-      "rx": 0,
+      "rx": 430075000,
       "ctcss": 82.5,
       "txbw": 12.5,
       "band": "70CM",
@@ -37557,7 +37533,7 @@
       "type": "AV",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "G1YFF",
-      "town": "6.5MILES SW BURY ST EDMUNDS ",
+      "town": "BURY ST EDMUNDS ",
       "modeCodes": [
         "A"
       ],
@@ -37581,7 +37557,7 @@
       "type": "AV",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "G1YFF",
-      "town": "6.5MILES SW BURY ST EDMUNDS ",
+      "town": "BURY ST EDMUNDS ",
       "modeCodes": [
         "A"
       ],
@@ -37708,8 +37684,8 @@
         "A"
       ],
       "tx": 430025000,
-      "repeater": "MB7IEX",
-      "rx": 0,
+      "repeater": "MB7IEM",
+      "rx": 430025000,
       "ctcss": 77,
       "txbw": 12.5,
       "band": "70CM",
