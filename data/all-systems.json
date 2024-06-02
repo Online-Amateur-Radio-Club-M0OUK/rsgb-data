@@ -16162,7 +16162,7 @@
       "id": 4256,
       "fac": false,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM7LUN",
       "town": "DUNS",
       "modeCodes": [
@@ -16188,7 +16188,7 @@
       "id": 4258,
       "fac": true,
       "type": "RL",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM7LUN",
       "town": "GALASHIELS",
       "modeCodes": [
@@ -16232,30 +16232,6 @@
         "ngr": "TQ5187",
         "antennaHeight": 38,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 4263,
-      "fac": false,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "MW0IBF",
-      "town": "PORT TALBOT",
-      "modeCodes": [
-        "M:5"
-      ],
-      "tx": 430300000,
-      "repeater": "GB7SA",
-      "rx": 439300000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SS7893",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -16872,31 +16848,6 @@
         "ngr": "ST1269",
         "antennaHeight": 6,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 4321,
-      "fac": false,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GW0NIS",
-      "town": "LLANGOLLEN",
-      "modeCodes": [
-        "M:12",
-        "N"
-      ],
-      "tx": 439496875,
-      "repeater": "GB7LL",
-      "rx": 430496875,
-      "ctcss": 0,
-      "txbw": 6.25,
-      "band": "70CM",
-      "locator": "IO82",
-      "dbwErp": 4,
-      "extraDetails": {
-        "ngr": "SJ2340",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -18832,30 +18783,6 @@
       }
     },
     {
-      "id": 4523,
-      "fac": false,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G1MAW",
-      "town": "LUDLOW",
-      "modeCodes": [
-        "N"
-      ],
-      "tx": 439503125,
-      "repeater": "GB7TT",
-      "rx": 430503125,
-      "ctcss": 0,
-      "txbw": 6.25,
-      "band": "70CM",
-      "locator": "IO82",
-      "dbwErp": 13,
-      "extraDetails": {
-        "ngr": "SO6077",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 4525,
       "fac": true,
       "type": "AP",
@@ -18927,30 +18854,6 @@
       "dbwErp": 0,
       "extraDetails": {
         "ngr": "SD7430",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 4540,
-      "fac": false,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0WYP",
-      "town": "LEOMINISTER",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430875000,
-      "repeater": "GB3JM",
-      "rx": 438475000,
-      "ctcss": 118.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO82",
-      "dbwErp": 10,
-      "extraDetails": {
-        "ngr": "SO4862",
         "antennaHeight": 0,
         "polarisation": ""
       }
@@ -25871,7 +25774,7 @@
       "id": 5159,
       "fac": true,
       "type": "PN",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0ZEN",
       "town": "COLEFORD",
       "modeCodes": [
@@ -37768,6 +37671,30 @@
         "ngr": "NJ8050",
         "antennaHeight": 4,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 5924,
+      "fac": true,
+      "type": "AV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G8IQP",
+      "town": "BELPER",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430875000,
+      "repeater": "MB5HM",
+      "rx": 438475000,
+      "ctcss": 71.9,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SK3645",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
