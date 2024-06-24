@@ -24780,7 +24780,7 @@
       "id": 5109,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0YDG",
       "town": "LEEDS",
       "modeCodes": [
@@ -32853,7 +32853,7 @@
       "id": 5651,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0DUQ",
       "town": "HEDNESFORD",
       "modeCodes": [
@@ -33405,6 +33405,30 @@
         "ngr": "SS6609",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 5690,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0GZP",
+      "town": "WEMBLEY",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 7052750,
+      "repeater": "GB7WEM",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 500,
+      "band": "40M",
+      "locator": "IO91UN",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TQ1612",
+        "antennaHeight": 6,
+        "polarisation": "H"
       }
     },
     {
@@ -37690,14 +37714,14 @@
       "id": 5964,
       "fac": true,
       "type": "AG",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M6JXB",
       "town": "STOKE-ON-TRENT",
       "modeCodes": [
         "A"
       ],
       "tx": 430075000,
-      "repeater": "M6JXB",
+      "repeater": "MB7IXB",
       "rx": 430075000,
       "ctcss": 82.5,
       "txbw": 12.5,
@@ -37805,6 +37829,102 @@
         "ngr": "SP0498",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 5970,
+      "fac": true,
+      "type": "",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM7RYR",
+      "town": "EDINBURGH",
+      "modeCodes": [
+        "N"
+      ],
+      "tx": 430837500,
+      "repeater": "GB7ID",
+      "rx": 438437500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO85",
+      "dbwErp": 10.8,
+      "extraDetails": {
+        "ngr": "NT2570",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 5971,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M6JXB",
+      "town": "STOKE-ON-TRENT",
+      "modeCodes": [
+        "M:15"
+      ],
+      "tx": 144875000,
+      "repeater": "MB6XB",
+      "rx": 144875000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO83WA",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SJ8948",
+        "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 5972,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G7WBX",
+      "town": "BRIDGNORTH",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430075000,
+      "repeater": "G7WBX",
+      "rx": 430075000,
+      "ctcss": 136.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO82",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SO7286",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 5973,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "MM1PTT",
+      "town": "GLASGOW",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144937500,
+      "repeater": "GB7PTT",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO75VV",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NS6270",
+        "antennaHeight": 9,
+        "polarisation": "V"
       }
     }
   ]
