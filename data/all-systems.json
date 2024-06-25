@@ -18591,7 +18591,7 @@
       "id": 4517,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G7TYP",
       "town": "ALFRETON",
       "modeCodes": [
@@ -35400,7 +35400,7 @@
       "id": 5811,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0RGG",
       "town": "ELLESMERE PORT",
       "modeCodes": [
@@ -37714,7 +37714,7 @@
       "id": 5964,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M6JXB",
       "town": "STOKE-ON-TRENT",
       "modeCodes": [
