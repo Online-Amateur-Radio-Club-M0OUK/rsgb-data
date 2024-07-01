@@ -22700,12 +22700,12 @@
       "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
-      "locator": "IO70",
+      "locator": "IO70UU",
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "SS3807",
-        "antennaHeight": 0,
-        "polarisation": ""
+        "antennaHeight": 12,
+        "polarisation": "V"
       }
     },
     {
@@ -32682,7 +32682,7 @@
       "id": 5646,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM8SAU",
       "town": "ISLE OF NORTH UIST",
       "modeCodes": [
@@ -34031,30 +34031,6 @@
       "extraDetails": {
         "ngr": "SU9979",
         "antennaHeight": 7,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 5737,
-      "fac": true,
-      "type": "AV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0OFF",
-      "town": "GRAVELEY",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 433125000,
-      "repeater": "GB3OV",
-      "rx": 434725000,
-      "ctcss": 94.8,
-      "txbw": 25,
-      "band": "70CM",
-      "locator": " IO92VG",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TL2465",
-        "antennaHeight": 10,
         "polarisation": "V"
       }
     },
@@ -36821,6 +36797,30 @@
       }
     },
     {
+      "id": 5914,
+      "fac": true,
+      "type": "AV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0OFF",
+      "town": "GRAVELEY",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 439375000,
+      "repeater": "GB3OV",
+      "rx": 430375000,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": " IO92VG",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TL2465",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 5915,
       "fac": true,
       "type": "AG",
@@ -38095,6 +38095,30 @@
       "extraDetails": {
         "ngr": "TG2210",
         "antennaHeight": 12,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 5997,
+      "fac": true,
+      "type": "PX",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2E0HKD",
+      "town": "BASINGSTOKE",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 70312500,
+      "repeater": "GB7BSK",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "4M",
+      "locator": "IO91KG",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SU6153",
+        "antennaHeight": 7,
         "polarisation": "V"
       }
     }
