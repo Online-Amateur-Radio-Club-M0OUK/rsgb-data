@@ -19056,7 +19056,7 @@
     },
     {
       "id": 4594,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G7AJP",
@@ -22188,7 +22188,7 @@
       "repeater": "GB3NM",
       "rx": 434775000,
       "ctcss": 71.9,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO92",
       "dbwErp": 11,
@@ -22760,7 +22760,7 @@
       "id": 4959,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "2M0MSU",
       "town": "MAYBOLE",
       "modeCodes": [
@@ -26426,7 +26426,7 @@
       "id": 5221,
       "fac": false,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0WMB",
       "town": "PLYMPTON",
       "modeCodes": [
@@ -36923,7 +36923,7 @@
       "id": 5922,
       "fac": true,
       "type": "PN",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "2E0SDR",
       "town": "COLEFORD",
       "modeCodes": [
@@ -38119,6 +38119,54 @@
       "extraDetails": {
         "ngr": "SU6153",
         "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 5998,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2I0NIE",
+      "town": "ENNISKILLEN",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 144962500,
+      "repeater": "MB7ICM",
+      "rx": 0,
+      "ctcss": 110.9,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "I064EI",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "IH2545",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 5999,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MW0WVR",
+      "town": "NR TONYPANDY",
+      "modeCodes": [
+        "M:3"
+      ],
+      "tx": 431200000,
+      "repeater": "MW0WVR",
+      "rx": 431200000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81GO",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SS9919",
+        "antennaHeight": 5,
         "polarisation": "V"
       }
     }
