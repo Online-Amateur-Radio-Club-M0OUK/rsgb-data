@@ -4559,9 +4559,9 @@
     },
     {
       "id": 1207,
-      "fac": false,
+      "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G3ZPU",
       "town": "ASGARBY",
       "modeCodes": [
@@ -15871,7 +15871,7 @@
     },
     {
       "id": 4223,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GM0RML",
@@ -15888,7 +15888,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO87BN",
-      "dbwErp": 13,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "NH8655",
         "antennaHeight": 8,
@@ -20060,7 +20060,7 @@
       "id": 4702,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0JOW",
       "town": "NEWBURY",
       "modeCodes": [
@@ -34140,7 +34140,7 @@
       "id": 5742,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0JQQ",
       "town": "CRAMLINGTON",
       "modeCodes": [
@@ -34669,30 +34669,6 @@
         "ngr": "NX7662",
         "antennaHeight": 10,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 5775,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G4XUR",
-      "town": "SIMONSBATH SOMERSET",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 438400000,
-      "repeater": "GB3RG",
-      "rx": 430800000,
-      "ctcss": 141.3,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81",
-      "dbwErp": 11.1,
-      "extraDetails": {
-        "ngr": "SS7436",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -35445,30 +35421,6 @@
         "ngr": "SK0747",
         "antennaHeight": 8,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 5819,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G4XUR",
-      "town": "PINKERY CTR, SIMONSBATH",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430987500,
-      "repeater": "GB3GS",
-      "rx": 438587500,
-      "ctcss": 141.3,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO82",
-      "dbwErp": 12,
-      "extraDetails": {
-        "ngr": "SS7241",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -38023,6 +37975,30 @@
       }
     },
     {
+      "id": 5991,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M1OJS",
+      "town": "MORPETH",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430262500,
+      "repeater": "MB9HBB",
+      "rx": 439262500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO95",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NU2401",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
       "id": 5994,
       "fac": true,
       "type": "PX",
@@ -38167,6 +38143,54 @@
       "extraDetails": {
         "ngr": "SS9919",
         "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6000,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2E0JML",
+      "town": "DUNSTABLE",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 434487500,
+      "repeater": "MB6JM",
+      "rx": 434487500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91RV",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TL0122",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6002,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G8IPG",
+      "town": "WINCHESTER",
+      "modeCodes": [
+        "M:5"
+      ],
+      "tx": 439600000,
+      "repeater": "GB7CW",
+      "rx": 430600000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91HB",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SU4529",
+        "antennaHeight": 25,
         "polarisation": "V"
       }
     }
