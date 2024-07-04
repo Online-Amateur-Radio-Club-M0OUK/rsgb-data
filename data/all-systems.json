@@ -15605,7 +15605,7 @@
       "id": 4184,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "G7RUP",
       "town": "LINCOLN",
       "modeCodes": [
@@ -24726,30 +24726,6 @@
       }
     },
     {
-      "id": 5108,
-      "fac": true,
-      "type": "AP",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "2E0JML",
-      "town": "DUNSTABLE",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144800000,
-      "repeater": "MB7UJM",
-      "rx": 144800000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO91RV",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TL0122",
-        "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5109,
       "fac": true,
       "type": "AV",
@@ -28379,7 +28355,7 @@
       "id": 5354,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "G7RUP",
       "town": "LINCOLN",
       "modeCodes": [
@@ -32975,7 +32951,7 @@
       "id": 5662,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M1CYR",
       "town": "CANNOCK",
       "modeCodes": [
@@ -36874,7 +36850,7 @@
     {
       "id": 5922,
       "fac": true,
-      "type": "PN",
+      "type": "PX",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "2E0SDR",
       "town": "COLEFORD",
@@ -36882,7 +36858,7 @@
         "X"
       ],
       "tx": 144925000,
-      "repeater": "MB7NFD",
+      "repeater": "GB7NFD",
       "rx": 144925000,
       "ctcss": 0,
       "txbw": 12.5,
@@ -37213,7 +37189,7 @@
       "id": 5941,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0NYW",
       "town": "SHIREMOOR ",
       "modeCodes": [
@@ -37542,7 +37518,7 @@
       "id": 5961,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2W0YOX",
       "town": "CHEPSTOW",
       "modeCodes": [
@@ -38191,6 +38167,30 @@
       "extraDetails": {
         "ngr": "SU4529",
         "antennaHeight": 25,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6005,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0TJX",
+      "town": "YATE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430075000,
+      "repeater": "MB7IYA",
+      "rx": 430075000,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81TN",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "ST7183",
+        "antennaHeight": 10,
         "polarisation": "V"
       }
     }
