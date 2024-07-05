@@ -8598,7 +8598,7 @@
       "id": 2860,
       "fac": false,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0ZEP",
       "town": "BLANDFORD",
       "modeCodes": [
@@ -18859,32 +18859,6 @@
       }
     },
     {
-      "id": 4561,
-      "fac": false,
-      "type": "DM",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GW4OZU",
-      "town": "MAENCLOCHOG",
-      "modeCodes": [
-        "A",
-        "D",
-        "F"
-      ],
-      "tx": 145737500,
-      "repeater": "GB7PD",
-      "rx": 145137500,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO71OV",
-      "dbwErp": 11.9,
-      "extraDetails": {
-        "ngr": "SN0727",
-        "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 4563,
       "fac": true,
       "type": "DG",
@@ -25545,31 +25519,6 @@
       }
     },
     {
-      "id": 5168,
-      "fac": true,
-      "type": "DM",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0ZAH",
-      "town": "THORPE ST ANDREW",
-      "modeCodes": [
-        "A",
-        "M"
-      ],
-      "tx": 439350000,
-      "repeater": "GB3RP",
-      "rx": 430350000,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO02",
-      "dbwErp": 10,
-      "extraDetails": {
-        "ngr": "TG2609",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 5169,
       "fac": false,
       "type": "DM",
@@ -29222,30 +29171,6 @@
       }
     },
     {
-      "id": 5403,
-      "fac": true,
-      "type": "AG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0ZAH",
-      "town": "NORWICH",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 70412500,
-      "repeater": "M0ZAH",
-      "rx": 0,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "4M",
-      "locator": "JO02QP",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TG2609",
-        "antennaHeight": 7,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5404,
       "fac": true,
       "type": "AG",
@@ -31421,30 +31346,6 @@
       "extraDetails": {
         "ngr": "TM1070",
         "antennaHeight": 9,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 5569,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0ZAH",
-      "town": "THORPE ST ANDREW",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145587500,
-      "repeater": "M0ZAH",
-      "rx": 144987500,
-      "ctcss": 173.8,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO02QP",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TG2609",
-        "antennaHeight": 8,
         "polarisation": "V"
       }
     },
@@ -35303,7 +35204,7 @@
       "id": 5814,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7SOJ",
       "town": "CHULMLEIGH",
       "modeCodes": [
@@ -36851,7 +36752,7 @@
       "id": 5922,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0SDR",
       "town": "COLEFORD",
       "modeCodes": [
@@ -38190,6 +38091,52 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "ST7183",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6006,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0ZAH",
+      "town": "THORPE ST ANDREW",
+      "modeCodes": null,
+      "tx": 145225000,
+      "repeater": "M0ZAH",
+      "rx": 145225000,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO02",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TG2609",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6007,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "2E0KUD",
+      "town": "LUTON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430037500,
+      "repeater": "MB7IUD",
+      "rx": 430037500,
+      "ctcss": 67,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91SV",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TL0324",
         "antennaHeight": 10,
         "polarisation": "V"
       }
