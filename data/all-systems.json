@@ -25670,7 +25670,7 @@
       "id": 5177,
       "fac": false,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4UVZ",
       "town": "TRULL",
       "modeCodes": [
@@ -32679,7 +32679,7 @@
       "id": 5651,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0DUQ",
       "town": "HEDNESFORD",
       "modeCodes": [
