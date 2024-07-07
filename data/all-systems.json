@@ -18591,7 +18591,7 @@
       "id": 4517,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7TYP",
       "town": "ALFRETON",
       "modeCodes": [
@@ -27651,30 +27651,6 @@
       }
     },
     {
-      "id": 5307,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0YDG",
-      "town": "WAKEFIELD",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 50550000,
-      "repeater": "GB3WP-L",
-      "rx": 50550000,
-      "ctcss": 88.5,
-      "txbw": 10,
-      "band": "6M",
-      "locator": "IO93HP",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SE3814",
-        "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5309,
       "fac": false,
       "type": "AV",
@@ -34768,7 +34744,7 @@
       "id": 5789,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M7GFA",
       "town": "CHORLEY",
       "modeCodes": [
@@ -38138,6 +38114,30 @@
       "extraDetails": {
         "ngr": "TL0324",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6010,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2E0XTA",
+      "town": "SOUTHEND ON SEA",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7USE",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO01IN",
+      "dbwErp": 11.8,
+      "extraDetails": {
+        "ngr": "TQ8786",
+        "antennaHeight": 50,
         "polarisation": "V"
       }
     }
