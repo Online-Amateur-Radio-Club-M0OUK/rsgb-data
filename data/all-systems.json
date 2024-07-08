@@ -1415,7 +1415,7 @@
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0MBA",
-      "town": "CLACTON",
+      "town": "CLACTON ON SEA",
       "modeCodes": [
         "A"
       ],
@@ -1487,7 +1487,7 @@
       "type": "TV",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0MBA",
-      "town": "CLACTON",
+      "town": "CLACTON ON SEA",
       "modeCodes": [
         "T"
       ],
@@ -12034,7 +12034,7 @@
     },
     {
       "id": 3709,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4LUE",
@@ -22001,18 +22001,19 @@
     },
     {
       "id": 4897,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0DUB",
       "town": "WAKEFIELD",
       "modeCodes": [
-        "F"
+        "F",
+        "A"
       ],
       "tx": 439512500,
       "repeater": "GB7WY",
       "rx": 430512500,
-      "ctcss": 0,
+      "ctcss": 82.5,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO93FR",
@@ -29917,7 +29918,7 @@
       "type": "AG",
       "status": "OPERATIONAL",
       "keeperCallsign": "G7HMV",
-      "town": "LUTON",
+      "town": "HARPENDEN",
       "modeCodes": [
         "A"
       ],
@@ -34289,7 +34290,7 @@
       "id": 5759,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GW3ATZ",
       "town": "HOPE",
       "modeCodes": [
@@ -37421,7 +37422,7 @@
       "type": "DG",
       "status": "OPERATIONAL",
       "keeperCallsign": "G1SCQ",
-      "town": "HEACHAM, KING'S LYNN",
+      "town": "HEACHAM KING'S LYNN",
       "modeCodes": [
         "F"
       ],
@@ -38118,6 +38119,27 @@
       }
     },
     {
+      "id": 6009,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0JXR",
+      "town": "BRISTOL",
+      "modeCodes": [
+        "A",
+        "M:11"
+      ],
+      "tx": 439150000,
+      "repeater": "M0JXR",
+      "rx": 430150000,
+      "ctcss": 110.9,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81PL",
+      "dbwErp": 7,
+      "extraDetails": null
+    },
+    {
       "id": 6010,
       "fac": true,
       "type": "AP",
@@ -38138,6 +38160,54 @@
       "extraDetails": {
         "ngr": "TQ8786",
         "antennaHeight": 50,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6011,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0IQW",
+      "town": "UXBRIDGE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430062500,
+      "repeater": "MB7IQW",
+      "rx": 0,
+      "ctcss": 136.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91SM",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TQ0881",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6012,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "MW0KJX",
+      "town": "DUNVANT ",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145287500,
+      "repeater": "MB7IMG",
+      "rx": 145287500,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO71XP",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SS5993",
+        "antennaHeight": 8,
         "polarisation": "V"
       }
     }
