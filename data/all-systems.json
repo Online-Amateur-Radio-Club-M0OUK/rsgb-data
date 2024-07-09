@@ -2805,7 +2805,7 @@
     },
     {
       "id": 896,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G8VLL",
@@ -2820,7 +2820,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "JO02PN",
-      "dbwErp": 11,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "TG2502",
         "antennaHeight": 67,
@@ -20704,7 +20704,7 @@
       "id": 4790,
       "fac": false,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0NIS",
       "town": "WHITEHAVEN",
       "modeCodes": [
@@ -33874,14 +33874,14 @@
       "modeCodes": [
         "X"
       ],
-      "tx": 144950000,
+      "tx": 144937500,
       "repeater": "GB7LAN",
-      "rx": 144950000,
+      "rx": 144937500,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO91RM",
-      "dbwErp": 7,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SU9979",
         "antennaHeight": 7,
@@ -34266,7 +34266,7 @@
       "id": 5755,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G8WBI",
       "town": "BRIGHTON",
       "modeCodes": [
@@ -36008,7 +36008,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO92UB",
-      "dbwErp": 9.3,
+      "dbwErp": 10,
       "extraDetails": {
         "ngr": "TL1943",
         "antennaHeight": 6,
@@ -36246,9 +36246,9 @@
       "modeCodes": [
         "F"
       ],
-      "tx": 433650000,
+      "tx": 433637500,
       "repeater": "2E0IPK",
-      "rx": 433650000,
+      "rx": 433637500,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
@@ -37932,7 +37932,7 @@
       "id": 5997,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "",
       "keeperCallsign": "2E0HKD",
       "town": "BASINGSTOKE",
       "modeCodes": [
@@ -37940,7 +37940,7 @@
       ],
       "tx": 70312500,
       "repeater": "GB7BSK",
-      "rx": 0,
+      "rx": 70312500,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "4M",
@@ -38209,6 +38209,127 @@
         "ngr": "SS5993",
         "antennaHeight": 8,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6013,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G7HMV",
+      "town": "HEMEL HEMPSTEAD ",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430962500,
+      "repeater": "GB3BP",
+      "rx": 438562500,
+      "ctcss": 82.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91SR",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TL0804",
+        "antennaHeight": 15,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6014,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G3XOU",
+      "town": "LODDISWELL",
+      "modeCodes": [
+        "M:3"
+      ],
+      "tx": 145587500,
+      "repeater": "GB7LW",
+      "rx": 144987500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO80CH",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SX7148",
+        "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6015,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M7OOB",
+      "town": "BRACKNELL",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144937500,
+      "repeater": "GB7BRK",
+      "rx": 144937500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO91OJ",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SU8467",
+        "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6016,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0LLC",
+      "town": "WHITEHAVEN",
+      "modeCodes": [
+        "A",
+        "F"
+      ],
+      "tx": 430987500,
+      "repeater": "GB3WU",
+      "rx": 438587500,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO84EN",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NX9617",
+        "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6017,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M7HSF",
+      "town": "HORSHAM ST FAITH",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145225000,
+      "repeater": "M7HSF",
+      "rx": 145225000,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO02",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TG2114",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
