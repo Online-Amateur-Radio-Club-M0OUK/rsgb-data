@@ -5762,7 +5762,7 @@
       "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G0EWH",
+      "keeperCallsign": "G3PWJ",
       "town": "STOURBRIDGE",
       "modeCodes": [
         "A"
@@ -9256,7 +9256,7 @@
     },
     {
       "id": 3042,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G8ZMG",
@@ -20034,7 +20034,7 @@
       "id": 4702,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0JOW",
       "town": "NEWBURY",
       "modeCodes": [
@@ -26976,7 +26976,7 @@
     },
     {
       "id": 5256,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0LLC",
@@ -26992,7 +26992,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO84GQ",
-      "dbwErp": 10,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "NY0533",
         "antennaHeight": 8,
@@ -35230,30 +35230,6 @@
       }
     },
     {
-      "id": 5816,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "2E1THX",
-      "town": "CAULDON LOW",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 144887500,
-      "repeater": "2E1THX",
-      "rx": 144887500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO93",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SK0747",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 5817,
       "fac": true,
       "type": "DG",
@@ -36729,7 +36705,7 @@
       "id": 5922,
       "fac": true,
       "type": "PX",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "2E0SDR",
       "town": "COLEFORD",
       "modeCodes": [
@@ -38328,6 +38304,30 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "TG2114",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6018,
+      "fac": true,
+      "type": "PX",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G8WBI",
+      "town": "BRIGHTON",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 70487500,
+      "repeater": "GB7BTN",
+      "rx": 70487500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "4M",
+      "locator": "IO90",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TQ3004",
         "antennaHeight": 0,
         "polarisation": ""
       }
