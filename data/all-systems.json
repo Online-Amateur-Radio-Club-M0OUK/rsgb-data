@@ -5761,7 +5761,7 @@
       "id": 2219,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G3PWJ",
       "town": "STOURBRIDGE",
       "modeCodes": [
@@ -16132,30 +16132,6 @@
       "dbwErp": 9,
       "extraDetails": {
         "ngr": "SO5236",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 4258,
-      "fac": true,
-      "type": "RL",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GM7LUN",
-      "town": "GALASHIELS",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145162500,
-      "repeater": "GB3DU-L",
-      "rx": 145762500,
-      "ctcss": 118.8,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO85",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "NT4436",
         "antennaHeight": 0,
         "polarisation": ""
       }
@@ -27558,7 +27534,7 @@
       "id": 5300,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0VNA",
       "town": "GATESHEAD",
       "modeCodes": [
@@ -31402,7 +31378,7 @@
       "id": 5576,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM4CCN",
       "town": "DULNAIN BRIDGE",
       "modeCodes": [
@@ -37908,7 +37884,7 @@
       "id": 5997,
       "fac": true,
       "type": "PX",
-      "status": "",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "2E0HKD",
       "town": "BASINGSTOKE",
       "modeCodes": [
@@ -38119,7 +38095,7 @@
       "id": 6010,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0XTA",
       "town": "SOUTHEND ON SEA",
       "modeCodes": [
