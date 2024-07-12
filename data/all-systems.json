@@ -18132,7 +18132,7 @@
       "id": 4455,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0EMO",
       "town": "LOUGHTON",
       "modeCodes": [
@@ -32608,7 +32608,7 @@
       "id": 5650,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GW8LGX",
       "town": "SWANSEA",
       "modeCodes": [
@@ -33739,30 +33739,6 @@
       "extraDetails": {
         "ngr": "SD5301",
         "antennaHeight": 3,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 5725,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "MM0KJJ",
-      "town": "KILMARNOCK",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 144837500,
-      "repeater": "MB6KI",
-      "rx": 144837500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO75SP",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "NS4340",
-        "antennaHeight": 6,
         "polarisation": "V"
       }
     },
@@ -38306,6 +38282,30 @@
         "ngr": "TQ3004",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6019,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G0BMG",
+      "town": "CRANFIELD",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145225000,
+      "repeater": "MB7IBD",
+      "rx": 145225000,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO92QB",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SP9342",
+        "antennaHeight": 3,
+        "polarisation": "V"
       }
     }
   ]
