@@ -2443,6 +2443,30 @@
       }
     },
     {
+      "id": 848,
+      "fac": true,
+      "type": "AV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0KRG",
+      "town": "KIDDERMINSTER",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145787500,
+      "repeater": "GB3KD",
+      "rx": 145187500,
+      "ctcss": 118.8,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO82",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "SO8278",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
       "id": 856,
       "fac": false,
       "type": "AV",
@@ -10388,7 +10412,7 @@
       "id": 3319,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4GBW",
       "town": "ROMFORD",
       "modeCodes": [
@@ -14579,7 +14603,7 @@
       "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G7SAI",
+      "keeperCallsign": "M0KRG",
       "town": "KIDDERMINSTER",
       "modeCodes": [
         "A"
@@ -14591,7 +14615,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO82",
-      "dbwErp": 14,
+      "dbwErp": 13.5,
       "extraDetails": {
         "ngr": "SO8278",
         "antennaHeight": 0,
@@ -18767,7 +18791,7 @@
       "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G0EWH",
+      "keeperCallsign": "M0KRG",
       "town": "KIDDERMINSTER",
       "modeCodes": [
         "M:8"
@@ -33992,30 +34016,6 @@
       }
     },
     {
-      "id": 5745,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GW5TEE",
-      "town": "MOLD",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 144887500,
-      "repeater": "MB6TE",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO83",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SJ2364",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 5747,
       "fac": true,
       "type": "AG",
@@ -36663,9 +36663,9 @@
       "modeCodes": [
         "X"
       ],
-      "tx": 144925000,
+      "tx": 144950000,
       "repeater": "GB7NFD",
-      "rx": 144925000,
+      "rx": 144950000,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "2M",
@@ -38305,6 +38305,30 @@
       "extraDetails": {
         "ngr": "SP9342",
         "antennaHeight": 3,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6020,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0THH",
+      "town": "MANSFIELD",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144950000,
+      "repeater": "GB7MNS",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO93KD",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SK5661",
+        "antennaHeight": 10,
         "polarisation": "V"
       }
     }
