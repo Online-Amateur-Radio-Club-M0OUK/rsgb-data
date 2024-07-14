@@ -4918,30 +4918,6 @@
       }
     },
     {
-      "id": 2066,
-      "fac": false,
-      "type": "BN",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GM8BJF",
-      "town": "MAYFIELD RD, EDINBURGH",
-      "modeCodes": [
-        "B"
-      ],
-      "tx": 1296990000,
-      "repeater": "GB3EDN",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 1.5,
-      "band": "23CM",
-      "locator": "IO85JW",
-      "dbwErp": -5,
-      "extraDetails": {
-        "ngr": "NT2670",
-        "antennaHeight": 30,
-        "polarisation": "H"
-      }
-    },
-    {
       "id": 2067,
       "fac": false,
       "type": "BN",
@@ -31625,7 +31601,7 @@
         "X"
       ],
       "tx": 144950000,
-      "repeater": "M7SVN",
+      "repeater": "GB7RWY",
       "rx": 144950000,
       "ctcss": 0,
       "txbw": 12.5,
@@ -34043,7 +34019,7 @@
       "id": 5748,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G6ASK",
       "town": "TIVERTON",
       "modeCodes": [
@@ -36657,7 +36633,7 @@
       "id": 5922,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0SDR",
       "town": "COLEFORD",
       "modeCodes": [
