@@ -3143,7 +3143,7 @@
       "id": 931,
       "fac": true,
       "type": "AV",
-      "status": "",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G6PDE",
       "town": "IPSWICH",
       "modeCodes": [
@@ -16878,7 +16878,7 @@
       "id": 4331,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MM0DXE",
       "town": "GLENROTHES ",
       "modeCodes": [
@@ -29430,9 +29430,9 @@
       "modeCodes": [
         "A"
       ],
-      "tx": 144900000,
-      "repeater": "M1EZU",
-      "rx": 0,
+      "tx": 145262500,
+      "repeater": "MB7ICP",
+      "rx": 145262500,
       "ctcss": 97.4,
       "txbw": 12.5,
       "band": "2M",
@@ -34938,7 +34938,7 @@
       "id": 5804,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0LLC",
       "town": "SOUTHPORT",
       "modeCodes": [
@@ -36759,10 +36759,10 @@
       "modeCodes": [
         "A"
       ],
-      "tx": 144900000,
+      "tx": 145262500,
       "repeater": "M0IQF",
-      "rx": 144900000,
-      "ctcss": 77,
+      "rx": 145262500,
+      "ctcss": 110.9,
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO91SV",
@@ -37562,6 +37562,30 @@
       }
     },
     {
+      "id": 5974,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GW8IOA",
+      "town": "NEWPORT",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430962500,
+      "repeater": "GW8IOA",
+      "rx": 438562500,
+      "ctcss": 88.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81MN",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "ST3286",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 5976,
       "fac": true,
       "type": "AG",
@@ -37606,78 +37630,6 @@
       "extraDetails": {
         "ngr": "NX8361",
         "antennaHeight": 4,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 5983,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G4XUR",
-      "town": "BRENDON TWO GATES - TA24 7LB",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430800000,
-      "repeater": "GB3RG",
-      "rx": 438400000,
-      "ctcss": 141.3,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81CE",
-      "dbwErp": 11.1,
-      "extraDetails": {
-        "ngr": "SS7643",
-        "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 5984,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G4XUR",
-      "town": "BARNA BARROW - PORLOCK",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430987500,
-      "repeater": "GB3GS",
-      "rx": 438587500,
-      "ctcss": 141.3,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81CF",
-      "dbwErp": 12,
-      "extraDetails": {
-        "ngr": "SS7549",
-        "antennaHeight": 4,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 5985,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G4XUR",
-      "town": "ALDERMANS BARROW - MINEHEAD",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430962500,
-      "repeater": "GB3GK",
-      "rx": 438562500,
-      "ctcss": 141.3,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81EE",
-      "dbwErp": 10.4,
-      "extraDetails": {
-        "ngr": "SS8442",
-        "antennaHeight": 5,
         "polarisation": "V"
       }
     },
