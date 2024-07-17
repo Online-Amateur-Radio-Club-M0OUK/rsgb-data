@@ -14537,7 +14537,7 @@
         "A"
       ],
       "tx": 145712500,
-      "repeater": "GB3BM",
+      "repeater": "GB3BM-1",
       "rx": 145112500,
       "ctcss": 67,
       "txbw": 12.5,
@@ -16681,8 +16681,8 @@
       "fac": true,
       "type": "DM",
       "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0ZAH",
-      "town": "NORWICH",
+      "keeperCallsign": "G5BSD",
+      "town": "Thorpe-St-Andrew",
       "modeCodes": [
         "A",
         "D",
@@ -16693,17 +16693,17 @@
         "N"
       ],
       "tx": 439425000,
-      "repeater": "M0ZAH",
+      "repeater": "G5BSD",
       "rx": 430425000,
       "ctcss": 94.8,
       "txbw": 12.5,
       "band": "70CM",
-      "locator": "JO02PP",
-      "dbwErp": 11,
+      "locator": "JO02",
+      "dbwErp": 14,
       "extraDetails": {
-        "ngr": "TG2210",
-        "antennaHeight": 12,
-        "polarisation": "V"
+        "ngr": "TG2609",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     },
     {
@@ -20459,9 +20459,9 @@
       "modeCodes": [
         "A"
       ],
-      "tx": 144900000,
+      "tx": 145262500,
       "repeater": "MB7ISP",
-      "rx": 144900000,
+      "rx": 145262500,
       "ctcss": 77,
       "txbw": 12.5,
       "band": "2M",
@@ -24464,7 +24464,7 @@
         "A"
       ],
       "tx": 145712500,
-      "repeater": "GB3BM",
+      "repeater": "GB3BM-2",
       "rx": 145112500,
       "ctcss": 67,
       "txbw": 12.5,
@@ -25481,18 +25481,18 @@
       "modeCodes": [
         "A"
       ],
-      "tx": 144900000,
+      "tx": 145262500,
       "repeater": "MB7IFA",
-      "rx": 144900000,
+      "rx": 145262500,
       "ctcss": 71.9,
       "txbw": 12.5,
       "band": "2M",
-      "locator": "IO90",
+      "locator": "IO90IU",
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "SU5207",
-        "antennaHeight": 0,
-        "polarisation": ""
+        "antennaHeight": 5,
+        "polarisation": "V"
       }
     },
     {
@@ -26369,30 +26369,6 @@
       "extraDetails": {
         "ngr": "NS3174",
         "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 5223,
-      "fac": true,
-      "type": "RN",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G6OHM",
-      "town": "CHATTERIS",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144512500,
-      "repeater": "MB7TF",
-      "rx": 144512500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO02AL",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TL3986",
-        "antennaHeight": 10,
         "polarisation": "V"
       }
     },
@@ -28017,11 +27993,8 @@
       "keeperCallsign": "G7LMY",
       "town": "FAREHAM",
       "modeCodes": [
-        "D",
-        "M:8",
         "F",
-        "P",
-        "N"
+        "M:8"
       ],
       "tx": 433662500,
       "repeater": "MB6FA",
@@ -31862,30 +31835,6 @@
       }
     },
     {
-      "id": 5610,
-      "fac": true,
-      "type": "AV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G6OHM",
-      "town": "CHATTERIS",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430937500,
-      "repeater": "G6OHM",
-      "rx": 438537500,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO02AL",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TL3986",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5611,
       "fac": true,
       "type": "DG",
@@ -32805,7 +32754,7 @@
       "id": 5662,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M1CYR",
       "town": "CANNOCK",
       "modeCodes": [
@@ -34801,7 +34750,7 @@
         "A"
       ],
       "tx": 145262500,
-      "repeater": "M0NFI",
+      "repeater": "MB7IPT",
       "rx": 145262500,
       "ctcss": 103.5,
       "txbw": 12.5,
@@ -36633,7 +36582,7 @@
       "id": 5922,
       "fac": true,
       "type": "PX",
-      "status": "OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "2E0SDR",
       "town": "COLEFORD",
       "modeCodes": [
@@ -37929,28 +37878,6 @@
       }
     },
     {
-      "id": 6006,
-      "fac": true,
-      "type": "AG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0ZAH",
-      "town": "THORPE ST ANDREW",
-      "modeCodes": null,
-      "tx": 145225000,
-      "repeater": "M0ZAH",
-      "rx": 145225000,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO02",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TG2609",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6007,
       "fac": true,
       "type": "AG",
@@ -38281,6 +38208,50 @@
       "extraDetails": {
         "ngr": "ST7908",
         "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6022,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G0WEB",
+      "town": "BILSTON",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 439425000,
+      "repeater": "GB7FS",
+      "rx": 430425000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO82XN",
+      "dbwErp": 14,
+      "extraDetails": null
+    },
+    {
+      "id": 6023,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0KON",
+      "town": "TAUNTON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430800000,
+      "repeater": "M0KON",
+      "rx": 438400000,
+      "ctcss": 141.3,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81JA",
+      "dbwErp": 11.1,
+      "extraDetails": {
+        "ngr": "ST1538",
+        "antennaHeight": 20,
         "polarisation": "V"
       }
     }
