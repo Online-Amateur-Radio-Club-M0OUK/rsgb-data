@@ -5761,7 +5761,7 @@
       "id": 2219,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G3PWJ",
       "town": "STOURBRIDGE",
       "modeCodes": [
@@ -5776,7 +5776,7 @@
       "locator": "IO82WK",
       "dbwErp": 14,
       "extraDetails": {
-        "ngr": "SO9282",
+        "ngr": "SO9183",
         "antennaHeight": 7,
         "polarisation": "V"
       }
@@ -23208,7 +23208,7 @@
     },
     {
       "id": 4996,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "GW0NIS",
@@ -23216,7 +23216,7 @@
       "modeCodes": [
         "A",
         "D",
-        "M",
+        "M:3",
         "F",
         "P",
         "N"
@@ -30727,9 +30727,9 @@
       "modeCodes": [
         "A"
       ],
-      "tx": 144900000,
+      "tx": 145262500,
       "repeater": "MB7IBL",
-      "rx": 144900000,
+      "rx": 145262500,
       "ctcss": 103.5,
       "txbw": 12.5,
       "band": "2M",
@@ -38252,6 +38252,54 @@
       "extraDetails": {
         "ngr": "ST1538",
         "antennaHeight": 20,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6025,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MW0JWP",
+      "town": "LLANDUDNO",
+      "modeCodes": [
+        "M:1"
+      ],
+      "tx": 433175000,
+      "repeater": "GB3OD",
+      "rx": 434775000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83BH",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SH7683",
+        "antennaHeight": 15,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6026,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0IQF",
+      "town": "LUTON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430075000,
+      "repeater": "MB7ITN",
+      "rx": 430075000,
+      "ctcss": 110.9,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91SV",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TL0422",
+        "antennaHeight": 8,
         "polarisation": "V"
       }
     }
