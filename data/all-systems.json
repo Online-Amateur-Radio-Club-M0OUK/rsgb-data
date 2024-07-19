@@ -14530,7 +14530,7 @@
       "id": 4085,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G8PYT",
       "town": "DUDLEY (QS Site 1)",
       "modeCodes": [
@@ -14554,7 +14554,7 @@
       "id": 4086,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G8PYT",
       "town": "DUDLEY",
       "modeCodes": [
@@ -14980,30 +14980,6 @@
       "rx": 430412500,
       "ctcss": 0,
       "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO82",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SO6077",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 4126,
-      "fac": false,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0HOY",
-      "town": "LUDLOW",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 433025000,
-      "repeater": "GB3HN",
-      "rx": 434625000,
-      "ctcss": 103.5,
-      "txbw": 25,
       "band": "70CM",
       "locator": "IO82",
       "dbwErp": 14,
@@ -16629,7 +16605,7 @@
     },
     {
       "id": 4312,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "MW0JWP",
@@ -16645,7 +16621,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO83BH",
-      "dbwErp": 13,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SH7683",
         "antennaHeight": 14,
@@ -18573,9 +18549,9 @@
       "modeCodes": [
         "A"
       ],
-      "tx": 144900000,
+      "tx": 145262500,
       "repeater": "MB7IAT",
-      "rx": 144900000,
+      "rx": 145262500,
       "ctcss": 77,
       "txbw": 12.5,
       "band": "2M",
@@ -19203,7 +19179,7 @@
       "id": 4616,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G8PYT",
       "town": "DUDLEY",
       "modeCodes": [
@@ -32736,9 +32712,9 @@
       "modeCodes": [
         "A"
       ],
-      "tx": 144900000,
+      "tx": 145262500,
       "repeater": "MB7INH",
-      "rx": 144900000,
+      "rx": 145262500,
       "ctcss": 67,
       "txbw": 12.5,
       "band": "2M",
@@ -36709,7 +36685,7 @@
         "A"
       ],
       "tx": 145262500,
-      "repeater": "M0IQF",
+      "repeater": "MB7ITN",
       "rx": 145262500,
       "ctcss": 110.9,
       "txbw": 12.5,
@@ -37902,6 +37878,30 @@
       }
     },
     {
+      "id": 6008,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0HOY",
+      "town": "LUDLOW",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 439600000,
+      "repeater": "GB3HN",
+      "rx": 430600000,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO82",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SO6077",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
       "id": 6009,
       "fac": true,
       "type": "DM",
@@ -38095,7 +38095,7 @@
       "id": 6017,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M7HSF",
       "town": "HORSHAM ST FAITH",
       "modeCodes": [
@@ -38259,7 +38259,7 @@
       "id": 6025,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MW0JWP",
       "town": "LLANDUDNO",
       "modeCodes": [
@@ -38301,6 +38301,31 @@
         "ngr": "TL0422",
         "antennaHeight": 8,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6028,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M7GFA",
+      "town": "CHORLEY",
+      "modeCodes": [
+        "M:1",
+        "F"
+      ],
+      "tx": 431150000,
+      "repeater": "MB6GF",
+      "rx": 431150000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SD5916",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
