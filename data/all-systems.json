@@ -33359,7 +33359,7 @@
       "id": 5703,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G6FJI",
       "town": "ABINGDON",
       "modeCodes": [
@@ -35128,30 +35128,6 @@
         "ngr": "SU1276",
         "antennaHeight": 0,
         "polarisation": ""
-      }
-    },
-    {
-      "id": 5821,
-      "fac": true,
-      "type": "PX",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G8BPQ",
-      "town": "NOTTINGHAM",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144950000,
-      "repeater": "G8BPQ",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO92KX",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SK5943",
-        "antennaHeight": 10,
-        "polarisation": "V"
       }
     },
     {
@@ -37833,7 +37809,7 @@
       "id": 6005,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0TJX",
       "town": "YATE",
       "modeCodes": [
@@ -38326,6 +38302,30 @@
         "ngr": "SD5916",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6029,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G8BPQ",
+      "town": "SKIGERSTA",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144950000,
+      "repeater": "GB7BPQ",
+      "rx": 144950000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO68VL",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NB5461",
+        "antennaHeight": 10,
+        "polarisation": "V"
       }
     }
   ]
