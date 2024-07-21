@@ -14532,12 +14532,12 @@
       "type": "AV",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "G8PYT",
-      "town": "DUDLEY (QS Site 1)",
+      "town": "DUDLEY",
       "modeCodes": [
         "A"
       ],
       "tx": 145712500,
-      "repeater": "GB3BM-1",
+      "repeater": "GB3BM",
       "rx": 145112500,
       "ctcss": 67,
       "txbw": 12.5,
@@ -19179,7 +19179,7 @@
       "id": 4616,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G8PYT",
       "town": "DUDLEY",
       "modeCodes": [
@@ -24435,7 +24435,7 @@
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G8PYT",
-      "town": "BIRMINGHAM (QS Site 2)",
+      "town": "BIRMINGHAM",
       "modeCodes": [
         "A"
       ],
@@ -32348,7 +32348,7 @@
         "A"
       ],
       "tx": 70362500,
-      "repeater": "MB7IHA",
+      "repeater": "MB7IVR",
       "rx": 70362500,
       "ctcss": 82.5,
       "txbw": 12.5,
@@ -37857,7 +37857,7 @@
       "id": 6008,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0HOY",
       "town": "LUDLOW",
       "modeCodes": [
@@ -38325,6 +38325,78 @@
       "extraDetails": {
         "ngr": "NB5461",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6032,
+      "fac": true,
+      "type": "AV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "GW7VFJ",
+      "town": "MOLD",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430887500,
+      "repeater": "MB5HR",
+      "rx": 438487500,
+      "ctcss": 110.9,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83JF",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SJ2171",
+        "antennaHeight": 9,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6033,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "2E0HKD",
+      "town": "BASINGSTOKE",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "GB7BSK",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "IO91KG",
+      "dbwErp": -7,
+      "extraDetails": {
+        "ngr": "SU6153",
+        "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6034,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "2E0PHR",
+      "town": "SLOUGH",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 432675000,
+      "repeater": "GB7LAN",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91RM",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SU9979",
+        "antennaHeight": 7,
         "polarisation": "V"
       }
     }
