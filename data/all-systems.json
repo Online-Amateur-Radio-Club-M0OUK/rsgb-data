@@ -1002,7 +1002,7 @@
       "id": 702,
       "fac": false,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4CJZ",
       "town": "BRISTOL",
       "modeCodes": [
@@ -3234,30 +3234,6 @@
         "ngr": "TL3959",
         "antennaHeight": 0,
         "polarisation": "H"
-      }
-    },
-    {
-      "id": 937,
-      "fac": false,
-      "type": "AV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GW4IQP",
-      "town": "NEWTOWN",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145775000,
-      "repeater": "GB3PW",
-      "rx": 145175000,
-      "ctcss": 103.5,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO82HL",
-      "dbwErp": 10,
-      "extraDetails": {
-        "ngr": "SO0587",
-        "antennaHeight": 36,
-        "polarisation": "V"
       }
     },
     {
@@ -14530,7 +14506,7 @@
       "id": 4085,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G8PYT",
       "town": "DUDLEY",
       "modeCodes": [
@@ -14554,7 +14530,7 @@
       "id": 4086,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G8PYT",
       "town": "DUDLEY",
       "modeCodes": [
@@ -26714,7 +26690,7 @@
       "id": 5247,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4ZWH",
       "town": "HATFIELD",
       "modeCodes": [
@@ -26762,7 +26738,7 @@
       "id": 5249,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4ZWH",
       "town": "HATFIELD",
       "modeCodes": [
@@ -36534,7 +36510,7 @@
       "id": 5922,
       "fac": true,
       "type": "PX",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0SDR",
       "town": "COLEFORD",
       "modeCodes": [
@@ -38397,6 +38373,54 @@
       "extraDetails": {
         "ngr": "SU9979",
         "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6035,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0LLC",
+      "town": "WHITEHAVEN",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UCV",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO84",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NX9617",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6036,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0VTK",
+      "town": "BARMOUTH",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430012500,
+      "repeater": "MB7IBN",
+      "rx": 430012500,
+      "ctcss": 110.9,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO72WS",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SH5921",
+        "antennaHeight": 5,
         "polarisation": "V"
       }
     }
