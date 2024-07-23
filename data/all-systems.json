@@ -22937,7 +22937,7 @@
       "id": 4983,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0MNE",
       "town": "GATESHEAD",
       "modeCodes": [
@@ -23219,7 +23219,12 @@
       "keeperCallsign": "M0LLC",
       "town": "MARYPORT",
       "modeCodes": [
-        "M:1"
+        "M:1",
+        "F",
+        "D",
+        "M:1",
+        "1",
+        "7"
       ],
       "tx": 439762500,
       "repeater": "GB7CU",
@@ -23228,10 +23233,10 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO84GQ",
-      "dbwErp": 10,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "NY0533",
-        "antennaHeight": 8,
+        "antennaHeight": 7,
         "polarisation": "V"
       }
     },
@@ -30839,30 +30844,6 @@
       }
     },
     {
-      "id": 5540,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G1YFF",
-      "town": "WICKHAMBROOK",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430975000,
-      "repeater": "GB3EZ ",
-      "rx": 438575000,
-      "ctcss": 110.9,
-      "txbw": 25,
-      "band": "70CM",
-      "locator": "JO02GE",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TL7457",
-        "antennaHeight": 86,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5541,
       "fac": true,
       "type": "PX",
@@ -31033,30 +31014,6 @@
         "ngr": "TQ5801",
         "antennaHeight": 0,
         "polarisation": ""
-      }
-    },
-    {
-      "id": 5557,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0VXT",
-      "town": "PRESTON",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430937500,
-      "repeater": "GB3PG",
-      "rx": 438537500,
-      "ctcss": 82.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO83PS",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SD5429",
-        "antennaHeight": 10,
-        "polarisation": "V"
       }
     },
     {
@@ -33000,9 +32957,9 @@
       "modeCodes": [
         "X"
       ],
-      "tx": 144800000,
+      "tx": 144937500,
       "repeater": "MM7WXT",
-      "rx": 144800000,
+      "rx": 144937500,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "2M",
@@ -38422,6 +38379,31 @@
         "ngr": "SH5921",
         "antennaHeight": 5,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6037,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G7SVW",
+      "town": "WARRINGTON",
+      "modeCodes": [
+        "A",
+        "F"
+      ],
+      "tx": 433100000,
+      "repeater": "GB3EC",
+      "rx": 434700000,
+      "ctcss": 82.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SJ5998",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
