@@ -1024,14 +1024,13 @@
     },
     {
       "id": 703,
-      "fac": false,
-      "type": "DM",
+      "fac": true,
+      "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0ZPU",
       "town": "AMERSHAM",
       "modeCodes": [
-        "A",
-        "F"
+        "A"
       ],
       "tx": 145737500,
       "repeater": "GB3AL",
@@ -12512,30 +12511,6 @@
       "extraDetails": {
         "ngr": "NS5768",
         "antennaHeight": 25,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 3786,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0JFK",
-      "town": "ST HELENS",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 144812500,
-      "repeater": "MB6PW",
-      "rx": 144812500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO83PK",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SJ5293",
-        "antennaHeight": 15,
         "polarisation": "V"
       }
     },
@@ -37979,7 +37954,7 @@
       "id": 6016,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0LLC",
       "town": "WHITEHAVEN",
       "modeCodes": [
@@ -38337,7 +38312,7 @@
       "id": 6035,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0LLC",
       "town": "WHITEHAVEN",
       "modeCodes": [
