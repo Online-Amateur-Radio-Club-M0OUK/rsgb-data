@@ -19690,10 +19690,10 @@
     },
     {
       "id": 4671,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GW0NIS",
+      "keeperCallsign": "G4YYB",
       "town": "LLANGOLLEN",
       "modeCodes": [
         "A"
@@ -22273,10 +22273,10 @@
     },
     {
       "id": 4926,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GW0NIS",
+      "keeperCallsign": "G4YYB",
       "town": "LLANGOLLEN",
       "modeCodes": [
         "A"
@@ -25115,10 +25115,10 @@
     },
     {
       "id": 5145,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G6XUV",
+      "keeperCallsign": "M1AVB",
       "town": "SIDMOUTH",
       "modeCodes": [
         "A"
