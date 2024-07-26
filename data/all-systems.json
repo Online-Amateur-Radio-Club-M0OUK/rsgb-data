@@ -8573,7 +8573,7 @@
       "id": 2860,
       "fac": false,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0ZEP",
       "town": "BLANDFORD",
       "modeCodes": [
@@ -25121,7 +25121,8 @@
       "keeperCallsign": "M1AVB",
       "town": "SIDMOUTH",
       "modeCodes": [
-        "A"
+        "A",
+        "F"
       ],
       "tx": 145712500,
       "repeater": "GB3SW",
@@ -29269,7 +29270,7 @@
       "id": 5419,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4TSN",
       "town": "HUTHWAITE",
       "modeCodes": [
@@ -37789,7 +37790,7 @@
       "id": 6009,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0JXR",
       "town": "BRISTOL",
       "modeCodes": [
@@ -38379,6 +38380,30 @@
         "ngr": "SJ5998",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6038,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2E0SGG",
+      "town": "KENT",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UKH",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO01GJ",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "TQ7766",
+        "antennaHeight": 10,
+        "polarisation": "V"
       }
     }
   ]
