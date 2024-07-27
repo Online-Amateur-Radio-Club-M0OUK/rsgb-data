@@ -37570,7 +37570,7 @@
       "id": 5996,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0WVV",
       "town": "NORWICH",
       "modeCodes": [
@@ -37694,7 +37694,7 @@
       "id": 6002,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G8IPG",
       "town": "WINCHESTER",
       "modeCodes": [
@@ -38100,7 +38100,7 @@
       "id": 6022,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0WEB",
       "town": "BILSTON",
       "modeCodes": [
