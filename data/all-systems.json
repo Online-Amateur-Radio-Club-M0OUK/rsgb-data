@@ -12274,30 +12274,6 @@
       }
     },
     {
-      "id": 3749,
-      "fac": false,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0RGV",
-      "town": "FLEETWOOD",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 439725000,
-      "repeater": "GB7FD",
-      "rx": 430725000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO83LV",
-      "dbwErp": 10,
-      "extraDetails": {
-        "ngr": "SD3146",
-        "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 3750,
       "fac": false,
       "type": "DV",
@@ -15264,7 +15240,7 @@
       "id": 4151,
       "fac": false,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM7LSI",
       "town": "ELGIN",
       "modeCodes": [
@@ -18369,30 +18345,6 @@
       }
     },
     {
-      "id": 4498,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0RGV",
-      "town": "FLEETWOOD",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 144912500,
-      "repeater": "MB7IFD",
-      "rx": 144912500,
-      "ctcss": 82.5,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO83LV",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SD3146",
-        "antennaHeight": 11,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 4502,
       "fac": true,
       "type": "DG",
@@ -18789,7 +18741,7 @@
       "id": 4566,
       "fac": false,
       "type": "AV",
-      "status": "REDUCED OUTPUT",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM7LUN",
       "town": "UPPER LARGO",
       "modeCodes": [
@@ -33515,7 +33467,7 @@
         "F"
       ],
       "tx": 144825000,
-      "repeater": "2E0ECD",
+      "repeater": "MB6CD",
       "rx": 144825000,
       "ctcss": 0,
       "txbw": 12.5,
@@ -34168,7 +34120,7 @@
       "id": 5765,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0ISX",
       "town": "HUDDERSFIELD",
       "modeCodes": [
