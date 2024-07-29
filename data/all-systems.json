@@ -16585,7 +16585,7 @@
       "type": "DM",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "G5BSD",
-      "town": "Thorpe-St-Andrew",
+      "town": "THORPE-ST-ANDREW",
       "modeCodes": [
         "A",
         "D",
@@ -20792,30 +20792,6 @@
       "extraDetails": {
         "ngr": "TM4488",
         "antennaHeight": 3,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 4816,
-      "fac": true,
-      "type": "PX",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G0KUX",
-      "town": "SOUTHGATE",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144937500,
-      "repeater": "GB7KUX",
-      "rx": 144937500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO91WP",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TQ2995",
-        "antennaHeight": 9,
         "polarisation": "V"
       }
     },
@@ -34697,30 +34673,6 @@
       }
     },
     {
-      "id": 5803,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0WVV",
-      "town": "HORSHAM ST. FAITH",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430925000,
-      "repeater": "MX0WVV",
-      "rx": 438525000,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO02PQ",
-      "dbwErp": 11.5,
-      "extraDetails": {
-        "ngr": "TG2114",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5804,
       "fac": true,
       "type": "DM",
@@ -34971,7 +34923,7 @@
       "id": 5820,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4WQG",
       "town": "UFFCOTT",
       "modeCodes": [
@@ -37038,7 +36990,7 @@
       "id": 5959,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7ELZ",
       "town": "WALLINGTON",
       "modeCodes": [
@@ -38326,12 +38278,12 @@
       "ctcss": 82.5,
       "txbw": 12.5,
       "band": "70CM",
-      "locator": "IO83",
+      "locator": "IO83QL",
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "SJ5998",
-        "antennaHeight": 0,
-        "polarisation": ""
+        "antennaHeight": 10,
+        "polarisation": "V"
       }
     },
     {
@@ -38355,6 +38307,55 @@
       "extraDetails": {
         "ngr": "TQ7766",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6039,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G0KUX",
+      "town": "SOUTHGATE",
+      "modeCodes": [
+        "D",
+        "M:5"
+      ],
+      "tx": 144825000,
+      "repeater": "MB6SG",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO91WP",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TQ2995",
+        "antennaHeight": 9,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6040,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G0JSV",
+      "town": "EYE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430050000,
+      "repeater": "MB7IYE",
+      "rx": 430050000,
+      "ctcss": 110.9,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO02NH",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TM1070",
+        "antennaHeight": 9,
         "polarisation": "V"
       }
     }
