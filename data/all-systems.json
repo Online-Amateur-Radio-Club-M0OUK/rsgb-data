@@ -5280,7 +5280,7 @@
       "id": 2095,
       "fac": false,
       "type": "BN",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0OLX",
       "town": "REIGATE",
       "modeCodes": [
@@ -38339,7 +38339,7 @@
       "id": 6040,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0JSV",
       "town": "EYE",
       "modeCodes": [
@@ -38356,6 +38356,30 @@
       "extraDetails": {
         "ngr": "TM1070",
         "antennaHeight": 9,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6042,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0KRH",
+      "town": "GUILDFORD",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145575000,
+      "repeater": "GB3TY",
+      "rx": 144975000,
+      "ctcss": 88.5,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO91QF",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SU9850",
+        "antennaHeight": 18,
         "polarisation": "V"
       }
     }
