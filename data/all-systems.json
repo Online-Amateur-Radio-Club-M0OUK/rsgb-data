@@ -5350,10 +5350,10 @@
     },
     {
       "id": 2101,
-      "fac": false,
+      "fac": true,
       "type": "BN",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G3UKV",
+      "keeperCallsign": "G8AQA",
       "town": "LITTLE WENLOCK, TELFORD",
       "modeCodes": [
         "B"
@@ -5365,7 +5365,7 @@
       "txbw": 2.4,
       "band": "13CM",
       "locator": "IO82RP",
-      "dbwErp": 1,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SJ6808",
         "antennaHeight": 10,
@@ -18250,7 +18250,7 @@
     },
     {
       "id": 4483,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM7GDE",
@@ -23066,7 +23066,7 @@
       "fac": true,
       "type": "DM",
       "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GW0NIS",
+      "keeperCallsign": "G4YYB",
       "town": "LLANGOLLEN",
       "modeCodes": [
         "A",
@@ -33460,7 +33460,7 @@
       "id": 5722,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0EUY",
       "town": "BORDON",
       "modeCodes": [
@@ -35019,7 +35019,7 @@
       "id": 5827,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4WQG",
       "town": "UFFCOTT",
       "modeCodes": [
@@ -35449,7 +35449,7 @@
       "id": 5874,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0EUY",
       "town": "BORDON",
       "modeCodes": [
@@ -37787,7 +37787,7 @@
       "id": 6013,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7HMV",
       "town": "HEMEL HEMPSTEAD ",
       "modeCodes": [
@@ -38054,9 +38054,9 @@
       "modeCodes": [
         "M:1"
       ],
-      "tx": 433175000,
+      "tx": 439712500,
       "repeater": "GB3OD",
-      "rx": 434775000,
+      "rx": 430712500,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
