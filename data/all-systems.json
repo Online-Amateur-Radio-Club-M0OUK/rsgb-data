@@ -11983,7 +11983,7 @@
     },
     {
       "id": 3700,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "MM0RDM",
@@ -19882,30 +19882,6 @@
       "extraDetails": {
         "ngr": "SJ4911",
         "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 4702,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0JOW",
-      "town": "NEWBURY",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 434475000,
-      "repeater": "MB6EA",
-      "rx": 434475000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO91HI",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SU4563",
-        "antennaHeight": 3,
         "polarisation": "V"
       }
     },
@@ -28185,30 +28161,6 @@
       "extraDetails": {
         "ngr": "TQ1685",
         "antennaHeight": 12,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 5358,
-      "fac": true,
-      "type": "PX",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0RVB",
-      "town": "LEEDS",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144950000,
-      "repeater": "GB7RVB",
-      "rx": 144950000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO93EU",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SE2638",
-        "antennaHeight": 10,
         "polarisation": "V"
       }
     },
@@ -38290,7 +38242,7 @@
       "id": 6038,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0SGG",
       "town": "KENT",
       "modeCodes": [
