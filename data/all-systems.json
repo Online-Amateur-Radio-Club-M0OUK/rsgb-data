@@ -13868,7 +13868,7 @@
       "id": 3995,
       "fac": false,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0RRZ",
       "town": "MANSFIELD",
       "modeCodes": [
@@ -24805,7 +24805,7 @@
       "id": 5131,
       "fac": true,
       "type": "PN",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0AHN",
       "town": "EXMOUTH",
       "modeCodes": [
@@ -36753,7 +36753,7 @@
       "id": 5946,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4LUE",
       "town": "BARNSLEY",
       "modeCodes": [
@@ -38244,7 +38244,7 @@
       "type": "AP",
       "status": "OPERATIONAL",
       "keeperCallsign": "2E0SGG",
-      "town": "KENT",
+      "town": "CHATHAM",
       "modeCodes": [
         "X"
       ],
