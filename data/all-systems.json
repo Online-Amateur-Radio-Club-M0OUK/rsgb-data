@@ -38217,7 +38217,7 @@
       "id": 6037,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7SVW",
       "town": "WARRINGTON",
       "modeCodes": [
@@ -38226,7 +38226,7 @@
       ],
       "tx": 433100000,
       "repeater": "GB3EC",
-      "rx": 434700000,
+      "rx": 438100000,
       "ctcss": 82.5,
       "txbw": 12.5,
       "band": "70CM",
@@ -38333,6 +38333,30 @@
         "ngr": "SU9850",
         "antennaHeight": 18,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6046,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M1CMN",
+      "town": "FOLKESTONE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 439512500,
+      "repeater": "M1CMN",
+      "rx": 430512500,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO01",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TR2236",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
