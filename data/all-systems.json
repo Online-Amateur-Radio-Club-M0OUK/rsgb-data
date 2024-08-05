@@ -13060,7 +13060,7 @@
       "id": 3888,
       "fac": false,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M1TCP",
       "town": "CIRENCESTER",
       "modeCodes": [
