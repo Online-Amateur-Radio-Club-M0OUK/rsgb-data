@@ -25553,30 +25553,6 @@
       }
     },
     {
-      "id": 5182,
-      "fac": false,
-      "type": "PN",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G1MAW",
-      "town": "KIDDERMINSTER",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 439812500,
-      "repeater": "MB7NLD",
-      "rx": 430225000,
-      "ctcss": 0,
-      "txbw": 25,
-      "band": "70CM",
-      "locator": "IO82",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SO6077",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 5186,
       "fac": true,
       "type": "PX",
@@ -34143,31 +34119,6 @@
       }
     },
     {
-      "id": 5773,
-      "fac": true,
-      "type": "DG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "MM7EXQ",
-      "town": "CASTLE DOUGLAS",
-      "modeCodes": [
-        "A",
-        "F"
-      ],
-      "tx": 433975000,
-      "repeater": "MM7EXQ",
-      "rx": 0,
-      "ctcss": 67,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO84AW",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "NX7662",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5776,
       "fac": true,
       "type": "AG",
@@ -36296,30 +36247,6 @@
       }
     },
     {
-      "id": 5922,
-      "fac": true,
-      "type": "PX",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "2E0SDR",
-      "town": "COLEFORD",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144950000,
-      "repeater": "GB7NFD",
-      "rx": 144950000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO81QT",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SO5710",
-        "antennaHeight": 4,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5924,
       "fac": true,
       "type": "AV",
@@ -38339,7 +38266,7 @@
       "id": 6046,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M1CMN",
       "town": "FOLKESTONE",
       "modeCodes": [
