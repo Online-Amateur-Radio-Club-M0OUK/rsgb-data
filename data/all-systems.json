@@ -13058,7 +13058,7 @@
     },
     {
       "id": 3888,
-      "fac": false,
+      "fac": true,
       "type": "AP",
       "status": "OPERATIONAL",
       "keeperCallsign": "M1TCP",
@@ -13073,7 +13073,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO91AR",
-      "dbwErp": 3.4,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SP0302",
         "antennaHeight": 8,
@@ -26716,30 +26716,6 @@
       }
     },
     {
-      "id": 5255,
-      "fac": true,
-      "type": "AV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0TRY",
-      "town": "LEDBURY",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430800000,
-      "repeater": "GB3MF",
-      "rx": 438400000,
-      "ctcss": 118.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO82TA",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SO7438",
-        "antennaHeight": 12,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5256,
       "fac": true,
       "type": "DM",
@@ -32058,7 +32034,7 @@
       "id": 5637,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0IDL",
       "town": "POOLE",
       "modeCodes": [
@@ -37900,30 +37876,6 @@
       "extraDetails": null
     },
     {
-      "id": 6023,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0KON",
-      "town": "TAUNTON",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430800000,
-      "repeater": "M0KON",
-      "rx": 438400000,
-      "ctcss": 141.3,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81JA",
-      "dbwErp": 11.1,
-      "extraDetails": {
-        "ngr": "ST1538",
-        "antennaHeight": 20,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6025,
       "fac": true,
       "type": "DV",
@@ -38284,6 +38236,59 @@
         "ngr": "TR2236",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6050,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MW0IQZ",
+      "town": "HENGOED",
+      "modeCodes": [
+        "D",
+        "M:1",
+        "F",
+        "P",
+        "N",
+        "7"
+      ],
+      "tx": 144812500,
+      "repeater": "MB6YM",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO81IP",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "ST1396",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6052,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0KPQ",
+      "town": "OVER STOWEY CRICKET CLUB TAUNT",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 438400000,
+      "repeater": "M0KPQ",
+      "rx": 430800000,
+      "ctcss": 141.3,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81KD",
+      "dbwErp": 9.5,
+      "extraDetails": {
+        "ngr": "ST1938",
+        "antennaHeight": 5,
+        "polarisation": "V"
       }
     }
   ]
