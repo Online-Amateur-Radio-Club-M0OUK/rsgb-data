@@ -38290,6 +38290,54 @@
         "antennaHeight": 5,
         "polarisation": "V"
       }
+    },
+    {
+      "id": 6053,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0JIC",
+      "town": "DONCASTER",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145225000,
+      "repeater": "MB7IMM",
+      "rx": 145225000,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO93KM",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SE6004",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6054,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M7SQQ",
+      "town": "BURY",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145237500,
+      "repeater": "MB7IVX",
+      "rx": 145237500,
+      "ctcss": 86.5,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO83UO",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SD8211",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
     }
   ]
 }
