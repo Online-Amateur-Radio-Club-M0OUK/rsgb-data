@@ -32783,7 +32783,7 @@
       "id": 5681,
       "fac": true,
       "type": "PX",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MM0RFN",
       "town": "ABERDEEN",
       "modeCodes": [
@@ -34996,7 +34996,9 @@
       "keeperCallsign": "M0DIT",
       "town": "KEIGHLEY",
       "modeCodes": [
-        "M:5"
+        "M:5",
+        " ",
+        "D"
       ],
       "tx": 430300000,
       "repeater": "MB5KT",
@@ -37903,7 +37905,7 @@
       "id": 6026,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0IQF",
       "town": "LUTON",
       "modeCodes": [
@@ -38242,7 +38244,7 @@
       "id": 6050,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MW0IQZ",
       "town": "HENGOED",
       "modeCodes": [
@@ -38277,9 +38279,9 @@
       "modeCodes": [
         "A"
       ],
-      "tx": 438400000,
+      "tx": 430987500,
       "repeater": "M0KPQ",
-      "rx": 430800000,
+      "rx": 438587500,
       "ctcss": 141.3,
       "txbw": 12.5,
       "band": "70CM",
@@ -38336,6 +38338,78 @@
       "extraDetails": {
         "ngr": "SD8211",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6055,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GW0MAV",
+      "town": "CAERPHILLY",
+      "modeCodes": [
+        "M:1"
+      ],
+      "tx": 431100000,
+      "repeater": "GW0MAV",
+      "rx": 431100000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81",
+      "dbwErp": 0,
+      "extraDetails": {
+        "ngr": "ST1489",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6056,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "2E0ECD",
+      "town": "CRATHORNE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430012500,
+      "repeater": "MB7ICA",
+      "rx": 0,
+      "ctcss": 110.9,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO94IL",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NZ4407",
+        "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6057,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0KON",
+      "town": "WILMOTS POOL OVER STOWEY, TAUN",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 438400000,
+      "repeater": "M0KON",
+      "rx": 430800000,
+      "ctcss": 141.3,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81JD",
+      "dbwErp": 10.1,
+      "extraDetails": {
+        "ngr": "ST1538",
+        "antennaHeight": 6,
         "polarisation": "V"
       }
     }
