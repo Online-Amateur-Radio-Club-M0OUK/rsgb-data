@@ -3236,6 +3236,30 @@
       }
     },
     {
+      "id": 937,
+      "fac": true,
+      "type": "AV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "GW4IQP",
+      "town": "NEWTOWN",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145775000,
+      "repeater": "GB3PW",
+      "rx": 145175000,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO82HL",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "SO0587",
+        "antennaHeight": 36,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 941,
       "fac": false,
       "type": "AV",
@@ -17472,19 +17496,20 @@
     },
     {
       "id": 4400,
-      "fac": false,
-      "type": "AV",
+      "fac": true,
+      "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G7CFC",
       "town": "WOLVERHAMPTON",
       "modeCodes": [
-        "A"
+        "A",
+        "F"
       ],
       "tx": 433125000,
       "repeater": "GB3IC",
       "rx": 434725000,
       "ctcss": 67,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO82",
       "dbwErp": 14,
@@ -27633,7 +27658,7 @@
       "id": 5320,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MM0JNL",
       "town": "KIRRIEMUIR",
       "modeCodes": [
@@ -30124,7 +30149,7 @@
       "id": 5500,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "2E0UCW",
       "town": "WEST DRAYTON",
       "modeCodes": [
@@ -34997,7 +35022,6 @@
       "town": "KEIGHLEY",
       "modeCodes": [
         "M:5",
-        " ",
         "D"
       ],
       "tx": 430300000,
@@ -38410,6 +38434,30 @@
       "extraDetails": {
         "ngr": "ST1538",
         "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6058,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0RQD",
+      "town": "SANDOWN",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430987500,
+      "repeater": "M0RQD",
+      "rx": 438587500,
+      "ctcss": 71.9,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO90JP",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SZ5783",
+        "antennaHeight": 10,
         "polarisation": "V"
       }
     }
