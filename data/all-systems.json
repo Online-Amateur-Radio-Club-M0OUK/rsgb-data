@@ -781,31 +781,6 @@
       }
     },
     {
-      "id": 584,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "MM0SJT",
-      "town": "ABERDEEN",
-      "modeCodes": [
-        "D",
-        "F"
-      ],
-      "tx": 144837500,
-      "repeater": "MB6ST",
-      "rx": 144837500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO87UE",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "NJ8412",
-        "antennaHeight": 16,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 622,
       "fac": true,
       "type": "AP",
@@ -4920,7 +4895,7 @@
       "id": 2067,
       "fac": false,
       "type": "BN",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4EPX",
       "town": "FLEET  HANTS",
       "modeCodes": [
@@ -17937,7 +17912,7 @@
       "id": 4448,
       "fac": true,
       "type": "TV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0ATW",
       "town": "GRIMSBY",
       "modeCodes": [
@@ -18277,7 +18252,7 @@
       "id": 4483,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM7GDE",
       "town": "GLASGOW",
       "modeCodes": [
@@ -28508,7 +28483,7 @@
       "id": 5380,
       "fac": true,
       "type": "PX",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "2E0IJC",
       "town": "KILLINGWORTH",
       "modeCodes": [
@@ -38459,6 +38434,30 @@
         "ngr": "SZ5783",
         "antennaHeight": 10,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6059,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4RKY",
+      "town": "SHIPHAM",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 433025000,
+      "repeater": "G4RKY",
+      "rx": 438025000,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81",
+      "dbwErp": -12.2,
+      "extraDetails": {
+        "ngr": "ST4457",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
