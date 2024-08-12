@@ -3838,7 +3838,7 @@
       "id": 999,
       "fac": false,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4THF",
       "town": "WELWYN GARDEN CITY",
       "modeCodes": [
@@ -19945,9 +19945,9 @@
       "modeCodes": [
         "A"
       ],
-      "tx": 144900000,
+      "tx": 145262500,
       "repeater": "MB7IBX",
-      "rx": 144900000,
+      "rx": 145262500,
       "ctcss": 103.5,
       "txbw": 12.5,
       "band": "2M",
@@ -26548,30 +26548,6 @@
       }
     },
     {
-      "id": 5247,
-      "fac": true,
-      "type": "AG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G4ZWH",
-      "town": "HATFIELD",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 144912500,
-      "repeater": "MB7ISH",
-      "rx": 144912500,
-      "ctcss": 82.5,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO91VS",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TL2207",
-        "antennaHeight": 14,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5248,
       "fac": true,
       "type": "AG",
@@ -26592,30 +26568,6 @@
       "extraDetails": {
         "ngr": "TM1070",
         "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 5249,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G4ZWH",
-      "town": "HATFIELD",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 439425000,
-      "repeater": "GB7VH",
-      "rx": 430425000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO91VS",
-      "dbwErp": 11.7,
-      "extraDetails": {
-        "ngr": "TL2207",
-        "antennaHeight": 14,
         "polarisation": "V"
       }
     },
@@ -27633,7 +27585,7 @@
       "id": 5320,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM0JNL",
       "town": "KIRRIEMUIR",
       "modeCodes": [
@@ -32274,7 +32226,7 @@
       "id": 5650,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GW8LGX",
       "town": "SWANSEA",
       "modeCodes": [
@@ -38437,7 +38389,29 @@
       }
     },
     {
-      "id": 6059,
+      "id": 6061,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M7GCQ",
+      "town": "HITCHIN  ",
+      "modeCodes": null,
+      "tx": 144912500,
+      "repeater": "MB7IHI",
+      "rx": 144912500,
+      "ctcss": 82.5,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO91UX",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TL1930",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6062,
       "fac": true,
       "type": "AV",
       "status": "NOT OPERATIONAL",
@@ -38446,14 +38420,14 @@
       "modeCodes": [
         "A"
       ],
-      "tx": 433025000,
+      "tx": 438387500,
       "repeater": "G4RKY",
-      "rx": 438025000,
+      "rx": 430787500,
       "ctcss": 77,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO81",
-      "dbwErp": -12.2,
+      "dbwErp": 0,
       "extraDetails": {
         "ngr": "ST4457",
         "antennaHeight": 0,
