@@ -32226,7 +32226,7 @@
       "id": 5650,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GW8LGX",
       "town": "SWANSEA",
       "modeCodes": [
@@ -37216,9 +37216,9 @@
       "modeCodes": [
         "A"
       ],
-      "tx": 430262500,
+      "tx": 433775000,
       "repeater": "MB9HBB",
-      "rx": 439262500,
+      "rx": 144775000,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
