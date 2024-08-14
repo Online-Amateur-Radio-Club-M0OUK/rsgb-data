@@ -5783,7 +5783,7 @@
       "id": 2228,
       "fac": false,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4NOY",
       "town": "PRESTATYN",
       "modeCodes": [
@@ -11193,10 +11193,10 @@
     },
     {
       "id": 3528,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G1MAW",
+      "keeperCallsign": "G7RPG",
       "town": "CHELTENHAM",
       "modeCodes": [
         "M:2"
@@ -15236,30 +15236,6 @@
       }
     },
     {
-      "id": 4151,
-      "fac": false,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GM7LSI",
-      "town": "ELGIN",
-      "modeCodes": [
-        "M:1"
-      ],
-      "tx": 439587500,
-      "repeater": "GB7SS",
-      "rx": 430587500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO87IP",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NJ2164",
-        "antennaHeight": 12,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 4153,
       "fac": true,
       "type": "AP",
@@ -16780,7 +16756,7 @@
       "id": 4331,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM0DXE",
       "town": "GLENROTHES ",
       "modeCodes": [
@@ -16809,7 +16785,7 @@
       "id": 4332,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0KOA",
       "town": "MILTON KEYNES",
       "modeCodes": [
@@ -17351,10 +17327,10 @@
     },
     {
       "id": 4391,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G1MAW",
+      "keeperCallsign": "G7RPG",
       "town": "STROUD",
       "modeCodes": [
         "A"
@@ -17375,10 +17351,10 @@
     },
     {
       "id": 4392,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G1MAW",
+      "keeperCallsign": "G7RPG",
       "town": "STROUD",
       "modeCodes": [
         "M:2"
@@ -17390,7 +17366,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO81",
-      "dbwErp": 13.8,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SO8303",
         "antennaHeight": 0,
@@ -19178,7 +19154,7 @@
     },
     {
       "id": 4627,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0DMP",
@@ -22010,7 +21986,7 @@
       "id": 4911,
       "fac": false,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0DZZ",
       "town": "GREAT CLACTON",
       "modeCodes": [
@@ -30076,7 +30052,7 @@
       "id": 5500,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "2E0UCW",
       "town": "WEST DRAYTON",
       "modeCodes": [
@@ -32220,30 +32196,6 @@
         "ngr": "TQ5927",
         "antennaHeight": 4,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 5650,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GW8LGX",
-      "town": "SWANSEA",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430012500,
-      "repeater": "GW8LGX",
-      "rx": 0,
-      "ctcss": 67,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SS6393",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -38432,6 +38384,52 @@
         "ngr": "ST4457",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6064,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM8HWZ",
+      "town": "LOSSIEMOUTH",
+      "modeCodes": null,
+      "tx": 439587500,
+      "repeater": "GB7SS",
+      "rx": 430587500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": " IO87HR",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NJ2071",
+        "antennaHeight": 36,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6065,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0NKR",
+      "town": "BRANDON",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UKR",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO02HK",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TL7787",
+        "antennaHeight": 25,
+        "polarisation": "V"
       }
     }
   ]
