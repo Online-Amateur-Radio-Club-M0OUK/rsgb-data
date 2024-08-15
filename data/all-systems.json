@@ -14190,7 +14190,7 @@
       "id": 4059,
       "fac": false,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G1ERJ",
       "town": "HEATHFIELD",
       "modeCodes": [
@@ -16042,9 +16042,9 @@
     },
     {
       "id": 4266,
-      "fac": false,
+      "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM8HBY",
       "town": "KILSYTH",
       "modeCodes": [
@@ -16057,7 +16057,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO75XX",
-      "dbwErp": 7,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "NS7380",
         "antennaHeight": 10,
@@ -19411,34 +19411,10 @@
       "ctcss": 0,
       "txbw": 12.5,
       "band": "2M",
-      "locator": "IO81DP ",
+      "locator": "IO81DP",
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "SS7994",
-        "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 4657,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0MZR",
-      "town": "LEYLAND",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 431075000,
-      "repeater": "MB6RN",
-      "rx": 431075000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO83QQ",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SD5623",
         "antennaHeight": 5,
         "polarisation": "V"
       }
@@ -21986,7 +21962,7 @@
       "id": 4911,
       "fac": false,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0DZZ",
       "town": "GREAT CLACTON",
       "modeCodes": [
@@ -29662,7 +29638,7 @@
       "ctcss": 118.8,
       "txbw": 12.5,
       "band": "2M",
-      "locator": "IO94HS ",
+      "locator": "IO94HS",
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "NZ4141",
@@ -30052,7 +30028,7 @@
       "id": 5500,
       "fac": true,
       "type": "AG",
-      "status": "REDUCED OUTPUT",
+      "status": "",
       "keeperCallsign": "2E0UCW",
       "town": "WEST DRAYTON",
       "modeCodes": [
@@ -31973,7 +31949,7 @@
       "rx": 438437500,
       "ctcss": 71.9,
       "txbw": 12.5,
-      "band": "",
+      "band": "70CM",
       "locator": "IO90AR",
       "dbwErp": 7,
       "extraDetails": {
@@ -34399,7 +34375,7 @@
       "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
-      "locator": " IO7",
+      "locator": "IO75",
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "NS4664",
@@ -36020,7 +35996,7 @@
       "ctcss": 94.8,
       "txbw": 12.5,
       "band": "70CM",
-      "locator": " IO92VG",
+      "locator": "IO92VG",
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "TL2465",
@@ -36621,7 +36597,7 @@
       "ctcss": 82.5,
       "txbw": 10,
       "band": "6M",
-      "locator": "IO93HP ",
+      "locator": "IO93HP",
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "SE3814",
@@ -37781,30 +37757,6 @@
       "extraDetails": null
     },
     {
-      "id": 6025,
-      "fac": true,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "MW0JWP",
-      "town": "LLANDUDNO",
-      "modeCodes": [
-        "M:1"
-      ],
-      "tx": 439712500,
-      "repeater": "GB3OD",
-      "rx": 430712500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO83BH",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SH7683",
-        "antennaHeight": 15,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6026,
       "fac": true,
       "type": "AG",
@@ -38189,7 +38141,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO81KD",
-      "dbwErp": 9.5,
+      "dbwErp": 10,
       "extraDetails": {
         "ngr": "ST1938",
         "antennaHeight": 5,
@@ -38400,7 +38352,7 @@
       "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
-      "locator": " IO87HR",
+      "locator": "IO87HR",
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "NJ2071",
@@ -38412,7 +38364,7 @@
       "id": 6065,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0NKR",
       "town": "BRANDON",
       "modeCodes": [
@@ -38429,6 +38381,54 @@
       "extraDetails": {
         "ngr": "TL7787",
         "antennaHeight": 25,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6068,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM0MEM",
+      "town": "KEITH",
+      "modeCodes": [
+        "M:1"
+      ],
+      "tx": 439487500,
+      "repeater": "GB7GK",
+      "rx": 430487500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO87ON",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NJ5354",
+        "antennaHeight": 12,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6069,
+      "fac": true,
+      "type": "DV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "MW0JWP",
+      "town": "LLANDUDNO",
+      "modeCodes": [
+        "M:1"
+      ],
+      "tx": 430287500,
+      "repeater": "GB3OD",
+      "rx": 439287500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83BH",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SH7683",
+        "antennaHeight": 15,
         "polarisation": "V"
       }
     }
