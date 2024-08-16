@@ -2129,9 +2129,9 @@
     },
     {
       "id": 824,
-      "fac": false,
+      "fac": true,
       "type": "AV",
-      "status": "REDUCED OUTPUT",
+      "status": "",
       "keeperCallsign": "GM7LUN",
       "town": "SELKIRK",
       "modeCodes": [
@@ -2141,10 +2141,10 @@
       "repeater": "GB3HK",
       "rx": 434650000,
       "ctcss": 118.8,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO85",
-      "dbwErp": 12,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "NT5029",
         "antennaHeight": 0,
@@ -2514,7 +2514,7 @@
     },
     {
       "id": 859,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GM7LUN",
@@ -2529,7 +2529,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO85",
-      "dbwErp": 11.9,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "NT4454",
         "antennaHeight": 0,
@@ -3332,7 +3332,7 @@
     },
     {
       "id": 948,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GM7LUN",
@@ -3347,7 +3347,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO85",
-      "dbwErp": 12.3,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "NT5029",
         "antennaHeight": 0,
@@ -9874,9 +9874,9 @@
     },
     {
       "id": 3201,
-      "fac": false,
+      "fac": true,
       "type": "AV",
-      "status": "REDUCED OUTPUT",
+      "status": "",
       "keeperCallsign": "GM7LUN",
       "town": "DUNS",
       "modeCodes": [
@@ -16309,7 +16309,7 @@
     },
     {
       "id": 4297,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GM7LUN",
@@ -18715,7 +18715,7 @@
     },
     {
       "id": 4566,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM7LUN",
@@ -20629,13 +20629,14 @@
     },
     {
       "id": 4808,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0YDG",
       "town": "WAKEFIELD",
       "modeCodes": [
-        "A"
+        "A",
+        "D"
       ],
       "tx": 430812500,
       "repeater": "GB3BW",
@@ -22864,7 +22865,7 @@
     },
     {
       "id": 4990,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM7LUN",
@@ -28530,30 +28531,6 @@
       }
     },
     {
-      "id": 5386,
-      "fac": true,
-      "type": "DG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0JMO",
-      "town": "CHOLSEY",
-      "modeCodes": [
-        "P"
-      ],
-      "tx": 144825000,
-      "repeater": "M0JMO",
-      "rx": 144825000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO91KN",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SU5986",
-        "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5387,
       "fac": true,
       "type": "DV",
@@ -30028,7 +30005,7 @@
       "id": 5500,
       "fac": true,
       "type": "AG",
-      "status": "",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0UCW",
       "town": "WEST DRAYTON",
       "modeCodes": [
@@ -34894,30 +34871,6 @@
       }
     },
     {
-      "id": 5833,
-      "fac": true,
-      "type": "DG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G1DTG",
-      "town": "BRADFORD",
-      "modeCodes": [
-        "M:1"
-      ],
-      "tx": 431075000,
-      "repeater": "MB6BD",
-      "rx": 431075000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO93DS",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SE1931",
-        "antennaHeight": 9,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5836,
       "fac": true,
       "type": "DG",
@@ -35647,9 +35600,7 @@
       "town": "WAKEFIELD",
       "modeCodes": [
         "A",
-        "D",
-        "M",
-        "F"
+        "M"
       ],
       "tx": 145587500,
       "repeater": "MB5BW",
@@ -37039,7 +36990,7 @@
       "id": 5976,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0YDG ",
       "town": "WAKEFIELD",
       "modeCodes": [
@@ -38429,6 +38380,106 @@
       "extraDetails": {
         "ngr": "SH7683",
         "antennaHeight": 15,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6070,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2M0SBP",
+      "town": "ARISAIG",
+      "modeCodes": [
+        "D",
+        "M:4",
+        "F",
+        "N"
+      ],
+      "tx": 439700000,
+      "repeater": "2M0SBP",
+      "rx": 430700000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO76BV",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NM6686",
+        "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6071,
+      "fac": true,
+      "type": "DM",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "GM7LUN",
+      "town": "DUNS ",
+      "modeCodes": [
+        "A",
+        "M:1"
+      ],
+      "tx": 145762500,
+      "repeater": "GB3DU",
+      "rx": 145162500,
+      "ctcss": 118.8,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO85",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NT7354",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6072,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G6JME",
+      "town": "EASTBOURNE",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 70487500,
+      "repeater": "GB7EBN",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "4M",
+      "locator": "JO00",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "TV5998",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6073,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "MM1PTT",
+      "town": "GLASGOW",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "MB7UCM",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "",
+      "locator": "IO75VV",
+      "dbwErp": -7,
+      "extraDetails": {
+        "ngr": "NS6270",
+        "antennaHeight": 9,
         "polarisation": "V"
       }
     }
