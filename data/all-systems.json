@@ -29387,7 +29387,7 @@
       "id": 5450,
       "fac": true,
       "type": "PX",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM5AUG",
       "town": "NEWTON MEARNS",
       "modeCodes": [
@@ -38293,7 +38293,7 @@
       "id": 6064,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM8HWZ",
       "town": "LOSSIEMOUTH",
       "modeCodes": null,
