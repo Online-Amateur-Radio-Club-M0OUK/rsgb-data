@@ -7737,7 +7737,7 @@
       "id": 2645,
       "fac": false,
       "type": "TV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M1CNJ",
       "town": "BANBURY",
       "modeCodes": [
