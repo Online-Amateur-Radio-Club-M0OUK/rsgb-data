@@ -38476,7 +38476,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "JO01",
-      "dbwErp": 14,
+      "dbwErp": 14.3,
       "extraDetails": {
         "ngr": "TQ8786",
         "antennaHeight": 0,
@@ -38616,7 +38616,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "JO01",
-      "dbwErp": 14,
+      "dbwErp": 15,
       "extraDetails": {
         "ngr": "TQ8786",
         "antennaHeight": 0,
