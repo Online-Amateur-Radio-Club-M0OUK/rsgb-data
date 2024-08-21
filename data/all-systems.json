@@ -5353,7 +5353,7 @@
       "type": "BN",
       "status": "OPERATIONAL",
       "keeperCallsign": "G8AQA",
-      "town": "LITTLE WENLOCK, TELFORD",
+      "town": "TELFORD",
       "modeCodes": [
         "B"
       ],
@@ -37554,7 +37554,7 @@
         "A"
       ],
       "tx": 145225000,
-      "repeater": "M7HSF",
+      "repeater": "MB7INR",
       "rx": 145225000,
       "ctcss": 94.8,
       "txbw": 12.5,
