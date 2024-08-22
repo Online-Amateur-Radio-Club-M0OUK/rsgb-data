@@ -9753,7 +9753,7 @@
     },
     {
       "id": 3170,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "GW3XJQ",
@@ -9766,10 +9766,10 @@
       "repeater": "GB3SP",
       "rx": 434700000,
       "ctcss": 94.8,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO71NQ",
-      "dbwErp": 13,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SN0400",
         "antennaHeight": 10,
@@ -11163,30 +11163,6 @@
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "NT3561",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 3528,
-      "fac": true,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G7RPG",
-      "town": "CHELTENHAM",
-      "modeCodes": [
-        "M:2"
-      ],
-      "tx": 430275000,
-      "repeater": "GB7CC",
-      "rx": 439275000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SO9924",
         "antennaHeight": 0,
         "polarisation": ""
       }
@@ -23536,7 +23512,7 @@
       "id": 5050,
       "fac": false,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0LIP",
       "town": "HAILSHAM",
       "modeCodes": [
@@ -29981,7 +29957,7 @@
       "id": 5500,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0UCW",
       "town": "WEST DRAYTON",
       "modeCodes": [
@@ -36797,7 +36773,7 @@
       "id": 5967,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0UCW",
       "town": "WEST DRAYTON",
       "modeCodes": [
@@ -38272,7 +38248,9 @@
       "status": "OPERATIONAL",
       "keeperCallsign": "GM8HWZ",
       "town": "LOSSIEMOUTH",
-      "modeCodes": null,
+      "modeCodes": [
+        "M:1"
+      ],
       "tx": 439587500,
       "repeater": "GB7SS",
       "rx": 430587500,
@@ -38739,6 +38717,30 @@
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "TM1816",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6095,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G7RPG",
+      "town": "CHELTENHAM",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430987500,
+      "repeater": "GB7CC",
+      "rx": 438587500,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SO9924",
         "antennaHeight": 0,
         "polarisation": ""
       }
