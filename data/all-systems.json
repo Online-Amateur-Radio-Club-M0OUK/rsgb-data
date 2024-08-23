@@ -30222,7 +30222,7 @@
       "id": 5526,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G3NWR",
       "town": "HOOTON",
       "modeCodes": [
