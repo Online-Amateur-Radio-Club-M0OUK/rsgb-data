@@ -26938,7 +26938,7 @@
       "id": 5288,
       "fac": false,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4CPO",
       "town": "NEWTON ABBOT",
       "modeCodes": [
@@ -38735,6 +38735,28 @@
       "repeater": "GB7CC",
       "rx": 438587500,
       "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SO9924",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6096,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G1MAW",
+      "town": "CHELTENHAM",
+      "modeCodes": null,
+      "tx": 430275000,
+      "repeater": "GB7VD",
+      "rx": 439275000,
+      "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO81",
