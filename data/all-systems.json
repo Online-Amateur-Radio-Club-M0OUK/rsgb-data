@@ -11339,9 +11339,9 @@
     },
     {
       "id": 3572,
-      "fac": false,
+      "fac": true,
       "type": "DV",
-      "status": "REDUCED OUTPUT",
+      "status": "",
       "keeperCallsign": "G7TXU",
       "town": "BRIGHTON",
       "modeCodes": [
@@ -26458,7 +26458,7 @@
       "type": "AG",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0JSV",
-      "town": "NR EYE",
+      "town": "EYE",
       "modeCodes": [
         "A"
       ],
@@ -33268,30 +33268,6 @@
       }
     },
     {
-      "id": 5731,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "2E0SJA",
-      "town": "ASHFORD",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430075000,
-      "repeater": "2E0SJA",
-      "rx": 430075000,
-      "ctcss": 118.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO01",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TQ9941",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 5736,
       "fac": true,
       "type": "PX",
@@ -33756,30 +33732,6 @@
       "locator": "I064QS",
       "dbwErp": 14,
       "extraDetails": null
-    },
-    {
-      "id": 5763,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "2E0SJA",
-      "town": "ASHFORD",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145237500,
-      "repeater": "2E0SJA",
-      "rx": 145237500,
-      "ctcss": 118.8,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO01KD",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TQ9941",
-        "antennaHeight": 6,
-        "polarisation": "V"
-      }
     },
     {
       "id": 5764,
@@ -35617,31 +35569,6 @@
       }
     },
     {
-      "id": 5903,
-      "fac": true,
-      "type": "DM",
-      "status": "REDUCED OUTPUT",
-      "keeperCallsign": "M0YDG",
-      "town": "WAKEFIELD",
-      "modeCodes": [
-        "A",
-        "D"
-      ],
-      "tx": 430950000,
-      "repeater": "GB3WP-B",
-      "rx": 438550000,
-      "ctcss": 88.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO93HO",
-      "dbwErp": 10,
-      "extraDetails": {
-        "ngr": "SE3914",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5904,
       "fac": true,
       "type": "AG",
@@ -35785,30 +35712,6 @@
         "ngr": "SP1192",
         "antennaHeight": 0,
         "polarisation": ""
-      }
-    },
-    {
-      "id": 5910,
-      "fac": true,
-      "type": "RL",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0YDG",
-      "town": "WAKEFIELD",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 438550000,
-      "repeater": "GB3WP-L",
-      "rx": 430950000,
-      "ctcss": 88.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO93HP",
-      "dbwErp": 0,
-      "extraDetails": {
-        "ngr": "SE3814",
-        "antennaHeight": 3,
-        "polarisation": "V"
       }
     },
     {
@@ -37937,7 +37840,7 @@
         "A"
       ],
       "tx": 430050000,
-      "repeater": "MB7IYE",
+      "repeater": "MB7IEY",
       "rx": 430050000,
       "ctcss": 110.9,
       "txbw": 12.5,
@@ -38765,6 +38668,54 @@
         "ngr": "SO9924",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6097,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0TJX",
+      "town": "YATE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145225000,
+      "repeater": "MB7IYA",
+      "rx": 145225000,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO81TN",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "ST7183",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6098,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0YDG ",
+      "town": "WAKEFIELD",
+      "modeCodes": [
+        "D"
+      ],
+      "tx": 439537500,
+      "repeater": "MB5YN",
+      "rx": 430537500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93HP",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SE3808",
+        "antennaHeight": 7,
+        "polarisation": "V"
       }
     }
   ]
