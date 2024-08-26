@@ -28340,7 +28340,7 @@
       "id": 5380,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0IJC",
       "town": "KILLINGWORTH",
       "modeCodes": [
@@ -38006,7 +38006,7 @@
       "id": 6055,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GW0MAV",
       "town": "CAERPHILLY",
       "modeCodes": [
@@ -38716,6 +38716,30 @@
         "ngr": "SE3808",
         "antennaHeight": 7,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6099,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "GM5JET",
+      "town": "NAIRN",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "MB7UNR",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "IO87",
+      "dbwErp": 0,
+      "extraDetails": {
+        "ngr": "NH8555",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
