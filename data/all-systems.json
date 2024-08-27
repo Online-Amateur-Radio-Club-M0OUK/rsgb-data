@@ -19060,7 +19060,7 @@
       "id": 4621,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0EMO",
       "town": "LOUGHTON",
       "modeCodes": [
@@ -21764,7 +21764,7 @@
       "id": 4902,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0EMO",
       "town": "LOUGHTON",
       "modeCodes": [
@@ -37857,7 +37857,7 @@
       "id": 6042,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0KRH",
       "town": "GUILDFORD",
       "modeCodes": [
