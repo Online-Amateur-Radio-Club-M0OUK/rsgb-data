@@ -32592,7 +32592,7 @@
       "id": 5681,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM0RFN",
       "town": "ABERDEEN",
       "modeCodes": [
@@ -38628,7 +38628,7 @@
       "id": 6095,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7RPG",
       "town": "CHELTENHAM",
       "modeCodes": [
@@ -38740,6 +38740,30 @@
         "ngr": "NH8555",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6100,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0WNT",
+      "town": "WILLINGDON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430050000,
+      "repeater": "MB7INT",
+      "rx": 430050000,
+      "ctcss": 241.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO00CT",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TQ5803",
+        "antennaHeight": 4,
+        "polarisation": "V"
       }
     }
   ]
