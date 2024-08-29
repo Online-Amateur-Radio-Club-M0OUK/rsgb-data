@@ -11910,7 +11910,7 @@
     },
     {
       "id": 3696,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4CPO",
@@ -31335,7 +31335,7 @@
       "id": 5606,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "2E0DHT",
       "town": "CHORLEY",
       "modeCodes": [
@@ -35400,30 +35400,6 @@
       }
     },
     {
-      "id": 5891,
-      "fac": true,
-      "type": "AG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G1DTG",
-      "town": "BRADFORD",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430012500,
-      "repeater": "MB7IDB",
-      "rx": 430012500,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO93DS",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SE1931",
-        "antennaHeight": 12,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5892,
       "fac": true,
       "type": "PX",
@@ -35596,7 +35572,7 @@
       "id": 5905,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G1YFF",
       "town": "BURY ST EDMUNDS ",
       "modeCodes": [
@@ -37597,9 +37573,9 @@
         "M:1",
         "F"
       ],
-      "tx": 431150000,
+      "tx": 431062500,
       "repeater": "MB6GF",
-      "rx": 431150000,
+      "rx": 431062500,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
@@ -38764,6 +38740,34 @@
         "ngr": "TQ5803",
         "antennaHeight": 4,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6101,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G1RUN",
+      "town": "DENTON",
+      "modeCodes": [
+        "A",
+        "D",
+        "M:7",
+        "F",
+        "7"
+      ],
+      "tx": 144562500,
+      "repeater": "GB3XB",
+      "rx": 432800000,
+      "ctcss": 67,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO83",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SJ9393",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
