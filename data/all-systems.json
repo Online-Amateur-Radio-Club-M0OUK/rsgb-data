@@ -35280,7 +35280,7 @@
       "id": 5883,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G3PWJ",
       "town": "STOURBRIDGE",
       "modeCodes": [
@@ -38650,7 +38650,7 @@
       "id": 6097,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0TJX",
       "town": "YATE",
       "modeCodes": [
@@ -38722,7 +38722,7 @@
       "id": 6100,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0WNT",
       "town": "WILLINGDON",
       "modeCodes": [
@@ -38768,6 +38768,54 @@
         "ngr": "SJ9393",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6102,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M5WOB",
+      "town": "BOZEAT",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "M5WOB",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO92",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SP9259",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6104,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0RDF",
+      "town": "PORTISHEAD",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 144825000,
+      "repeater": "MB6PH",
+      "rx": 144825000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO81OL",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "ST4775",
+        "antennaHeight": 5,
+        "polarisation": "V"
       }
     }
   ]
