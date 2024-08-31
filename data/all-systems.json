@@ -8742,7 +8742,7 @@
       "id": 2928,
       "fac": false,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GW8KCY",
       "town": "CARMARTHEN",
       "modeCodes": [
@@ -11146,7 +11146,7 @@
       "id": 3523,
       "fac": false,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MM1BJO",
       "town": "DALKEITH",
       "modeCodes": [
@@ -35691,78 +35691,6 @@
       }
     },
     {
-      "id": 5911,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G8EEY",
-      "town": "BADERSFIELD",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 144650000,
-      "repeater": "MB9HAA",
-      "rx": 432725000,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO02QS",
-      "dbwErp": 20,
-      "extraDetails": {
-        "ngr": "TG2623",
-        "antennaHeight": 9,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 5912,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G8EEY",
-      "town": "BADERSFIELD",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 432725000,
-      "repeater": "MB9HAA",
-      "rx": 144650000,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO02QS",
-      "dbwErp": 17,
-      "extraDetails": {
-        "ngr": "TG2623",
-        "antennaHeight": 9,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 5913,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G8EEY",
-      "town": "BADERSFIELD",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 432725000,
-      "repeater": "MB9HAA",
-      "rx": 144650000,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO02QS",
-      "dbwErp": 17,
-      "extraDetails": {
-        "ngr": "TG2623",
-        "antennaHeight": 9,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5914,
       "fac": true,
       "type": "AV",
@@ -36912,30 +36840,6 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "TG2609",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 5991,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M1OJS",
-      "town": "MORPETH",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 433775000,
-      "repeater": "MB9HBB",
-      "rx": 144775000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO95",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NU2401",
         "antennaHeight": 0,
         "polarisation": ""
       }
@@ -38317,290 +38221,6 @@
       }
     },
     {
-      "id": 6080,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G8UDD",
-      "town": "SOUTHEND ON SEA",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 144675000,
-      "repeater": "MB9HAQ",
-      "rx": 433700000,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO01",
-      "dbwErp": 14.3,
-      "extraDetails": {
-        "ngr": "TQ8786",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 6081,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G8UDD",
-      "town": "HALSTEAD",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 144675000,
-      "repeater": "MB9HAR",
-      "rx": 433712500,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO01",
-      "dbwErp": 14,
-      "extraDetails": null
-    },
-    {
-      "id": 6082,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G8UDD",
-      "town": "BURNHAM ON CROUCH",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 144675000,
-      "repeater": "MB9HAS",
-      "rx": 433725000,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO01",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TQ9595",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 6083,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G8UDD",
-      "town": "CHELMSFORD",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 144675000,
-      "repeater": "MB9HAT",
-      "rx": 433750000,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO01",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TL7006",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 6084,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G8UDD",
-      "town": "COLCHESTER",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 144675000,
-      "repeater": "MB9HAU",
-      "rx": 433762500,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO01",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TL9925",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 6085,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G8UDD",
-      "town": "CLACTON ON SEA",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 144675000,
-      "repeater": "MB9HAV",
-      "rx": 438812500,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO01",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TM1816",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 6086,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G8UDD",
-      "town": "SOUTHEND ON SEA",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 433700000,
-      "repeater": "MB9HAQ",
-      "rx": 144675000,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO01",
-      "dbwErp": 15,
-      "extraDetails": {
-        "ngr": "TQ8786",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 6087,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G8UDD",
-      "town": "HALSTEAD",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 433712500,
-      "repeater": "MB9HAR",
-      "rx": 144675000,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO01",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TL7930",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 6088,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G8UDD",
-      "town": "BURNHAM ON CROUCH",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 433725000,
-      "repeater": "MB9HAS",
-      "rx": 144675000,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO01",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TQ9595",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 6089,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G8UDD",
-      "town": "CHELMSFORD",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 433750000,
-      "repeater": "MB9HAT",
-      "rx": 144675000,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO01",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TL7006",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 6090,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G8UDD",
-      "town": "COLCHESTER",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 433762500,
-      "repeater": "MB9HAU",
-      "rx": 144675000,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO01",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TL9925",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 6091,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G8UDD",
-      "town": "CLACTON ON SEA",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 438812500,
-      "repeater": "MB9HAV",
-      "rx": 144675000,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO01",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TM1816",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6095,
       "fac": true,
       "type": "AV",
@@ -38816,6 +38436,54 @@
         "ngr": "ST4775",
         "antennaHeight": 5,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6105,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "2E0JJI",
+      "town": "SHEFFIELD",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144950000,
+      "repeater": "GB7LOX",
+      "rx": 144950000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO93",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SK3089",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6106,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "2E0JJI",
+      "town": "SHEFFIELD",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 7047460,
+      "repeater": "GB7LOX",
+      "rx": 7047460,
+      "ctcss": 0,
+      "txbw": 2.4,
+      "band": "40M",
+      "locator": "IO93",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SK3089",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
