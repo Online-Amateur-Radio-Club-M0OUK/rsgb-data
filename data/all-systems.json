@@ -198,7 +198,7 @@
       "id": 196,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0OLX",
       "town": "CATERHAM",
       "modeCodes": [
@@ -4415,7 +4415,7 @@
       "id": 1102,
       "fac": false,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0OLX",
       "town": "CATERHAM",
       "modeCodes": [
@@ -7731,30 +7731,6 @@
         "ngr": "ST0173",
         "antennaHeight": 15,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 2645,
-      "fac": false,
-      "type": "TV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M1CNJ",
-      "town": "BANBURY",
-      "modeCodes": [
-        "T"
-      ],
-      "tx": 1322000000,
-      "repeater": "GB3ET",
-      "rx": 1249000000,
-      "ctcss": 0,
-      "txbw": 4000,
-      "band": "23CM",
-      "locator": "IO92",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SP3747",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -11368,7 +11344,7 @@
       "id": 3576,
       "fac": false,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0TJH",
       "town": "BOGNOR REGIS",
       "modeCodes": [
@@ -11979,31 +11955,6 @@
       "extraDetails": {
         "ngr": "SE3907",
         "antennaHeight": 15,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 3710,
-      "fac": false,
-      "type": "DM",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G6OUA",
-      "town": "LUTON",
-      "modeCodes": [
-        "A",
-        "F"
-      ],
-      "tx": 433250000,
-      "repeater": "GB3LT",
-      "rx": 434850000,
-      "ctcss": 77,
-      "txbw": 25,
-      "band": "70CM",
-      "locator": "IO91SV",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TL0624",
-        "antennaHeight": 35,
         "polarisation": "V"
       }
     },
@@ -32013,7 +31964,7 @@
       "type": "AP",
       "status": "OPERATIONAL",
       "keeperCallsign": "GM8SAU",
-      "town": "ISLE OF NORTH UIST",
+      "town": "LOCHMADDY",
       "modeCodes": [
         "X"
       ],
@@ -37550,7 +37501,7 @@
         "X"
       ],
       "tx": 439912500,
-      "repeater": "GB7BSK",
+      "repeater": "MB7UBA",
       "rx": 439912500,
       "ctcss": 0,
       "txbw": 125,
@@ -38482,6 +38433,55 @@
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "SK3089",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6107,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0LTE",
+      "town": "READING",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "MB7UTL",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "IO91LK",
+      "dbwErp": -10,
+      "extraDetails": {
+        "ngr": "SU6772",
+        "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6108,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2E0KFG",
+      "town": "COLCHESTER",
+      "modeCodes": [
+        "D",
+        "N"
+      ],
+      "tx": 434487500,
+      "repeater": "2E0KFG",
+      "rx": 434487500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO01",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TM0122",
         "antennaHeight": 0,
         "polarisation": ""
       }
