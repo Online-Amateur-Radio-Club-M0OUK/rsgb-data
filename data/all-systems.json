@@ -38366,6 +38366,30 @@
       }
     },
     {
+      "id": 6103,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0VTD",
+      "town": "IVYBRIDGE",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 431125000,
+      "repeater": "MB6IV",
+      "rx": 431125000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO80BB",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SX6556",
+        "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 6104,
       "fac": true,
       "type": "DG",
@@ -38484,6 +38508,54 @@
         "ngr": "TM0122",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6110,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0NVK",
+      "town": "ISLE OF WIGHT",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 432625000,
+      "repeater": "GB7IOW",
+      "rx": 432625000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO90HR",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SZ4491",
+        "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6111,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4FZP",
+      "town": "BURY",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430025000,
+      "repeater": "G4FZP",
+      "rx": 430025000,
+      "ctcss": 88.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83UN",
+      "dbwErp": 0,
+      "extraDetails": {
+        "ngr": "SD8105",
+        "antennaHeight": 5,
+        "polarisation": "V"
       }
     }
   ]
