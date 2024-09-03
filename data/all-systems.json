@@ -12493,30 +12493,6 @@
       }
     },
     {
-      "id": 3809,
-      "fac": false,
-      "type": "AV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G4CJZ",
-      "town": "BRISTOL",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430975000,
-      "repeater": "GB3AC",
-      "rx": 438575000,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81TS",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "ST5978",
-        "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 3811,
       "fac": true,
       "type": "DG",
@@ -38556,6 +38532,31 @@
         "ngr": "SD8105",
         "antennaHeight": 5,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6112,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G8XZD",
+      "town": "LONG ASHTON  BRISTOL",
+      "modeCodes": [
+        "A",
+        "M:5"
+      ],
+      "tx": 430875000,
+      "repeater": "GB3IP",
+      "rx": 438475000,
+      "ctcss": 118.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "ST5470",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
