@@ -7734,6 +7734,30 @@
       }
     },
     {
+      "id": 2645,
+      "fac": true,
+      "type": "TV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M1CNJ",
+      "town": "BANBURY",
+      "modeCodes": [
+        "T"
+      ],
+      "tx": 1322000000,
+      "repeater": "GB3ET",
+      "rx": 1249000000,
+      "ctcss": 0,
+      "txbw": 4000,
+      "band": "23CM",
+      "locator": "IO92",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SP3747",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
       "id": 2650,
       "fac": false,
       "type": "DV",
@@ -11955,6 +11979,31 @@
       "extraDetails": {
         "ngr": "SE3907",
         "antennaHeight": 15,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 3710,
+      "fac": true,
+      "type": "DM",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G6OUA",
+      "town": "LUTON",
+      "modeCodes": [
+        "A",
+        "F"
+      ],
+      "tx": 433250000,
+      "repeater": "GB3LT",
+      "rx": 434850000,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91SV",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TL0624",
+        "antennaHeight": 35,
         "polarisation": "V"
       }
     },
@@ -19276,7 +19325,7 @@
       "id": 4655,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MW0TTF ",
       "town": "PORT TALBOT",
       "modeCodes": [
@@ -29654,7 +29703,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO92",
-      "dbwErp": 0,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SK5547",
         "antennaHeight": 0,
