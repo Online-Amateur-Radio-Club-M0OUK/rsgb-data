@@ -11338,33 +11338,6 @@
       }
     },
     {
-      "id": 3572,
-      "fac": true,
-      "type": "DV",
-      "status": "",
-      "keeperCallsign": "G7TXU",
-      "town": "BRIGHTON",
-      "modeCodes": [
-        "D",
-        "M:4",
-        "F",
-        "P"
-      ],
-      "tx": 439575000,
-      "repeater": "GB7BH",
-      "rx": 430575000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO90WU",
-      "dbwErp": 10,
-      "extraDetails": {
-        "ngr": "TQ3406",
-        "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 3576,
       "fac": false,
       "type": "DV",
@@ -14334,22 +14307,22 @@
     },
     {
       "id": 4081,
-      "fac": false,
+      "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM0UDL",
       "town": "MUIR OF ORD",
       "modeCodes": [
         "M:1"
       ],
-      "tx": 439662500,
+      "tx": 430825000,
       "repeater": "GB7BI",
-      "rx": 430662500,
+      "rx": 438425000,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO77RM",
-      "dbwErp": 11.5,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "NH4849",
         "antennaHeight": 18,
@@ -35645,7 +35618,7 @@
       "id": 5909,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G1TTR",
       "town": "ERDINGTON",
       "modeCodes": [
