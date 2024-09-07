@@ -8863,10 +8863,10 @@
     },
     {
       "id": 2956,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "M1NIZ",
+      "keeperCallsign": "2E0TDN",
       "town": "IPSWICH",
       "modeCodes": [
         "M:2"
@@ -11338,6 +11338,33 @@
       }
     },
     {
+      "id": 3572,
+      "fac": true,
+      "type": "DV",
+      "status": "",
+      "keeperCallsign": "G7TXU",
+      "town": "BRIGHTON",
+      "modeCodes": [
+        "D",
+        "M:4",
+        "F",
+        "P"
+      ],
+      "tx": 439575000,
+      "repeater": "GB7BH",
+      "rx": 430575000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO90WU",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "TQ3406",
+        "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 3576,
       "fac": false,
       "type": "DV",
@@ -12055,7 +12082,7 @@
     },
     {
       "id": 3721,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0IAD",
@@ -33010,7 +33037,7 @@
       ],
       "tx": 430012500,
       "repeater": "GM6KWU",
-      "rx": 0,
+      "rx": 430012500,
       "ctcss": 77,
       "txbw": 12.5,
       "band": "70CM",
@@ -34991,7 +35018,7 @@
       "fac": true,
       "type": "DV",
       "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G1MAW",
+      "keeperCallsign": "G7RPG",
       "town": "CHURCHDOWN",
       "modeCodes": [
         "M:13",
@@ -38579,6 +38606,28 @@
         "ngr": "ST5470",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6113,
+      "fac": true,
+      "type": "DV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "2E0BJL",
+      "town": "EPSOM",
+      "modeCodes": null,
+      "tx": 430262500,
+      "repeater": "2E0BJL",
+      "rx": 439262500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO91UI",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TQ2061",
+        "antennaHeight": 10,
+        "polarisation": "V"
       }
     }
   ]
