@@ -23789,9 +23789,9 @@
       "modeCodes": [
         "X"
       ],
-      "tx": 7049000,
+      "tx": 7050000,
       "repeater": "GB7IOW",
-      "rx": 7049000,
+      "rx": 7050000,
       "ctcss": 0,
       "txbw": 0.5,
       "band": "40M",
@@ -31800,9 +31800,9 @@
       "modeCodes": [
         "X"
       ],
-      "tx": 7049000,
+      "tx": 7050000,
       "repeater": "GB7CNR",
-      "rx": 0,
+      "rx": 7050000,
       "ctcss": 0,
       "txbw": 0.5,
       "band": "40M",
@@ -32854,30 +32854,6 @@
       "extraDetails": {
         "ngr": "TL1317",
         "antennaHeight": 15,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 5702,
-      "fac": true,
-      "type": "PX",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G6FJI",
-      "town": "ABINGDON",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 7051250,
-      "repeater": "GB7OXF",
-      "rx": 7051250,
-      "ctcss": 0,
-      "txbw": 0.5,
-      "band": "40M",
-      "locator": "IO91IQ",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SU5098",
-        "antennaHeight": 8,
         "polarisation": "V"
       }
     },
@@ -38627,6 +38603,78 @@
       "extraDetails": {
         "ngr": "TQ2061",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6114,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G6FJI",
+      "town": "ABINGDON",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 7050100,
+      "repeater": "GB7OXF",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "40M",
+      "locator": "IO91IQ",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SU5098",
+        "antennaHeight": 2,
+        "polarisation": "H"
+      }
+    },
+    {
+      "id": 6117,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0LJL",
+      "town": "PRESTON",
+      "modeCodes": [
+        "M:1"
+      ],
+      "tx": 431150000,
+      "repeater": "MB6LL",
+      "rx": 431150000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SD5724",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6118,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "2E0IZH",
+      "town": "GOSPORT",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145225000,
+      "repeater": "MB7IGP",
+      "rx": 145225000,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO90KT",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SU6000",
+        "antennaHeight": 12,
         "polarisation": "V"
       }
     }
