@@ -12160,7 +12160,8 @@
       "keeperCallsign": "GW0UXJ",
       "town": "PONTYPRIDD",
       "modeCodes": [
-        "F"
+        "F",
+        "A"
       ],
       "tx": 430900000,
       "repeater": "GB3MG",
@@ -25049,7 +25050,7 @@
       "id": 5154,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "M5MPC",
       "town": "WALKDEN",
       "modeCodes": [
@@ -37137,7 +37138,7 @@
       "id": 6012,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MW0KJX",
       "town": "DUNVANT ",
       "modeCodes": [
