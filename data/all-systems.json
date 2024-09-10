@@ -18598,7 +18598,7 @@
       "id": 4560,
       "fac": false,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M1CJE",
       "town": "MARLBOROUGH",
       "modeCodes": [
@@ -20410,30 +20410,6 @@
         "ngr": "NY1966",
         "antennaHeight": 3,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 4790,
-      "fac": false,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G0NIS",
-      "town": "WHITEHAVEN",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430887500,
-      "repeater": "GB3WQ",
-      "rx": 438487500,
-      "ctcss": 77,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO84",
-      "dbwErp": 10,
-      "extraDetails": {
-        "ngr": "NX9818",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -37935,7 +37911,7 @@
       "id": 6061,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M7GCQ",
       "town": "HITCHIN  ",
       "modeCodes": null,
@@ -38564,7 +38540,7 @@
       "id": 6112,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G8XZD",
       "town": "LONG ASHTON  BRISTOL",
       "modeCodes": [
@@ -38629,6 +38605,54 @@
         "ngr": "SU5098",
         "antennaHeight": 2,
         "polarisation": "H"
+      }
+    },
+    {
+      "id": 6115,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G0OLX",
+      "town": "BANSTEAD, SURREY",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 439675000,
+      "repeater": "GB3NS",
+      "rx": 430675000,
+      "ctcss": 82.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TQ2454",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6116,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G0OLX",
+      "town": "BANSTEAD, SURREY",
+      "modeCodes": [
+        "M:3"
+      ],
+      "tx": 439162500,
+      "repeater": "GB7NS",
+      "rx": 430162500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TQ2454",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     },
     {
