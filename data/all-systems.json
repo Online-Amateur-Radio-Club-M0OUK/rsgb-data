@@ -9356,7 +9356,7 @@
       "id": 3081,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0MNE",
       "town": "GATESHEAD",
       "modeCodes": [
@@ -12154,7 +12154,7 @@
     },
     {
       "id": 3736,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GW0UXJ",
@@ -20268,7 +20268,7 @@
       "id": 4773,
       "fac": false,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "G0FHM",
       "town": "DOWNHAM MARKET",
       "modeCodes": [
@@ -27206,16 +27206,17 @@
       "id": 5309,
       "fac": false,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0YDG",
       "town": "CLECKHEATON",
       "modeCodes": [
-        "A"
+        "F",
+        "M:7"
       ],
       "tx": 430987500,
       "repeater": "GB3YN",
       "rx": 438587500,
-      "ctcss": 77,
+      "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO93CR",
@@ -38700,6 +38701,78 @@
       "extraDetails": {
         "ngr": "SU6000",
         "antennaHeight": 12,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6122,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G6JME",
+      "town": "EASTBOURNE",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7USH",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO00",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "TQ6401",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6123,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM0UDL",
+      "town": "MUIR OF ORD",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "MB7UBI",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "IO77RM",
+      "dbwErp": -7,
+      "extraDetails": {
+        "ngr": "NH4849",
+        "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6124,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G7MLO",
+      "town": "BURY ST EDMUNDS",
+      "modeCodes": [
+        "D"
+      ],
+      "tx": 145662500,
+      "repeater": "GB7DS",
+      "rx": 145062500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO02IE",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "TL8760",
+        "antennaHeight": 6,
         "polarisation": "V"
       }
     }
