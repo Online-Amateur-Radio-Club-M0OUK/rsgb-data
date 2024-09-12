@@ -31241,7 +31241,7 @@
       "id": 5604,
       "fac": true,
       "type": "PX",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M7ESW",
       "town": "CONSETT",
       "modeCodes": [
@@ -35064,7 +35064,7 @@
       "id": 5877,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4YWD",
       "town": "HOOTON  WIRRAL",
       "modeCodes": [
