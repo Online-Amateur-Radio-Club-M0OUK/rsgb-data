@@ -3550,7 +3550,7 @@
       "id": 968,
       "fac": false,
       "type": "TV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0UHY",
       "town": "TORQUAY",
       "modeCodes": [
@@ -21564,33 +21564,6 @@
       }
     },
     {
-      "id": 4883,
-      "fac": false,
-      "type": "DM",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G1LBU",
-      "town": "WASHINGTON",
-      "modeCodes": [
-        "A",
-        "D",
-        "M:10",
-        "F"
-      ],
-      "tx": 145612500,
-      "repeater": "GB3UK",
-      "rx": 145012500,
-      "ctcss": 118.8,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO94FV",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "NZ3157",
-        "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 4885,
       "fac": true,
       "type": "DG",
@@ -27210,8 +27183,7 @@
       "keeperCallsign": "M0YDG",
       "town": "CLECKHEATON",
       "modeCodes": [
-        "F",
-        "M:7"
+        "F"
       ],
       "tx": 430987500,
       "repeater": "GB3YN",
@@ -28223,7 +28195,7 @@
       "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "MB7IET",
+      "keeperCallsign": "G6IET",
       "town": "RICHMOND ",
       "modeCodes": [
         "A"
@@ -33937,7 +33909,8 @@
       "keeperCallsign": "M0NCZ",
       "town": "ASHTON-UNDER-LYNE",
       "modeCodes": [
-        "A"
+        "A",
+        "M:10"
       ],
       "tx": 430250000,
       "repeater": "GB7XF",
@@ -37741,30 +37714,6 @@
       }
     },
     {
-      "id": 6052,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0KPQ",
-      "town": "OVER STOWEY CRICKET CLUB TAUNT",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430987500,
-      "repeater": "M0KPQ",
-      "rx": 438587500,
-      "ctcss": 141.3,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81KD",
-      "dbwErp": 10,
-      "extraDetails": {
-        "ngr": "ST1938",
-        "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6053,
       "fac": true,
       "type": "AG",
@@ -37857,30 +37806,6 @@
       "extraDetails": {
         "ngr": "NZ4407",
         "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 6057,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0KON",
-      "town": "WILMOTS POOL OVER STOWEY, TAUN",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 438400000,
-      "repeater": "M0KON",
-      "rx": 430800000,
-      "ctcss": 141.3,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81JD",
-      "dbwErp": 10.1,
-      "extraDetails": {
-        "ngr": "ST1538",
-        "antennaHeight": 6,
         "polarisation": "V"
       }
     },
@@ -38569,13 +38494,15 @@
       "status": "OPERATIONAL",
       "keeperCallsign": "2E0BJL",
       "town": "EPSOM",
-      "modeCodes": null,
+      "modeCodes": [
+        "F"
+      ],
       "tx": 430262500,
       "repeater": "2E0BJL",
       "rx": 439262500,
       "ctcss": 0,
       "txbw": 12.5,
-      "band": "2M",
+      "band": "70CM",
       "locator": "IO91UI",
       "dbwErp": 7,
       "extraDetails": {
@@ -38762,17 +38689,41 @@
       "modeCodes": [
         "D"
       ],
-      "tx": 145662500,
+      "tx": 433300000,
       "repeater": "GB7DS",
-      "rx": 145062500,
+      "rx": 438300000,
       "ctcss": 0,
       "txbw": 12.5,
-      "band": "2M",
+      "band": "70CM",
       "locator": "JO02IE",
-      "dbwErp": 10,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "TL8760",
         "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6126,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G1LBU",
+      "town": "WASHINGTON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145262500,
+      "repeater": "MB7IGB",
+      "rx": 145262500,
+      "ctcss": 118.8,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO94FV",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NZ3157",
+        "antennaHeight": 8,
         "polarisation": "V"
       }
     }
