@@ -5903,7 +5903,7 @@
       "id": 2275,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0NCZ",
       "town": "ASHTON-UNDER-LYNE",
       "modeCodes": [
@@ -19645,7 +19645,7 @@
       "id": 4687,
       "fac": false,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0NCZ",
       "town": "ASHTON-UNDER-LYNE",
       "modeCodes": [
@@ -35382,8 +35382,7 @@
       "keeperCallsign": "M0YDG ",
       "town": "WAKEFIELD",
       "modeCodes": [
-        "A",
-        "M"
+        "M:5"
       ],
       "tx": 145587500,
       "repeater": "MB5BW",
