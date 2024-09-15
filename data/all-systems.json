@@ -12892,7 +12892,7 @@
       "id": 3877,
       "fac": false,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G1IRG",
       "town": "NORTHAMPTON",
       "modeCodes": [
@@ -15995,7 +15995,7 @@
     },
     {
       "id": 4268,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G8GTZ",
@@ -16005,12 +16005,12 @@
       ],
       "tx": 433325000,
       "repeater": "GB3BA",
-      "rx": 434925000,
+      "rx": 438325000,
       "ctcss": 71.9,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO91",
-      "dbwErp": 5,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "SU6048",
         "antennaHeight": 0,
@@ -27177,9 +27177,9 @@
     },
     {
       "id": 5309,
-      "fac": false,
+      "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0YDG",
       "town": "CLECKHEATON",
       "modeCodes": [
@@ -27192,7 +27192,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO93CR",
-      "dbwErp": 12.5,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SE1625",
         "antennaHeight": 9,
@@ -30683,7 +30683,7 @@
       "id": 5565,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "2E0FNM",
       "town": "FRECKLETON",
       "modeCodes": [
@@ -37930,7 +37930,7 @@
       "id": 6068,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM0MEM",
       "town": "KEITH",
       "modeCodes": [
@@ -38724,6 +38724,54 @@
         "ngr": "NZ3157",
         "antennaHeight": 8,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6127,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0KNJ",
+      "town": "FRETTENHAM",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 432800000,
+      "repeater": "MB5NN",
+      "rx": 144562500,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO02",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TG2416",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6128,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2E0HOQ",
+      "town": "WESTON SUPER MARE",
+      "modeCodes": [
+        "7"
+      ],
+      "tx": 439550000,
+      "repeater": "2E0HOQ",
+      "rx": 430550000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "ST2662",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
