@@ -1677,7 +1677,7 @@
       "id": 779,
       "fac": false,
       "type": "TV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4DFB",
       "town": "NORTH LONDON",
       "modeCodes": [
@@ -34514,7 +34514,7 @@
       "id": 5823,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0JIC",
       "town": "DONCASTER",
       "modeCodes": [
@@ -35522,7 +35522,7 @@
       "id": 5907,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2M0FPI",
       "town": "ABERDEEN",
       "modeCodes": [
@@ -37716,7 +37716,7 @@
       "id": 6053,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0JIC",
       "town": "DONCASTER",
       "modeCodes": [
