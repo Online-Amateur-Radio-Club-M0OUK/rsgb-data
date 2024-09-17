@@ -1870,7 +1870,7 @@
       "id": 796,
       "fac": false,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M1FJB",
       "town": "SPILSBY LINCS.",
       "modeCodes": [
@@ -27416,7 +27416,7 @@
       "id": 5320,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MM0JNL",
       "town": "KIRRIEMUIR",
       "modeCodes": [
@@ -31253,34 +31253,6 @@
       "dbwErp": 10,
       "extraDetails": {
         "ngr": "SD7923",
-        "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 5606,
-      "fac": true,
-      "type": "DG",
-      "status": "REDUCED OUTPUT",
-      "keeperCallsign": "2E0DHT",
-      "town": "CHORLEY",
-      "modeCodes": [
-        "D",
-        "M:10",
-        "F",
-        "P",
-        "N"
-      ],
-      "tx": 431137500,
-      "repeater": "2E0DHT",
-      "rx": 431137500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO83QP",
-      "dbwErp": 0,
-      "extraDetails": {
-        "ngr": "SD5918",
         "antennaHeight": 6,
         "polarisation": "V"
       }
@@ -38770,6 +38742,30 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "ST2662",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6129,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "2E0HOQ ",
+      "town": "WESTON SUPER MARE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430012500,
+      "repeater": "2E0HOQ ",
+      "rx": 430012500,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "ST3663",
         "antennaHeight": 0,
         "polarisation": ""
       }
