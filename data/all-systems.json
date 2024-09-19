@@ -12348,9 +12348,9 @@
     },
     {
       "id": 3769,
-      "fac": false,
+      "fac": true,
       "type": "AV",
-      "status": "REDUCED OUTPUT",
+      "status": "",
       "keeperCallsign": "M1FJB",
       "town": "COLD ASHBY",
       "modeCodes": [
@@ -32578,7 +32578,7 @@
       "locator": "IO91UN",
       "dbwErp": 14,
       "extraDetails": {
-        "ngr": "TQ1612",
+        "ngr": "TQ1685",
         "antennaHeight": 6,
         "polarisation": "H"
       }
@@ -38774,7 +38774,7 @@
       "id": 6130,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0CRT",
       "town": "DINNINGTON",
       "modeCodes": [
@@ -38792,6 +38792,30 @@
         "ngr": "SK5387",
         "antennaHeight": 12,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6131,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G3XOU",
+      "town": "TORQUAY",
+      "modeCodes": [
+        "M:3"
+      ],
+      "tx": 439712500,
+      "repeater": "GB7YM",
+      "rx": 430712500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO80",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SX9167",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     },
     {
