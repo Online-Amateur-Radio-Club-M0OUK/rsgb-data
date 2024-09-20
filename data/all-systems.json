@@ -10535,7 +10535,7 @@
       "id": 3354,
       "fac": false,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0UDZ",
       "town": "ASHINGTON",
       "modeCodes": [
@@ -19645,7 +19645,7 @@
       "id": 4687,
       "fac": false,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0NCZ",
       "town": "ASHTON-UNDER-LYNE",
       "modeCodes": [
@@ -30683,7 +30683,7 @@
       "id": 5565,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0FNM",
       "town": "FRECKLETON",
       "modeCodes": [
@@ -38588,12 +38588,12 @@
       "modeCodes": [
         "A"
       ],
-      "tx": 145225000,
+      "tx": 430012500,
       "repeater": "MB7IGP",
-      "rx": 145225000,
+      "rx": 430012500,
       "ctcss": 94.8,
       "txbw": 12.5,
-      "band": "2M",
+      "band": "70CM",
       "locator": "IO90KT",
       "dbwErp": 7,
       "extraDetails": {
