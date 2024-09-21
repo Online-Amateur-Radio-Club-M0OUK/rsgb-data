@@ -33300,7 +33300,8 @@
       "town": "WORKSOP",
       "modeCodes": [
         "D",
-        "M:1"
+        "M:1",
+        "F"
       ],
       "tx": 439562500,
       "repeater": "GB7XN",
@@ -38864,6 +38865,54 @@
         "ngr": "TG2130",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6136,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GW4DVB",
+      "town": "TONDU  BRIDGEND",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430937500,
+      "repeater": "GB3TC",
+      "rx": 438537500,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81EN",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SS8984",
+        "antennaHeight": 15,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6137,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "GW6RTV",
+      "town": "NEWPORT",
+      "modeCodes": [
+        "M:1"
+      ],
+      "tx": 431062500,
+      "repeater": "GW6RTV",
+      "rx": 431062500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81LN",
+      "dbwErp": -12.2,
+      "extraDetails": {
+        "ngr": "ST2884",
+        "antennaHeight": 5,
+        "polarisation": "V"
       }
     }
   ]
