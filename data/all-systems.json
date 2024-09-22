@@ -20268,7 +20268,7 @@
       "id": 4773,
       "fac": false,
       "type": "DV",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0FHM",
       "town": "DOWNHAM MARKET",
       "modeCodes": [
@@ -32979,7 +32979,7 @@
       "keeperCallsign": "M0YDG",
       "town": "WAKEFIELD",
       "modeCodes": [
-        "M:5"
+        "M:3"
       ],
       "tx": 430287500,
       "repeater": "GB7YN",
