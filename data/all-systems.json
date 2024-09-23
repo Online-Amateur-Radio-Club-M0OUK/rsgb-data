@@ -12350,7 +12350,7 @@
       "id": 3769,
       "fac": true,
       "type": "AV",
-      "status": "",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M1FJB",
       "town": "COLD ASHBY",
       "modeCodes": [
@@ -19133,7 +19133,7 @@
       "id": 4630,
       "fac": false,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M1CMN",
       "town": "FOLKESTONE",
       "modeCodes": [
@@ -26864,7 +26864,7 @@
       "id": 5288,
       "fac": false,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4CPO",
       "town": "NEWTON ABBOT",
       "modeCodes": [
@@ -37713,7 +37713,7 @@
       "id": 6054,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M7SQQ",
       "town": "BURY",
       "modeCodes": [
@@ -38912,6 +38912,30 @@
       "extraDetails": {
         "ngr": "ST2884",
         "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6138,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "MM6BWS",
+      "town": "PETERHEAD",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 144837500,
+      "repeater": "MB6PD",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO97CM",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NK1245",
+        "antennaHeight": 4,
         "polarisation": "V"
       }
     }
