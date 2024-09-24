@@ -9558,7 +9558,7 @@
       "id": 3136,
       "fac": false,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0SGL",
       "town": "MORDEN",
       "modeCodes": [
@@ -14505,7 +14505,7 @@
       "id": 4097,
       "fac": false,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G3WYW",
       "town": "NEWBURY",
       "modeCodes": [
@@ -38938,6 +38938,53 @@
         "antennaHeight": 4,
         "polarisation": "V"
       }
+    },
+    {
+      "id": 6140,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M1LOU",
+      "town": "BARNSLEY",
+      "modeCodes": [
+        "A",
+        "D",
+        "M:7",
+        "F"
+      ],
+      "tx": 430937500,
+      "repeater": "MB5SX",
+      "rx": 438537500,
+      "ctcss": 71.9,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93FO",
+      "dbwErp": 11,
+      "extraDetails": {
+        "ngr": "SE3205",
+        "antennaHeight": 15,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6141,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G1DTG",
+      "town": "BRADFORD",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145225000,
+      "repeater": "MB7IDB",
+      "rx": 145225000,
+      "ctcss": 88,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO93DS",
+      "dbwErp": 7,
+      "extraDetails": null
     }
   ]
 }
