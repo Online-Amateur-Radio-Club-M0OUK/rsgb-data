@@ -21399,7 +21399,9 @@
       "keeperCallsign": "GM7RYR",
       "town": "BATHGATE",
       "modeCodes": [
-        "M:4"
+        "M:4",
+        ",",
+        "N"
       ],
       "tx": 439712500,
       "repeater": "GB7CB",
@@ -36480,7 +36482,7 @@
       "id": 5969,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0VGP",
       "town": "WALSALL",
       "modeCodes": [
@@ -38865,6 +38867,30 @@
         "ngr": "TG2130",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6135,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4XUR",
+      "town": "TAUNTON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 438400000,
+      "repeater": "M0KON",
+      "rx": 430800000,
+      "ctcss": 141.3,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO80IW",
+      "dbwErp": 11.1,
+      "extraDetails": {
+        "ngr": "ST2715",
+        "antennaHeight": 6,
+        "polarisation": "V"
       }
     },
     {
