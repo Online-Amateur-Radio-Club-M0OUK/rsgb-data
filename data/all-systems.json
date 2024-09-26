@@ -4412,30 +4412,6 @@
       }
     },
     {
-      "id": 1102,
-      "fac": false,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G0OLX",
-      "town": "CATERHAM",
-      "modeCodes": [
-        "M:3"
-      ],
-      "tx": 439162500,
-      "repeater": "GB7NS",
-      "rx": 430162500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO91WG",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TQ3254",
-        "antennaHeight": 20,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 1148,
       "fac": false,
       "type": "DV",
@@ -21393,14 +21369,13 @@
     },
     {
       "id": 4874,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GM7RYR",
       "town": "BATHGATE",
       "modeCodes": [
         "M:4",
-        ",",
         "N"
       ],
       "tx": 439712500,
@@ -37008,7 +36983,11 @@
       "band": "70CM",
       "locator": "IO81PL",
       "dbwErp": 7,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "ST5177",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
     },
     {
       "id": 6010,
@@ -38080,7 +38059,9 @@
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "G1MAW",
       "town": "CHELTENHAM",
-      "modeCodes": null,
+      "modeCodes": [
+        "M:2"
+      ],
       "tx": 430275000,
       "repeater": "GB7VD",
       "rx": 439275000,
@@ -38247,7 +38228,7 @@
       "id": 6103,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0VTD",
       "town": "IVYBRIDGE",
       "modeCodes": [
@@ -38539,7 +38520,7 @@
       "type": "DV",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0OLX",
-      "town": "BANSTEAD, SURREY",
+      "town": "BANSTEAD  SURREY",
       "modeCodes": [
         "M:3"
       ],
