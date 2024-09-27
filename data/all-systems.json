@@ -27393,7 +27393,7 @@
       "id": 5320,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM0JNL",
       "town": "KIRRIEMUIR",
       "modeCodes": [
@@ -33575,9 +33575,9 @@
       "modeCodes": [
         "A"
       ],
-      "tx": 145700000,
+      "tx": 145650000,
       "repeater": "GB3MT",
-      "rx": 145100000,
+      "rx": 145050000,
       "ctcss": 110.9,
       "txbw": 12.5,
       "band": "2M",
@@ -38662,7 +38662,7 @@
       "id": 6126,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G1LBU",
       "town": "WASHINGTON",
       "modeCodes": [
