@@ -8718,7 +8718,7 @@
       "id": 2928,
       "fac": false,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GW8KCY",
       "town": "CARMARTHEN",
       "modeCodes": [
@@ -11937,11 +11937,12 @@
     {
       "id": 3709,
       "fac": true,
-      "type": "DV",
+      "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4LUE",
       "town": "BARNSLEY",
       "modeCodes": [
+        "A",
         "D"
       ],
       "tx": 439450000,
@@ -13746,18 +13747,19 @@
     },
     {
       "id": 3988,
-      "fac": false,
-      "type": "DV",
+      "fac": true,
+      "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4LUE",
       "town": "BARNSLEY",
       "modeCodes": [
+        "A",
         "D"
       ],
       "tx": 1297300000,
       "repeater": "GB7NA-A",
       "rx": 1291300000,
-      "ctcss": 0,
+      "ctcss": 71.9,
       "txbw": 25,
       "band": "23CM",
       "locator": "IO93HN",
@@ -25611,7 +25613,7 @@
       "id": 5198,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4MQQ",
       "town": "WINKLEIGH",
       "modeCodes": [
@@ -27250,7 +27252,7 @@
     },
     {
       "id": 5314,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G6YIQ",
@@ -38161,7 +38163,7 @@
       "tx": 430050000,
       "repeater": "MB7INT",
       "rx": 430050000,
-      "ctcss": 241.8,
+      "ctcss": 103.5,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "JO00CT",
@@ -38992,6 +38994,30 @@
       "locator": "IO93DS",
       "dbwErp": 7,
       "extraDetails": null
+    },
+    {
+      "id": 6142,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G6YIQ",
+      "town": "HITCHIN",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 70350000,
+      "repeater": "MB7ISV",
+      "rx": 70350000,
+      "ctcss": 82.5,
+      "txbw": 12.5,
+      "band": "4M",
+      "locator": "IO91",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TL1725",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
     }
   ]
 }
