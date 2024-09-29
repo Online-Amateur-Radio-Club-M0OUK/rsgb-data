@@ -38949,6 +38949,30 @@
       }
     },
     {
+      "id": 6139,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0KQY",
+      "town": "TAUNTON",
+      "modeCodes": [
+        "M:10"
+      ],
+      "tx": 430812500,
+      "repeater": "M0KQY",
+      "rx": 438412500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81KA",
+      "dbwErp": 11.7,
+      "extraDetails": {
+        "ngr": "ST2324",
+        "antennaHeight": 14,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 6140,
       "fac": true,
       "type": "DM",
@@ -38979,7 +39003,7 @@
       "id": 6141,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G1DTG",
       "town": "BRADFORD",
       "modeCodes": [
@@ -39015,6 +39039,31 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "TL1725",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6143,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "GM4WMM",
+      "town": "RENDALL",
+      "modeCodes": [
+        "D",
+        "M:14"
+      ],
+      "tx": 144862500,
+      "repeater": "MB6OR",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO89",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "HY4120",
         "antennaHeight": 0,
         "polarisation": ""
       }
