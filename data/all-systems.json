@@ -5879,7 +5879,7 @@
       "id": 2275,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0NCZ",
       "town": "ASHTON-UNDER-LYNE",
       "modeCodes": [
@@ -12869,7 +12869,7 @@
       "id": 3877,
       "fac": false,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G1IRG",
       "town": "NORTHAMPTON",
       "modeCodes": [
@@ -19160,7 +19160,7 @@
       "id": 4633,
       "fac": false,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0DMP",
       "town": "NEWCASTLE UPON TYNE",
       "modeCodes": [
@@ -19623,7 +19623,7 @@
       "id": 4687,
       "fac": false,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0NCZ",
       "town": "ASHTON-UNDER-LYNE",
       "modeCodes": [
@@ -23313,31 +23313,6 @@
       "extraDetails": {
         "ngr": "SP0696",
         "antennaHeight": 15,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 5033,
-      "fac": false,
-      "type": "DM",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0VKR",
-      "town": "YEOVIL",
-      "modeCodes": [
-        "A",
-        "F"
-      ],
-      "tx": 145762500,
-      "repeater": "GB7YF",
-      "rx": 145162500,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO80PW",
-      "dbwErp": 11.7,
-      "extraDetails": {
-        "ngr": "ST5217",
-        "antennaHeight": 6,
         "polarisation": "V"
       }
     },
@@ -32715,7 +32690,7 @@
       "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2E0HHT",
+      "keeperCallsign": "2E0DHT",
       "town": "HORWICH",
       "modeCodes": [
         "E"
@@ -39066,6 +39041,104 @@
         "ngr": "HY4120",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6145,
+      "fac": true,
+      "type": "DM",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "GM4TNP",
+      "town": "KETTLEHILL",
+      "modeCodes": [
+        "A",
+        "F"
+      ],
+      "tx": 439550000,
+      "repeater": "MB9HAY",
+      "rx": 430550000,
+      "ctcss": 71.9,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO86",
+      "dbwErp": 16.7,
+      "extraDetails": {
+        "ngr": "NO3407",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6146,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "MM3NDH",
+      "town": "DALGETY BAY",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "MB7UNH",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "IO86HA",
+      "dbwErp": -7,
+      "extraDetails": {
+        "ngr": "NT1583",
+        "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6148,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0UKB",
+      "town": "ALLENDALE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430012500,
+      "repeater": "MB7IAE",
+      "rx": 430012500,
+      "ctcss": 118.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO84VV",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NY8456",
+        "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6149,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M1AXM",
+      "town": "ILMINSTER",
+      "modeCodes": [
+        "A",
+        "F"
+      ],
+      "tx": 145762500,
+      "repeater": "GB3EQ",
+      "rx": 145162500,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO80MW",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "ST3016",
+        "antennaHeight": 8,
+        "polarisation": "V"
       }
     }
   ]
