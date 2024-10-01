@@ -8718,7 +8718,7 @@
       "id": 2928,
       "fac": false,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GW8KCY",
       "town": "CARMARTHEN",
       "modeCodes": [
@@ -19158,7 +19158,7 @@
     },
     {
       "id": 4633,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0DMP",
@@ -23099,30 +23099,6 @@
       }
     },
     {
-      "id": 5017,
-      "fac": true,
-      "type": "PX",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0IDD",
-      "town": "CRAWLEY",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144950000,
-      "repeater": "GB7IDD",
-      "rx": 144950000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO91",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TQ2639",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 5018,
       "fac": false,
       "type": "DV",
@@ -23459,31 +23435,6 @@
         "ngr": "SD4464",
         "antennaHeight": 0,
         "polarisation": ""
-      }
-    },
-    {
-      "id": 5057,
-      "fac": false,
-      "type": "DM",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G3ZXX",
-      "town": "DUNKERSWELL",
-      "modeCodes": [
-        "A",
-        "M:7"
-      ],
-      "tx": 145625000,
-      "repeater": "GB7DW",
-      "rx": 145025000,
-      "ctcss": 103.5,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO80JU",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "ST1207",
-        "antennaHeight": 14,
-        "polarisation": "V"
       }
     },
     {
@@ -36825,7 +36776,7 @@
       "id": 6000,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0JML",
       "town": "DUNSTABLE",
       "modeCodes": [
@@ -39044,31 +38995,6 @@
       }
     },
     {
-      "id": 6145,
-      "fac": true,
-      "type": "DM",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GM4TNP",
-      "town": "KETTLEHILL",
-      "modeCodes": [
-        "A",
-        "F"
-      ],
-      "tx": 439550000,
-      "repeater": "MB9HAY",
-      "rx": 430550000,
-      "ctcss": 71.9,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO86",
-      "dbwErp": 16.7,
-      "extraDetails": {
-        "ngr": "NO3407",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6146,
       "fac": true,
       "type": "AP",
@@ -39120,7 +39046,7 @@
       "id": 6149,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M1AXM",
       "town": "ILMINSTER",
       "modeCodes": [
@@ -39140,6 +39066,26 @@
         "antennaHeight": 8,
         "polarisation": "V"
       }
+    },
+    {
+      "id": 6150,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GI0RWO",
+      "town": "BELFAST",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 70362500,
+      "repeater": "MB7IBM",
+      "rx": 70362500,
+      "ctcss": 110.9,
+      "txbw": 12.5,
+      "band": "4M",
+      "locator": "IO74AO",
+      "dbwErp": 7,
+      "extraDetails": null
     }
   ]
 }
