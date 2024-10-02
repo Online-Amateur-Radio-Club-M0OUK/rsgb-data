@@ -11341,31 +11341,6 @@
       }
     },
     {
-      "id": 3576,
-      "fac": false,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G0TJH",
-      "town": "BOGNOR REGIS",
-      "modeCodes": [
-        "D",
-        "M:3"
-      ],
-      "tx": 439587500,
-      "repeater": "GB7BN",
-      "rx": 430587500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO90PT",
-      "dbwErp": 10,
-      "extraDetails": {
-        "ngr": "SU9201",
-        "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 3592,
       "fac": true,
       "type": "DM",
@@ -14097,7 +14072,7 @@
       "id": 4059,
       "fac": false,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G1ERJ",
       "town": "HEATHFIELD",
       "modeCodes": [
@@ -36728,7 +36703,7 @@
       "id": 5998,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2I0NIE",
       "town": "ENNISKILLEN",
       "modeCodes": [
@@ -37224,7 +37199,11 @@
       "band": "70CM",
       "locator": "IO82XN",
       "dbwErp": 14,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "SO9494",
+        "antennaHeight": 7,
+        "polarisation": "V"
+      }
     },
     {
       "id": 6026,
@@ -39086,6 +39065,30 @@
       "locator": "IO74AO",
       "dbwErp": 7,
       "extraDetails": null
+    },
+    {
+      "id": 6152,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G3XOU",
+      "town": "LIVERTON",
+      "modeCodes": [
+        "M:3"
+      ],
+      "tx": 439575000,
+      "repeater": "GB7IQ",
+      "rx": 430575000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO80",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SX8173",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
     }
   ]
 }
