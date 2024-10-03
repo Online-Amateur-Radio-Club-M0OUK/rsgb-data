@@ -171,7 +171,7 @@
     },
     {
       "id": 189,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "M1CMN",
@@ -16437,36 +16437,6 @@
       }
     },
     {
-      "id": 4316,
-      "fac": true,
-      "type": "DM",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G5BSD",
-      "town": "THORPE-ST-ANDREW",
-      "modeCodes": [
-        "A",
-        "D",
-        "M:1",
-        "F",
-        "P",
-        "7",
-        "N"
-      ],
-      "tx": 439425000,
-      "repeater": "G5BSD",
-      "rx": 430425000,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO02",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TG2609",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 4317,
       "fac": true,
       "type": "AG",
@@ -19084,7 +19054,7 @@
     },
     {
       "id": 4630,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "M1CMN",
@@ -19135,7 +19105,7 @@
       "id": 4633,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0DMP",
       "town": "NEWCASTLE UPON TYNE",
       "modeCodes": [
@@ -19157,7 +19127,7 @@
     },
     {
       "id": 4634,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M1CMN",
@@ -27083,7 +27053,7 @@
       "id": 5310,
       "fac": true,
       "type": "AV",
-      "status": "",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4BUH",
       "town": "ELY",
       "modeCodes": [
@@ -29928,31 +29898,6 @@
       }
     },
     {
-      "id": 5512,
-      "fac": true,
-      "type": "DM",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "2E0XTA",
-      "town": "CHELMSFORD",
-      "modeCodes": [
-        "A",
-        "M"
-      ],
-      "tx": 430862500,
-      "repeater": "2E0XTA",
-      "rx": 438462500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO01FR",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TL7006",
-        "antennaHeight": 43,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5513,
       "fac": true,
       "type": "DV",
@@ -30533,30 +30478,6 @@
         "ngr": "SK5043",
         "antennaHeight": 0,
         "polarisation": ""
-      }
-    },
-    {
-      "id": 5563,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0MDS",
-      "town": "ALEXANDRA PALACE",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 433200000,
-      "repeater": "M0MDS",
-      "rx": 434800000,
-      "ctcss": 82.5,
-      "txbw": 25,
-      "band": "70CM",
-      "locator": "IO91WO",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TQ2990",
-        "antennaHeight": 90,
-        "polarisation": "V"
       }
     },
     {
@@ -31933,7 +31854,7 @@
       "id": 5654,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G6XJZ",
       "town": "EASTLEIGH",
       "modeCodes": [
@@ -32058,7 +31979,7 @@
       "id": 5662,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M1CYR",
       "town": "CANNOCK",
       "modeCodes": [
@@ -32097,7 +32018,11 @@
       "band": "70CM",
       "locator": "IO90KT",
       "dbwErp": 0,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "SZ6199",
+        "antennaHeight": 4,
+        "polarisation": "V"
+      }
     },
     {
       "id": 5665,
@@ -32515,7 +32440,7 @@
       "id": 5696,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G1BHM",
       "town": "NEAR HOLSWORTHY ",
       "modeCodes": [
