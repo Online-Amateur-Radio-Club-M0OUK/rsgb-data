@@ -195,55 +195,6 @@
       }
     },
     {
-      "id": 196,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G0OLX",
-      "town": "CATERHAM",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 439675000,
-      "repeater": "GB3NS",
-      "rx": 430675000,
-      "ctcss": 82.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO91WG",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TQ3254",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 197,
-      "fac": false,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G1DVA",
-      "town": "ST. HELENS",
-      "modeCodes": [
-        "D",
-        "P"
-      ],
-      "tx": 439612500,
-      "repeater": "GB7DV",
-      "rx": 430612500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO83QJ",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SJ4993",
-        "antennaHeight": 12,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 199,
       "fac": false,
       "type": "DM",
@@ -13117,32 +13068,6 @@
         "ngr": "NT4436",
         "antennaHeight": 0,
         "polarisation": ""
-      }
-    },
-    {
-      "id": 3919,
-      "fac": false,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G1DVA",
-      "town": "HIGHER POYNTON",
-      "modeCodes": [
-        "D",
-        "F",
-        "P"
-      ],
-      "tx": 145662500,
-      "repeater": "GB7AM",
-      "rx": 145062500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO83WI",
-      "dbwErp": 10,
-      "extraDetails": {
-        "ngr": "SJ9483",
-        "antennaHeight": 8,
-        "polarisation": "V"
       }
     },
     {
@@ -31979,7 +31904,7 @@
       "id": 5662,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M1CYR",
       "town": "CANNOCK",
       "modeCodes": [
@@ -34046,7 +33971,7 @@
       "id": 5806,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0MIK",
       "town": "CHATHAM",
       "modeCodes": [
@@ -38328,7 +38253,7 @@
       "type": "AV",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0OLX",
-      "town": "BANSTEAD, SURREY",
+      "town": "BANSTEAD",
       "modeCodes": [
         "A"
       ],
@@ -38557,7 +38482,7 @@
       "locator": "IO81",
       "dbwErp": 7,
       "extraDetails": {
-        "ngr": "ST2662",
+        "ngr": "ST3663",
         "antennaHeight": 0,
         "polarisation": ""
       }
@@ -39011,6 +38936,78 @@
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "SX8173",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6153,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0SDJ",
+      "town": "WYE",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UYE",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO01KE",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "TR0447",
+        "antennaHeight": 15,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6154,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0SDJ",
+      "town": "WYE",
+      "modeCodes": [
+        "D"
+      ],
+      "tx": 439662500,
+      "repeater": "GB7WE",
+      "rx": 430662500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO01KE",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TR0447",
+        "antennaHeight": 15,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6155,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M7HVR",
+      "town": "WEWLYN GARDEN CITY",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430012500,
+      "repeater": "MB7IAH",
+      "rx": 430012500,
+      "ctcss": 82.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TL2410",
         "antennaHeight": 0,
         "polarisation": ""
       }
