@@ -13768,7 +13768,7 @@
     },
     {
       "id": 4005,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4USP",
@@ -13783,7 +13783,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO92FH",
-      "dbwErp": 7.6,
+      "dbwErp": 7.8,
       "extraDetails": {
         "ngr": "SP3367",
         "antennaHeight": 29,
@@ -19100,7 +19100,7 @@
     },
     {
       "id": 4650,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0XZS",
@@ -21266,7 +21266,7 @@
     },
     {
       "id": 4876,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G7TRL ",
@@ -23765,7 +23765,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO91TU",
-      "dbwErp": 10,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "TL1317",
         "antennaHeight": 15,
@@ -26080,30 +26080,6 @@
       }
     },
     {
-      "id": 5244,
-      "fac": false,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G3XOU",
-      "town": "PLYMOUTH",
-      "modeCodes": [
-        "M:3"
-      ],
-      "tx": 439712500,
-      "repeater": "GB7YM",
-      "rx": 430712500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO70XI",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SX5252",
-        "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5245,
       "fac": false,
       "type": "AV",
@@ -26129,7 +26105,7 @@
     },
     {
       "id": 5246,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G7HMV",
@@ -26146,7 +26122,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO91TU",
-      "dbwErp": 10,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "TL1317",
         "antennaHeight": 20,
@@ -36553,7 +36529,7 @@
       "id": 5998,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "2I0NIE",
       "town": "ENNISKILLEN",
       "modeCodes": [
@@ -38970,7 +38946,7 @@
       "type": "DV",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0SDJ",
-      "town": "WYE",
+      "town": "ASHFORD",
       "modeCodes": [
         "D"
       ],
@@ -39008,6 +38984,52 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "TL2410",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6157,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0VOB",
+      "town": "KIPPAX",
+      "modeCodes": null,
+      "tx": 432800000,
+      "repeater": "MB5DV",
+      "rx": 144975000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SE4230",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6158,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G7SMD",
+      "town": "LONDON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430837500,
+      "repeater": "GB3KX",
+      "rx": 438437500,
+      "ctcss": 82.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TQ3084",
         "antennaHeight": 0,
         "polarisation": ""
       }
