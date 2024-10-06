@@ -2948,7 +2948,7 @@
       "id": 910,
       "fac": false,
       "type": "TV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0BFB",
       "town": "ROCHE",
       "modeCodes": [
@@ -36399,33 +36399,6 @@
       }
     },
     {
-      "id": 5989,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0ZAH",
-      "town": "THORPE ST ANDREW",
-      "modeCodes": [
-        "D",
-        "M",
-        "F",
-        "7"
-      ],
-      "tx": 431075000,
-      "repeater": "MB6LX",
-      "rx": 431075000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO02",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TG2609",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 5994,
       "fac": true,
       "type": "PX",
@@ -37985,7 +37958,7 @@
       "id": 6104,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0RDF",
       "town": "PORTISHEAD",
       "modeCodes": [
@@ -38371,7 +38344,7 @@
       "id": 6124,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7MLO",
       "town": "BURY ST EDMUNDS",
       "modeCodes": [
@@ -38876,7 +38849,7 @@
       "id": 6150,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GI0RWO",
       "town": "BELFAST",
       "modeCodes": [
@@ -39032,6 +39005,30 @@
         "ngr": "TQ3084",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6159,
+      "fac": true,
+      "type": "PX",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M5EHG ",
+      "town": "DERBY",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144937500,
+      "repeater": "GB7EHG",
+      "rx": 144937500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO92GV",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SK3434",
+        "antennaHeight": 10,
+        "polarisation": "V"
       }
     }
   ]
