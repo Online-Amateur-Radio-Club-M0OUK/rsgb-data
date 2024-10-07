@@ -26954,7 +26954,7 @@
       "id": 5310,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "G4BUH",
       "town": "ELY",
       "modeCodes": [
@@ -36086,30 +36086,6 @@
       }
     },
     {
-      "id": 5964,
-      "fac": true,
-      "type": "AG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M6JXB",
-      "town": "STOKE-ON-TRENT",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430075000,
-      "repeater": "MB7IXB",
-      "rx": 430075000,
-      "ctcss": 82.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO83WA",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SJ8948",
-        "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5965,
       "fac": true,
       "type": "PN",
@@ -37472,7 +37448,7 @@
       "id": 6058,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0RQD",
       "town": "SANDOWN",
       "modeCodes": [
@@ -39028,6 +39004,74 @@
       "extraDetails": {
         "ngr": "SK3434",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6161,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GW4FOK",
+      "town": "SWANSEA",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430875000,
+      "repeater": "GB3SA",
+      "rx": 438475000,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81AP",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "SS6393",
+        "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6163,
+      "fac": true,
+      "type": "PX",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2U0HZY",
+      "town": "ST PETER PORT",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 7051500,
+      "repeater": "GB7GSY",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 2.7,
+      "band": "40M",
+      "locator": "IN89",
+      "dbwErp": 14,
+      "extraDetails": null
+    },
+    {
+      "id": 6164,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G0CDB",
+      "town": "PAIGNTON",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 144862500,
+      "repeater": "MB6AB",
+      "rx": 144862500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO80FK",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SX8761",
+        "antennaHeight": 7,
         "polarisation": "V"
       }
     }
