@@ -2946,9 +2946,9 @@
     },
     {
       "id": 910,
-      "fac": false,
+      "fac": true,
       "type": "TV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0BFB",
       "town": "ROCHE",
       "modeCodes": [
@@ -3499,7 +3499,7 @@
     },
     {
       "id": 968,
-      "fac": false,
+      "fac": true,
       "type": "TV",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0UHY",
@@ -7156,7 +7156,7 @@
     },
     {
       "id": 2524,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G6GEI",
@@ -7169,7 +7169,7 @@
       "repeater": "GB3MK",
       "rx": 434600000,
       "ctcss": 77,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO92OB",
       "dbwErp": 8,
@@ -9485,7 +9485,7 @@
       "id": 3136,
       "fac": false,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "M0SGL",
       "town": "MORDEN",
       "modeCodes": [
@@ -19148,9 +19148,9 @@
     },
     {
       "id": 4654,
-      "fac": false,
+      "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0ZAH",
       "town": "NORWICH",
       "modeCodes": [
