@@ -34044,7 +34044,7 @@
       "id": 5812,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM7RYR",
       "town": "STRANRAER",
       "modeCodes": [
