@@ -18443,30 +18443,6 @@
       }
     },
     {
-      "id": 4560,
-      "fac": false,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M1CJE",
-      "town": "MARLBOROUGH",
-      "modeCodes": [
-        "D"
-      ],
-      "tx": 439425000,
-      "repeater": "GB7AE",
-      "rx": 430425000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO91CJ",
-      "dbwErp": -11,
-      "extraDetails": {
-        "ngr": "SU1668",
-        "antennaHeight": 4,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 4563,
       "fac": true,
       "type": "DG",
@@ -36888,7 +36864,7 @@
       "id": 6019,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0BMG",
       "town": "CRANFIELD",
       "modeCodes": [
@@ -39073,6 +39049,30 @@
         "ngr": "SX8761",
         "antennaHeight": 7,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6166,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2W0APD",
+      "town": "SWANSEA",
+      "modeCodes": [
+        "M:1"
+      ],
+      "tx": 431062500,
+      "repeater": "MB6DS",
+      "rx": 431062500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SS6997",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
