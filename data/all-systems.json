@@ -11071,7 +11071,7 @@
       "id": 3523,
       "fac": false,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM1BJO",
       "town": "DALKEITH",
       "modeCodes": [
@@ -29776,7 +29776,7 @@
       "id": 5513,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MM0ELF",
       "town": "ALEXANDRIA",
       "modeCodes": [
@@ -39053,7 +39053,7 @@
       "id": 6166,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "2W0APD",
       "town": "SWANSEA",
       "modeCodes": [
@@ -39069,6 +39069,30 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "SS6997",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6167,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G4OTJ",
+      "town": "FARMBOROUGH",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 70337500,
+      "repeater": "GB7NBH",
+      "rx": 70337500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "4M",
+      "locator": "IO81",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "ST6360",
         "antennaHeight": 0,
         "polarisation": ""
       }
