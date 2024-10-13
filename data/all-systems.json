@@ -1216,10 +1216,10 @@
     },
     {
       "id": 729,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G1XSZ",
+      "keeperCallsign": "GM6KWU",
       "town": "CARLISLE",
       "modeCodes": [
         "A"
@@ -1228,7 +1228,7 @@
       "repeater": "GB3CA",
       "rx": 434925000,
       "ctcss": 77,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO84OT",
       "dbwErp": 10,
@@ -1362,7 +1362,7 @@
       "id": 743,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GI6JPO",
       "town": "FERMANAGH",
       "modeCodes": [
@@ -1374,10 +1374,10 @@
       "ctcss": 110.9,
       "txbw": 12.5,
       "band": "2M",
-      "locator": "IO64IG",
+      "locator": "IO64FI",
       "dbwErp": 14,
       "extraDetails": {
-        "ngr": "IH5181",
+        "ngr": "IH30 4",
         "antennaHeight": 30,
         "polarisation": "V"
       }
@@ -12104,7 +12104,7 @@
     },
     {
       "id": 3747,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G8PCB",
@@ -12465,6 +12465,54 @@
         "ngr": "TL2344",
         "antennaHeight": 10,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 3825,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G4MSF",
+      "town": "CHESTER-LE-STREET",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UX",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO94",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NZ2949",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 3826,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G4MSF",
+      "town": "GATESHEAD",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UXX",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO94",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NZ2961",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     },
     {
@@ -18636,7 +18684,7 @@
     },
     {
       "id": 4596,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4YWD",
@@ -18978,7 +19026,7 @@
     },
     {
       "id": 4631,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0PPR",
@@ -31854,7 +31902,7 @@
       "id": 5662,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M1CYR",
       "town": "CANNOCK",
       "modeCodes": [
