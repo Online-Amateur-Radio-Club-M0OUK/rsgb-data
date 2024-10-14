@@ -27189,7 +27189,7 @@
       "id": 5320,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MM0JNL",
       "town": "KIRRIEMUIR",
       "modeCodes": [
@@ -31729,7 +31729,7 @@
       "id": 5651,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0DUQ",
       "town": "HEDNESFORD",
       "modeCodes": [
@@ -32937,30 +32937,6 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "SJ8455",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 5740,
-      "fac": true,
-      "type": "AP",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "2E0UCB",
-      "town": "IPSWICH",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144800000,
-      "repeater": "MB7UAI",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO02",
-      "dbwErp": 10.4,
-      "extraDetails": {
-        "ngr": "TM1747",
         "antennaHeight": 0,
         "polarisation": ""
       }
@@ -39141,6 +39117,79 @@
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "ST6360",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6168,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2E0UCB",
+      "town": "IPSWICH",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UAI",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO02NB",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TM1446",
+        "antennaHeight": 11,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6169,
+      "fac": true,
+      "type": "DM",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0WRB",
+      "town": "IPSWICH",
+      "modeCodes": [
+        "A",
+        "D"
+      ],
+      "tx": 439462500,
+      "repeater": "GB7DI",
+      "rx": 430462500,
+      "ctcss": 110.9,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO02NB",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TM1446",
+        "antennaHeight": 11,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6170,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G4WQG",
+      "town": "BROAD HINTON",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 70337500,
+      "repeater": "GB7BDH",
+      "rx": 70337500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "4M",
+      "locator": "IO91",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SU1176",
         "antennaHeight": 0,
         "polarisation": ""
       }
