@@ -8738,7 +8738,7 @@
     },
     {
       "id": 2941,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GM4UPX",
@@ -19417,18 +19417,19 @@
     },
     {
       "id": 4675,
-      "fac": false,
-      "type": "DV",
+      "fac": true,
+      "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0URK",
       "town": "CHELMSFORD",
       "modeCodes": [
+        "A",
         "D"
       ],
       "tx": 439487500,
       "repeater": "GB7ZP",
       "rx": 430487500,
-      "ctcss": 0,
+      "ctcss": 110.9,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "JO01FS",
@@ -38867,7 +38868,7 @@
       "id": 6153,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0SDJ",
       "town": "WYE",
       "modeCodes": [
@@ -39192,6 +39193,30 @@
         "ngr": "SU1176",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6171,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0JKS",
+      "town": "LANCASTER",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "MB7ULU",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "IO84OA",
+      "dbwErp": -7,
+      "extraDetails": {
+        "ngr": "SD4856",
+        "antennaHeight": 25,
+        "polarisation": "V"
       }
     }
   ]
