@@ -36819,7 +36819,8 @@
       "town": "WHITEHAVEN",
       "modeCodes": [
         "A",
-        "F"
+        "F",
+        "M:10"
       ],
       "tx": 430987500,
       "repeater": "GB3WU",
