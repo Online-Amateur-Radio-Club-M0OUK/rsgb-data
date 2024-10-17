@@ -2322,7 +2322,7 @@
       "id": 845,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G3ZXX",
       "town": "MERE WILTSHIRE",
       "modeCodes": [
@@ -9281,7 +9281,7 @@
       "id": 3081,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0MNE",
       "town": "GATESHEAD",
       "modeCodes": [
@@ -26325,7 +26325,7 @@
       "id": 5258,
       "fac": false,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0JDN",
       "town": "BEXHILL-ON-SEA",
       "modeCodes": [
@@ -31083,7 +31083,7 @@
       "id": 5617,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0WDA",
       "town": "BLACKPOOL",
       "modeCodes": [
@@ -33309,7 +33309,7 @@
       "ctcss": 110.9,
       "txbw": 12.5,
       "band": "2M",
-      "locator": "I064QS",
+      "locator": "IO64QS",
       "dbwErp": 14,
       "extraDetails": null
     },
@@ -35032,7 +35032,7 @@
       "id": 5894,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "2E0IPK",
       "town": "DAGENHAM",
       "modeCodes": [
@@ -35164,7 +35164,7 @@
       "ctcss": 110.9,
       "txbw": 12.5,
       "band": "2M",
-      "locator": "J002",
+      "locator": "JO02",
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "TL7856",
@@ -35188,7 +35188,7 @@
       "ctcss": 110.9,
       "txbw": 12.5,
       "band": "70CM",
-      "locator": "J002",
+      "locator": "JO02",
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "TL7856",
@@ -36489,7 +36489,7 @@
       "ctcss": 110.9,
       "txbw": 12.5,
       "band": "2M",
-      "locator": "I064EI",
+      "locator": "IO64EI",
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "IH2545",
@@ -37855,34 +37855,6 @@
       }
     },
     {
-      "id": 6101,
-      "fac": true,
-      "type": "DM",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G1RUN",
-      "town": "DENTON",
-      "modeCodes": [
-        "A",
-        "D",
-        "M:7",
-        "F",
-        "7"
-      ],
-      "tx": 144562500,
-      "repeater": "GB3XB",
-      "rx": 432800000,
-      "ctcss": 67,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO83",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SJ9393",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6102,
       "fac": true,
       "type": "AP",
@@ -39218,6 +39190,31 @@
         "ngr": "SD4856",
         "antennaHeight": 25,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6172,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G1RUN",
+      "town": "DENTON",
+      "modeCodes": [
+        "F",
+        "7"
+      ],
+      "tx": 144562500,
+      "repeater": "GB3XB",
+      "rx": 432800000,
+      "ctcss": 67,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO83",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "SJ9393",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
