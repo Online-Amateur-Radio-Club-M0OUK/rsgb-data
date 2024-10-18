@@ -27335,7 +27335,7 @@
       "id": 5328,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G7LMY",
       "town": "FAREHAM",
       "modeCodes": [
@@ -35032,7 +35032,7 @@
       "id": 5894,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0IPK",
       "town": "DAGENHAM",
       "modeCodes": [
@@ -37475,7 +37475,9 @@
       "status": "OPERATIONAL",
       "keeperCallsign": "M7GCQ",
       "town": "HITCHIN  ",
-      "modeCodes": null,
+      "modeCodes": [
+        "A"
+      ],
       "tx": 144912500,
       "repeater": "MB7IHI",
       "rx": 144912500,
@@ -39027,7 +39029,7 @@
       "id": 6164,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0CDB",
       "town": "PAIGNTON",
       "modeCodes": [
