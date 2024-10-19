@@ -35591,7 +35591,7 @@
       "id": 5936,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0ZNH",
       "town": "POLLINGTON",
       "modeCodes": [
@@ -36542,30 +36542,6 @@
       "extraDetails": {
         "ngr": "TL0122",
         "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 6002,
-      "fac": true,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G8IPG",
-      "town": "WINCHESTER",
-      "modeCodes": [
-        "M:5"
-      ],
-      "tx": 439600000,
-      "repeater": "GB7CW",
-      "rx": 430600000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO91HB",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SU4529",
-        "antennaHeight": 25,
         "polarisation": "V"
       }
     },
@@ -38102,7 +38078,7 @@
       "id": 6113,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "2E0BJL",
       "town": "EPSOM",
       "modeCodes": [
@@ -38150,7 +38126,7 @@
       "id": 6115,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0OLX",
       "town": "BANSTEAD",
       "modeCodes": [
@@ -38174,7 +38150,7 @@
       "id": 6116,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0OLX",
       "town": "BANSTEAD  SURREY",
       "modeCodes": [
@@ -39217,6 +39193,30 @@
         "ngr": "SJ9393",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6173,
+      "fac": true,
+      "type": "DV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G8IPG",
+      "town": "WINCHESTER",
+      "modeCodes": [
+        "M:5"
+      ],
+      "tx": 439600000,
+      "repeater": "GB7CW",
+      "rx": 430600000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91HB",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SU4529",
+        "antennaHeight": 40,
+        "polarisation": "V"
       }
     }
   ]
