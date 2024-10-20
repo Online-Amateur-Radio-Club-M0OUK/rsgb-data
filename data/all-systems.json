@@ -39077,7 +39077,7 @@
       "id": 6168,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0UCB",
       "town": "IPSWICH",
       "modeCodes": [
