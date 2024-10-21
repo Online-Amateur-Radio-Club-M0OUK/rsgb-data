@@ -15525,30 +15525,6 @@
       }
     },
     {
-      "id": 4218,
-      "fac": false,
-      "type": "AV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0HEL",
-      "town": "LEICESTER",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430925000,
-      "repeater": "GB3LN",
-      "rx": 438525000,
-      "ctcss": 118.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO92JO",
-      "dbwErp": 3.1,
-      "extraDetails": {
-        "ngr": "SK5503",
-        "antennaHeight": 25,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 4219,
       "fac": false,
       "type": "DM",
@@ -39216,6 +39192,30 @@
       "extraDetails": {
         "ngr": "SU4529",
         "antennaHeight": 40,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6174,
+      "fac": true,
+      "type": "AV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0HEL",
+      "town": "LEICESTER",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430925000,
+      "repeater": "GB3LN",
+      "rx": 438525000,
+      "ctcss": 118.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO92KO",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SK5602",
+        "antennaHeight": 25,
         "polarisation": "V"
       }
     }
