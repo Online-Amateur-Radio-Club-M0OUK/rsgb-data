@@ -26301,7 +26301,7 @@
       "id": 5258,
       "fac": false,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0JDN",
       "town": "BEXHILL-ON-SEA",
       "modeCodes": [
