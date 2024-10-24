@@ -21639,7 +21639,7 @@
       "id": 4908,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0VUB",
       "town": "NOTTINGHAM",
       "modeCodes": [
@@ -33273,7 +33273,7 @@
       "id": 5762,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MI0UTY",
       "town": "MAGHERAFELT",
       "modeCodes": [
@@ -38459,30 +38459,6 @@
       }
     },
     {
-      "id": 6135,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G4XUR",
-      "town": "TAUNTON",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 438400000,
-      "repeater": "M0KON",
-      "rx": 430800000,
-      "ctcss": 141.3,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO80IW",
-      "dbwErp": 11.1,
-      "extraDetails": {
-        "ngr": "ST2715",
-        "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6136,
       "fac": true,
       "type": "AV",
@@ -38551,30 +38527,6 @@
       "extraDetails": {
         "ngr": "NK1245",
         "antennaHeight": 4,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 6139,
-      "fac": true,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0KQY",
-      "town": "TAUNTON",
-      "modeCodes": [
-        "M:10"
-      ],
-      "tx": 430812500,
-      "repeater": "M0KQY",
-      "rx": 438412500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81KA",
-      "dbwErp": 11.7,
-      "extraDetails": {
-        "ngr": "ST2324",
-        "antennaHeight": 14,
         "polarisation": "V"
       }
     },
