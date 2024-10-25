@@ -12031,7 +12031,7 @@
     },
     {
       "id": 3723,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4VZO",
@@ -30211,7 +30211,7 @@
       "id": 5550,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0ZAH",
       "town": "WYMONDHAM",
       "modeCodes": [
@@ -30432,7 +30432,7 @@
       "id": 5568,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0JSV",
       "town": "NR EYE",
       "modeCodes": [
@@ -35274,7 +35274,7 @@
       "id": 5915,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0RXH",
       "town": "EXMOUTH",
       "modeCodes": [
@@ -39029,7 +39029,7 @@
       "id": 6169,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0WRB",
       "town": "IPSWICH",
       "modeCodes": [
@@ -39168,6 +39168,30 @@
       "extraDetails": {
         "ngr": "SK5602",
         "antennaHeight": 25,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6175,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM7RYR",
+      "town": "DUNBAR",
+      "modeCodes": [
+        "M:5"
+      ],
+      "tx": 145750000,
+      "repeater": "GB7DB",
+      "rx": 145150000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO85RX",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NT6877",
+        "antennaHeight": 15,
         "polarisation": "V"
       }
     }
