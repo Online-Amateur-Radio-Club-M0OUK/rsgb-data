@@ -5204,7 +5204,7 @@
       "id": 2095,
       "fac": false,
       "type": "BN",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0OLX",
       "town": "REIGATE",
       "modeCodes": [
@@ -9508,7 +9508,7 @@
       "id": 3140,
       "fac": false,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4WVD",
       "town": "ROCHE",
       "modeCodes": [
@@ -10458,14 +10458,14 @@
     },
     {
       "id": 3354,
-      "fac": false,
+      "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G0UDZ",
-      "town": "ASHINGTON",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G4NAB",
+      "town": "ELLINGTON, MORPETH",
       "modeCodes": [
         "D",
-        "M:3",
+        "M:10",
         "F"
       ],
       "tx": 439450000,
@@ -10477,7 +10477,7 @@
       "locator": "IO95FE",
       "dbwErp": 14,
       "extraDetails": {
-        "ngr": "NZ3087",
+        "ngr": "NZ2892",
         "antennaHeight": 8,
         "polarisation": "V"
       }
@@ -12007,7 +12007,7 @@
     },
     {
       "id": 3722,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0JSV",
@@ -21493,8 +21493,8 @@
       "keeperCallsign": "M0DUB",
       "town": "WAKEFIELD",
       "modeCodes": [
-        "F",
-        "A"
+        "A",
+        "F"
       ],
       "tx": 439512500,
       "repeater": "GB7WY",
@@ -21639,7 +21639,7 @@
       "id": 4908,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0VUB",
       "town": "NOTTINGHAM",
       "modeCodes": [
@@ -30432,7 +30432,7 @@
       "id": 5568,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0JSV",
       "town": "NR EYE",
       "modeCodes": [
@@ -33802,7 +33802,7 @@
       "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "MM0PAZ",
+      "keeperCallsign": "GM7RYR",
       "town": "PAISLEY",
       "modeCodes": [
         "M:1"
@@ -39192,6 +39192,32 @@
       "extraDetails": {
         "ngr": "NT6877",
         "antennaHeight": 15,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6176,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0ZAH",
+      "town": "DISS",
+      "modeCodes": [
+        "A",
+        "D",
+        "7"
+      ],
+      "tx": 439425000,
+      "repeater": "GB3DL",
+      "rx": 430425000,
+      "ctcss": 110.9,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO02NI",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TM1579",
+        "antennaHeight": 7,
         "polarisation": "V"
       }
     }
