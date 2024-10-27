@@ -4580,11 +4580,11 @@
     },
     {
       "id": 2000,
-      "fac": false,
+      "fac": true,
       "type": "BN",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "GW3TKH",
-      "town": "LISVANE, CARDIFF",
+      "town": "CARDIFF",
       "modeCodes": null,
       "tx": 24048940000,
       "repeater": "GB3AMU",
@@ -10462,7 +10462,7 @@
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4NAB",
-      "town": "ELLINGTON, MORPETH",
+      "town": "ELLINGTON  MORPETH",
       "modeCodes": [
         "D",
         "M:10",
@@ -19309,7 +19309,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO81LP",
-      "dbwErp": 10,
+      "dbwErp": 9.8,
       "extraDetails": {
         "ngr": "ST2693",
         "antennaHeight": 4,
@@ -20653,7 +20653,7 @@
       "id": 4831,
       "fac": false,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM7RYR",
       "town": "GLASGOW",
       "modeCodes": [
@@ -31727,6 +31727,31 @@
       }
     },
     {
+      "id": 5652,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MW0JWP",
+      "town": "LLANDUDNO",
+      "modeCodes": [
+        "A",
+        "F"
+      ],
+      "tx": 145787500,
+      "repeater": "GB3OG",
+      "rx": 145187500,
+      "ctcss": 110.9,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO83BH",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SH7683",
+        "antennaHeight": 15,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 5653,
       "fac": true,
       "type": "PX",
@@ -36646,7 +36671,7 @@
       "id": 6011,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0IQW",
       "town": "UXBRIDGE",
       "modeCodes": [
