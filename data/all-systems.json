@@ -2322,7 +2322,7 @@
       "id": 845,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G3ZXX",
       "town": "MERE WILTSHIRE",
       "modeCodes": [
@@ -32582,30 +32582,6 @@
       }
     },
     {
-      "id": 5707,
-      "fac": true,
-      "type": "PX",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G3WYW",
-      "town": "THATCHAM",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144950000,
-      "repeater": "GB7GCT",
-      "rx": 144950000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO91IJ",
-      "dbwErp": 10,
-      "extraDetails": {
-        "ngr": "SU4965",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5712,
       "fac": true,
       "type": "PX",
@@ -34305,7 +34281,11 @@
       "band": "70CM",
       "locator": "IO81",
       "dbwErp": 7,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "ST1276",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
     },
     {
       "id": 5831,
@@ -34662,7 +34642,11 @@
       "band": "2M",
       "locator": "IO91NC",
       "dbwErp": 7,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "SU7834",
+        "antennaHeight": 6,
+        "polarisation": "V"
+      }
     },
     {
       "id": 5875,
@@ -35774,7 +35758,11 @@
       "band": "2M",
       "locator": "IO80SP",
       "dbwErp": 7,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "SY6681",
+        "antennaHeight": 6,
+        "polarisation": "V"
+      }
     },
     {
       "id": 5944,
@@ -38600,7 +38588,11 @@
       "band": "2M",
       "locator": "IO93DS",
       "dbwErp": 7,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "SE1931",
+        "antennaHeight": 9,
+        "polarisation": "V"
+      }
     },
     {
       "id": 6142,
@@ -38742,7 +38734,11 @@
       "band": "4M",
       "locator": "IO74AO",
       "dbwErp": 7,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "IJ3376",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
     },
     {
       "id": 6152,
@@ -38820,7 +38816,7 @@
       "id": 6155,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "M7HVR",
       "town": "WEWLYN GARDEN CITY",
       "modeCodes": [
@@ -39243,6 +39239,78 @@
       "extraDetails": {
         "ngr": "TM1579",
         "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6177,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MM0RKN",
+      "town": "MOTHERWELL",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 439550000,
+      "repeater": "GB7MW",
+      "rx": 430550000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO85",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NS7758",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6178,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0JQQ",
+      "town": "ELLINGTON",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144937500,
+      "repeater": "GB7AAX",
+      "rx": 144937500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO95FF",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NZ2791",
+        "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6179,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "MM3NDH",
+      "town": "KILSYTH",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "MB7UKL",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "IO75XX",
+      "dbwErp": -7,
+      "extraDetails": {
+        "ngr": "NS7380",
+        "antennaHeight": 3,
         "polarisation": "V"
       }
     }
