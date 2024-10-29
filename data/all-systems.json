@@ -20653,7 +20653,7 @@
       "id": 4831,
       "fac": false,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM7RYR",
       "town": "GLASGOW",
       "modeCodes": [
