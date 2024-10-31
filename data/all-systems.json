@@ -1198,6 +1198,7 @@
       "town": "BERWICK ON TWEED",
       "modeCodes": [
         "A",
+        "M:1",
         "F"
       ],
       "tx": 145700000,
@@ -3914,7 +3915,8 @@
       "town": "WESTON-SUPER-MARE",
       "modeCodes": [
         "A",
-        "D"
+        "D",
+        "M:1"
       ],
       "tx": 145687500,
       "repeater": "GB3WE",
@@ -4322,7 +4324,8 @@
       "keeperCallsign": "G4SZM",
       "town": "WESTON-SUPER-MARE",
       "modeCodes": [
-        "D"
+        "D",
+        "M:2"
       ],
       "tx": 439487500,
       "repeater": "GB7WB",
@@ -11220,7 +11223,8 @@
       "keeperCallsign": "G0GCQ",
       "town": "NEW ROMNEY",
       "modeCodes": [
-        "D"
+        "D",
+        "M:3"
       ],
       "tx": 439700000,
       "repeater": "GB7DX",
@@ -19448,7 +19452,8 @@
       "keeperCallsign": "2M0JUM",
       "town": "ALEXANDRIA",
       "modeCodes": [
-        "A"
+        "A",
+        "M:8"
       ],
       "tx": 144962500,
       "repeater": "MB7IDG",
@@ -26666,7 +26671,8 @@
       "keeperCallsign": "MI0JLC",
       "town": "LISBURN",
       "modeCodes": [
-        "F"
+        "F",
+        "M:5"
       ],
       "tx": 144825000,
       "repeater": "MB6LB",
@@ -27171,7 +27177,8 @@
       "town": "KIRRIEMUIR",
       "modeCodes": [
         "A",
-        "F"
+        "F",
+        "M:3"
       ],
       "tx": 430825000,
       "repeater": "GB7CH",
@@ -34162,30 +34169,6 @@
       }
     },
     {
-      "id": 5805,
-      "fac": true,
-      "type": "AP",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GM5AUG",
-      "town": "PARTICK",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 439912500,
-      "repeater": "MB7UDV",
-      "rx": 439912500,
-      "ctcss": 0,
-      "txbw": 125,
-      "band": "70CM",
-      "locator": "IO75UU",
-      "dbwErp": 0,
-      "extraDetails": {
-        "ngr": "NS5666",
-        "antennaHeight": 15,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5806,
       "fac": true,
       "type": "DM",
@@ -35031,30 +35014,6 @@
       "extraDetails": {
         "ngr": "SJ3778",
         "antennaHeight": 15,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 5878,
-      "fac": true,
-      "type": "DG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0YDG",
-      "town": "BARNSLEY",
-      "modeCodes": [
-        "M:5"
-      ],
-      "tx": 431150000,
-      "repeater": "MB6BW",
-      "rx": 431150000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO93GN",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SE3505",
-        "antennaHeight": 5,
         "polarisation": "V"
       }
     },
@@ -38865,7 +38824,8 @@
       "keeperCallsign": "MM6BWS",
       "town": "PETERHEAD",
       "modeCodes": [
-        "F"
+        "F",
+        "M:1"
       ],
       "tx": 144837500,
       "repeater": "MB6PD",
@@ -39181,7 +39141,9 @@
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0VOB",
       "town": "KIPPAX",
-      "modeCodes": null,
+      "modeCodes": [
+        "M:2"
+      ],
       "tx": 432800000,
       "repeater": "MB5DV",
       "rx": 144975000,
@@ -39558,7 +39520,7 @@
       "id": 6176,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0ZAH",
       "town": "DISS",
       "modeCodes": [
