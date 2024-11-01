@@ -38700,7 +38700,7 @@
       "id": 6131,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G3XOU",
       "town": "TORQUAY",
       "modeCodes": [
@@ -39636,6 +39636,55 @@
         "ngr": "SK4982",
         "antennaHeight": 4,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6182,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0YDG",
+      "town": "WAKEFIELD",
+      "modeCodes": [
+        "A",
+        "D"
+      ],
+      "tx": 1297125000,
+      "repeater": "MB5WB",
+      "rx": 1291125000,
+      "ctcss": 88.5,
+      "txbw": 25,
+      "band": "23CM",
+      "locator": "IO93HO",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SE3814",
+        "antennaHeight": 12,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6183,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M7HSF",
+      "town": "NORWICH",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430025000,
+      "repeater": "MB7INO",
+      "rx": 430025000,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO02",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TG2312",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
