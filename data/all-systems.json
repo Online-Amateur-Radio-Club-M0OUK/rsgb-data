@@ -1047,7 +1047,7 @@
     },
     {
       "id": 709,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G8GQJ",
@@ -1059,7 +1059,7 @@
       "repeater": "GB3AV",
       "rx": 434650000,
       "ctcss": 118.8,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO91OT",
       "dbwErp": 14,
@@ -3764,7 +3764,7 @@
     },
     {
       "id": 997,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G8GQJ",
@@ -17204,7 +17204,7 @@
       "id": 4395,
       "fac": false,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4RKY",
       "town": "LISKEARD",
       "modeCodes": [
@@ -39350,7 +39350,7 @@
       "id": 6169,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0WRB",
       "town": "IPSWICH",
       "modeCodes": [
@@ -39540,30 +39540,6 @@
         "ngr": "TM1579",
         "antennaHeight": 7,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 6177,
-      "fac": true,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "MM0RKN",
-      "town": "MOTHERWELL",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 439550000,
-      "repeater": "GB7MW",
-      "rx": 430550000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO85",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "NS7758",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
