@@ -20392,13 +20392,12 @@
       "keeperCallsign": "M0YDG",
       "town": "WAKEFIELD",
       "modeCodes": [
-        "A",
-        "D"
+        "A"
       ],
       "tx": 430812500,
       "repeater": "GB3BW",
       "rx": 438412500,
-      "ctcss": 82.5,
+      "ctcss": 107.2,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO93HO",
@@ -35588,8 +35587,8 @@
       ],
       "tx": 144912500,
       "repeater": "MB7IBY",
-      "rx": 0,
-      "ctcss": 88.5,
+      "rx": 144912500,
+      "ctcss": 114.8,
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO93FO",
