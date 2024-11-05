@@ -31882,7 +31882,7 @@
       "id": 5651,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0DUQ",
       "town": "HEDNESFORD",
       "modeCodes": [
@@ -38483,7 +38483,7 @@
       "id": 6118,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "2E0IZH",
       "town": "GOSPORT",
       "modeCodes": [
@@ -39659,6 +39659,54 @@
       "extraDetails": {
         "ngr": "SE3814",
         "antennaHeight": 12,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6185,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G6MHO",
+      "town": "BURY",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430100000,
+      "repeater": "MB7IBC",
+      "rx": 0,
+      "ctcss": 82.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SD8106",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6187,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G8TVH",
+      "town": "ENFIELD",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 144850000,
+      "repeater": "G8TVH",
+      "rx": 144850000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO01AI",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TQ3598",
+        "antennaHeight": 30,
         "polarisation": "V"
       }
     }
