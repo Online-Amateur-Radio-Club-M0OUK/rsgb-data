@@ -4486,30 +4486,6 @@
       }
     },
     {
-      "id": 1207,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G3ZPU",
-      "town": "ASGARBY",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430950000,
-      "repeater": "GB3FJ",
-      "rx": 438550000,
-      "ctcss": 71.9,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO93XE",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TF3366",
-        "antennaHeight": 25,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 1231,
       "fac": true,
       "type": "PN",
@@ -28892,30 +28868,6 @@
       }
     },
     {
-      "id": 5437,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G8PYT",
-      "town": "DUDLEY",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145662500,
-      "repeater": "GB3RY",
-      "rx": 145062500,
-      "ctcss": 67,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO82",
-      "dbwErp": 10,
-      "extraDetails": {
-        "ngr": "SO9687",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 5439,
       "fac": true,
       "type": "AV",
@@ -35212,32 +35164,6 @@
       }
     },
     {
-      "id": 5890,
-      "fac": true,
-      "type": "DM",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G6GOS",
-      "town": "LEWES",
-      "modeCodes": [
-        "A",
-        "D",
-        "M:3"
-      ],
-      "tx": 145587500,
-      "repeater": "G6GOS",
-      "rx": 144987500,
-      "ctcss": 82.5,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO00AV",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TQ4010",
-        "antennaHeight": 25,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5892,
       "fac": true,
       "type": "PX",
@@ -39690,7 +39616,7 @@
       "id": 6187,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G8TVH",
       "town": "ENFIELD",
       "modeCodes": [
@@ -39707,6 +39633,30 @@
       "extraDetails": {
         "ngr": "TQ3598",
         "antennaHeight": 30,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6189,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G7NRU",
+      "town": "HOUGH ON THE HILL",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UHH",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO93QA",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SK9246",
+        "antennaHeight": 6,
         "polarisation": "V"
       }
     }
