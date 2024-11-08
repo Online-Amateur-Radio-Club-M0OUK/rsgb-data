@@ -16291,7 +16291,7 @@
       "id": 4311,
       "fac": false,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "GM0MZB",
       "town": "LINLITHGOW",
       "modeCodes": [
@@ -16318,7 +16318,7 @@
       "id": 4312,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MW0JWP",
       "town": "LLANDUDNO",
       "modeCodes": [
@@ -21693,7 +21693,7 @@
       "id": 4912,
       "fac": false,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM7RYR",
       "town": "LARGS",
       "modeCodes": [
@@ -37779,7 +37779,7 @@
       "id": 6069,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MW0JWP",
       "town": "LLANDUDNO",
       "modeCodes": [
@@ -39592,7 +39592,7 @@
       "id": 6185,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G6MHO",
       "town": "BURY",
       "modeCodes": [
