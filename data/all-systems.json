@@ -9487,7 +9487,7 @@
       "id": 3140,
       "fac": false,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4WVD",
       "town": "ROCHE",
       "modeCodes": [
@@ -12110,7 +12110,7 @@
       "id": 3750,
       "fac": false,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G7MHF",
       "town": "CHIRK",
       "modeCodes": [
@@ -29687,7 +29687,7 @@
       "id": 5500,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "2E0UCW",
       "town": "WEST DRAYTON",
       "modeCodes": [
@@ -36347,7 +36347,7 @@
       "id": 5967,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "2E0UCW",
       "town": "WEST DRAYTON",
       "modeCodes": [
@@ -39658,6 +39658,55 @@
         "ngr": "SK9246",
         "antennaHeight": 6,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6190,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GW4EHZ",
+      "town": "RHYL",
+      "modeCodes": [
+        "A",
+        "M:1"
+      ],
+      "tx": 439350000,
+      "repeater": "GB7SA",
+      "rx": 430350000,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83GG",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SJ0277",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6192,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2W0LPU",
+      "town": "BRECON",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "MB7UBB",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "IO81",
+      "dbwErp": -7,
+      "extraDetails": {
+        "ngr": "SN9830",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
