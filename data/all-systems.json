@@ -38409,7 +38409,7 @@
       "id": 6118,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0IZH",
       "town": "GOSPORT",
       "modeCodes": [
@@ -39135,7 +39135,7 @@
       "id": 6161,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GW4FOK",
       "town": "SWANSEA",
       "modeCodes": [
@@ -39707,6 +39707,55 @@
         "ngr": "SN9830",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6193,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M1VSR",
+      "town": "STOCKPORT",
+      "modeCodes": [
+        "A",
+        "F"
+      ],
+      "tx": 439362500,
+      "repeater": "GB3XR",
+      "rx": 430362500,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SJ9589",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6194,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4ZWH",
+      "town": "EATON SOCON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430062500,
+      "repeater": "MB7IES",
+      "rx": 430062500,
+      "ctcss": 67,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO92UF",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TL1759",
+        "antennaHeight": 10,
+        "polarisation": "V"
       }
     }
   ]
