@@ -5304,8 +5304,8 @@
       "fac": true,
       "type": "TV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G4YTV",
-      "town": "Hull",
+      "keeperCallsign": "M1ASR",
+      "town": "HULL",
       "modeCodes": [
         "T"
       ],
@@ -8884,31 +8884,6 @@
       "extraDetails": {
         "ngr": "ST5566",
         "antennaHeight": 20,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 2991,
-      "fac": false,
-      "type": "DM",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0BUQ",
-      "town": "LLANDUDNO",
-      "modeCodes": [
-        "A",
-        "F"
-      ],
-      "tx": 145787500,
-      "repeater": "GB3GO",
-      "rx": 145187500,
-      "ctcss": 110.9,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO83BH",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SH7683",
-        "antennaHeight": 12,
         "polarisation": "V"
       }
     },
@@ -21167,30 +21142,6 @@
       "extraDetails": {
         "ngr": "SK4644",
         "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 4871,
-      "fac": true,
-      "type": "AP",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G4HDS",
-      "town": "OTTERBURN",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144800000,
-      "repeater": "MB7URD",
-      "rx": 144800000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO85UG",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NY8298",
-        "antennaHeight": 9,
         "polarisation": "V"
       }
     },
@@ -39134,12 +39085,13 @@
     {
       "id": 6161,
       "fac": true,
-      "type": "AV",
+      "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "GW4FOK",
       "town": "SWANSEA",
       "modeCodes": [
-        "A"
+        "A",
+        "F"
       ],
       "tx": 430875000,
       "repeater": "GB3SA",
@@ -39151,7 +39103,7 @@
       "dbwErp": 10,
       "extraDetails": {
         "ngr": "SS6393",
-        "antennaHeight": 5,
+        "antennaHeight": 10,
         "polarisation": "V"
       }
     },
@@ -39754,6 +39706,36 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "TL1759",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6196,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GW4CVT",
+      "town": "HOLYHEAD",
+      "modeCodes": [
+        "A",
+        "D",
+        "M:1",
+        "F",
+        "P",
+        "N",
+        "7"
+      ],
+      "tx": 430900000,
+      "repeater": "GB7IA",
+      "rx": 438500000,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO73QH",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SH2282",
         "antennaHeight": 10,
         "polarisation": "V"
       }
