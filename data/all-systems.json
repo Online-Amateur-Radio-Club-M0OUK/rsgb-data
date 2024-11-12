@@ -12083,7 +12083,7 @@
     },
     {
       "id": 3750,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "G7MHF",
@@ -15216,30 +15216,6 @@
       }
     },
     {
-      "id": 4179,
-      "fac": true,
-      "type": "DG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "MI0WHX",
-      "town": "BANGOR",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 431137500,
-      "repeater": "MB6BG",
-      "rx": 431137500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO74DP",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "IJ4781",
-        "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 4182,
       "fac": false,
       "type": "DV",
@@ -17131,7 +17107,7 @@
       "id": 4394,
       "fac": false,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4RKY",
       "town": "LISKEARD",
       "modeCodes": [
@@ -17155,7 +17131,7 @@
       "id": 4395,
       "fac": false,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4RKY",
       "town": "LISKEARD",
       "modeCodes": [
@@ -34123,7 +34099,7 @@
       "id": 5809,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0RNW",
       "town": "WOLVERHAMPTON",
       "modeCodes": [
@@ -39736,6 +39712,30 @@
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "SH2282",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6197,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MM0KJJ ",
+      "town": "KILMARNOCK ",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 144837500,
+      "repeater": "MB6KI",
+      "rx": 144837500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO75SP",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NS4340",
         "antennaHeight": 10,
         "polarisation": "V"
       }
