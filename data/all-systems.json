@@ -149,7 +149,7 @@
       "id": 180,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M1ACB",
       "town": "MILTON KEYNES",
       "modeCodes": [
@@ -12496,30 +12496,6 @@
       }
     },
     {
-      "id": 3831,
-      "fac": false,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "MW0XDN",
-      "town": "TREFFGARNE",
-      "modeCodes": [
-        "M:3"
-      ],
-      "tx": 439587500,
-      "repeater": "GB7DP",
-      "rx": 430587500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO71MV",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SM9524",
-        "antennaHeight": 12,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 3833,
       "fac": false,
       "type": "DV",
@@ -12796,7 +12772,7 @@
       "id": 3877,
       "fac": false,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G1IRG",
       "town": "NORTHAMPTON",
       "modeCodes": [
@@ -19073,30 +19049,6 @@
         "ngr": "NZ2865",
         "antennaHeight": 0,
         "polarisation": ""
-      }
-    },
-    {
-      "id": 4654,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0ZAH",
-      "town": "NORWICH",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 29650000,
-      "repeater": "GB3TX",
-      "rx": 29550000,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "10M",
-      "locator": "JO02QP",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TG2609",
-        "antennaHeight": 6,
-        "polarisation": "V"
       }
     },
     {
@@ -29317,7 +29269,7 @@
       "id": 5481,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0LCG",
       "town": "HUCKNALL",
       "modeCodes": [
@@ -39589,31 +39541,6 @@
       }
     },
     {
-      "id": 6190,
-      "fac": true,
-      "type": "DM",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GW4EHZ",
-      "town": "RHYL",
-      "modeCodes": [
-        "A",
-        "M:1"
-      ],
-      "tx": 439350000,
-      "repeater": "GB7SA",
-      "rx": 430350000,
-      "ctcss": 103.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO83GG",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SJ0277",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6192,
       "fac": true,
       "type": "AP",
@@ -39737,6 +39664,30 @@
       "extraDetails": {
         "ngr": "NS4340",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6198,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0ZAH",
+      "town": "WYMONDHAM",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 29650000,
+      "repeater": "GB3TX",
+      "rx": 29550000,
+      "ctcss": 94.8,
+      "txbw": 10,
+      "band": "",
+      "locator": "JO02NN",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TG1000",
+        "antennaHeight": 25,
         "polarisation": "V"
       }
     }
