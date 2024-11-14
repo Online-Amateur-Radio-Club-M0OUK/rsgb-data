@@ -149,7 +149,7 @@
       "id": 180,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M1ACB",
       "town": "MILTON KEYNES",
       "modeCodes": [
@@ -16245,7 +16245,7 @@
       "id": 4312,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MW0JWP",
       "town": "LLANDUDNO",
       "modeCodes": [
@@ -38289,7 +38289,7 @@
       "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2E0IZH",
+      "keeperCallsign": "M0KVH",
       "town": "GOSPORT",
       "modeCodes": [
         "A"
@@ -39647,7 +39647,7 @@
       "id": 6197,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "MM0KJJ ",
       "town": "KILMARNOCK ",
       "modeCodes": [
