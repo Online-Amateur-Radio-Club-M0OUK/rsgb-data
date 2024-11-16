@@ -27145,31 +27145,6 @@
       }
     },
     {
-      "id": 5328,
-      "fac": true,
-      "type": "DG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G7LMY",
-      "town": "FAREHAM",
-      "modeCodes": [
-        "F",
-        "M:8"
-      ],
-      "tx": 433662500,
-      "repeater": "MB6FA",
-      "rx": 433662500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO90IU",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SU5207",
-        "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5329,
       "fac": false,
       "type": "DV",
@@ -33326,30 +33301,6 @@
       }
     },
     {
-      "id": 5760,
-      "fac": true,
-      "type": "PX",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "2E1PKY",
-      "town": "POOLE",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144950000,
-      "repeater": "GB7PDS",
-      "rx": 144950000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO90AR",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SZ0390",
-        "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5762,
       "fac": true,
       "type": "AV",
@@ -36437,30 +36388,6 @@
         "ngr": "NX8361",
         "antennaHeight": 4,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 5988,
-      "fac": true,
-      "type": "RL",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G6OUA",
-      "town": "LUTON",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 434850000,
-      "repeater": "GB3LT-L",
-      "rx": 433250000,
-      "ctcss": 77,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO91",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TL1021",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -39689,6 +39616,30 @@
         "ngr": "TG1000",
         "antennaHeight": 25,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6202,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G0BMG",
+      "town": "BEDFORD",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 433650000,
+      "repeater": "MB6BD",
+      "rx": 433650000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO92",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TL0650",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
