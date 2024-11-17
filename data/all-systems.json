@@ -19973,7 +19973,7 @@
     },
     {
       "id": 4773,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0FHM",
@@ -34727,30 +34727,6 @@
       }
     },
     {
-      "id": 5875,
-      "fac": true,
-      "type": "AP",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "MM7LWS",
-      "town": "STONEHOUSE",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 439912500,
-      "repeater": "MM7LWS",
-      "rx": 439912500,
-      "ctcss": 0,
-      "txbw": 125,
-      "band": "70CM",
-      "locator": "IO85",
-      "dbwErp": -7,
-      "extraDetails": {
-        "ngr": "NS7546",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 5876,
       "fac": true,
       "type": "DV",
@@ -35135,30 +35111,6 @@
         "ngr": "SD7427",
         "antennaHeight": 0,
         "polarisation": ""
-      }
-    },
-    {
-      "id": 5904,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M1VSR",
-      "town": "MARPLE STOCKPORT",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430087500,
-      "repeater": "MB7IMA",
-      "rx": 430087500,
-      "ctcss": 77,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO83XJ",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SJ9589",
-        "antennaHeight": 10,
-        "polarisation": "V"
       }
     },
     {
@@ -37585,7 +37537,7 @@
       "id": 6069,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MW0JWP",
       "town": "LLANDUDNO",
       "modeCodes": [
@@ -39499,8 +39451,7 @@
       "keeperCallsign": "M1VSR",
       "town": "STOCKPORT",
       "modeCodes": [
-        "A",
-        "F"
+        "A"
       ],
       "tx": 439362500,
       "repeater": "GB3XR",
@@ -39619,6 +39570,26 @@
       }
     },
     {
+      "id": 6200,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G4VSS",
+      "town": "WARRINGTON",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439987500,
+      "repeater": "MB7PWC",
+      "rx": 439987500,
+      "ctcss": 0,
+      "txbw": 5,
+      "band": "70CM",
+      "locator": "IO83RI",
+      "dbwErp": 10.8,
+      "extraDetails": null
+    },
+    {
       "id": 6202,
       "fac": true,
       "type": "DG",
@@ -39638,6 +39609,30 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "TL0650",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6203,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "GW8LGX",
+      "town": "SWANSEA",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430087500,
+      "repeater": "GW8LGX",
+      "rx": 430087500,
+      "ctcss": 82.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SS6393",
         "antennaHeight": 0,
         "polarisation": ""
       }
