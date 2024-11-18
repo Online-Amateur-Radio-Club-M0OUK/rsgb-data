@@ -149,7 +149,7 @@
       "id": 180,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M1ACB",
       "town": "MILTON KEYNES",
       "modeCodes": [
@@ -1097,7 +1097,7 @@
       "id": 711,
       "fac": false,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM0YET",
       "town": "DALRY",
       "modeCodes": [
@@ -26837,7 +26837,7 @@
       "id": 5312,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G6YIQ",
       "town": "HITCHIN",
       "modeCodes": [
