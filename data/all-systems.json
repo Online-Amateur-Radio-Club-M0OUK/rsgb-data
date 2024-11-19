@@ -5445,7 +5445,7 @@
     },
     {
       "id": 2181,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G3VPF",
@@ -7641,7 +7641,7 @@
       "id": 2645,
       "fac": true,
       "type": "TV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M1CNJ",
       "town": "BANBURY",
       "modeCodes": [
@@ -16592,7 +16592,7 @@
       "fac": false,
       "type": "DM",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G6MDX",
+      "keeperCallsign": "G4YFF",
       "town": "STAFFORD",
       "modeCodes": [
         "A",
@@ -17155,7 +17155,7 @@
       "id": 4400,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G7CFC",
       "town": "WOLVERHAMPTON",
       "modeCodes": [
@@ -27777,30 +27777,6 @@
       }
     },
     {
-      "id": 5376,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G6IET",
-      "town": "RICHMOND ",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145337500,
-      "repeater": "MB7IET",
-      "rx": 0,
-      "ctcss": 118.8,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO94",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "NZ1306",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 5378,
       "fac": true,
       "type": "PX",
@@ -33999,30 +33975,6 @@
       }
     },
     {
-      "id": 5809,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0RNW",
-      "town": "WOLVERHAMPTON",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145337500,
-      "repeater": "MB7IDP",
-      "rx": 145337500,
-      "ctcss": 103.5,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO82WN",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SO9096",
-        "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5810,
       "fac": true,
       "type": "AV",
@@ -38455,7 +38407,7 @@
       "id": 6136,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GW4DVB",
       "town": "TONDU  BRIDGEND",
       "modeCodes": [
@@ -39636,6 +39588,26 @@
         "antennaHeight": 0,
         "polarisation": ""
       }
+    },
+    {
+      "id": 6204,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GI4RNP",
+      "town": "NEWTOWNABBEY",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 439562500,
+      "repeater": "GB7GI",
+      "rx": 430562500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO74BQ",
+      "dbwErp": 10.8,
+      "extraDetails": null
     }
   ]
 }
