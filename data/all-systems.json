@@ -5807,7 +5807,7 @@
       "id": 2275,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0NCZ",
       "town": "ASHTON-UNDER-LYNE",
       "modeCodes": [
@@ -12228,9 +12228,9 @@
     },
     {
       "id": 3770,
-      "fac": false,
+      "fac": true,
       "type": "DV",
-      "status": "REDUCED OUTPUT",
+      "status": "",
       "keeperCallsign": "G8NDT",
       "town": "WOLVERHAMPTON",
       "modeCodes": [
@@ -15243,7 +15243,7 @@
       "id": 4184,
       "fac": true,
       "type": "AG",
-      "status": "REDUCED OUTPUT",
+      "status": "",
       "keeperCallsign": "G7RUP",
       "town": "LINCOLN",
       "modeCodes": [
@@ -18615,30 +18615,6 @@
       }
     },
     {
-      "id": 4601,
-      "fac": false,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G4WTV",
-      "town": "CHICHESTER",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430962500,
-      "repeater": "GB3CC",
-      "rx": 438562500,
-      "ctcss": 88.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO90",
-      "dbwErp": 11,
-      "extraDetails": {
-        "ngr": "SU9201",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 4604,
       "fac": true,
       "type": "DM",
@@ -19345,35 +19321,6 @@
       "extraDetails": {
         "ngr": "NS4078",
         "antennaHeight": 3,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 4687,
-      "fac": false,
-      "type": "DM",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0NCZ",
-      "town": "ASHTON-UNDER-LYNE",
-      "modeCodes": [
-        "A",
-        "D",
-        "M:10",
-        "F",
-        "P",
-        "N"
-      ],
-      "tx": 433075000,
-      "repeater": "GB3KU",
-      "rx": 434675000,
-      "ctcss": 82.5,
-      "txbw": 25,
-      "band": "70CM",
-      "locator": "IO83XM",
-      "dbwErp": 8.8,
-      "extraDetails": {
-        "ngr": "SD9401",
-        "antennaHeight": 7,
         "polarisation": "V"
       }
     },
@@ -28725,7 +28672,7 @@
       "id": 5441,
       "fac": true,
       "type": "PX",
-      "status": "",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0EMO",
       "town": "LOUGHTON",
       "modeCodes": [
@@ -39399,7 +39346,7 @@
       "id": 6193,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M1VSR",
       "town": "STOCKPORT",
       "modeCodes": [
@@ -39542,6 +39489,30 @@
       "extraDetails": null
     },
     {
+      "id": 6201,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4WTV",
+      "town": "CHICHESTER",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430950000,
+      "repeater": "GB3CC",
+      "rx": 438550000,
+      "ctcss": 88.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO90",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "SU9106",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
       "id": 6202,
       "fac": true,
       "type": "DG",
@@ -39608,6 +39579,48 @@
       "locator": "IO74BQ",
       "dbwErp": 10.8,
       "extraDetails": null
+    },
+    {
+      "id": 6206,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "GM5AUG ",
+      "town": "EDINBURGH ",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "MB7UFC",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "IO85JW",
+      "dbwErp": -7,
+      "extraDetails": null
+    },
+    {
+      "id": 6207,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G3ZXX",
+      "town": "SILVERTON",
+      "modeCodes": null,
+      "tx": 145625000,
+      "repeater": "GB7DW",
+      "rx": 145025000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO80",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SS9605",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
     }
   ]
 }
