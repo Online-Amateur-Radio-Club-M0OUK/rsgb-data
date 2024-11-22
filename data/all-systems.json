@@ -5208,7 +5208,7 @@
       "fac": false,
       "type": "BN",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G0FDZ",
+      "keeperCallsign": "G0AFH",
       "town": "FAIRSEAT, SEVENOAKS",
       "modeCodes": [
         "B"
@@ -5221,6 +5221,30 @@
       "band": "70CM",
       "locator": "JO01EH",
       "dbwErp": 0,
+      "extraDetails": {
+        "ngr": "TQ6361",
+        "antennaHeight": 40,
+        "polarisation": "H"
+      }
+    },
+    {
+      "id": 2098,
+      "fac": false,
+      "type": "BN",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G0AFH",
+      "town": "FAIRSEAT, SEVENOAKS",
+      "modeCodes": [
+        "B"
+      ],
+      "tx": 144430000,
+      "repeater": "GB3VHF",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 1,
+      "band": "2M",
+      "locator": "JO01EH",
+      "dbwErp": -7,
       "extraDetails": {
         "ngr": "TQ6361",
         "antennaHeight": 40,
@@ -20407,30 +20431,6 @@
       }
     },
     {
-      "id": 4831,
-      "fac": false,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GM7RYR",
-      "town": "GLASGOW",
-      "modeCodes": [
-        "M:7"
-      ],
-      "tx": 430850000,
-      "repeater": "GB7GL",
-      "rx": 438450000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO75",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NS6167",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 4832,
       "fac": false,
       "type": "DV",
@@ -29582,17 +29582,17 @@
     {
       "id": 5519,
       "fac": true,
-      "type": "DG",
+      "type": "AG",
       "status": "OPERATIONAL",
       "keeperCallsign": "G6PHF",
       "town": "LANCASTER",
       "modeCodes": [
-        "F"
+        "A"
       ],
-      "tx": 144875000,
-      "repeater": "MB6LA",
-      "rx": 144875000,
-      "ctcss": 0,
+      "tx": 144962500,
+      "repeater": "MB7ILG",
+      "rx": 144962500,
+      "ctcss": 103.5,
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO84",
@@ -34702,7 +34702,7 @@
       "id": 5883,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "G3PWJ",
       "town": "STOURBRIDGE",
       "modeCodes": [
@@ -38017,7 +38017,7 @@
       "id": 6122,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "G6JME",
       "town": "EASTBOURNE",
       "modeCodes": [
@@ -39600,6 +39600,31 @@
       }
     },
     {
+      "id": 6211,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0RNW",
+      "town": "WOLVERHAMPTON",
+      "modeCodes": [
+        "A",
+        "F"
+      ],
+      "tx": 433125000,
+      "repeater": "GB3IC",
+      "rx": 434725000,
+      "ctcss": 67,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO82WN",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SO9096",
+        "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 6212,
       "fac": true,
       "type": "AG",
@@ -39618,6 +39643,98 @@
       "locator": "JO01KD",
       "dbwErp": 7,
       "extraDetails": null
+    },
+    {
+      "id": 6213,
+      "fac": true,
+      "type": "PX",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G8LIY",
+      "town": "LEIGH",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 7052000,
+      "repeater": "GB7WLG",
+      "rx": 7055000,
+      "ctcss": 0,
+      "txbw": 2.3,
+      "band": "40M",
+      "locator": "IO83SM",
+      "dbwErp": 10,
+      "extraDetails": null
+    },
+    {
+      "id": 6214,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0PTN",
+      "town": "REDDITCH",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 433025000,
+      "repeater": "GB3XO",
+      "rx": 438025000,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO92",
+      "dbwErp": 11.8,
+      "extraDetails": {
+        "ngr": "SP0366",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6215,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM7RYR",
+      "town": "GLASGOW",
+      "modeCodes": [
+        "E"
+      ],
+      "tx": 434018750,
+      "repeater": "GB7GZ",
+      "rx": 434018750,
+      "ctcss": 0,
+      "txbw": 37.5,
+      "band": "70CM",
+      "locator": "IO75",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "NS6168",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6216,
+      "fac": true,
+      "type": "DV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "GM7RYR",
+      "town": "GLASGOW",
+      "modeCodes": [
+        "M:7"
+      ],
+      "tx": 430850000,
+      "repeater": "GB7GL",
+      "rx": 438450000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO75",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NS6168",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
     }
   ]
 }
