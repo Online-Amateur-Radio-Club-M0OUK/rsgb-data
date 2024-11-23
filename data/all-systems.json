@@ -10582,7 +10582,7 @@
     },
     {
       "id": 3381,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4ZPZ",
@@ -12230,7 +12230,7 @@
       "id": 3770,
       "fac": true,
       "type": "DV",
-      "status": "",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G8NDT",
       "town": "WOLVERHAMPTON",
       "modeCodes": [
@@ -29609,7 +29609,7 @@
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G6IET",
-      "town": "RICHMOND NORTH YORKSHIRE",
+      "town": "RICHMOND N.YORKSHIRE",
       "modeCodes": [
         "A"
       ],
@@ -35694,7 +35694,7 @@
       "id": 5953,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "2E0SGG",
       "town": "CHATHAM ",
       "modeCodes": [
@@ -39438,7 +39438,11 @@
       "band": "70CM",
       "locator": "IO83RI",
       "dbwErp": 10.8,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "SJ6182",
+        "antennaHeight": 8,
+        "polarisation": "V"
+      }
     },
     {
       "id": 6201,
@@ -39550,7 +39554,11 @@
       "band": "70CM",
       "locator": "IO85JW",
       "dbwErp": -7,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "NT2573",
+        "antennaHeight": 20,
+        "polarisation": "V"
+      }
     },
     {
       "id": 6207,
@@ -39642,7 +39650,11 @@
       "band": "2M",
       "locator": "JO01KD",
       "dbwErp": 7,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "TQ9941",
+        "antennaHeight": 6,
+        "polarisation": "V"
+      }
     },
     {
       "id": 6213,
@@ -39656,7 +39668,7 @@
       ],
       "tx": 7052000,
       "repeater": "GB7WLG",
-      "rx": 7055000,
+      "rx": 7052000,
       "ctcss": 0,
       "txbw": 2.3,
       "band": "40M",
