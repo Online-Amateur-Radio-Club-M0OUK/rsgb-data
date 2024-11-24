@@ -149,7 +149,7 @@
       "id": 180,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M1ACB",
       "town": "MILTON KEYNES",
       "modeCodes": [
@@ -19006,11 +19006,11 @@
     },
     {
       "id": 4658,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M5ADU",
-      "town": "MANSFIELD",
+      "town": "ALFRETON",
       "modeCodes": [
         "A"
       ],
@@ -21446,7 +21446,7 @@
       "id": 4912,
       "fac": false,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM7RYR",
       "town": "LARGS",
       "modeCodes": [
@@ -21906,7 +21906,7 @@
       "id": 4953,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "2E0FSI",
       "town": "TANGMERE",
       "modeCodes": [
@@ -39249,7 +39249,7 @@
       "id": 6192,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2W0LPU",
       "town": "BRECON",
       "modeCodes": [
