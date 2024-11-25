@@ -3069,7 +3069,7 @@
       "id": 931,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G6PDE",
       "town": "IPSWICH",
       "modeCodes": [
@@ -5512,30 +5512,6 @@
       "extraDetails": {
         "ngr": "TQ7370",
         "antennaHeight": 15,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 2189,
-      "fac": false,
-      "type": "TV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G0LGJ",
-      "town": "NORWICH",
-      "modeCodes": [
-        "T"
-      ],
-      "tx": 3406000000,
-      "repeater": "GB3NV",
-      "rx": 2440000000,
-      "ctcss": 0,
-      "txbw": 2000,
-      "band": "9CM",
-      "locator": "JO02PP",
-      "dbwErp": 18.8,
-      "extraDetails": {
-        "ngr": "TG2208",
-        "antennaHeight": 48,
         "polarisation": "V"
       }
     },
@@ -11953,7 +11929,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO90TT",
-      "dbwErp": 9.5,
+      "dbwErp": 10,
       "extraDetails": {
         "ngr": "TQ1402",
         "antennaHeight": 15,
@@ -15728,18 +15704,19 @@
     },
     {
       "id": 4255,
-      "fac": false,
-      "type": "DV",
+      "fac": true,
+      "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G3PWJ",
       "town": "HEREFORD",
       "modeCodes": [
+        "A",
         "M:5"
       ],
       "tx": 439525000,
       "repeater": "GB7HC",
       "rx": 430525000,
-      "ctcss": 0,
+      "ctcss": 118.8,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO82",
@@ -33450,7 +33427,7 @@
       "tx": 430250000,
       "repeater": "GB7XF",
       "rx": 439250000,
-      "ctcss": 82.5,
+      "ctcss": 110.9,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO83XM",
@@ -39351,7 +39328,7 @@
       "id": 6197,
       "fac": true,
       "type": "DG",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM0KJJ ",
       "town": "KILMARNOCK ",
       "modeCodes": [
@@ -39448,7 +39425,7 @@
       "id": 6201,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4WTV",
       "town": "CHICHESTER",
       "modeCodes": [
@@ -39746,6 +39723,54 @@
         "ngr": "NS6168",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6217,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GW0UXJ",
+      "town": "PONTYPRIDD ",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 433275000,
+      "repeater": "GB7MG",
+      "rx": 434875000,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81KP",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "ST0991",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6218,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M7DSQ",
+      "town": "WINGATE ",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145337500,
+      "repeater": "MB7ISQ",
+      "rx": 145337500,
+      "ctcss": 67,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO94HR",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NZ3937",
+        "antennaHeight": 10,
+        "polarisation": "V"
       }
     }
   ]
