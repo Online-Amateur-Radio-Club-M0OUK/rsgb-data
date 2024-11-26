@@ -19326,7 +19326,7 @@
     },
     {
       "id": 4695,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0WYG",
@@ -34004,7 +34004,7 @@
       "type": "PX",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4WQG",
-      "town": "UFFCOTT",
+      "town": "RAMSBURY",
       "modeCodes": [
         "X"
       ],
@@ -34017,7 +34017,7 @@
       "locator": "IO91",
       "dbwErp": 14,
       "extraDetails": {
-        "ngr": "SU1276",
+        "ngr": "SU2770",
         "antennaHeight": 0,
         "polarisation": ""
       }
@@ -34100,7 +34100,7 @@
       "type": "PX",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4WQG",
-      "town": "UFFCOTT",
+      "town": "RAMSBURY",
       "modeCodes": [
         "X"
       ],
@@ -34113,7 +34113,7 @@
       "locator": "IO91",
       "dbwErp": 14,
       "extraDetails": {
-        "ngr": "SU1276",
+        "ngr": "SU2770",
         "antennaHeight": 0,
         "polarisation": ""
       }
@@ -38525,6 +38525,30 @@
       }
     },
     {
+      "id": 6151,
+      "fac": true,
+      "type": "AV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M1CMN",
+      "town": "FOLKESTONE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145750000,
+      "repeater": "GB3FK",
+      "rx": 145150000,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO01",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "TR2238",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
       "id": 6152,
       "fac": true,
       "type": "DV",
@@ -39769,6 +39793,75 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "NZ3937",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6220,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "2E0IJE",
+      "town": "DEWSBURY",
+      "modeCodes": [
+        "D",
+        "F"
+      ],
+      "tx": 431087500,
+      "repeater": "2E0IJE",
+      "rx": 431087500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93",
+      "dbwErp": 0,
+      "extraDetails": null
+    },
+    {
+      "id": 6221,
+      "fac": true,
+      "type": "PX",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4WQG",
+      "town": "RAMSBURY",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144950000,
+      "repeater": "GB7NWD",
+      "rx": 144950000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO91",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SU2770",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6222,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M7EXJ",
+      "town": "WHITTON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 144912500,
+      "repeater": "MB7IMF",
+      "rx": 0,
+      "ctcss": 67,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO91TK",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TQ1363",
         "antennaHeight": 10,
         "polarisation": "V"
       }
