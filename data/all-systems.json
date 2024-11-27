@@ -1312,30 +1312,6 @@
       }
     },
     {
-      "id": 738,
-      "fac": false,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G6RVS",
-      "town": "CHARING KENT",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 433000000,
-      "repeater": "GB3CK",
-      "rx": 434600000,
-      "ctcss": 103.5,
-      "txbw": 25,
-      "band": "70CM",
-      "locator": "JO01JF",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TQ9451",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 739,
       "fac": false,
       "type": "AV",
@@ -9413,7 +9389,7 @@
       "id": 3136,
       "fac": false,
       "type": "DM",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0SGL",
       "town": "MORDEN",
       "modeCodes": [
@@ -9515,9 +9491,7 @@
       "keeperCallsign": "GM0MZB",
       "town": "STIRLING",
       "modeCodes": [
-        "D",
-        "M:1",
-        "F"
+        "M:1"
       ],
       "tx": 439475000,
       "repeater": "GB7FE",
@@ -14218,7 +14192,7 @@
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G8PYT",
-      "town": "DUDLEY",
+      "town": "ROWLEY REGIS",
       "modeCodes": [
         "A"
       ],
@@ -14242,7 +14216,7 @@
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G8PYT",
-      "town": "DUDLEY",
+      "town": "ROWLEY REGIS",
       "modeCodes": [
         "A"
       ],
@@ -16168,41 +16142,15 @@
       }
     },
     {
-      "id": 4309,
-      "fac": false,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G0WDA",
-      "town": "BLACKPOOL",
-      "modeCodes": [
-        "M:1"
-      ],
-      "tx": 430275000,
-      "repeater": "GB7FO",
-      "rx": 439275000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO83LT",
-      "dbwErp": 11.1,
-      "extraDetails": {
-        "ngr": "SD3135",
-        "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 4311,
-      "fac": false,
+      "fac": true,
       "type": "DM",
-      "status": "REDUCED OUTPUT",
+      "status": "",
       "keeperCallsign": "GM0MZB",
       "town": "LINLITHGOW",
       "modeCodes": [
         "A",
-        "D",
-        "M:1",
-        "F"
+        "M:1"
       ],
       "tx": 430950000,
       "repeater": "GB3OH",
@@ -18646,7 +18594,7 @@
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G8PYT",
-      "town": "DUDLEY",
+      "town": "ROWLEY REGIS",
       "modeCodes": [
         "A"
       ],
@@ -33589,7 +33537,7 @@
       "type": "AV",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "G8PYT",
-      "town": "DUDLEY",
+      "town": "ROWLEY REGIS",
       "modeCodes": [
         "A"
       ],
@@ -39705,7 +39653,7 @@
       "id": 6215,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM7RYR",
       "town": "GLASGOW",
       "modeCodes": [
