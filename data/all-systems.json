@@ -3045,7 +3045,7 @@
       "id": 931,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G6PDE",
       "town": "IPSWICH",
       "modeCodes": [
@@ -9485,7 +9485,7 @@
     },
     {
       "id": 3155,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GM0MZB",
@@ -16142,15 +16142,38 @@
       }
     },
     {
+      "id": 4309,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G0WDA",
+      "town": "BLACKPOOL",
+      "modeCodes": [
+        "M:1"
+      ],
+      "tx": 430275000,
+      "repeater": "GB7FO",
+      "rx": 439275000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83LT",
+      "dbwErp": 11.1,
+      "extraDetails": {
+        "ngr": "SD3135",
+        "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 4311,
       "fac": true,
-      "type": "DM",
-      "status": "",
+      "type": "DV",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM0MZB",
       "town": "LINLITHGOW",
       "modeCodes": [
-        "A",
-        "M:1"
+        "A"
       ],
       "tx": 430950000,
       "repeater": "GB3OH",
@@ -18950,31 +18973,6 @@
       "extraDetails": {
         "ngr": "SK4253",
         "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 4660,
-      "fac": false,
-      "type": "DM",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GW4BML",
-      "town": "LLANFAIR CAEREINION",
-      "modeCodes": [
-        "A",
-        "F"
-      ],
-      "tx": 430962500,
-      "repeater": "GB3MD",
-      "rx": 438562500,
-      "ctcss": 103.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO82GN",
-      "dbwErp": 11.9,
-      "extraDetails": {
-        "ngr": "SN9997",
-        "antennaHeight": 6,
         "polarisation": "V"
       }
     },
@@ -31463,7 +31461,7 @@
       "id": 5651,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0DUQ",
       "town": "HEDNESFORD",
       "modeCodes": [
@@ -39757,7 +39755,7 @@
         "F"
       ],
       "tx": 431087500,
-      "repeater": "2E0IJE",
+      "repeater": "MB6JE",
       "rx": 431087500,
       "ctcss": 0,
       "txbw": 12.5,
