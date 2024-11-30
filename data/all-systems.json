@@ -16287,30 +16287,6 @@
       }
     },
     {
-      "id": 4320,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GW3WSU",
-      "town": "BARRY",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145212500,
-      "repeater": "MB7ISW",
-      "rx": 145212500,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO81IK",
-      "dbwErp": 3,
-      "extraDetails": {
-        "ngr": "ST1269",
-        "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 4325,
       "fac": true,
       "type": "AP",
@@ -16539,7 +16515,7 @@
       "id": 4350,
       "fac": false,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4YFF",
       "town": "STAFFORD",
       "modeCodes": [
@@ -25182,20 +25158,19 @@
     },
     {
       "id": 5204,
-      "fac": false,
-      "type": "DM",
+      "fac": true,
+      "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0RQD",
       "town": "NEWPORT",
       "modeCodes": [
-        "A",
-        "F"
+        "A"
       ],
       "tx": 433225000,
       "repeater": "GB3IW",
       "rx": 434825000,
       "ctcss": 71.9,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO90IQ",
       "dbwErp": 14,
@@ -37671,31 +37646,6 @@
       }
     },
     {
-      "id": 6108,
-      "fac": true,
-      "type": "DG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "2E0KFG",
-      "town": "COLCHESTER",
-      "modeCodes": [
-        "D",
-        "N"
-      ],
-      "tx": 434487500,
-      "repeater": "2E0KFG",
-      "rx": 434487500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO01",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TM0122",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6110,
       "fac": true,
       "type": "PX",
@@ -38522,7 +38472,7 @@
       "id": 6154,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0SDJ",
       "town": "ASHFORD",
       "modeCodes": [
@@ -39559,7 +39509,7 @@
       "id": 6212,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0SJA",
       "town": "ASHFORD",
       "modeCodes": [
@@ -39628,7 +39578,7 @@
       "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "GM7RYR",
+      "keeperCallsign": "GM0KUJ",
       "town": "GLASGOW",
       "modeCodes": [
         "E"
@@ -39652,7 +39602,7 @@
       "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "GM7RYR",
+      "keeperCallsign": "GM0KUJ",
       "town": "GLASGOW",
       "modeCodes": [
         "M:7"
