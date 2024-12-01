@@ -10998,10 +10998,10 @@
     },
     {
       "id": 3538,
-      "fac": false,
+      "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G7UVD",
+      "status": "",
+      "keeperCallsign": "2E0BDS",
       "town": "SKEGNESS",
       "modeCodes": [
         "A"
@@ -11013,7 +11013,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "JO03CB",
-      "dbwErp": 12.1,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "TF4754",
         "antennaHeight": 5,
@@ -17592,7 +17592,7 @@
       "id": 4453,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GW4UAJ",
       "town": "CWMBACH",
       "modeCodes": [
@@ -37673,7 +37673,7 @@
       "id": 6111,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4FZP",
       "town": "BURY",
       "modeCodes": [
@@ -38270,31 +38270,6 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "TL1725",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 6143,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GM4WMM",
-      "town": "RENDALL",
-      "modeCodes": [
-        "D",
-        "M:14"
-      ],
-      "tx": 144862500,
-      "repeater": "MB6OR",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO89",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "HY4120",
         "antennaHeight": 0,
         "polarisation": ""
       }
@@ -39170,7 +39145,7 @@
       "id": 6194,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4ZWH",
       "town": "EATON SOCON",
       "modeCodes": [
@@ -39484,7 +39459,7 @@
       "id": 6211,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "M0RNW",
       "town": "WOLVERHAMPTON",
       "modeCodes": [
@@ -39760,6 +39735,30 @@
         "ngr": "SP8435",
         "antennaHeight": 6,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6224,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2E0GSY",
+      "town": "IVER",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430087500,
+      "repeater": "MB7IMP",
+      "rx": 430087500,
+      "ctcss": 82.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TQ0379",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
