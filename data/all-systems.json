@@ -39717,7 +39717,7 @@
       "id": 6223,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "",
       "keeperCallsign": "M0BOY",
       "town": "MILTON KEYNES",
       "modeCodes": [
@@ -39759,6 +39759,56 @@
         "ngr": "TQ0379",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6225,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4ZWH",
+      "town": "EATON SOCON",
+      "modeCodes": [
+        "D",
+        "M:3",
+        "F"
+      ],
+      "tx": 144900000,
+      "repeater": "MB6ES",
+      "rx": 144900000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO92UF",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TL1759",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6226,
+      "fac": true,
+      "type": "PX",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0CRT",
+      "town": "DINNINGTON",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 7050500,
+      "repeater": "GB7DIN",
+      "rx": 7050500,
+      "ctcss": 0,
+      "txbw": 2.7,
+      "band": "40M",
+      "locator": "IO93JJ",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SK5387",
+        "antennaHeight": 10,
+        "polarisation": "H"
       }
     }
   ]
