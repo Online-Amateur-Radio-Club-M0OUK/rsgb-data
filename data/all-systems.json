@@ -4,7 +4,7 @@
       "id": 111,
       "fac": false,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G7UZN",
       "town": "BUCKHURST HILL",
       "modeCodes": [
@@ -9509,18 +9509,19 @@
     },
     {
       "id": 3160,
-      "fac": false,
-      "type": "DV",
+      "fac": true,
+      "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G1IVG",
       "town": "MARKET HARBOROUGH",
       "modeCodes": [
+        "A",
         "M:2"
       ],
       "tx": 439687500,
       "repeater": "GB7WV",
       "rx": 430687500,
-      "ctcss": 0,
+      "ctcss": 77,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO92NL",
@@ -16142,30 +16143,6 @@
       }
     },
     {
-      "id": 4309,
-      "fac": true,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G0WDA",
-      "town": "BLACKPOOL",
-      "modeCodes": [
-        "M:1"
-      ],
-      "tx": 430275000,
-      "repeater": "GB7FO",
-      "rx": 439275000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO83LT",
-      "dbwErp": 11.1,
-      "extraDetails": {
-        "ngr": "SD3135",
-        "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 4311,
       "fac": true,
       "type": "DV",
@@ -18906,7 +18883,7 @@
       "id": 4655,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MW0TTF ",
       "town": "PORT TALBOT",
       "modeCodes": [
@@ -30536,7 +30513,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO83",
-      "dbwErp": 10,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "SJ6570",
         "antennaHeight": 0,
@@ -31412,7 +31389,7 @@
       "id": 5651,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0DUQ",
       "town": "HEDNESFORD",
       "modeCodes": [
@@ -31811,9 +31788,9 @@
         "A",
         "M:15"
       ],
-      "tx": 430975000,
+      "tx": 430837500,
       "repeater": "GB7CN",
-      "rx": 438575000,
+      "rx": 438437500,
       "ctcss": 67,
       "txbw": 12.5,
       "band": "70CM",
@@ -35568,7 +35545,7 @@
       "id": 5953,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0SGG",
       "town": "CHATHAM ",
       "modeCodes": [
@@ -39809,6 +39786,54 @@
         "ngr": "SK5387",
         "antennaHeight": 10,
         "polarisation": "H"
+      }
+    },
+    {
+      "id": 6227,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2E0JOO",
+      "town": "LEASOWE",
+      "modeCodes": [
+        "D"
+      ],
+      "tx": 144900000,
+      "repeater": "MB6JC",
+      "rx": 144900000,
+      "ctcss": 0,
+      "txbw": 12,
+      "band": "2M",
+      "locator": "IO83KJ",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SJ2790",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6228,
+      "fac": true,
+      "type": "RL",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "MW0JYY",
+      "town": "LLANGEFNI ",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 438437500,
+      "repeater": "GB3OR-L",
+      "rx": 430837500,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO73",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SH4373",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
