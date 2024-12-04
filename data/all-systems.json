@@ -11001,7 +11001,7 @@
       "id": 3538,
       "fac": true,
       "type": "AV",
-      "status": "",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0BDS",
       "town": "SKEGNESS",
       "modeCodes": [
@@ -21873,30 +21873,6 @@
         "ngr": "TQ1104",
         "antennaHeight": 0,
         "polarisation": ""
-      }
-    },
-    {
-      "id": 4962,
-      "fac": false,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GM7RYR",
-      "town": "EDINBURGH",
-      "modeCodes": [
-        "M:11"
-      ],
-      "tx": 431175000,
-      "repeater": "GB7EV",
-      "rx": 431175000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO85JW",
-      "dbwErp": 2,
-      "extraDetails": {
-        "ngr": "NT2471",
-        "antennaHeight": 60,
-        "polarisation": "V"
       }
     },
     {
@@ -34479,7 +34455,7 @@
       "id": 5880,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M1CNX",
       "town": "BOSTON",
       "modeCodes": [
@@ -35992,30 +35968,6 @@
       "extraDetails": {
         "ngr": "SE3813",
         "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 5982,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "MM1BHO",
-      "town": "DALBEATTIE",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 431137500,
-      "repeater": "MB6DL",
-      "rx": 431137500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO84CW",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "NX8361",
-        "antennaHeight": 4,
         "polarisation": "V"
       }
     },
@@ -39694,7 +39646,7 @@
       "id": 6223,
       "fac": true,
       "type": "DG",
-      "status": "",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0BOY",
       "town": "MILTON KEYNES",
       "modeCodes": [
@@ -39832,6 +39784,54 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "SH4373",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6230,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G6PHF",
+      "town": "LANCASTER",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 431087500,
+      "repeater": "MB6LA",
+      "rx": 431087500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO84",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SD4759",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6231,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2E1THX",
+      "town": "CAULDON LOW",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 439550000,
+      "repeater": "GB7AT",
+      "rx": 430550000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SK0747",
         "antennaHeight": 0,
         "polarisation": ""
       }
