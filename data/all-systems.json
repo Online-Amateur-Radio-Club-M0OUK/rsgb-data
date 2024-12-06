@@ -4,7 +4,7 @@
       "id": 111,
       "fac": false,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7UZN",
       "town": "BUCKHURST HILL",
       "modeCodes": [
@@ -25885,7 +25885,7 @@
       "id": 5258,
       "fac": false,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0JDN",
       "town": "BEXHILL-ON-SEA",
       "modeCodes": [
@@ -32995,7 +32995,11 @@
       "band": "2M",
       "locator": "IO64QS",
       "dbwErp": 14,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "IH9090",
+        "antennaHeight": 9,
+        "polarisation": "V"
+      }
     },
     {
       "id": 5764,
@@ -33728,7 +33732,7 @@
       "fac": true,
       "type": "DM",
       "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GM7RYR",
+      "keeperCallsign": "GM4YTD",
       "town": "STRANRAER",
       "modeCodes": [
         "A",
@@ -39287,7 +39291,11 @@
       "band": "70CM",
       "locator": "IO74BQ",
       "dbwErp": 10.8,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "IJ3183",
+        "antennaHeight": 3,
+        "polarisation": "V"
+      }
     },
     {
       "id": 6206,
