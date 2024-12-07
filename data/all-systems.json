@@ -36269,30 +36269,6 @@
       }
     },
     {
-      "id": 6012,
-      "fac": true,
-      "type": "AG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "MW0KJX",
-      "town": "DUNVANT ",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145287500,
-      "repeater": "MB7IMG",
-      "rx": 145287500,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO71XP",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SS5993",
-        "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6013,
       "fac": true,
       "type": "AV",
