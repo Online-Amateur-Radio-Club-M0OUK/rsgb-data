@@ -39795,6 +39795,26 @@
         "antennaHeight": 0,
         "polarisation": ""
       }
+    },
+    {
+      "id": 6233,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "2E0AW0",
+      "town": "WIGAN ",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 431212500,
+      "repeater": "MB6AW",
+      "rx": 431212500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83",
+      "dbwErp": 7,
+      "extraDetails": null
     }
   ]
 }
