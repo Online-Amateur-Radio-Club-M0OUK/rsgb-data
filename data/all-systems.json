@@ -1532,7 +1532,7 @@
       "id": 769,
       "fac": false,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GI4YWT",
       "town": "DERRY/LONDONDERRY",
       "modeCodes": [
@@ -22355,35 +22355,6 @@
       }
     },
     {
-      "id": 5002,
-      "fac": true,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0LLC",
-      "town": "MARYPORT",
-      "modeCodes": [
-        "M:1",
-        "F",
-        "D",
-        "M:1",
-        "1",
-        "7"
-      ],
-      "tx": 439762500,
-      "repeater": "GB7CU",
-      "rx": 430762500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO84GQ",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NY0533",
-        "antennaHeight": 7,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5006,
       "fac": false,
       "type": "DV",
@@ -25858,30 +25829,6 @@
       }
     },
     {
-      "id": 5257,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G4WLI",
-      "town": "ASTLEY",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 29610000,
-      "repeater": "MB7PM",
-      "rx": 29610000,
-      "ctcss": 82.5,
-      "txbw": 10,
-      "band": "10M",
-      "locator": "IO83SM",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SD6801",
-        "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5258,
       "fac": false,
       "type": "DM",
@@ -26751,7 +26698,7 @@
       "id": 5320,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "MM0JNL",
       "town": "KIRRIEMUIR",
       "modeCodes": [
@@ -31563,7 +31510,7 @@
       "id": 5662,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M1CYR",
       "town": "CANNOCK",
       "modeCodes": [
@@ -32689,8 +32636,7 @@
       "town": "WORKSOP",
       "modeCodes": [
         "D",
-        "M:1",
-        "F"
+        "M:1"
       ],
       "tx": 439562500,
       "repeater": "GB7XN",
@@ -39815,6 +39761,52 @@
       "locator": "IO83",
       "dbwErp": 7,
       "extraDetails": null
+    },
+    {
+      "id": 6236,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0LLC",
+      "town": "CASTLE DOUGLAS",
+      "modeCodes": null,
+      "tx": 439762500,
+      "repeater": "GB7PG",
+      "rx": 430762500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO84AW",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NX7662",
+        "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6237,
+      "fac": true,
+      "type": "DV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "2E0ISI",
+      "town": "YORK",
+      "modeCodes": [
+        "M:9"
+      ],
+      "tx": 433137500,
+      "repeater": "2E0ISI",
+      "rx": 438137500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93LX",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SE6252",
+        "antennaHeight": 5,
+        "polarisation": "V"
+      }
     }
   ]
 }
