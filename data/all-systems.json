@@ -12033,31 +12033,6 @@
       }
     },
     {
-      "id": 3750,
-      "fac": true,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G7MHF",
-      "town": "CHIRK",
-      "modeCodes": [
-        "D",
-        "M:5"
-      ],
-      "tx": 439537500,
-      "repeater": "GB7RJ",
-      "rx": 430537500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO82LW",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SJ2936",
-        "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 3759,
       "fac": false,
       "type": "DV",
@@ -19275,7 +19250,7 @@
       "id": 4703,
       "fac": false,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0TJH",
       "town": "NEWHAVEN",
       "modeCodes": [
@@ -29189,7 +29164,7 @@
       "id": 5500,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0UCW",
       "town": "WEST DRAYTON",
       "modeCodes": [
@@ -35708,7 +35683,7 @@
       "id": 5967,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0UCW",
       "town": "WEST DRAYTON",
       "modeCodes": [
@@ -39411,7 +39386,7 @@
       "id": 6216,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM0KUJ",
       "town": "GLASGOW",
       "modeCodes": [
@@ -39576,7 +39551,7 @@
       "id": 6224,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0GSY",
       "town": "IVER",
       "modeCodes": [
@@ -39805,6 +39780,30 @@
       "extraDetails": {
         "ngr": "SE6252",
         "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6238,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M1AXM",
+      "town": "SIDMOUTH",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430900000,
+      "repeater": "GB7SX",
+      "rx": 438500000,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO80JR",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SY1792",
+        "antennaHeight": 10,
         "polarisation": "V"
       }
     }
