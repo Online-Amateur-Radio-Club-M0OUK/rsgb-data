@@ -35976,7 +35976,7 @@
       "id": 5998,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2I0NIE",
       "town": "ENNISKILLEN",
       "modeCodes": [
@@ -37188,30 +37188,6 @@
       }
     },
     {
-      "id": 6096,
-      "fac": true,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G1MAW",
-      "town": "CHELTENHAM",
-      "modeCodes": [
-        "M:2"
-      ],
-      "tx": 430275000,
-      "repeater": "GB7VD",
-      "rx": 439275000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SO9924",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6097,
       "fac": true,
       "type": "AG",
@@ -37696,7 +37672,7 @@
       "id": 6123,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM0UDL",
       "town": "MUIR OF ORD",
       "modeCodes": [
@@ -38939,12 +38915,12 @@
       "ctcss": 77,
       "txbw": 12.5,
       "band": "70CM",
-      "locator": "IO83",
+      "locator": "IO83XJ",
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "SJ9589",
-        "antennaHeight": 0,
-        "polarisation": ""
+        "antennaHeight": 10,
+        "polarisation": "V"
       }
     },
     {
@@ -39450,6 +39426,30 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "NZ3937",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6219,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G7HMV",
+      "town": "LUTON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 1297925000,
+      "repeater": "MB7IVR",
+      "rx": 1297925000,
+      "ctcss": 82.5,
+      "txbw": 25,
+      "band": "23CM",
+      "locator": "IO91TU",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TL1317",
         "antennaHeight": 10,
         "polarisation": "V"
       }
