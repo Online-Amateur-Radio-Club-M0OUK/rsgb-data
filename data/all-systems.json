@@ -1532,7 +1532,7 @@
       "id": 769,
       "fac": false,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GI4YWT",
       "town": "DERRY/LONDONDERRY",
       "modeCodes": [
@@ -36193,7 +36193,7 @@
       "id": 6013,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G7HMV",
       "town": "HEMEL HEMPSTEAD ",
       "modeCodes": [
@@ -38902,7 +38902,7 @@
     {
       "id": 6193,
       "fac": true,
-      "type": "DM",
+      "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M1VSR",
       "town": "STOCKPORT",
@@ -39410,7 +39410,7 @@
       "id": 6218,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M7DSQ",
       "town": "WINGATE ",
       "modeCodes": [
@@ -39426,30 +39426,6 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "NZ3937",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 6219,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G7HMV",
-      "town": "LUTON",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 1297925000,
-      "repeater": "MB7IVR",
-      "rx": 1297925000,
-      "ctcss": 82.5,
-      "txbw": 25,
-      "band": "23CM",
-      "locator": "IO91TU",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TL1317",
         "antennaHeight": 10,
         "polarisation": "V"
       }
