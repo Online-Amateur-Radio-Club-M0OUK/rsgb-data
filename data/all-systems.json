@@ -26387,7 +26387,7 @@
       "id": 5302,
       "fac": false,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM7RYR",
       "town": "PORTPATRICK",
       "modeCodes": [
@@ -39245,7 +39245,7 @@
       "id": 6211,
       "fac": true,
       "type": "DM",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0RNW",
       "town": "WOLVERHAMPTON",
       "modeCodes": [
@@ -39362,7 +39362,7 @@
       "id": 6216,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM0KUJ",
       "town": "GLASGOW",
       "modeCodes": [
@@ -39717,10 +39717,13 @@
       "id": 6236,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0LLC",
       "town": "CASTLE DOUGLAS",
-      "modeCodes": null,
+      "modeCodes": [
+        "M:1",
+        "F"
+      ],
       "tx": 439762500,
       "repeater": "GB7PG",
       "rx": 430762500,
