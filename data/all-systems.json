@@ -10168,7 +10168,7 @@
       "id": 3319,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4GBW",
       "town": "ROMFORD",
       "modeCodes": [
@@ -32610,8 +32610,7 @@
       "keeperCallsign": "2E0KBZ",
       "town": "WORKSOP",
       "modeCodes": [
-        "D",
-        "M:1"
+        "D"
       ],
       "tx": 439562500,
       "repeater": "GB7XN",
@@ -35060,7 +35059,7 @@
       "id": 5934,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0ODM",
       "town": "UPPER DENBY",
       "modeCodes": [
@@ -38948,6 +38947,30 @@
       }
     },
     {
+      "id": 6195,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MI5DAW",
+      "town": "BELFAST",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 145787500,
+      "repeater": "GB7FD",
+      "rx": 145187500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO74AN",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "IJ2970",
+        "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 6196,
       "fac": true,
       "type": "DM",
@@ -39784,6 +39807,52 @@
         "ngr": "SY1792",
         "antennaHeight": 10,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6239,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G3XOU",
+      "town": "LODDISWELL",
+      "modeCodes": null,
+      "tx": 145587500,
+      "repeater": "GB7LW",
+      "rx": 144987500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO80CI",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SX7153",
+        "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6240,
+      "fac": true,
+      "type": "PX",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM5DNA",
+      "town": "INVERNESS",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144937500,
+      "repeater": "GB7DNA",
+      "rx": 144937500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO77",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NH6348",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
