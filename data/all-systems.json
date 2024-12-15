@@ -3646,7 +3646,7 @@
       "id": 990,
       "fac": false,
       "type": "TV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4DHO",
       "town": "STOKE ON TRENT",
       "modeCodes": [
@@ -16467,7 +16467,7 @@
       "id": 4350,
       "fac": false,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4YFF",
       "town": "STAFFORD",
       "modeCodes": [
@@ -26387,7 +26387,7 @@
       "id": 5302,
       "fac": false,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM7RYR",
       "town": "PORTPATRICK",
       "modeCodes": [
@@ -31311,7 +31311,7 @@
       "id": 5652,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MW0JWP",
       "town": "LLANDUDNO",
       "modeCodes": [
@@ -33752,7 +33752,7 @@
       "id": 5817,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "2E1THX",
       "town": "CAULDON LOW",
       "modeCodes": [
@@ -39826,7 +39826,7 @@
       "locator": "IO80CI",
       "dbwErp": 7,
       "extraDetails": {
-        "ngr": "SX7153",
+        "ngr": "SX7152",
         "antennaHeight": 6,
         "polarisation": "V"
       }
@@ -39835,7 +39835,7 @@
       "id": 6240,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM5DNA",
       "town": "INVERNESS",
       "modeCodes": [
@@ -39851,6 +39851,30 @@
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "NH6348",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6242,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G0DUQ",
+      "town": "HEDNESFORD",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430012500,
+      "repeater": "MB7IRU",
+      "rx": 430012500,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO82",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SJ9913",
         "antennaHeight": 0,
         "polarisation": ""
       }
