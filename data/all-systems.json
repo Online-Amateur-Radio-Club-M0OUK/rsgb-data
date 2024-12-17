@@ -20109,30 +20109,6 @@
       }
     },
     {
-      "id": 4817,
-      "fac": false,
-      "type": "TV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G8PUO",
-      "town": "EASTBOURNE",
-      "modeCodes": [
-        "T"
-      ],
-      "tx": 1318000000,
-      "repeater": "GB3JT",
-      "rx": 1249000000,
-      "ctcss": 0,
-      "txbw": 4000,
-      "band": "23CM",
-      "locator": "JO00CS",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TQ5800",
-        "antennaHeight": 15,
-        "polarisation": "H"
-      }
-    },
-    {
       "id": 4818,
       "fac": true,
       "type": "AP",
@@ -21754,30 +21730,6 @@
       }
     },
     {
-      "id": 4953,
-      "fac": true,
-      "type": "DG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "2E0FSI",
-      "town": "TANGMERE",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 434487500,
-      "repeater": "MB6TM",
-      "rx": 434487500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO90PU",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SU9106",
-        "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 4958,
       "fac": false,
       "type": "AV",
@@ -21805,7 +21757,7 @@
       "id": 4959,
       "fac": true,
       "type": "DG",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2M0MSU",
       "town": "MAYBOLE",
       "modeCodes": [
@@ -24304,7 +24256,7 @@
       "id": 5154,
       "fac": true,
       "type": "PX",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M5MPC",
       "town": "WALKDEN",
       "modeCodes": [
@@ -27256,7 +27208,7 @@
       "id": 5363,
       "fac": true,
       "type": "PX",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G6JME",
       "town": "EASTBOURNE",
       "modeCodes": [
@@ -29598,7 +29550,7 @@
       "id": 5537,
       "fac": true,
       "type": "AP",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E1LEX",
       "town": "BEDFORD",
       "modeCodes": [
@@ -31336,7 +31288,7 @@
       "id": 5653,
       "fac": true,
       "type": "PX",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0KVI",
       "town": "HEATHFIELD",
       "modeCodes": [
@@ -34022,7 +33974,7 @@
       "id": 5845,
       "fac": true,
       "type": "PX",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7SOJ",
       "town": "WEMBWORTHY",
       "modeCodes": [
@@ -35875,7 +35827,7 @@
       "id": 5994,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G6MAR",
       "town": "SEAFORD",
       "modeCodes": [
@@ -35951,7 +35903,7 @@
       "id": 5997,
       "fac": true,
       "type": "PX",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0HKD",
       "town": "BASINGSTOKE",
       "modeCodes": [
@@ -37647,7 +37599,7 @@
       "id": 6122,
       "fac": true,
       "type": "AP",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G6JME",
       "town": "EASTBOURNE",
       "modeCodes": [
@@ -38417,7 +38369,7 @@
       "id": 6166,
       "fac": true,
       "type": "DG",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2W0APD",
       "town": "SWANSEA",
       "modeCodes": [
@@ -39877,6 +39829,78 @@
         "ngr": "SJ9913",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6244,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2E0FSI",
+      "town": "TANGMERE",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 434487500,
+      "repeater": "MB6TM",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO90",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SU8906",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6246,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M7JJX",
+      "town": "SAINTFIELD",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145237500,
+      "repeater": "M7JJX",
+      "rx": 145237500,
+      "ctcss": 110.9,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO74",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "IJ4059",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6247,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4UVZ",
+      "town": "TAUNTON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430062500,
+      "repeater": "G4UVZ",
+      "rx": 430062500,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO80KX",
+      "dbwErp": 0,
+      "extraDetails": {
+        "ngr": "ST2119",
+        "antennaHeight": 5,
+        "polarisation": "V"
       }
     }
   ]
