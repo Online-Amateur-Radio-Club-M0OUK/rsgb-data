@@ -19006,7 +19006,7 @@
       "id": 4668,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM7GDE",
       "town": "DUMBARTON",
       "modeCodes": [
@@ -31288,7 +31288,7 @@
       "id": 5653,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "M0KVI",
       "town": "HEATHFIELD",
       "modeCodes": [
@@ -36144,7 +36144,7 @@
       "id": 6013,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7HMV",
       "town": "HEMEL HEMPSTEAD ",
       "modeCodes": [
@@ -39648,7 +39648,7 @@
       "id": 6231,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E1THX",
       "town": "CAULDON LOW",
       "modeCodes": [
@@ -39883,7 +39883,7 @@
       "id": 6247,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4UVZ",
       "town": "TAUNTON",
       "modeCodes": [
@@ -39900,6 +39900,30 @@
       "extraDetails": {
         "ngr": "ST2119",
         "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6250,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MW0AQZ",
+      "town": "HOLYHEAD",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UHI",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO73QH",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "SH2381",
+        "antennaHeight": 10,
         "polarisation": "V"
       }
     }
