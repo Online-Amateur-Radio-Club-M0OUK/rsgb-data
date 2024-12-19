@@ -19006,7 +19006,7 @@
       "id": 4668,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM7GDE",
       "town": "DUMBARTON",
       "modeCodes": [
@@ -38685,7 +38685,7 @@
       "id": 6181,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0PJA",
       "town": "KIVETON PARK",
       "modeCodes": [
@@ -39907,7 +39907,7 @@
       "id": 6250,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MW0AQZ",
       "town": "HOLYHEAD",
       "modeCodes": [
@@ -39924,6 +39924,30 @@
       "extraDetails": {
         "ngr": "SH2381",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6251,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MI0KAM",
+      "town": "PORTSTEWART",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 70387500,
+      "repeater": "MB7ISW",
+      "rx": 70387500,
+      "ctcss": 110.9,
+      "txbw": 12.5,
+      "band": "4M",
+      "locator": "I065PE",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "IC8138",
+        "antennaHeight": 6,
         "polarisation": "V"
       }
     }
