@@ -10461,7 +10461,7 @@
     },
     {
       "id": 3366,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4MYS",
@@ -10476,7 +10476,7 @@
       "txbw": 25,
       "band": "70CM",
       "locator": "IO90IV",
-      "dbwErp": 12.5,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SU4711",
         "antennaHeight": 49,
@@ -19466,7 +19466,7 @@
     },
     {
       "id": 4737,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G3VPF",
@@ -24034,30 +24034,6 @@
       }
     },
     {
-      "id": 5141,
-      "fac": false,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G3ZXX",
-      "town": "MERE  WILTSHIRE",
-      "modeCodes": [
-        "M:9"
-      ],
-      "tx": 439712500,
-      "repeater": "GB7JA",
-      "rx": 430712500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81VC",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "ST8633",
-        "antennaHeight": 12,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5142,
       "fac": true,
       "type": "PX",
@@ -28450,7 +28426,7 @@
       "id": 5450,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM5AUG",
       "town": "NEWTON MEARNS",
       "modeCodes": [
@@ -33701,30 +33677,6 @@
       }
     },
     {
-      "id": 5817,
-      "fac": true,
-      "type": "DG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "2E1THX",
-      "town": "CAULDON LOW",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 431187500,
-      "repeater": "MB6AT",
-      "rx": 431187500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO93BA",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SK0747",
-        "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5820,
       "fac": true,
       "type": "PX",
@@ -35586,7 +35538,7 @@
       "id": 5965,
       "fac": true,
       "type": "PN",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM5AUG",
       "town": "KILSYTH",
       "modeCodes": [
@@ -38252,7 +38204,7 @@
       "id": 6158,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7SMD",
       "town": "LONDON",
       "modeCodes": [
@@ -38926,7 +38878,7 @@
       "id": 6196,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GW4CVT",
       "town": "HOLYHEAD",
       "modeCodes": [
@@ -39970,6 +39922,54 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "IC8138",
+        "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6252,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G0FAJ",
+      "town": "LYCHETT MATRAVERS",
+      "modeCodes": [
+        "M:8"
+      ],
+      "tx": 0,
+      "repeater": "GB7LM",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO80",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SY9495",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6253,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM5AUG",
+      "town": "COLCHESTER",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "MB7UOH",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "JO01LV",
+      "dbwErp": -7,
+      "extraDetails": {
+        "ngr": "TM0123",
         "antennaHeight": 6,
         "polarisation": "V"
       }
