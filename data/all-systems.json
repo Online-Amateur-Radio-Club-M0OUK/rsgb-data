@@ -29305,30 +29305,6 @@
       }
     },
     {
-      "id": 5520,
-      "fac": true,
-      "type": "AV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G6IET",
-      "town": "RICHMOND N.YORKSHIRE",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145587500,
-      "repeater": "GB3RT",
-      "rx": 144987500,
-      "ctcss": 118.8,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO94",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NZ1306",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 5526,
       "fac": true,
       "type": "DG",
@@ -36117,30 +36093,6 @@
       }
     },
     {
-      "id": 6014,
-      "fac": true,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G3XOU",
-      "town": "LODDISWELL",
-      "modeCodes": [
-        "M:3"
-      ],
-      "tx": 145587500,
-      "repeater": "GB7LW",
-      "rx": 144987500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO80CH",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SX7148",
-        "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6015,
       "fac": true,
       "type": "PX",
@@ -36266,7 +36218,7 @@
       "id": 6020,
       "fac": true,
       "type": "PX",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0THH",
       "town": "MANSFIELD",
       "modeCodes": [
@@ -38956,7 +38908,7 @@
       "id": 6199,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GW4EHZ",
       "town": "RHYL",
       "modeCodes": [
@@ -39572,6 +39524,30 @@
       }
     },
     {
+      "id": 6229,
+      "fac": true,
+      "type": "DV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G8ELA",
+      "town": "RAVENSDEN",
+      "modeCodes": [
+        "M:6"
+      ],
+      "tx": 439550000,
+      "repeater": "GB7BN",
+      "rx": 430550000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO92SE",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TL0754",
+        "antennaHeight": 12,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 6230,
       "fac": true,
       "type": "DG",
@@ -39719,7 +39695,9 @@
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "G3XOU",
       "town": "LODDISWELL",
-      "modeCodes": null,
+      "modeCodes": [
+        "M:3"
+      ],
       "tx": 145587500,
       "repeater": "GB7LW",
       "rx": 144987500,
@@ -39936,9 +39914,9 @@
       "modeCodes": [
         "M:8"
       ],
-      "tx": 0,
+      "tx": 439725000,
       "repeater": "GB7LM",
-      "rx": 0,
+      "rx": 430725000,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
@@ -39972,6 +39950,30 @@
         "ngr": "TM0123",
         "antennaHeight": 6,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6254,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M5SJM",
+      "town": "LINCOLN",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UCB",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO93",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TF0373",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
