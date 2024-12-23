@@ -39975,6 +39975,30 @@
         "antennaHeight": 0,
         "polarisation": ""
       }
+    },
+    {
+      "id": 6255,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M7GAY",
+      "town": "ELSTREE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430100000,
+      "repeater": "MB7IGY",
+      "rx": 430100000,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91UP",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TQ1795",
+        "antennaHeight": 5,
+        "polarisation": "V"
+      }
     }
   ]
 }
