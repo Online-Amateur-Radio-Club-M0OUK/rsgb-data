@@ -12359,7 +12359,7 @@
         "X"
       ],
       "tx": 144800000,
-      "repeater": "MB7UX",
+      "repeater": "MB7UXY",
       "rx": 144800000,
       "ctcss": 0,
       "txbw": 12.5,
@@ -26436,7 +26436,7 @@
       "id": 5312,
       "fac": true,
       "type": "AP",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G6YIQ",
       "town": "HITCHIN",
       "modeCodes": [
@@ -26460,7 +26460,7 @@
       "id": 5314,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G6YIQ",
       "town": "HITCHIN",
       "modeCodes": [
@@ -39644,7 +39644,7 @@
       "id": 6237,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "2E0ISI",
       "town": "YORK",
       "modeCodes": [
