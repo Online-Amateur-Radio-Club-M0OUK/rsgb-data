@@ -27662,30 +27662,6 @@
       }
     },
     {
-      "id": 5395,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "MM6SSO",
-      "town": "MONTROSE",
-      "modeCodes": [
-        "E"
-      ],
-      "tx": 434050000,
-      "repeater": "MM6SSO",
-      "rx": 434050000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO86",
-      "dbwErp": 4.8,
-      "extraDetails": {
-        "ngr": "NO7158",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 5396,
       "fac": true,
       "type": "PX",
@@ -39005,7 +38981,7 @@
       "id": 6203,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GW8LGX",
       "town": "SWANSEA",
       "modeCodes": [
@@ -39998,6 +39974,54 @@
         "ngr": "TQ1795",
         "antennaHeight": 5,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6256,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0JIT",
+      "town": "RAINHAM ",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145225000,
+      "repeater": "MB7IRH",
+      "rx": 145225000,
+      "ctcss": 136.5,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO01",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TQ8267",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6257,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "MM6SSO",
+      "town": "MONTROSE",
+      "modeCodes": [
+        "E"
+      ],
+      "tx": 434050000,
+      "repeater": "MB6MR",
+      "rx": 434050000,
+      "ctcss": 0,
+      "txbw": 25,
+      "band": "70CM",
+      "locator": "IO86",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NO7158",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
