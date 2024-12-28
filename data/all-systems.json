@@ -32286,7 +32286,7 @@
       "id": 5727,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0UKB",
       "town": "DUMFRIES",
       "modeCodes": [
@@ -32607,7 +32607,7 @@
       "id": 5750,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MM0DXE",
       "town": "PRESTONPANS ",
       "modeCodes": [
