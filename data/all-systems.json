@@ -30959,7 +30959,7 @@
       ],
       "tx": 144962500,
       "repeater": "MB7IKL",
-      "rx": 0,
+      "rx": 144962500,
       "ctcss": 77,
       "txbw": 12.5,
       "band": "2M",
@@ -38836,7 +38836,7 @@
       "id": 6197,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MM0KJJ ",
       "town": "KILMARNOCK ",
       "modeCodes": [
