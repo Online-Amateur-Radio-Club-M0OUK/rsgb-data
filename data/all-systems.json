@@ -22669,30 +22669,6 @@
       }
     },
     {
-      "id": 5043,
-      "fac": true,
-      "type": "PX",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G1GXB",
-      "town": "BISHOPS WALTHAM",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144950000,
-      "repeater": "GB7SOU",
-      "rx": 144950000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO90JW",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SU5617",
-        "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5048,
       "fac": true,
       "type": "AG",
@@ -30343,30 +30319,6 @@
       "extraDetails": {
         "ngr": "ST8008",
         "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 5604,
-      "fac": true,
-      "type": "PX",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M7ESW",
-      "town": "CONSETT",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144937500,
-      "repeater": "GB7DLV",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO94CU",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "NZ1150",
-        "antennaHeight": 5,
         "polarisation": "V"
       }
     },
@@ -38836,7 +38788,7 @@
       "id": 6197,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "MM0KJJ ",
       "town": "KILMARNOCK ",
       "modeCodes": [
@@ -40022,6 +39974,30 @@
         "ngr": "NO7158",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6259,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2E0LLD",
+      "town": "TITCHFIELD ",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 144837500,
+      "repeater": "MB6LD",
+      "rx": 144837500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO90JU",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SU5305",
+        "antennaHeight": 3,
+        "polarisation": "V"
       }
     }
   ]
