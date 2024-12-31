@@ -20088,7 +20088,7 @@
       "id": 4813,
       "fac": false,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0JGX",
       "town": "BECCLES",
       "modeCodes": [
@@ -31168,7 +31168,7 @@
       "id": 5653,
       "fac": true,
       "type": "PX",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0KVI",
       "town": "HEATHFIELD",
       "modeCodes": [
@@ -38836,7 +38836,7 @@
       "id": 6199,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GW4EHZ",
       "town": "RHYL",
       "modeCodes": [
@@ -38925,30 +38925,6 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "TL0650",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 6203,
-      "fac": true,
-      "type": "AG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GW8LGX",
-      "town": "SWANSEA",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430087500,
-      "repeater": "GW8LGX",
-      "rx": 430087500,
-      "ctcss": 82.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SS6393",
         "antennaHeight": 0,
         "polarisation": ""
       }
