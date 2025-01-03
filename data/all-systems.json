@@ -12034,7 +12034,7 @@
     },
     {
       "id": 3759,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0LMK",
@@ -12049,7 +12049,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "JO01QJ",
-      "dbwErp": 12.8,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "TR3770",
         "antennaHeight": 45,
@@ -21958,7 +21958,7 @@
       "id": 4974,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G8CAP",
       "town": "ASHTON-UNDER-LYNE",
       "modeCodes": [
@@ -35855,7 +35855,7 @@
       "id": 6005,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0TJX",
       "town": "YATE",
       "modeCodes": [
@@ -37401,30 +37401,6 @@
         "ngr": "SD5724",
         "antennaHeight": 0,
         "polarisation": ""
-      }
-    },
-    {
-      "id": 6118,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0KVH",
-      "town": "GOSPORT",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430012500,
-      "repeater": "MB7IGP",
-      "rx": 430012500,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO90KT",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SU6000",
-        "antennaHeight": 12,
-        "polarisation": "V"
       }
     },
     {
@@ -39973,6 +39949,30 @@
       "extraDetails": {
         "ngr": "SU5305",
         "antennaHeight": 3,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6260,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0KVH",
+      "town": "GOSPORT",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145225000,
+      "repeater": "MB7IGP",
+      "rx": 145225000,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO90KT",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SU6000",
+        "antennaHeight": 12,
         "polarisation": "V"
       }
     }
