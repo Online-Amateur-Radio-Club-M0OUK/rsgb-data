@@ -26412,7 +26412,7 @@
       "id": 5312,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G6YIQ",
       "town": "HITCHIN",
       "modeCodes": [
@@ -26436,7 +26436,7 @@
       "id": 5314,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G6YIQ",
       "town": "HITCHIN",
       "modeCodes": [
@@ -32532,30 +32532,6 @@
       }
     },
     {
-      "id": 5749,
-      "fac": true,
-      "type": "AP",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0MZF",
-      "town": "SOUTHAMPTON",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144800000,
-      "repeater": "MB7UUU",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO90GV",
-      "dbwErp": 12,
-      "extraDetails": {
-        "ngr": "SU3812",
-        "antennaHeight": 20,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5750,
       "fac": true,
       "type": "DM",
@@ -38084,7 +38060,7 @@
       "id": 6159,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M5EHG ",
       "town": "DERBY",
       "modeCodes": [
@@ -39974,6 +39950,30 @@
         "ngr": "SU6000",
         "antennaHeight": 12,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6262,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0UKB",
+      "town": "DUMFRIES",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UMW",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO85",
+      "dbwErp": 0,
+      "extraDetails": {
+        "ngr": "NX9874",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
