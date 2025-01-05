@@ -6126,7 +6126,7 @@
       "repeater": "GB7CIP",
       "rx": 7049600,
       "ctcss": 0,
-      "txbw": 2.5,
+      "txbw": 2.7,
       "band": "40M",
       "locator": "IO91WH",
       "dbwErp": 14,
@@ -24061,7 +24061,7 @@
       "id": 5145,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M1AVB",
       "town": "SIDMOUTH",
       "modeCodes": [
@@ -27241,9 +27241,9 @@
       ],
       "tx": 7051500,
       "repeater": "GB7RDG",
-      "rx": 0,
+      "rx": 7051500,
       "ctcss": 0,
-      "txbw": 3,
+      "txbw": 2.7,
       "band": "40M",
       "locator": "IO91LK",
       "dbwErp": 14,
@@ -30277,12 +30277,12 @@
     {
       "id": 5601,
       "fac": true,
-      "type": "AV",
+      "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "MI5DAW",
       "town": "BELFAST",
       "modeCodes": [
-        "A"
+        "F"
       ],
       "tx": 439437500,
       "repeater": "GB7RK",
@@ -30491,26 +30491,6 @@
         "antennaHeight": 9,
         "polarisation": "V"
       }
-    },
-    {
-      "id": 5618,
-      "fac": true,
-      "type": "AG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G4SBL",
-      "town": "LINCOLNSHIRE",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 144962500,
-      "repeater": "MB7ITM",
-      "rx": 144962500,
-      "ctcss": 71.9,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO03DH",
-      "dbwErp": 7,
-      "extraDetails": null
     },
     {
       "id": 5619,
@@ -34427,30 +34407,6 @@
       }
     },
     {
-      "id": 5898,
-      "fac": true,
-      "type": "RL",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0YDG",
-      "town": "BARNSLEY",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145012500,
-      "repeater": "GB3NA-L",
-      "rx": 145612500,
-      "ctcss": 71.9,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO93GN",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SE3505",
-        "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5901,
       "fac": true,
       "type": "PX",
@@ -35776,30 +35732,6 @@
       "extraDetails": {
         "ngr": "IH2545",
         "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 5999,
-      "fac": true,
-      "type": "DG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "MW0WVR",
-      "town": "NR TONYPANDY",
-      "modeCodes": [
-        "M:3"
-      ],
-      "tx": 431200000,
-      "repeater": "MW0WVR",
-      "rx": 431200000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81GO",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SS9919",
-        "antennaHeight": 5,
         "polarisation": "V"
       }
     },
@@ -38686,7 +38618,7 @@
       "id": 6195,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MI5DAW",
       "town": "BELFAST",
       "modeCodes": [
@@ -39974,6 +39906,30 @@
         "ngr": "NX9874",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6263,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0KVI",
+      "town": "HEATHFIELD",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 7048500,
+      "repeater": "GB7HFD",
+      "rx": 7048500,
+      "ctcss": 0,
+      "txbw": 2.7,
+      "band": "40M",
+      "locator": "JO00DX",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TQ5820",
+        "antennaHeight": 10,
+        "polarisation": "H"
       }
     }
   ]
