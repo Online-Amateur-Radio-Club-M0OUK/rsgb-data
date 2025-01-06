@@ -14335,7 +14335,7 @@
       "id": 4101,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0SSK",
       "town": "BASILDON",
       "modeCodes": [
@@ -14426,30 +14426,6 @@
       "extraDetails": {
         "ngr": "SP7105",
         "antennaHeight": 7,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 4106,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GI7PWQ",
-      "town": "LISBURN",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145287500,
-      "repeater": "MB7IAF",
-      "rx": 145287500,
-      "ctcss": 118.8,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO64XM",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "IJ2563",
-        "antennaHeight": 3,
         "polarisation": "V"
       }
     },
@@ -26792,30 +26768,6 @@
       }
     },
     {
-      "id": 5336,
-      "fac": false,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0ZAH",
-      "town": "WYMONDHAM",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 50830000,
-      "repeater": "GB3WX",
-      "rx": 51830000,
-      "ctcss": 94.8,
-      "txbw": 10,
-      "band": "6M",
-      "locator": "JO02NN",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TG1000",
-        "antennaHeight": 20,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5340,
       "fac": false,
       "type": "DV",
@@ -29796,7 +29748,7 @@
       "id": 5565,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "2E0FNM",
       "town": "FRECKLETON",
       "modeCodes": [
@@ -36906,7 +36858,7 @@
       "id": 6098,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0YDG ",
       "town": "WAKEFIELD",
       "modeCodes": [
@@ -37528,54 +37480,6 @@
       }
     },
     {
-      "id": 6132,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0KNJ",
-      "town": "AYLSHAM",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145575000,
-      "repeater": "MB5NG",
-      "rx": 144975000,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO02",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TG2130",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 6133,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0KNJ",
-      "town": "AYLSHAM",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430937500,
-      "repeater": "MB5NF",
-      "rx": 438537500,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO02",
-      "dbwErp": 11.8,
-      "extraDetails": {
-        "ngr": "TG2130",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6136,
       "fac": true,
       "type": "AV",
@@ -37652,7 +37556,7 @@
       "id": 6140,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M1LOU",
       "town": "BARNSLEY",
       "modeCodes": [
@@ -38980,7 +38884,7 @@
       "id": 6214,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "M0PTN",
       "town": "REDDITCH",
       "modeCodes": [
@@ -39931,6 +39835,26 @@
         "antennaHeight": 10,
         "polarisation": "H"
       }
+    },
+    {
+      "id": 6264,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "2E0DBS",
+      "town": "NORWICH",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144950000,
+      "repeater": "GB7NPR",
+      "rx": 144950000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO02PQ",
+      "dbwErp": 14,
+      "extraDetails": null
     }
   ]
 }
