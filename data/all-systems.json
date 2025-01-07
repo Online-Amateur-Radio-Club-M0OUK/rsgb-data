@@ -34580,7 +34580,7 @@
       "id": 5920,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM7KBK",
       "town": "THAINSTONE",
       "modeCodes": [
@@ -36710,7 +36710,7 @@
       "id": 6070,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2M0SBP",
       "town": "ARISAIG",
       "modeCodes": [
@@ -38350,31 +38350,6 @@
       }
     },
     {
-      "id": 6184,
-      "fac": true,
-      "type": "DM",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0YDG",
-      "town": "WAKEFIELD",
-      "modeCodes": [
-        "A",
-        "D"
-      ],
-      "tx": 1297125000,
-      "repeater": "MB5WB",
-      "rx": 1291125000,
-      "ctcss": 88.5,
-      "txbw": 25,
-      "band": "23CM",
-      "locator": "IO93HP",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SE3814",
-        "antennaHeight": 12,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6185,
       "fac": true,
       "type": "AG",
@@ -39855,6 +39830,54 @@
       "locator": "JO02PQ",
       "dbwErp": 14,
       "extraDetails": null
+    },
+    {
+      "id": 6265,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2E0KFG",
+      "town": "BURNHAM ON CROUCH",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UBC",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO01JC",
+      "dbwErp": 11.8,
+      "extraDetails": {
+        "ngr": "TQ9595",
+        "antennaHeight": 20,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6267,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2E0ULH",
+      "town": "LONDON",
+      "modeCodes": [
+        "M:7"
+      ],
+      "tx": 433662500,
+      "repeater": "MB6BP",
+      "rx": 433662500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91WL",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TQ2977",
+        "antennaHeight": 5,
+        "polarisation": "V"
+      }
     }
   ]
 }
