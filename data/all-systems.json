@@ -855,7 +855,7 @@
       "id": 661,
       "fac": false,
       "type": "DD",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GW6CUR",
       "town": "CARDIFF",
       "modeCodes": [
@@ -7569,7 +7569,7 @@
       "id": 2644,
       "fac": false,
       "type": "DD",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GW6CUR",
       "town": "COWBRIDGE",
       "modeCodes": [
@@ -9682,7 +9682,7 @@
       "id": 3201,
       "fac": true,
       "type": "AV",
-      "status": "",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM7LUN",
       "town": "DUNS",
       "modeCodes": [
@@ -12398,7 +12398,7 @@
     },
     {
       "id": 3827,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0DEC",
@@ -29478,7 +29478,7 @@
       "id": 5541,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M1TLK",
       "town": "BUCKINGHAM",
       "modeCodes": [
@@ -29742,30 +29742,6 @@
         "ngr": "NJ8050",
         "antennaHeight": 0,
         "polarisation": ""
-      }
-    },
-    {
-      "id": 5565,
-      "fac": true,
-      "type": "DG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "2E0FNM",
-      "town": "FRECKLETON",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 144825000,
-      "repeater": "MB6FR",
-      "rx": 144825000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO83NS",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SD4228",
-        "antennaHeight": 10,
-        "polarisation": "V"
       }
     },
     {
@@ -36027,30 +36003,6 @@
       }
     },
     {
-      "id": 6021,
-      "fac": true,
-      "type": "PN",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G0NZO",
-      "town": "IBBERTON",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 50650000,
-      "repeater": "MB7NSC",
-      "rx": 50650000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "6M",
-      "locator": "IO80UU",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "ST7908",
-        "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6022,
       "fac": true,
       "type": "DV",
@@ -39311,7 +39263,7 @@
       "id": 6237,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0ISI",
       "town": "YORK",
       "modeCodes": [
@@ -39671,7 +39623,7 @@
       "id": 6256,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0JIT",
       "town": "RAINHAM ",
       "modeCodes": [
