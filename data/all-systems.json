@@ -18665,7 +18665,7 @@
       "id": 4630,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M1CMN",
       "town": "FOLKESTONE",
       "modeCodes": [
@@ -19219,32 +19219,6 @@
       "extraDetails": {
         "ngr": "SJ4911",
         "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 4703,
-      "fac": false,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G0TJH",
-      "town": "NEWHAVEN",
-      "modeCodes": [
-        "A",
-        "D",
-        "M:3"
-      ],
-      "tx": 145787500,
-      "repeater": "GB3EB",
-      "rx": 145187500,
-      "ctcss": 88.5,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO00AT",
-      "dbwErp": 9,
-      "extraDetails": {
-        "ngr": "TQ4401",
-        "antennaHeight": 10,
         "polarisation": "V"
       }
     },
@@ -28828,7 +28802,7 @@
       "id": 5492,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0RDI",
       "town": "HAWICK",
       "modeCodes": [
@@ -37894,26 +37868,6 @@
       }
     },
     {
-      "id": 6163,
-      "fac": true,
-      "type": "PX",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "2U0HZY",
-      "town": "ST PETER PORT",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 7051500,
-      "repeater": "GB7GSY",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 2.7,
-      "band": "40M",
-      "locator": "IN89",
-      "dbwErp": 14,
-      "extraDetails": null
-    },
-    {
       "id": 6164,
       "fac": true,
       "type": "DG",
@@ -39828,6 +39782,55 @@
       "extraDetails": {
         "ngr": "TQ2977",
         "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6269,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2W0APD",
+      "town": "SWANSEA",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 70362500,
+      "repeater": "MB7IZX",
+      "rx": 70362500,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "4M",
+      "locator": "IO81",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SS6997",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6270,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2E0JML",
+      "town": "DUNSTABLE",
+      "modeCodes": [
+        "A",
+        "F"
+      ],
+      "tx": 439325000,
+      "repeater": "GB7VX",
+      "rx": 430325000,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91RV",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TL0123",
+        "antennaHeight": 7,
         "polarisation": "V"
       }
     }
