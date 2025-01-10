@@ -3406,7 +3406,7 @@
       "id": 957,
       "fac": false,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4EPX",
       "town": "ALTON HANTS",
       "modeCodes": [
@@ -38457,7 +38457,7 @@
       "id": 6197,
       "fac": true,
       "type": "DG",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM0KJJ ",
       "town": "KILMARNOCK ",
       "modeCodes": [
@@ -39830,6 +39830,30 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "TL0123",
+        "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6271,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GI0RWO",
+      "town": "BELFAST",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145287500,
+      "repeater": "MB7IBM",
+      "rx": 0,
+      "ctcss": 110.9,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO74AO",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "IJ3376",
         "antennaHeight": 7,
         "polarisation": "V"
       }
