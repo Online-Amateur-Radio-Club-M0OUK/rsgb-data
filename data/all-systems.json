@@ -22743,7 +22743,7 @@
       "id": 5059,
       "fac": true,
       "type": "AP",
-      "status": "OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "M0MZF",
       "town": "SOUTHAMPTON",
       "modeCodes": [
@@ -23626,7 +23626,7 @@
       "id": 5120,
       "fac": true,
       "type": "AP",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0MZF",
       "town": "WINCHESTER",
       "modeCodes": [
@@ -38253,6 +38253,31 @@
         "ngr": "TG2312",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6184,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0YDG",
+      "town": "WAKEFIELD",
+      "modeCodes": [
+        "A",
+        "D"
+      ],
+      "tx": 1297125000,
+      "repeater": "MB5WB",
+      "rx": 1291125000,
+      "ctcss": 88.5,
+      "txbw": 25,
+      "band": "23CM",
+      "locator": "IO93HP",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SE3814",
+        "antennaHeight": 12,
+        "polarisation": "V"
       }
     },
     {
