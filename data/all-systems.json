@@ -38256,31 +38256,6 @@
       }
     },
     {
-      "id": 6184,
-      "fac": true,
-      "type": "DM",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0YDG",
-      "town": "WAKEFIELD",
-      "modeCodes": [
-        "A",
-        "D"
-      ],
-      "tx": 1297125000,
-      "repeater": "MB5WB",
-      "rx": 1291125000,
-      "ctcss": 88.5,
-      "txbw": 25,
-      "band": "23CM",
-      "locator": "IO93HP",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SE3814",
-        "antennaHeight": 12,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6185,
       "fac": true,
       "type": "AG",
@@ -39393,7 +39368,7 @@
         "A"
       ],
       "tx": 145237500,
-      "repeater": "M7JJX",
+      "repeater": "MB7ISF",
       "rx": 145237500,
       "ctcss": 110.9,
       "txbw": 12.5,
@@ -39881,6 +39856,198 @@
         "ngr": "IJ3376",
         "antennaHeight": 7,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6272,
+      "fac": true,
+      "type": "PN",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM7LUN",
+      "town": "DUNS",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 70487500,
+      "repeater": "MB7NDU",
+      "rx": 70487500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "4M",
+      "locator": "IO85",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NT7354",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6273,
+      "fac": true,
+      "type": "PN",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM7LUN",
+      "town": "LAMBERTON",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 70487500,
+      "repeater": "MB7NXA",
+      "rx": 70487500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "4M",
+      "locator": "IO85",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NT9458",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6274,
+      "fac": true,
+      "type": "DV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G0BUS",
+      "town": "BEDFORD",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 145625000,
+      "repeater": "GB7AZ",
+      "rx": 145025000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO92",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "TL0450",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6275,
+      "fac": true,
+      "type": "PN",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM7LUN",
+      "town": "LAMBERTON",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 430200000,
+      "repeater": "MB7NXA",
+      "rx": 430200000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO85",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NT9458",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6276,
+      "fac": true,
+      "type": "PN",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM7LUN",
+      "town": "DUNS",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 430200000,
+      "repeater": "MB7NDU",
+      "rx": 430200000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO85",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NT7354",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6277,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM7LUN",
+      "town": "DUNS",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UHD",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO85",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NT7354",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6278,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM7LUN",
+      "town": "LINDEAN",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7ULD",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO85",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NT5029",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6280,
+      "fac": true,
+      "type": "PN",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM7LUN",
+      "town": "UPPER LARGO",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 70487500,
+      "repeater": "MB7NUL",
+      "rx": 70487500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "4M",
+      "locator": "IO86",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NO4304",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
