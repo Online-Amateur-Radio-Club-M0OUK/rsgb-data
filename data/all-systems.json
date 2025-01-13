@@ -19469,7 +19469,7 @@
       "id": 4751,
       "fac": false,
       "type": "TV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MW0LLK",
       "town": "AMLWCH",
       "modeCodes": [
@@ -27448,26 +27448,6 @@
       }
     },
     {
-      "id": 5387,
-      "fac": true,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G6VBJ",
-      "town": "NEW ASH GREEN",
-      "modeCodes": [
-        "E"
-      ],
-      "tx": 434000000,
-      "repeater": "GB7TR",
-      "rx": 434000000,
-      "ctcss": 0,
-      "txbw": 25,
-      "band": "70CM",
-      "locator": "JO01D1",
-      "dbwErp": 14,
-      "extraDetails": null
-    },
-    {
       "id": 5389,
       "fac": true,
       "type": "AP",
@@ -31199,7 +31179,7 @@
       "id": 5662,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M1CYR",
       "town": "CANNOCK",
       "modeCodes": [
@@ -34701,7 +34681,7 @@
       "id": 5934,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0ODM",
       "town": "UPPER DENBY",
       "modeCodes": [
@@ -36173,7 +36153,7 @@
       "id": 6036,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0VTK",
       "town": "BARMOUTH",
       "modeCodes": [
@@ -38765,7 +38745,7 @@
       "id": 6214,
       "fac": true,
       "type": "AV",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0PTN",
       "town": "REDDITCH",
       "modeCodes": [
@@ -40048,6 +40028,55 @@
         "ngr": "NO4304",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6281,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G6VBJ",
+      "town": "NEW ASH GREEN",
+      "modeCodes": [
+        "E"
+      ],
+      "tx": 439218750,
+      "repeater": "GB7TR",
+      "rx": 430218750,
+      "ctcss": 0,
+      "txbw": 37.5,
+      "band": "70CM",
+      "locator": "JO01D1",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TQ6163",
+        "antennaHeight": 2,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6282,
+      "fac": true,
+      "type": "DM",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "GM4HJO",
+      "town": "KINROSS",
+      "modeCodes": [
+        "A",
+        "M:1"
+      ],
+      "tx": 430912500,
+      "repeater": "GB7LL",
+      "rx": 438512500,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO86GE",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NO1101",
+        "antennaHeight": 10,
+        "polarisation": "V"
       }
     }
   ]
