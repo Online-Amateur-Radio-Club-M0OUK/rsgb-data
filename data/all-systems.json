@@ -19466,30 +19466,6 @@
       }
     },
     {
-      "id": 4751,
-      "fac": false,
-      "type": "TV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "MW0LLK",
-      "town": "AMLWCH",
-      "modeCodes": [
-        "T"
-      ],
-      "tx": 1316000000,
-      "repeater": "GB3TM",
-      "rx": 1249000000,
-      "ctcss": 0,
-      "txbw": 4000,
-      "band": "23CM",
-      "locator": "IO73UJ",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SH4790",
-        "antennaHeight": 10,
-        "polarisation": "H"
-      }
-    },
-    {
       "id": 4755,
       "fac": false,
       "type": "TV",
@@ -19966,11 +19942,11 @@
       "id": 4808,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0YDG",
       "town": "WAKEFIELD",
       "modeCodes": [
-        "A"
+        "D"
       ],
       "tx": 430812500,
       "repeater": "GB3BW",
@@ -30282,7 +30258,7 @@
       "id": 5611,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0WEB",
       "town": "BILSTON",
       "modeCodes": [
@@ -38758,7 +38734,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO92",
-      "dbwErp": 11.8,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SP0366",
         "antennaHeight": 0,
@@ -39341,7 +39317,7 @@
       "id": 6246,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M7JJX",
       "town": "SAINTFIELD",
       "modeCodes": [
