@@ -19942,7 +19942,7 @@
       "id": 4808,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0YDG",
       "town": "WAKEFIELD",
       "modeCodes": [
@@ -30255,30 +30255,6 @@
       }
     },
     {
-      "id": 5611,
-      "fac": true,
-      "type": "DG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G0WEB",
-      "town": "BILSTON",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 431062500,
-      "repeater": "MB6BC",
-      "rx": 431062500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO82",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SO9494",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 5612,
       "fac": true,
       "type": "PX",
@@ -38191,7 +38167,7 @@
       "id": 6183,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M7HSF",
       "town": "NORWICH",
       "modeCodes": [
@@ -38209,6 +38185,31 @@
         "ngr": "TG2312",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6184,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0YDG",
+      "town": "WAKEFIELD",
+      "modeCodes": [
+        "A",
+        "D"
+      ],
+      "tx": 1297125000,
+      "repeater": "MB5WB",
+      "rx": 1291125000,
+      "ctcss": 88.5,
+      "txbw": 25,
+      "band": "23CM",
+      "locator": "IO93HP",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SE3814",
+        "antennaHeight": 12,
+        "polarisation": "V"
       }
     },
     {
@@ -39794,7 +39795,7 @@
       "id": 6271,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GI0RWO",
       "town": "BELFAST",
       "modeCodes": [
@@ -40052,6 +40053,30 @@
       "extraDetails": {
         "ngr": "NO1101",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6283,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M1DOZ",
+      "town": "GREAT TOTHAM",
+      "modeCodes": [
+        "D"
+      ],
+      "tx": 144875000,
+      "repeater": "MB6MD",
+      "rx": 144875000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO01IS",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TL8613",
+        "antennaHeight": 5,
         "polarisation": "V"
       }
     }
