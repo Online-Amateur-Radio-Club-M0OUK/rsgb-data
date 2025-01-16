@@ -8574,7 +8574,7 @@
       "id": 2921,
       "fac": false,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0WTX",
       "town": "NORTHWICH",
       "modeCodes": [
@@ -12156,7 +12156,7 @@
       "id": 3770,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "G8NDT",
       "town": "WOLVERHAMPTON",
       "modeCodes": [
@@ -12300,7 +12300,7 @@
       "id": 3808,
       "fac": false,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G3ZDF",
       "town": "FAREHAM",
       "modeCodes": [
@@ -19224,7 +19224,7 @@
     },
     {
       "id": 4706,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4WFR",
@@ -19463,6 +19463,30 @@
         "ngr": "IH3798",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 4751,
+      "fac": true,
+      "type": "TV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MW0LLK",
+      "town": "AMLWCH",
+      "modeCodes": [
+        "T"
+      ],
+      "tx": 1316000000,
+      "repeater": "GB3TM",
+      "rx": 1249000000,
+      "ctcss": 0,
+      "txbw": 4000,
+      "band": "23CM",
+      "locator": "IO73UJ",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SH4790",
+        "antennaHeight": 10,
+        "polarisation": "H"
       }
     },
     {
@@ -22844,7 +22868,7 @@
       "id": 5067,
       "fac": false,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "G8NDT",
       "town": "BIRMINGHAM",
       "modeCodes": [
@@ -33127,7 +33151,7 @@
       "id": 5802,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "G8NDT",
       "town": "BIRMINGHAM",
       "modeCodes": [
@@ -40079,6 +40103,26 @@
         "antennaHeight": 5,
         "polarisation": "V"
       }
+    },
+    {
+      "id": 6284,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2E0CVL",
+      "town": "WESTON SUPER MARE",
+      "modeCodes": [
+        "M:6"
+      ],
+      "tx": 144875000,
+      "repeater": "2E0CVL",
+      "rx": 144875000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO80NX",
+      "dbwErp": 7,
+      "extraDetails": null
     }
   ]
 }
