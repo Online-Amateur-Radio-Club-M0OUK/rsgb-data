@@ -28112,7 +28112,7 @@
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4LYB",
-      "town": "CROMER",
+      "town": "Roughton",
       "modeCodes": [
         "A"
       ],
@@ -28122,11 +28122,11 @@
       "ctcss": 94.8,
       "txbw": 12.5,
       "band": "70CM",
-      "locator": "JO02PW",
+      "locator": "JO02PV",
       "dbwErp": 14,
       "extraDetails": {
-        "ngr": "TG2241",
-        "antennaHeight": 20,
+        "ngr": "TG2139",
+        "antennaHeight": 16,
         "polarisation": "V"
       }
     },
@@ -40123,6 +40123,30 @@
       "locator": "IO80NX",
       "dbwErp": 7,
       "extraDetails": null
+    },
+    {
+      "id": 6285,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "GM0UDL",
+      "town": "FORTROSE",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "MB7UDL",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "IO77VO",
+      "dbwErp": -7,
+      "extraDetails": {
+        "ngr": "NH6957",
+        "antennaHeight": 20,
+        "polarisation": "V"
+      }
     }
   ]
 }
