@@ -11172,7 +11172,7 @@
       "id": 3572,
       "fac": true,
       "type": "DV",
-      "status": "",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7TXU",
       "town": "BRIGHTON",
       "modeCodes": [
@@ -14328,30 +14328,6 @@
       "extraDetails": {
         "ngr": "TA0277",
         "antennaHeight": 15,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 4101,
-      "fac": true,
-      "type": "DG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0SSK",
-      "town": "BASILDON",
-      "modeCodes": [
-        "D"
-      ],
-      "tx": 144812500,
-      "repeater": "MB6ZZ",
-      "rx": 144812500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO01FO",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TQ7390",
-        "antennaHeight": 6,
         "polarisation": "V"
       }
     },
@@ -33929,7 +33905,7 @@
       "id": 5876,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0VXT",
       "town": "PRESTON",
       "modeCodes": [
@@ -40084,7 +40060,7 @@
       "id": 6283,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M1DOZ",
       "town": "GREAT TOTHAM",
       "modeCodes": [
