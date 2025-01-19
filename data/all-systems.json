@@ -12869,7 +12869,7 @@
     },
     {
       "id": 3898,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "GM8SAU",
@@ -39270,7 +39270,7 @@
       "id": 6242,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0DUQ",
       "town": "HEDNESFORD",
       "modeCodes": [
@@ -40121,6 +40121,74 @@
       "extraDetails": {
         "ngr": "NH6957",
         "antennaHeight": 20,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6286,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0ABL",
+      "town": "LEASOWE",
+      "modeCodes": [
+        "D"
+      ],
+      "tx": 439725000,
+      "repeater": "GB7WP",
+      "rx": 430725000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83KJ",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SJ2791",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6287,
+      "fac": true,
+      "type": "RL",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0TEF",
+      "town": "LINCOLN",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145125000,
+      "repeater": "GB3LM-L",
+      "rx": 145725000,
+      "ctcss": 71.9,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO93",
+      "dbwErp": 7,
+      "extraDetails": null
+    },
+    {
+      "id": 6288,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M6OER",
+      "town": "SALISBURY",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UPA",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO91CB",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SU1231",
+        "antennaHeight": 7,
         "polarisation": "V"
       }
     }
