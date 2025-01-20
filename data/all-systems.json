@@ -14118,7 +14118,7 @@
       "id": 4081,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM0UDL",
       "town": "MUIR OF ORD",
       "modeCodes": [
@@ -35570,30 +35570,6 @@
       }
     },
     {
-      "id": 6000,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "2E0JML",
-      "town": "DUNSTABLE",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 434487500,
-      "repeater": "MB6JM",
-      "rx": 434487500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO91RV",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TL0122",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6005,
       "fac": true,
       "type": "AG",
@@ -38935,7 +38911,7 @@
       "id": 6224,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "2E0GSY",
       "town": "IVER",
       "modeCodes": [
@@ -40152,16 +40128,16 @@
       "id": 6287,
       "fac": true,
       "type": "RL",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0TEF",
       "town": "LINCOLN",
       "modeCodes": [
-        "A"
+        "F"
       ],
       "tx": 145125000,
       "repeater": "GB3LM-L",
       "rx": 145725000,
-      "ctcss": 71.9,
+      "ctcss": 0,
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO93",
@@ -40190,6 +40166,54 @@
         "ngr": "SU1231",
         "antennaHeight": 7,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6289,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "2E0HKD",
+      "town": "BASINGSTOKE",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 432625000,
+      "repeater": "GB7BSK",
+      "rx": 432625000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91KG",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SU6153",
+        "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6290,
+      "fac": true,
+      "type": "PN",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0AHN",
+      "town": "BEECHINGSTOKE",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 70312500,
+      "repeater": "MB7NPW",
+      "rx": 70312500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "4M",
+      "locator": "IO91",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SU0959",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
