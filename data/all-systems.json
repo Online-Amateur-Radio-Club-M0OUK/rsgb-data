@@ -12723,7 +12723,7 @@
       "fac": false,
       "type": "AV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G7BQM",
+      "keeperCallsign": "M0IJS",
       "town": "RUGBY",
       "modeCodes": [
         "A"
@@ -14730,7 +14730,7 @@
       "id": 4139,
       "fac": false,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0TNY",
       "town": "STAINES UPON THAMES",
       "modeCodes": [
@@ -30933,7 +30933,7 @@
       "id": 5651,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0DUQ",
       "town": "HEDNESFORD",
       "modeCodes": [
@@ -39270,7 +39270,7 @@
       "id": 6244,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0FSI",
       "town": "TANGMERE",
       "modeCodes": [
@@ -39746,7 +39746,7 @@
       "id": 6270,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0JML",
       "town": "DUNSTABLE",
       "modeCodes": [
@@ -40214,6 +40214,77 @@
         "ngr": "SU0959",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6293,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M7HSF",
+      "town": "NORWICH",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145212500,
+      "repeater": "MB7INO",
+      "rx": 145212500,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO02",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TG2210",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6294,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M6LUN",
+      "town": "LONDON COLNEY",
+      "modeCodes": [
+        "M:3",
+        "F"
+      ],
+      "tx": 434487500,
+      "repeater": "MB6LC",
+      "rx": 434487500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO92RJ",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TL1704",
+        "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6295,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "GM5AUG",
+      "town": "NEWTON MEARNS",
+      "modeCodes": null,
+      "tx": 70487500,
+      "repeater": "GB7AUG",
+      "rx": 70487500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "4M",
+      "locator": "IO75US",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NS 5 5",
+        "antennaHeight": 15,
+        "polarisation": "V"
       }
     }
   ]
