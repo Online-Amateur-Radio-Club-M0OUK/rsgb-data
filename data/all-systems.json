@@ -9187,7 +9187,7 @@
       "id": 3081,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0MNE",
       "town": "GATESHEAD",
       "modeCodes": [
@@ -20701,30 +20701,6 @@
       }
     },
     {
-      "id": 4873,
-      "fac": true,
-      "type": "AP",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G6YCA",
-      "town": "BASTON",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144800000,
-      "repeater": "MB7VP",
-      "rx": 144800000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO92TR",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TF1114",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 4874,
       "fac": true,
       "type": "DV",
@@ -21237,7 +21213,7 @@
       "txbw": 125,
       "band": "70CM",
       "locator": "IO93ED",
-      "dbwErp": 0,
+      "dbwErp": -7,
       "extraDetails": {
         "ngr": "SK2460",
         "antennaHeight": 5,
@@ -27780,55 +27756,6 @@
       }
     },
     {
-      "id": 5416,
-      "fac": true,
-      "type": "DM",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G6YCA",
-      "town": "BASTON",
-      "modeCodes": [
-        "A",
-        "F"
-      ],
-      "tx": 439425000,
-      "repeater": "GB3DP",
-      "rx": 430425000,
-      "ctcss": 88.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO92TR",
-      "dbwErp": 11,
-      "extraDetails": {
-        "ngr": "TF1114",
-        "antennaHeight": 9,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 5417,
-      "fac": true,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G6YCA",
-      "town": "BASTON",
-      "modeCodes": [
-        "M:8"
-      ],
-      "tx": 439625000,
-      "repeater": "GB7SL",
-      "rx": 430625000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO92TR",
-      "dbwErp": 11,
-      "extraDetails": {
-        "ngr": "TF1114",
-        "antennaHeight": 9,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5419,
       "fac": true,
       "type": "DM",
@@ -28493,30 +28420,6 @@
       "extraDetails": {
         "ngr": "NZ4141",
         "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 5464,
-      "fac": true,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G6KSM",
-      "town": "BASTON",
-      "modeCodes": [
-        "E"
-      ],
-      "tx": 439218750,
-      "repeater": "GB7TB",
-      "rx": 430218750,
-      "ctcss": 0,
-      "txbw": 37.5,
-      "band": "70CM",
-      "locator": "IO92TR",
-      "dbwErp": 11,
-      "extraDetails": {
-        "ngr": "TF1114",
-        "antennaHeight": 9,
         "polarisation": "V"
       }
     },
@@ -40284,6 +40187,127 @@
       "extraDetails": {
         "ngr": "NS 5 5",
         "antennaHeight": 15,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6296,
+      "fac": true,
+      "type": "DM",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G6YCA",
+      "town": "DEEPING ST JAMES",
+      "modeCodes": [
+        "A",
+        "F"
+      ],
+      "tx": 439462500,
+      "repeater": "GB3DP",
+      "rx": 430462500,
+      "ctcss": 88.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO92UQ",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TF1609",
+        "antennaHeight": 12,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6298,
+      "fac": true,
+      "type": "DV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G6YCA",
+      "town": "DEEPING ST JAMES",
+      "modeCodes": [
+        "M:8"
+      ],
+      "tx": 439625000,
+      "repeater": "GB7SL",
+      "rx": 430625000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO92UQ",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TF1609",
+        "antennaHeight": 12,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6299,
+      "fac": true,
+      "type": "DV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G6KSM",
+      "town": "DEEPING ST JAMES",
+      "modeCodes": [
+        "E"
+      ],
+      "tx": 439218750,
+      "repeater": "GB7TB",
+      "rx": 430218750,
+      "ctcss": 0,
+      "txbw": 37.5,
+      "band": "70CM",
+      "locator": "IO92UQ",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TF1609",
+        "antennaHeight": 12,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6300,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G6YCA",
+      "town": "DEEPING ST JAMES",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UDP",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO92UQ",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TF1609",
+        "antennaHeight": 12,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6301,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "2E0KUD",
+      "town": "LUTON",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 144887500,
+      "repeater": "MB6UD",
+      "rx": 144887500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO91SV",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TL0324",
+        "antennaHeight": 7,
         "polarisation": "V"
       }
     }
