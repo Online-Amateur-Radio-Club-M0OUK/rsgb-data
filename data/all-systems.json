@@ -40120,6 +40120,31 @@
       }
     },
     {
+      "id": 6292,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4LUE",
+      "town": "HULL",
+      "modeCodes": [
+        "A",
+        "D"
+      ],
+      "tx": 433150000,
+      "repeater": "MB5HF",
+      "rx": 434750000,
+      "ctcss": 71.9,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93XQ",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "TA3021",
+        "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 6293,
       "fac": true,
       "type": "AG",
@@ -40201,9 +40226,9 @@
         "A",
         "F"
       ],
-      "tx": 439462500,
+      "tx": 439425000,
       "repeater": "GB3DP",
-      "rx": 430462500,
+      "rx": 430425000,
       "ctcss": 88.5,
       "txbw": 12.5,
       "band": "70CM",
@@ -40308,6 +40333,54 @@
       "extraDetails": {
         "ngr": "TL0324",
         "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6302,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM0NRT",
+      "town": "ABERDEEN",
+      "modeCodes": [
+        "M:11"
+      ],
+      "tx": 431087500,
+      "repeater": "GM0NRT",
+      "rx": 431087500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO87WD",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NJ9204",
+        "antennaHeight": 9,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6303,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4IYT",
+      "town": "LEIGHTON BUZZARD",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430050000,
+      "repeater": "MB7IYT",
+      "rx": 430050000,
+      "ctcss": 67,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91QV",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SP9323",
+        "antennaHeight": 12,
         "polarisation": "V"
       }
     }
