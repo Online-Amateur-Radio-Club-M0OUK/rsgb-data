@@ -1533,7 +1533,7 @@
       "fac": false,
       "type": "AV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "GI4YWT",
+      "keeperCallsign": "MI0WJM",
       "town": "DERRY/LONDONDERRY",
       "modeCodes": [
         "A"
@@ -1678,7 +1678,7 @@
       "id": 787,
       "fac": false,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0DKR",
       "town": "BLACKPOOL",
       "modeCodes": [
@@ -12529,7 +12529,7 @@
       "id": 3843,
       "fac": false,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0ZCP",
       "town": "IVYBRIDGE",
       "modeCodes": [
@@ -39485,7 +39485,7 @@
       "id": 6260,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0KVH",
       "town": "GOSPORT",
       "modeCodes": [
