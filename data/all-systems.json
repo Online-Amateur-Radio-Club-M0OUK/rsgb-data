@@ -1193,7 +1193,7 @@
       "id": 725,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MM0JNL",
       "town": "BERWICK ON TWEED",
       "modeCodes": [
@@ -10181,7 +10181,7 @@
       "txbw": 25,
       "band": "23CM",
       "locator": "JO01CN",
-      "dbwErp": 3.4,
+      "dbwErp": 5.4,
       "extraDetails": {
         "ngr": "TQ5389",
         "antennaHeight": 35,
@@ -22695,7 +22695,7 @@
       "id": 5059,
       "fac": true,
       "type": "AP",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0MZF",
       "town": "SOUTHAMPTON",
       "modeCodes": [
@@ -25065,7 +25065,7 @@
         "F"
       ],
       "tx": 433000000,
-      "repeater": "GB3MS ",
+      "repeater": "GB3MS",
       "rx": 434600000,
       "ctcss": 67,
       "txbw": 25,
@@ -32252,7 +32252,7 @@
       "id": 5750,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM0DXE",
       "town": "PRESTONPANS ",
       "modeCodes": [
@@ -33030,7 +33030,7 @@
       "id": 5802,
       "fac": true,
       "type": "AG",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G8NDT",
       "town": "BIRMINGHAM",
       "modeCodes": [
@@ -34178,7 +34178,7 @@
         "A"
       ],
       "tx": 145687500,
-      "repeater": "GB3EA ",
+      "repeater": "GB3EA",
       "rx": 145087500,
       "ctcss": 110.9,
       "txbw": 12.5,
@@ -39491,9 +39491,9 @@
       "modeCodes": [
         "A"
       ],
-      "tx": 145225000,
+      "tx": 144962500,
       "repeater": "MB7IGP",
-      "rx": 145225000,
+      "rx": 144962500,
       "ctcss": 94.8,
       "txbw": 12.5,
       "band": "2M",
@@ -40381,6 +40381,30 @@
       "extraDetails": {
         "ngr": "SP9323",
         "antennaHeight": 12,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6304,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0BOY",
+      "town": "MILTON KEYNES",
+      "modeCodes": [
+        "M:4"
+      ],
+      "tx": 439512500,
+      "repeater": "GB7YO",
+      "rx": 430512500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO92OA",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "SP8435",
+        "antennaHeight": 6,
         "polarisation": "V"
       }
     }
