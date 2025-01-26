@@ -1702,7 +1702,7 @@
       "id": 788,
       "fac": false,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "GM0MZB",
       "town": "STIRLING",
       "modeCodes": [
@@ -9487,7 +9487,7 @@
       "id": 3155,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "GM0MZB",
       "town": "STIRLING",
       "modeCodes": [
@@ -33805,30 +33805,6 @@
       }
     },
     {
-      "id": 5876,
-      "fac": true,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0VXT",
-      "town": "PRESTON",
-      "modeCodes": [
-        "E"
-      ],
-      "tx": 439218750,
-      "repeater": "GB7PU",
-      "rx": 430218750,
-      "ctcss": 0,
-      "txbw": 37.5,
-      "band": "70CM",
-      "locator": "IO83",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SD5429",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 5877,
       "fac": true,
       "type": "DM",
@@ -40405,6 +40381,30 @@
       "extraDetails": {
         "ngr": "SP8435",
         "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6305,
+      "fac": true,
+      "type": "DV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G7TRL",
+      "town": "HORWICH",
+      "modeCodes": [
+        "E"
+      ],
+      "tx": 439218750,
+      "repeater": "GB7TL",
+      "rx": 430218750,
+      "ctcss": 0,
+      "txbw": 37.5,
+      "band": "70CM",
+      "locator": "IO83RO",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SD6411",
+        "antennaHeight": 5,
         "polarisation": "V"
       }
     }
