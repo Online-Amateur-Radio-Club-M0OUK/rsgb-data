@@ -12698,7 +12698,7 @@
       "id": 3877,
       "fac": false,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G1IRG",
       "town": "NORTHAMPTON",
       "modeCodes": [
@@ -40406,6 +40406,30 @@
         "ngr": "SD6411",
         "antennaHeight": 5,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6306,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0PTN",
+      "town": "REDDITCH",
+      "modeCodes": [
+        "M:1"
+      ],
+      "tx": 431187500,
+      "repeater": "M0PTN",
+      "rx": 431187500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO92",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SP0170",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
