@@ -1676,7 +1676,7 @@
     },
     {
       "id": 787,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0DKR",
@@ -14190,7 +14190,7 @@
       "id": 4086,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G8PYT",
       "town": "ROWLEY REGIS",
       "modeCodes": [
@@ -18349,8 +18349,8 @@
       "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G4YWD",
-      "town": "LEASOWE",
+      "keeperCallsign": "M0KGR",
+      "town": "WIRRAL",
       "modeCodes": [
         "A",
         "F"
@@ -24009,54 +24009,6 @@
       }
     },
     {
-      "id": 5149,
-      "fac": true,
-      "type": "PX",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0UKF",
-      "town": "NEWPORT PAGNELL",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144950000,
-      "repeater": "GB7OUK",
-      "rx": 144950000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO92PB",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SP8742",
-        "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 5150,
-      "fac": true,
-      "type": "PX",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0UKF",
-      "town": "NEWPORT PAGNELL",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 432625000,
-      "repeater": "GB7OUK",
-      "rx": 432625000,
-      "ctcss": 0,
-      "txbw": 25,
-      "band": "70CM",
-      "locator": "IO92PB",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SP8742",
-        "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5151,
       "fac": true,
       "type": "DM",
@@ -25927,7 +25879,7 @@
       "fac": false,
       "type": "DV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G4CPO",
+      "keeperCallsign": "G3MYK",
       "town": "NEWTON ABBOT",
       "modeCodes": [
         "M:5"
@@ -30836,7 +30788,7 @@
       "id": 5651,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0DUQ",
       "town": "HEDNESFORD",
       "modeCodes": [
@@ -33317,30 +33269,6 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "TQ8366",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 5823,
-      "fac": true,
-      "type": "AG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0JIC",
-      "town": "DONCASTER",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430012500,
-      "repeater": "MB7IMM",
-      "rx": 430012500,
-      "ctcss": 77,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO93",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SE6004",
         "antennaHeight": 0,
         "polarisation": ""
       }
@@ -36575,12 +36503,13 @@
       "keeperCallsign": "M0YDG ",
       "town": "WAKEFIELD",
       "modeCodes": [
-        "D"
+        "D",
+        "A"
       ],
       "tx": 439537500,
       "repeater": "MB5YN",
       "rx": 430537500,
-      "ctcss": 0,
+      "ctcss": 88.5,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO93HP",
@@ -37273,14 +37202,12 @@
       "keeperCallsign": "M1LOU",
       "town": "BARNSLEY",
       "modeCodes": [
-        "A",
-        "D",
         "M:7",
         "F"
       ],
-      "tx": 430937500,
+      "tx": 430950000,
       "repeater": "MB5SX",
-      "rx": 438537500,
+      "rx": 438550000,
       "ctcss": 71.9,
       "txbw": 12.5,
       "band": "70CM",
