@@ -14190,7 +14190,7 @@
       "id": 4086,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G8PYT",
       "town": "ROWLEY REGIS",
       "modeCodes": [
@@ -34706,7 +34706,7 @@
       "id": 5945,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0YDG",
       "town": "HARROGATE",
       "modeCodes": [
