@@ -12529,7 +12529,7 @@
       "id": 3843,
       "fac": false,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0ZCP",
       "town": "IVYBRIDGE",
       "modeCodes": [
@@ -14190,7 +14190,7 @@
       "id": 4086,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "G8PYT",
       "town": "ROWLEY REGIS",
       "modeCodes": [
@@ -24498,7 +24498,7 @@
       "id": 5190,
       "fac": false,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G7TRL",
       "town": "LONGRIDGE",
       "modeCodes": [
@@ -27958,6 +27958,30 @@
       "extraDetails": {
         "ngr": "TG3136",
         "antennaHeight": 3,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 5435,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "2E0XVX",
+      "town": "MARKET HARBOROUGH",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430037500,
+      "repeater": "MB7IMT",
+      "rx": 430037500,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO92ML",
+      "dbwErp": -12.2,
+      "extraDetails": {
+        "ngr": "SP7288",
+        "antennaHeight": 8,
         "polarisation": "V"
       }
     },
