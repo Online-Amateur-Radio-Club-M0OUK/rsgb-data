@@ -12527,7 +12527,7 @@
     },
     {
       "id": 3843,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0ZCP",
@@ -19745,7 +19745,7 @@
     },
     {
       "id": 4783,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "GM8SAU",
@@ -33298,30 +33298,6 @@
       }
     },
     {
-      "id": 5824,
-      "fac": true,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G1ILF",
-      "town": "DONCASTER",
-      "modeCodes": [
-        "M:2"
-      ],
-      "tx": 439700000,
-      "repeater": "GB7DO",
-      "rx": 430700000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO93LO",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SE6510",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5827,
       "fac": true,
       "type": "PX",
@@ -34831,7 +34807,8 @@
       "town": "CHATHAM ",
       "modeCodes": [
         "D",
-        "F"
+        "F",
+        "M:5"
       ],
       "tx": 430275000,
       "repeater": "GB7KE",
@@ -37029,7 +37006,7 @@
       "id": 6127,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0KNJ",
       "town": "FRETTENHAM",
       "modeCodes": [
@@ -40381,6 +40358,36 @@
         "ngr": "SP0170",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6308,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G3YPP",
+      "town": "MUNDESLEY",
+      "modeCodes": [
+        "S",
+        "P",
+        "E",
+        "C",
+        "I",
+        "A",
+        "L"
+      ],
+      "tx": 144562500,
+      "repeater": "G3YPP",
+      "rx": 438425000,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO02RV",
+      "dbwErp": 3,
+      "extraDetails": {
+        "ngr": "TG3136",
+        "antennaHeight": 4,
+        "polarisation": "V"
       }
     }
   ]
