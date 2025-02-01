@@ -21706,7 +21706,7 @@
     },
     {
       "id": 4963,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G1HIG",
@@ -21719,7 +21719,7 @@
       "tx": 145712500,
       "repeater": "GB7OK",
       "rx": 145112500,
-      "ctcss": 0,
+      "ctcss": 82.5,
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO91",
@@ -23022,7 +23022,7 @@
         "P"
       ],
       "tx": 439400000,
-      "repeater": "GB7BM-B",
+      "repeater": "GB7BM",
       "rx": 430400000,
       "ctcss": 0,
       "txbw": 12.5,
@@ -24011,17 +24011,15 @@
     {
       "id": 5151,
       "fac": true,
-      "type": "DM",
+      "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G8NDT",
       "town": "BIRMINGHAM",
       "modeCodes": [
-        "A",
-        "M:8",
-        "P"
+        "A"
       ],
       "tx": 145737500,
-      "repeater": "GB7BM-C",
+      "repeater": "GB3YM",
       "rx": 145137500,
       "ctcss": 67,
       "txbw": 12.5,
@@ -34156,7 +34154,7 @@
         "M:8"
       ],
       "tx": 433300000,
-      "repeater": "G1TTR",
+      "repeater": "GB3YB",
       "rx": 438300000,
       "ctcss": 67,
       "txbw": 12.5,
@@ -37947,30 +37945,6 @@
       }
     },
     {
-      "id": 6183,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M7HSF",
-      "town": "NORWICH",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430025000,
-      "repeater": "MB7INO",
-      "rx": 430025000,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO02",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TG2312",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6184,
       "fac": true,
       "type": "DM",
@@ -40052,7 +40026,7 @@
       "id": 6293,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M7HSF",
       "town": "NORWICH",
       "modeCodes": [
