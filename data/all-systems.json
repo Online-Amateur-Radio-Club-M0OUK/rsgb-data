@@ -17467,32 +17467,6 @@
       }
     },
     {
-      "id": 4452,
-      "fac": false,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GI3NVW",
-      "town": "OMAGH",
-      "modeCodes": [
-        "D",
-        "M:1",
-        "F"
-      ],
-      "tx": 439600000,
-      "repeater": "GB7WT",
-      "rx": 430600000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO64HQ",
-      "dbwErp": 10,
-      "extraDetails": {
-        "ngr": "IH3982",
-        "antennaHeight": 25,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 4453,
       "fac": true,
       "type": "AG",
@@ -18325,7 +18299,7 @@
       "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G7AJP",
+      "keeperCallsign": "2E1JBC",
       "town": "LOUTH",
       "modeCodes": [
         "A"
@@ -27938,7 +27912,7 @@
       "id": 5434,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G3YPP",
       "town": "MUNDESLEY",
       "modeCodes": [
@@ -34147,7 +34121,7 @@
       "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G1TTR",
+      "keeperCallsign": "G8NDT",
       "town": "ERDINGTON",
       "modeCodes": [
         "A",
@@ -34162,7 +34136,7 @@
       "locator": "IO92",
       "dbwErp": 14,
       "extraDetails": {
-        "ngr": "SP1192",
+        "ngr": "SP1193",
         "antennaHeight": 0,
         "polarisation": ""
       }
@@ -38665,30 +38639,6 @@
       }
     },
     {
-      "id": 6223,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0BOY",
-      "town": "MILTON KEYNES",
-      "modeCodes": [
-        "M:4"
-      ],
-      "tx": 434525000,
-      "repeater": "M0BOY",
-      "rx": 434525000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO92OA",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SP8435",
-        "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6224,
       "fac": true,
       "type": "AG",
@@ -40266,7 +40216,7 @@
       "id": 6304,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0BOY",
       "town": "MILTON KEYNES",
       "modeCodes": [
@@ -40338,7 +40288,7 @@
       "id": 6308,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G3YPP",
       "town": "MUNDESLEY",
       "modeCodes": [
@@ -40362,6 +40312,80 @@
         "ngr": "TG3136",
         "antennaHeight": 4,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6309,
+      "fac": true,
+      "type": "PX",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G8IPG",
+      "town": "WINCHESTER",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144950000,
+      "repeater": "GB7WIN",
+      "rx": 144950000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO91HB",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SU4529",
+        "antennaHeight": 40,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6310,
+      "fac": true,
+      "type": "DV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "GI3NVW",
+      "town": "OMAGH",
+      "modeCodes": [
+        "D",
+        "M",
+        "F"
+      ],
+      "tx": 439600000,
+      "repeater": "GB7WT",
+      "rx": 430600000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO64IO",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "IH4573",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6311,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G7HIF",
+      "town": "POTCOTE",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UNP",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO92",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SP6652",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
