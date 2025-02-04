@@ -29095,9 +29095,9 @@
         "D",
         "M:10"
       ],
-      "tx": 144812500,
+      "tx": 144837500,
       "repeater": "MB6GW",
-      "rx": 0,
+      "rx": 144837500,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "2M",
@@ -34436,7 +34436,7 @@
       "id": 5936,
       "fac": true,
       "type": "PX",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0ZNH",
       "town": "POLLINGTON",
       "modeCodes": [
