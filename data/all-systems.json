@@ -40214,7 +40214,7 @@
       "id": 6306,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0PTN",
       "town": "REDDITCH",
       "modeCodes": [
