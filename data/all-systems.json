@@ -13156,11 +13156,11 @@
       "town": "CROOK",
       "modeCodes": [
         "A",
-        "M:10",
         "D",
+        "M:10",
         "F",
-        "N",
-        "P"
+        "P",
+        "N"
       ],
       "tx": 439500000,
       "repeater": "GB7CZ",
@@ -18589,7 +18589,7 @@
     },
     {
       "id": 4629,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4XUT",
@@ -19647,18 +19647,19 @@
     {
       "id": 4773,
       "fac": true,
-      "type": "DV",
+      "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0FHM",
       "town": "DOWNHAM MARKET",
       "modeCodes": [
+        "A",
         "M:3",
         "F"
       ],
       "tx": 439450000,
       "repeater": "GB7GS",
       "rx": 430450000,
-      "ctcss": 0,
+      "ctcss": 94.8,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "JO02EO",
@@ -27904,31 +27905,6 @@
         "ngr": "NB5461",
         "antennaHeight": 10,
         "polarisation": "H"
-      }
-    },
-    {
-      "id": 5434,
-      "fac": true,
-      "type": "DG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G3YPP",
-      "town": "MUNDESLEY",
-      "modeCodes": [
-        "D",
-        "M:1"
-      ],
-      "tx": 431125000,
-      "repeater": "G3YPP",
-      "rx": 431125000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO02RV",
-      "dbwErp": 0,
-      "extraDetails": {
-        "ngr": "TG3136",
-        "antennaHeight": 3,
-        "polarisation": "V"
       }
     },
     {
@@ -36426,8 +36402,8 @@
       "keeperCallsign": "M0YDG ",
       "town": "WAKEFIELD",
       "modeCodes": [
-        "D",
-        "A"
+        "A",
+        "D"
       ],
       "tx": 439537500,
       "repeater": "MB5YN",
@@ -40433,6 +40409,54 @@
       "extraDetails": {
         "ngr": "SE3813",
         "antennaHeight": 12,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6317,
+      "fac": true,
+      "type": "RN",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G1TZC",
+      "town": "WYTHALL",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144500000,
+      "repeater": "MB7TW",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO92BJ",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "SP0776",
+        "antennaHeight": 15,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6319,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2M0YMZ",
+      "town": "BEITH",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 144850000,
+      "repeater": "MB6BE",
+      "rx": 144850000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO75QR",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NS3353",
+        "antennaHeight": 5,
         "polarisation": "V"
       }
     }
