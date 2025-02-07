@@ -5901,7 +5901,7 @@
       "fac": false,
       "type": "DV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G3ZDF",
+      "keeperCallsign": "M0LIH",
       "town": "FAREHAM",
       "modeCodes": [
         "D"
@@ -12298,10 +12298,10 @@
     },
     {
       "id": 3808,
-      "fac": false,
+      "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G3ZDF",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0LIH",
       "town": "FAREHAM",
       "modeCodes": [
         "D",
@@ -12317,7 +12317,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO90JU",
-      "dbwErp": 12.7,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SU5704",
         "antennaHeight": 18,
@@ -16072,12 +16072,13 @@
     {
       "id": 4311,
       "fac": true,
-      "type": "DV",
+      "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "GM0MZB",
       "town": "LINLITHGOW",
       "modeCodes": [
-        "A"
+        "A",
+        "M"
       ],
       "tx": 430950000,
       "repeater": "GB3OH",
@@ -35176,6 +35177,30 @@
       }
     },
     {
+      "id": 5986,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0PHB",
+      "town": "CHANDLERS FORD",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430037500,
+      "repeater": "MB7IPB",
+      "rx": 430037500,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91HA",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SU4322",
+        "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 5994,
       "fac": true,
       "type": "PX",
@@ -35570,7 +35595,7 @@
       "id": 6020,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0THH",
       "town": "MANSFIELD",
       "modeCodes": [
@@ -36682,30 +36707,6 @@
         "ngr": "ST5470",
         "antennaHeight": 0,
         "polarisation": ""
-      }
-    },
-    {
-      "id": 6113,
-      "fac": true,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "2E0BJL",
-      "town": "EPSOM",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 430262500,
-      "repeater": "2E0BJL",
-      "rx": 439262500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO91UI",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TQ2061",
-        "antennaHeight": 10,
-        "polarisation": "V"
       }
     },
     {
@@ -40457,6 +40458,70 @@
       "extraDetails": {
         "ngr": "NS3353",
         "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6320,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0IQF",
+      "town": "LUTON",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "M0IQF",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "IO91SV",
+      "dbwErp": -7,
+      "extraDetails": null
+    },
+    {
+      "id": 6321,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0IQF",
+      "town": "DUNSTABLE",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "M0IQF",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "IO91RV",
+      "dbwErp": -7,
+      "extraDetails": null
+    },
+    {
+      "id": 6322,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0JLZ",
+      "town": "HORSHAM",
+      "modeCodes": [
+        "M:3"
+      ],
+      "tx": 434512500,
+      "repeater": "MB6HS",
+      "rx": 434512500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91UB",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TQ1832",
+        "antennaHeight": 6,
         "polarisation": "V"
       }
     }
