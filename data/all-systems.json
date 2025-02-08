@@ -7866,7 +7866,7 @@
     {
       "id": 2735,
       "fac": false,
-      "type": "DV",
+      "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4MSF",
       "town": "FELLING",
@@ -10872,7 +10872,7 @@
     {
       "id": 3478,
       "fac": true,
-      "type": "DV",
+      "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "MM0DXE",
       "town": "ST MONANS",
@@ -11198,7 +11198,7 @@
     {
       "id": 3592,
       "fac": true,
-      "type": "DM",
+      "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0LGJ",
       "town": "ATTLEBOURGH",
@@ -11741,7 +11741,7 @@
     {
       "id": 3700,
       "fac": true,
-      "type": "DM",
+      "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "MM0RDM",
       "town": "ABERDEEN",
@@ -11962,13 +11962,13 @@
     {
       "id": 3736,
       "fac": true,
-      "type": "DV",
+      "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "GW0UXJ",
       "town": "PONTYPRIDD",
       "modeCodes": [
-        "F",
-        "A"
+        "A",
+        "F"
       ],
       "tx": 430900000,
       "repeater": "GB3MG",
@@ -13150,7 +13150,7 @@
     {
       "id": 3939,
       "fac": false,
-      "type": "DV",
+      "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0OCB",
       "town": "CROOK",
@@ -19869,7 +19869,7 @@
     {
       "id": 4802,
       "fac": false,
-      "type": "DM",
+      "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G8KHF",
       "town": "DAVENTRY",
@@ -20311,7 +20311,7 @@
     {
       "id": 4842,
       "fac": false,
-      "type": "DM",
+      "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M1DNS",
       "town": "ST AUSTELL",
@@ -20926,7 +20926,7 @@
     {
       "id": 4897,
       "fac": true,
-      "type": "DV",
+      "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0DUB",
       "town": "WAKEFIELD",
@@ -22032,7 +22032,7 @@
     {
       "id": 4993,
       "fac": false,
-      "type": "DM",
+      "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G7FBD",
       "town": "BRISTOL",
@@ -24008,8 +24008,8 @@
     },
     {
       "id": 5153,
-      "fac": false,
-      "type": "DM",
+      "fac": true,
+      "type": "DV",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "M5ADU",
       "town": "NOTTINGHAM",
@@ -24023,7 +24023,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO92",
-      "dbwErp": 5.5,
+      "dbwErp": 5.4,
       "extraDetails": {
         "ngr": "SK5244",
         "antennaHeight": 0,
@@ -24668,7 +24668,7 @@
     {
       "id": 5198,
       "fac": true,
-      "type": "DM",
+      "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4MQQ",
       "town": "WINKLEIGH",
@@ -26402,7 +26402,7 @@
     {
       "id": 5320,
       "fac": true,
-      "type": "DV",
+      "type": "DM",
       "status": "REDUCED OUTPUT",
       "keeperCallsign": "MM0JNL",
       "town": "KIRRIEMUIR",
@@ -32977,7 +32977,7 @@
     {
       "id": 5806,
       "fac": true,
-      "type": "DM",
+      "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "2E0MIK",
       "town": "CHATHAM",
@@ -33682,7 +33682,7 @@
     {
       "id": 5879,
       "fac": true,
-      "type": "DM",
+      "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G1BHM",
       "town": "BUDE",
@@ -33949,7 +33949,7 @@
     {
       "id": 5895,
       "fac": true,
-      "type": "DM",
+      "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0YDG ",
       "town": "WAKEFIELD",
@@ -36422,7 +36422,7 @@
     {
       "id": 6098,
       "fac": true,
-      "type": "DV",
+      "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0YDG ",
       "town": "WAKEFIELD",
@@ -37097,7 +37097,7 @@
     {
       "id": 6140,
       "fac": true,
-      "type": "DM",
+      "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M1LOU",
       "town": "BARNSLEY",
@@ -37969,7 +37969,7 @@
     {
       "id": 6193,
       "fac": true,
-      "type": "DV",
+      "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M1VSR",
       "town": "STOCKPORT",
@@ -38286,7 +38286,7 @@
     {
       "id": 6208,
       "fac": true,
-      "type": "DM",
+      "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "2E0CVL",
       "town": "WESTON SUPER MARE",
