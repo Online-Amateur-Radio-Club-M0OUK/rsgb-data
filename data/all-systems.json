@@ -852,30 +852,6 @@
       }
     },
     {
-      "id": 661,
-      "fac": false,
-      "type": "DD",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GW6CUR",
-      "town": "CARDIFF",
-      "modeCodes": [
-        "D"
-      ],
-      "tx": 1241075000,
-      "repeater": "GB7CD-A",
-      "rx": 1241075000,
-      "ctcss": 0,
-      "txbw": 150,
-      "band": "23CM",
-      "locator": "IO81JL",
-      "dbwErp": 13,
-      "extraDetails": {
-        "ngr": "ST1975",
-        "antennaHeight": 34,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 700,
       "fac": true,
       "type": "DM",
@@ -7566,30 +7542,6 @@
       }
     },
     {
-      "id": 2644,
-      "fac": false,
-      "type": "DD",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GW6CUR",
-      "town": "COWBRIDGE",
-      "modeCodes": [
-        "D"
-      ],
-      "tx": 1241675000,
-      "repeater": "GB7RB-A",
-      "rx": 1241675000,
-      "ctcss": 0,
-      "txbw": 150,
-      "band": "23CM",
-      "locator": "IO81GK",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "ST0173",
-        "antennaHeight": 15,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 2645,
       "fac": true,
       "type": "TV",
@@ -9187,7 +9139,7 @@
       "id": 3081,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0MNE",
       "town": "GATESHEAD",
       "modeCodes": [
@@ -36503,7 +36455,7 @@
         "X"
       ],
       "tx": 144800000,
-      "repeater": "M5WOB",
+      "repeater": "MB7UFO",
       "rx": 144800000,
       "ctcss": 0,
       "txbw": 12.5,
@@ -39356,7 +39308,7 @@
       "id": 6267,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0ULH",
       "town": "LONDON",
       "modeCodes": [
@@ -40523,6 +40475,30 @@
         "ngr": "TQ1832",
         "antennaHeight": 6,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6323,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M7HSF",
+      "town": "WENDLING",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430025000,
+      "repeater": "MB7IWE",
+      "rx": 430025000,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO02",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TF9312",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
