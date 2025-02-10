@@ -12719,30 +12719,6 @@
       }
     },
     {
-      "id": 3883,
-      "fac": true,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G8NSS",
-      "town": "STOKE-ON-TRENT",
-      "modeCodes": [
-        "M:5"
-      ],
-      "tx": 431175000,
-      "repeater": "GB7VT",
-      "rx": 431175000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO83",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SJ9347",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 3888,
       "fac": true,
       "type": "AP",
@@ -38856,7 +38832,7 @@
       "id": 6242,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0DUQ",
       "town": "HEDNESFORD",
       "modeCodes": [
@@ -40099,12 +40075,13 @@
       "keeperCallsign": "M0BOY",
       "town": "MILTON KEYNES",
       "modeCodes": [
+        "A",
         "M:4"
       ],
       "tx": 439512500,
       "repeater": "GB7YO",
       "rx": 430512500,
-      "ctcss": 0,
+      "ctcss": 77,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO92OA",
@@ -40150,7 +40127,7 @@
         "M:1"
       ],
       "tx": 431187500,
-      "repeater": "M0PTN",
+      "repeater": "MB6DU",
       "rx": 431187500,
       "ctcss": 0,
       "txbw": 12.5,
