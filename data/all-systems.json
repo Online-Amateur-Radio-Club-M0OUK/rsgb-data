@@ -16027,7 +16027,7 @@
       "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
-      "keeperCallsign": "MW0JYY",
+      "keeperCallsign": "MW0TMH",
       "town": "LLANDUDNO",
       "modeCodes": [
         "A",
@@ -30688,7 +30688,7 @@
       "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
-      "keeperCallsign": "MW0JWP",
+      "keeperCallsign": "GW0TPF",
       "town": "LLANDUDNO",
       "modeCodes": [
         "A",
@@ -40476,6 +40476,78 @@
         "ngr": "TF9312",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6324,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM7RYR",
+      "town": "EDINBURGH",
+      "modeCodes": [
+        "E"
+      ],
+      "tx": 434050000,
+      "repeater": "GB7ET",
+      "rx": 434050000,
+      "ctcss": 0,
+      "txbw": 37.5,
+      "band": "70CM",
+      "locator": "IO75JW",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NT2471",
+        "antennaHeight": 80,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6325,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G6IET",
+      "town": "RICHMOND",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145337500,
+      "repeater": "MB7IET",
+      "rx": 145337500,
+      "ctcss": 118.8,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO94CK",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NZ1306",
+        "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6326,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2E0ULH",
+      "town": "LONDON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145287500,
+      "repeater": "MB7IBP",
+      "rx": 145287500,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO91WL",
+      "dbwErp": -12.2,
+      "extraDetails": {
+        "ngr": "TQ2977",
+        "antennaHeight": 5,
+        "polarisation": "V"
       }
     }
   ]
