@@ -3382,7 +3382,7 @@
       "id": 957,
       "fac": false,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4EPX",
       "town": "ALTON HANTS",
       "modeCodes": [
@@ -19900,9 +19900,9 @@
       "modeCodes": [
         "F"
       ],
-      "tx": 431100000,
+      "tx": 431187500,
       "repeater": "MB6ML",
-      "rx": 431100000,
+      "rx": 431187500,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
@@ -30660,30 +30660,6 @@
       }
     },
     {
-      "id": 5651,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G0DUQ",
-      "town": "HEDNESFORD",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 144850000,
-      "repeater": "MB6RU",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO82XR",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SJ9913",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5652,
       "fac": true,
       "type": "DM",
@@ -34455,30 +34431,6 @@
         "ngr": "TG2930",
         "antennaHeight": 12,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 5941,
-      "fac": true,
-      "type": "AP",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0NYW",
-      "town": "SHIREMOOR ",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144800000,
-      "repeater": "M0NYW",
-      "rx": 144800000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO95",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "NZ3171",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -38832,7 +38784,7 @@
       "id": 6242,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0DUQ",
       "town": "HEDNESFORD",
       "modeCodes": [
@@ -39161,30 +39113,6 @@
       "extraDetails": {
         "ngr": "SU5305",
         "antennaHeight": 3,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 6260,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0KVH",
-      "town": "GOSPORT",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 144962500,
-      "repeater": "MB7IGP",
-      "rx": 144962500,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO90KT",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SU6000",
-        "antennaHeight": 12,
         "polarisation": "V"
       }
     },
@@ -40047,7 +39975,7 @@
       "id": 6303,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4IYT",
       "town": "LEIGHTON BUZZARD",
       "modeCodes": [
