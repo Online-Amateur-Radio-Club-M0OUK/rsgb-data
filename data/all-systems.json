@@ -20840,7 +20840,7 @@
       "tx": 439462500,
       "repeater": "GB7OR",
       "rx": 430462500,
-      "ctcss": 77,
+      "ctcss": 162.2,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO88LX",
@@ -21936,7 +21936,7 @@
       "id": 4992,
       "fac": false,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0JBR",
       "town": "HASTINGS",
       "modeCodes": [
@@ -26331,7 +26331,7 @@
       "id": 5320,
       "fac": true,
       "type": "DM",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM0JNL",
       "town": "KIRRIEMUIR",
       "modeCodes": [
@@ -36809,7 +36809,7 @@
       "id": 6128,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0HOQ",
       "town": "WESTON SUPER MARE",
       "modeCodes": [
@@ -40362,7 +40362,7 @@
       "id": 6322,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0JLZ",
       "town": "HORSHAM",
       "modeCodes": [
