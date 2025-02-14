@@ -36902,30 +36902,6 @@
       }
     },
     {
-      "id": 6136,
-      "fac": true,
-      "type": "AV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GW4DVB",
-      "town": "TONDU  BRIDGEND",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430937500,
-      "repeater": "GB3TC",
-      "rx": 438537500,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81EN",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SS8984",
-        "antennaHeight": 15,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6137,
       "fac": true,
       "type": "DG",
@@ -40476,6 +40452,74 @@
         "ngr": "TQ2977",
         "antennaHeight": 5,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6327,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GW4DVB",
+      "town": "BRIDGEND",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430937500,
+      "repeater": "GB3TC",
+      "rx": 438537500,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81FM",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SS9283",
+        "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6328,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM0EZP ",
+      "town": "PAISLEY",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 431112500,
+      "repeater": "GM0EZP ",
+      "rx": 431112500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO75ST",
+      "dbwErp": 7,
+      "extraDetails": null
+    },
+    {
+      "id": 6329,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G0SBP",
+      "town": "DARLINGTON",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 7048600,
+      "repeater": "GB7SWD",
+      "rx": 7048600,
+      "ctcss": 0,
+      "txbw": 2.5,
+      "band": "40M",
+      "locator": "IO94EN",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NZ2617",
+        "antennaHeight": 10,
+        "polarisation": "H"
       }
     }
   ]
