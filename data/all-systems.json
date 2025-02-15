@@ -21909,7 +21909,7 @@
       "id": 4990,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM7LUN",
       "town": "GALASHIELS",
       "modeCodes": [
