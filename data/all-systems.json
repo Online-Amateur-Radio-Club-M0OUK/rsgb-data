@@ -1606,7 +1606,7 @@
       "fac": false,
       "type": "DM",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G6JYB",
+      "keeperCallsign": "M1DOZ",
       "town": "DANBURY",
       "modeCodes": [
         "A",
@@ -14436,7 +14436,7 @@
       "fac": false,
       "type": "DM",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G6JYB",
+      "keeperCallsign": "M1DOZ",
       "town": "DANBURY",
       "modeCodes": [
         "A",
@@ -14461,7 +14461,7 @@
       "fac": false,
       "type": "DM",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G6JYB",
+      "keeperCallsign": "M1DOZ",
       "town": "DANBURY",
       "modeCodes": [
         "A",
@@ -19845,7 +19845,7 @@
     {
       "id": 4808,
       "fac": true,
-      "type": "AV",
+      "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0YDG",
       "town": "WAKEFIELD",
@@ -21194,30 +21194,6 @@
         "ngr": "SO8353",
         "antennaHeight": 11,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 4923,
-      "fac": false,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0PPR",
-      "town": "PORTSMOUTH",
-      "modeCodes": [
-        "M:3"
-      ],
-      "tx": 145687500,
-      "repeater": "GB7PS",
-      "rx": 145087500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO90",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SU6501",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -26093,12 +26069,13 @@
     {
       "id": 5309,
       "fac": true,
-      "type": "AV",
+      "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0YDG",
       "town": "CLECKHEATON",
       "modeCodes": [
-        "F"
+        "F",
+        "M:4"
       ],
       "tx": 430987500,
       "repeater": "GB3YN",
@@ -30224,30 +30201,6 @@
       "band": "2M",
       "locator": "IO84OA",
       "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SD5059",
-        "antennaHeight": 18,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 5629,
-      "fac": true,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G8TZJ",
-      "town": "LANCASTER",
-      "modeCodes": [
-        "D"
-      ],
-      "tx": 439537500,
-      "repeater": "GB7LF",
-      "rx": 430537500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO84OA",
-      "dbwErp": 10,
       "extraDetails": {
         "ngr": "SD5059",
         "antennaHeight": 18,
@@ -37705,7 +37658,7 @@
       "id": 6184,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0YDG",
       "town": "WAKEFIELD",
       "modeCodes": [
@@ -40434,7 +40387,7 @@
       "id": 6326,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0ULH",
       "town": "LONDON",
       "modeCodes": [
@@ -40458,7 +40411,7 @@
       "id": 6327,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GW4DVB",
       "town": "BRIDGEND",
       "modeCodes": [
@@ -40520,6 +40473,56 @@
         "ngr": "NZ2617",
         "antennaHeight": 10,
         "polarisation": "H"
+      }
+    },
+    {
+      "id": 6331,
+      "fac": true,
+      "type": "DV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G0BUS",
+      "town": "BEDFORD",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 439537500,
+      "repeater": "GB7KA",
+      "rx": 430537500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO92",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "TL0450",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6332,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4IYT",
+      "town": "LEIGHTON BUZZARD",
+      "modeCodes": [
+        "D",
+        "M:6",
+        "F"
+      ],
+      "tx": 144900000,
+      "repeater": "MB6BZ",
+      "rx": 144900000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO91QV",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SP9323",
+        "antennaHeight": 12,
+        "polarisation": "V"
       }
     }
   ]
