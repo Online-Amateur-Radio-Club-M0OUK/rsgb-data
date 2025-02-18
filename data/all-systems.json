@@ -271,7 +271,7 @@
     {
       "id": 207,
       "fac": false,
-      "type": "AV",
+      "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4EID",
       "town": "SOUTHPORT",
@@ -975,7 +975,7 @@
     {
       "id": 706,
       "fac": false,
-      "type": "AV",
+      "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "GW4KAZ",
       "town": "CAERNARFON",
@@ -1434,7 +1434,7 @@
     {
       "id": 761,
       "fac": false,
-      "type": "AV",
+      "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G1BHM",
       "town": "STIBB CROSS",
@@ -1531,7 +1531,7 @@
     {
       "id": 770,
       "fac": false,
-      "type": "AV",
+      "type": "DM",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "G3ZYC",
       "town": "WIRKSWORTH",
@@ -9633,7 +9633,7 @@
     {
       "id": 3201,
       "fac": true,
-      "type": "AV",
+      "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "GM7LUN",
       "town": "DUNS",
@@ -13357,7 +13357,7 @@
       "id": 3975,
       "fac": false,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4LUE",
       "town": "BARNSLEY",
       "modeCodes": [
@@ -13383,7 +13383,7 @@
       "id": 3976,
       "fac": false,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4LUE",
       "town": "BARNSLEY",
       "modeCodes": [
@@ -13456,7 +13456,7 @@
       "id": 3987,
       "fac": false,
       "type": "DD",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4LUE",
       "town": "BARNSLEY",
       "modeCodes": [
@@ -13480,7 +13480,7 @@
       "id": 3988,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4LUE",
       "town": "BARNSLEY",
       "modeCodes": [
@@ -15803,7 +15803,7 @@
     {
       "id": 4294,
       "fac": false,
-      "type": "AV",
+      "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0VUB",
       "town": "NOTTINGHAM",
@@ -19296,7 +19296,7 @@
     {
       "id": 4737,
       "fac": true,
-      "type": "AV",
+      "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G3VPF",
       "town": "WEYMOUTH",
@@ -20409,7 +20409,7 @@
     {
       "id": 4854,
       "fac": false,
-      "type": "AV",
+      "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G1ZSE",
       "town": "WEYMOUTH",
@@ -21586,7 +21586,7 @@
       "id": 4963,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G1HIG",
       "town": "BECKENHAM",
       "modeCodes": [
@@ -21859,7 +21859,7 @@
     {
       "id": 4989,
       "fac": false,
-      "type": "AV",
+      "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0NFI",
       "town": "PRESCOT",
@@ -24546,7 +24546,7 @@
     {
       "id": 5197,
       "fac": false,
-      "type": "AV",
+      "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4MQQ",
       "town": "WINKLEIGH",
@@ -31981,7 +31981,7 @@
     {
       "id": 5748,
       "fac": true,
-      "type": "AV",
+      "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G6ASK",
       "town": "TIVERTON",
@@ -32253,7 +32253,7 @@
       "id": 5766,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4LUE",
       "town": "BARNSLEY",
       "modeCodes": [
@@ -32641,7 +32641,7 @@
       "id": 5793,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "G8PYT",
       "town": "ROWLEY REGIS",
       "modeCodes": [
@@ -32654,7 +32654,7 @@
       "txbw": 25,
       "band": "23CM",
       "locator": "IO82",
-      "dbwErp": -12.2,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SO9687",
         "antennaHeight": 0,
@@ -32803,31 +32803,6 @@
         "ngr": "SP0785",
         "antennaHeight": 65,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 5804,
-      "fac": true,
-      "type": "DM",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0LLC",
-      "town": "SOUTHPORT",
-      "modeCodes": [
-        "A",
-        "F"
-      ],
-      "tx": 430987500,
-      "repeater": "GB7YS",
-      "rx": 438587500,
-      "ctcss": 67,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO83",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SD3112",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -33514,7 +33489,7 @@
     {
       "id": 5877,
       "fac": true,
-      "type": "DM",
+      "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4YWD",
       "town": "HOOTON  WIRRAL",
@@ -37026,7 +37001,7 @@
     {
       "id": 6149,
       "fac": true,
-      "type": "AV",
+      "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "M1AXM",
       "town": "ILMINSTER",
@@ -39926,7 +39901,7 @@
     {
       "id": 6304,
       "fac": true,
-      "type": "DV",
+      "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0BOY",
       "town": "MILTON KEYNES",
@@ -40176,7 +40151,7 @@
       "id": 6316,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0YDG",
       "town": "WAKEFIELD",
       "modeCodes": [
