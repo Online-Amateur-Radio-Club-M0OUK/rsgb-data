@@ -8108,7 +8108,7 @@
     },
     {
       "id": 2783,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G3KYG",
@@ -24055,30 +24055,6 @@
       }
     },
     {
-      "id": 5164,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G7GAN",
-      "town": "CHELMSFORD",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145337500,
-      "repeater": "MB7IDA",
-      "rx": 145337500,
-      "ctcss": 110.9,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO01GQ",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TL7303",
-        "antennaHeight": 15,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5167,
       "fac": true,
       "type": "AG",
@@ -26525,7 +26501,7 @@
       "id": 5340,
       "fac": false,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4LUE",
       "town": "SHEFFIELD",
       "modeCodes": [
@@ -40343,9 +40319,9 @@
       "modeCodes": [
         "A"
       ],
-      "tx": 145337500,
+      "tx": 144912500,
       "repeater": "MB7IET",
-      "rx": 145337500,
+      "rx": 144912500,
       "ctcss": 118.8,
       "txbw": 12.5,
       "band": "2M",
@@ -40496,6 +40472,50 @@
       "extraDetails": {
         "ngr": "SP9323",
         "antennaHeight": 12,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6334,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0SSK",
+      "town": "BASILDON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145337500,
+      "repeater": "MB7IDA",
+      "rx": 145337500,
+      "ctcss": 110.9,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO01FN",
+      "dbwErp": 7,
+      "extraDetails": null
+    },
+    {
+      "id": 6335,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0UKF",
+      "town": "NEWPORT PAGNELL",
+      "modeCodes": [
+        "M:3"
+      ],
+      "tx": 144837500,
+      "repeater": "MB6NP",
+      "rx": 144837500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO92PB",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SP 8 4",
+        "antennaHeight": 10,
         "polarisation": "V"
       }
     }
