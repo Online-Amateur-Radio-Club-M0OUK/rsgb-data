@@ -2562,30 +2562,6 @@
       }
     },
     {
-      "id": 874,
-      "fac": false,
-      "type": "AV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G4DFB",
-      "town": "NORTH LONDON",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 433050000,
-      "repeater": "GB3LV",
-      "rx": 434650000,
-      "ctcss": 82.5,
-      "txbw": 25,
-      "band": "70CM",
-      "locator": "IO91XP",
-      "dbwErp": 10.5,
-      "extraDetails": {
-        "ngr": "TQ3296",
-        "antennaHeight": 55,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 876,
       "fac": true,
       "type": "TV",
@@ -9139,7 +9115,7 @@
       "id": 3081,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0MNE",
       "town": "GATESHEAD",
       "modeCodes": [
@@ -35963,7 +35939,7 @@
       "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "GM8HWZ",
+      "keeperCallsign": "GM0MEM",
       "town": "LOSSIEMOUTH",
       "modeCodes": [
         "M:1"
@@ -37359,30 +37335,6 @@
         "ngr": "TM1446",
         "antennaHeight": 11,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 6170,
-      "fac": true,
-      "type": "PX",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G4WQG",
-      "town": "BROAD HINTON",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 70337500,
-      "repeater": "GB7BDH",
-      "rx": 70337500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "4M",
-      "locator": "IO91",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SU1176",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -40479,7 +40431,7 @@
       "id": 6334,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0SSK",
       "town": "BASILDON",
       "modeCodes": [
@@ -40505,9 +40457,9 @@
       "modeCodes": [
         "M:3"
       ],
-      "tx": 144837500,
+      "tx": 144850000,
       "repeater": "MB6NP",
-      "rx": 144837500,
+      "rx": 144850000,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "2M",
@@ -40516,6 +40468,54 @@
       "extraDetails": {
         "ngr": "SP 8 4",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6336,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G4WQG",
+      "town": "BROAD HINTON",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 29250000,
+      "repeater": "GB7BDH",
+      "rx": 29250000,
+      "ctcss": 0,
+      "txbw": 10,
+      "band": "",
+      "locator": "IO91",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SU1176",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6337,
+      "fac": true,
+      "type": "AV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G4DFB",
+      "town": "NORTH LONDON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430862500,
+      "repeater": "GB3LV",
+      "rx": 438462500,
+      "ctcss": 82.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91XP",
+      "dbwErp": 10.5,
+      "extraDetails": {
+        "ngr": "TQ3296",
+        "antennaHeight": 55,
         "polarisation": "V"
       }
     }
