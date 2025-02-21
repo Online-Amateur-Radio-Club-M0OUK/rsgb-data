@@ -11696,7 +11696,7 @@
       "id": 3709,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4LUE",
       "town": "BARNSLEY",
       "modeCodes": [
@@ -24983,13 +24983,12 @@
       "id": 5230,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0LLC",
       "town": "MARYPORT",
       "modeCodes": [
         "A",
-        "F",
-        "7"
+        "F"
       ],
       "tx": 438387500,
       "repeater": "GB3CU",
@@ -24998,7 +24997,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO84GQ",
-      "dbwErp": 10,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "NY0533",
         "antennaHeight": 8,
@@ -25361,31 +25360,6 @@
       "extraDetails": {
         "ngr": "SK3589",
         "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 5256,
-      "fac": true,
-      "type": "DM",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0LLC",
-      "town": "MARYPORT",
-      "modeCodes": [
-        "A",
-        "F"
-      ],
-      "tx": 145637500,
-      "repeater": "GB3MX",
-      "rx": 145037500,
-      "ctcss": 77,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO84GQ",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NY0533",
-        "antennaHeight": 8,
         "polarisation": "V"
       }
     },
@@ -26621,7 +26595,7 @@
       "id": 5354,
       "fac": true,
       "type": "DM",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7RUP",
       "town": "LINCOLN",
       "modeCodes": [
@@ -29717,30 +29691,6 @@
       }
     },
     {
-      "id": 5597,
-      "fac": true,
-      "type": "PX",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "2E0HKD",
-      "town": "BASINGSTOKE",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144950000,
-      "repeater": "GB7BSK",
-      "rx": 144950000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO91KG",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SU6153",
-        "antennaHeight": 7,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5599,
       "fac": true,
       "type": "DM",
@@ -32630,7 +32580,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO75OP",
-      "dbwErp": 3,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "NS2343",
         "antennaHeight": 7,
@@ -34731,7 +34681,7 @@
       "tx": 430100000,
       "repeater": "MB7IDW",
       "rx": 430100000,
-      "ctcss": 94.8,
+      "ctcss": 203.5,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO93ID",
@@ -38926,7 +38876,7 @@
     {
       "id": 6259,
       "fac": true,
-      "type": "DV",
+      "type": "DG",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "2E0LLD",
       "town": "TITCHFIELD ",
@@ -40516,6 +40466,102 @@
       "extraDetails": {
         "ngr": "TQ3296",
         "antennaHeight": 55,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6339,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G0TPZ",
+      "town": "HALESOWEN",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145212500,
+      "repeater": "G0TPZ",
+      "rx": 145212500,
+      "ctcss": 67,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO82",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SO9384",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6340,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "2E0HKD",
+      "town": "BASINGSTOKE",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UBK",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO91KG",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SU6153",
+        "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6341,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0ZAH",
+      "town": "DISS",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "M0ZAH",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO02",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TM1579",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6342,
+      "fac": true,
+      "type": "DM",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0LLC",
+      "town": "WORKINGTON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145637500,
+      "repeater": "GB3MX",
+      "rx": 145037500,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO84FP",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NX9926",
+        "antennaHeight": 6,
         "polarisation": "V"
       }
     }
