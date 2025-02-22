@@ -3574,7 +3574,7 @@
       "id": 989,
       "fac": false,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4KVI",
       "town": "BATH AVON",
       "modeCodes": [
@@ -19201,7 +19201,7 @@
       "id": 4734,
       "fac": true,
       "type": "PN",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M1MIT",
       "town": "WYMONDHAM",
       "modeCodes": [
@@ -29188,7 +29188,7 @@
       "id": 5556,
       "fac": true,
       "type": "DM",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G6JME",
       "town": "EASTBOURNE",
       "modeCodes": [
@@ -32833,7 +32833,7 @@
       "id": 5813,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G6YIQ",
       "town": "STEVENAGE OLD TOWN",
       "modeCodes": [
@@ -36832,7 +36832,7 @@
       "id": 6142,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "G6YIQ",
       "town": "HITCHIN",
       "modeCodes": [
@@ -38874,6 +38874,30 @@
       }
     },
     {
+      "id": 6258,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GW6RTV",
+      "town": "COEDKERNEW",
+      "modeCodes": [
+        "M:1"
+      ],
+      "tx": 145637500,
+      "repeater": "GB7DU",
+      "rx": 145037500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO81LN",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "ST2884",
+        "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 6259,
       "fac": true,
       "type": "DG",
@@ -40473,7 +40497,7 @@
       "id": 6339,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0TPZ",
       "town": "HALESOWEN",
       "modeCodes": [
