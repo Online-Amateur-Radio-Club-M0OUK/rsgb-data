@@ -2613,7 +2613,7 @@
       "id": 884,
       "fac": false,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "G7KBR",
       "town": "EAST GRINSTEAD",
       "modeCodes": [
@@ -3574,7 +3574,7 @@
       "id": 989,
       "fac": false,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4KVI",
       "town": "BATH AVON",
       "modeCodes": [
@@ -17275,7 +17275,7 @@
     },
     {
       "id": 4446,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0WTZ",
@@ -40497,7 +40497,7 @@
       "id": 6339,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0TPZ",
       "town": "HALESOWEN",
       "modeCodes": [
@@ -40586,6 +40586,30 @@
       "extraDetails": {
         "ngr": "NX9926",
         "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6343,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G7HMV",
+      "town": "WOBURN SANDS",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 439350000,
+      "repeater": "GB3MU",
+      "rx": 430350000,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO92QA",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SP9236",
+        "antennaHeight": 10,
         "polarisation": "V"
       }
     }
