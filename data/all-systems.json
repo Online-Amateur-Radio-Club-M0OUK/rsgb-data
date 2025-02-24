@@ -4492,7 +4492,9 @@
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "GW3TKH",
       "town": "CARDIFF",
-      "modeCodes": null,
+      "modeCodes": [
+        "B"
+      ],
       "tx": 24048940000,
       "repeater": "GB3AMU",
       "rx": 0,
@@ -10970,30 +10972,6 @@
       "extraDetails": {
         "ngr": "SJ2166",
         "antennaHeight": 7,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 3542,
-      "fac": true,
-      "type": "RL",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G4OCO",
-      "town": "ST COLUMB",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145125000,
-      "repeater": "GB3NC-L",
-      "rx": 145725000,
-      "ctcss": 77,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO70MK",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SW9163",
-        "antennaHeight": 3,
         "polarisation": "V"
       }
     },
@@ -34487,7 +34465,9 @@
       "status": "OPERATIONAL",
       "keeperCallsign": "M0DKR",
       "town": "LYTHAM",
-      "modeCodes": null,
+      "modeCodes": [
+        "A"
+      ],
       "tx": 145237500,
       "repeater": "MB7ILM",
       "rx": 0,
@@ -34509,7 +34489,9 @@
       "status": "OPERATIONAL",
       "keeperCallsign": "G6MHO",
       "town": "BURY",
-      "modeCodes": null,
+      "modeCodes": [
+        "A"
+      ],
       "tx": 145337500,
       "repeater": "MB7IBC",
       "rx": 0,
@@ -37929,7 +37911,9 @@
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "G3ZXX",
       "town": "SILVERTON",
-      "modeCodes": null,
+      "modeCodes": [
+        "M:7"
+      ],
       "tx": 145625000,
       "repeater": "GB7DW",
       "rx": 145025000,
@@ -38877,7 +38861,7 @@
       "id": 6258,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "GW6RTV",
       "town": "COEDKERNEW",
       "modeCodes": [
@@ -39616,7 +39600,9 @@
       "status": "OPERATIONAL",
       "keeperCallsign": "GM5AUG",
       "town": "NEWTON MEARNS",
-      "modeCodes": null,
+      "modeCodes": [
+        "X"
+      ],
       "tx": 70487500,
       "repeater": "GB7AUG",
       "rx": 70487500,
@@ -40611,6 +40597,54 @@
         "ngr": "SP9236",
         "antennaHeight": 10,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6344,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0KPQ",
+      "town": "SEATON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 438400000,
+      "repeater": "M0KPQ",
+      "rx": 430800000,
+      "ctcss": 141.3,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO80",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "SY2289",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6345,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G1SOM",
+      "town": "SEATON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430987500,
+      "repeater": "G1SOM",
+      "rx": 438587500,
+      "ctcss": 141.3,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO80",
+      "dbwErp": 9.5,
+      "extraDetails": {
+        "ngr": "SY1989",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
