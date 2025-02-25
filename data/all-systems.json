@@ -36053,7 +36053,7 @@
       "rx": 439912500,
       "ctcss": 0,
       "txbw": 125,
-      "band": "",
+      "band": "70CM",
       "locator": "IO75VV",
       "dbwErp": -7,
       "extraDetails": {
@@ -37055,7 +37055,7 @@
       "id": 6157,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0VOB",
       "town": "KIPPAX",
       "modeCodes": [
@@ -37763,7 +37763,7 @@
       "id": 6199,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GW4EHZ",
       "town": "RHYL",
       "modeCodes": [
@@ -40365,7 +40365,7 @@
       "id": 6332,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4IYT",
       "town": "LEIGHTON BUZZARD",
       "modeCodes": [
@@ -40446,7 +40446,7 @@
       "rx": 29250000,
       "ctcss": 0,
       "txbw": 10,
-      "band": "",
+      "band": "10M",
       "locator": "IO91",
       "dbwErp": 14,
       "extraDetails": {
