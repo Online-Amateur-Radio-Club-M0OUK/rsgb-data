@@ -12405,7 +12405,7 @@
     },
     {
       "id": 3840,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G7TXU",
@@ -19176,30 +19176,6 @@
       }
     },
     {
-      "id": 4734,
-      "fac": true,
-      "type": "PN",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M1MIT",
-      "town": "WYMONDHAM",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144950000,
-      "repeater": "MB7NAF",
-      "rx": 144950000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO02NN",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TG1000",
-        "antennaHeight": 25,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 4735,
       "fac": true,
       "type": "AG",
@@ -23410,7 +23386,7 @@
       "id": 5120,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0MZF",
       "town": "WINCHESTER",
       "modeCodes": [
@@ -35235,30 +35211,6 @@
       }
     },
     {
-      "id": 6018,
-      "fac": true,
-      "type": "PX",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G8WBI",
-      "town": "BRIGHTON",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 70487500,
-      "repeater": "GB7BTN",
-      "rx": 70487500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "4M",
-      "locator": "IO90",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TQ3004",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6019,
       "fac": true,
       "type": "AG",
@@ -38166,7 +38118,7 @@
       "id": 6221,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4WQG",
       "town": "RAMSBURY",
       "modeCodes": [
@@ -40417,12 +40369,12 @@
       "modeCodes": [
         "M:3"
       ],
-      "tx": 144850000,
+      "tx": 434525000,
       "repeater": "MB6NP",
-      "rx": 144850000,
+      "rx": 434525000,
       "ctcss": 0,
       "txbw": 12.5,
-      "band": "2M",
+      "band": "70CM",
       "locator": "IO92PB",
       "dbwErp": 7,
       "extraDetails": {
@@ -40483,7 +40435,7 @@
       "id": 6339,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0TPZ",
       "town": "HALESOWEN",
       "modeCodes": [
