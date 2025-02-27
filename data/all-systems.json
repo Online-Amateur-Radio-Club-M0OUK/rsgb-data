@@ -21516,7 +21516,7 @@
       "id": 4963,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G1HIG",
       "town": "BECKENHAM",
       "modeCodes": [
@@ -36766,7 +36766,7 @@
       "id": 6142,
       "fac": true,
       "type": "AG",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G6YIQ",
       "town": "HITCHIN",
       "modeCodes": [
@@ -40041,7 +40041,7 @@
       "id": 6319,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2M0YMZ",
       "town": "BEITH",
       "modeCodes": [
