@@ -28825,7 +28825,7 @@
       "id": 5532,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0VNY",
       "town": "BURNLEY",
       "modeCodes": [
