@@ -28157,60 +28157,6 @@
       }
     },
     {
-      "id": 5473,
-      "fac": true,
-      "type": "DM",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G7RZU",
-      "town": "BARNHAM",
-      "modeCodes": [
-        "A",
-        "D",
-        "M:4",
-        "F",
-        "P",
-        "N",
-        "7"
-      ],
-      "tx": 145712500,
-      "repeater": "GB7FR",
-      "rx": 145112500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO90",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SU9604",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 5475,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "MM3DDQ",
-      "town": "ALEXANDRIA",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 431100000,
-      "repeater": "MB6DQ",
-      "rx": 431100000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO75RX",
-      "dbwErp": -12.2,
-      "extraDetails": {
-        "ngr": "NS4078",
-        "antennaHeight": 11,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5477,
       "fac": true,
       "type": "DM",
@@ -40597,6 +40543,30 @@
         "ngr": "SY1989",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6347,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MM3DDQ",
+      "town": "ALEXANDRIA",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430012500,
+      "repeater": "MB7IDQ",
+      "rx": 430012500,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO75RX",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NS4078",
+        "antennaHeight": 11,
+        "polarisation": "V"
       }
     }
   ]
