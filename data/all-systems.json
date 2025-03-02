@@ -19846,7 +19846,7 @@
     },
     {
       "id": 4813,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0JGX",
@@ -24280,7 +24280,7 @@
       "id": 5190,
       "fac": false,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7TRL",
       "town": "LONGRIDGE",
       "modeCodes": [
@@ -37666,7 +37666,10 @@
       "town": "RHYL",
       "modeCodes": [
         "A",
-        "M:1"
+        "M:1",
+        "D",
+        "F",
+        "N"
       ],
       "tx": 439350000,
       "repeater": "GB7SA",
@@ -37674,12 +37677,12 @@
       "ctcss": 103.5,
       "txbw": 12.5,
       "band": "70CM",
-      "locator": "IO83GG",
+      "locator": "IO83",
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "SJ0277",
-        "antennaHeight": 10,
-        "polarisation": "V"
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     },
     {
@@ -38286,12 +38289,13 @@
       "keeperCallsign": "2E1THX",
       "town": "CAULDON LOW",
       "modeCodes": [
+        "A",
         "F"
       ],
       "tx": 439550000,
       "repeater": "GB7AT",
       "rx": 430550000,
-      "ctcss": 0,
+      "ctcss": 77,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO93",
@@ -39421,7 +39425,7 @@
       "id": 6292,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4LUE",
       "town": "HULL",
       "modeCodes": [
@@ -40566,6 +40570,30 @@
       "extraDetails": {
         "ngr": "NS4078",
         "antennaHeight": 11,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6348,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G7TRL",
+      "town": "PRESTON",
+      "modeCodes": [
+        "M:1"
+      ],
+      "tx": 431100000,
+      "repeater": "MB6TL",
+      "rx": 431100000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83PS",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SD5032",
+        "antennaHeight": 7,
         "polarisation": "V"
       }
     }
