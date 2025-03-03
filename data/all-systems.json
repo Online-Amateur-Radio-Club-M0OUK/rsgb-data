@@ -20782,31 +20782,6 @@
       }
     },
     {
-      "id": 4897,
-      "fac": true,
-      "type": "DM",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0DUB",
-      "town": "WAKEFIELD",
-      "modeCodes": [
-        "A",
-        "F"
-      ],
-      "tx": 439512500,
-      "repeater": "GB7WY",
-      "rx": 430512500,
-      "ctcss": 82.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO93FR",
-      "dbwErp": 10,
-      "extraDetails": {
-        "ngr": "SE3024",
-        "antennaHeight": 20,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 4900,
       "fac": true,
       "type": "DG",
@@ -39668,7 +39643,7 @@
       "id": 6303,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4IYT",
       "town": "LEIGHTON BUZZARD",
       "modeCodes": [
@@ -39759,6 +39734,30 @@
         "ngr": "SP0170",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6307,
+      "fac": true,
+      "type": "TV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G8VDP",
+      "town": "BARNSLEY",
+      "modeCodes": [
+        "T"
+      ],
+      "tx": 1316000000,
+      "repeater": "GB3YT",
+      "rx": 1276000000,
+      "ctcss": 0,
+      "txbw": 1600,
+      "band": "23CM",
+      "locator": "IO93GM",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SE3401",
+        "antennaHeight": 15,
+        "polarisation": "H"
       }
     },
     {
@@ -39893,7 +39892,7 @@
       "id": 6313,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M5WOB",
       "town": "CORBY",
       "modeCodes": [
@@ -40267,7 +40266,7 @@
       "id": 6332,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4IYT",
       "town": "LEIGHTON BUZZARD",
       "modeCodes": [
@@ -40595,6 +40594,51 @@
         "ngr": "SD5032",
         "antennaHeight": 7,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6349,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "2E0SOH",
+      "town": "RAMSGATE",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7URM",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO01",
+      "dbwErp": 14,
+      "extraDetails": null
+    },
+    {
+      "id": 6350,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0ZAH",
+      "town": "SCOLE",
+      "modeCodes": [
+        "D",
+        "F"
+      ],
+      "tx": 144887500,
+      "repeater": "M0ZAH",
+      "rx": 144887500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO02",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TM1579",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
