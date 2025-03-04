@@ -38137,30 +38137,6 @@
       }
     },
     {
-      "id": 6226,
-      "fac": true,
-      "type": "PX",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0CRT",
-      "town": "DINNINGTON",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 7050500,
-      "repeater": "GB7DIN",
-      "rx": 7050500,
-      "ctcss": 0,
-      "txbw": 2.7,
-      "band": "40M",
-      "locator": "IO93JJ",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SK5387",
-        "antennaHeight": 10,
-        "polarisation": "H"
-      }
-    },
-    {
       "id": 6227,
       "fac": true,
       "type": "DG",
@@ -40639,6 +40615,54 @@
         "ngr": "TM1579",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6352,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G7RZU",
+      "town": "BARNHAM",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 7050100,
+      "repeater": "GB7BAR",
+      "rx": 7050100,
+      "ctcss": 0,
+      "txbw": 2.5,
+      "band": "40M",
+      "locator": "IO90",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SU9604",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6353,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2E0JML",
+      "town": "CAISTER ON SEA",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145287500,
+      "repeater": "MB7ICS",
+      "rx": 145287500,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO02UP",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TG5211",
+        "antennaHeight": 10,
+        "polarisation": "V"
       }
     }
   ]
