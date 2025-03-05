@@ -24958,30 +24958,6 @@
       }
     },
     {
-      "id": 5233,
-      "fac": true,
-      "type": "AP",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G3ARX",
-      "town": "BRACKNELL",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144800000,
-      "repeater": "MB7UKB",
-      "rx": 144800000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO91",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SU8669",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 5234,
       "fac": false,
       "type": "DM",
@@ -39143,7 +39119,7 @@
       "id": 6281,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G6VBJ",
       "town": "NEW ASH GREEN",
       "modeCodes": [
@@ -39619,7 +39595,7 @@
       "id": 6303,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4IYT",
       "town": "LEIGHTON BUZZARD",
       "modeCodes": [
@@ -40242,7 +40218,7 @@
       "id": 6332,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4IYT",
       "town": "LEIGHTON BUZZARD",
       "modeCodes": [
@@ -40663,6 +40639,78 @@
         "ngr": "TG5211",
         "antennaHeight": 10,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6354,
+      "fac": true,
+      "type": "PX",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G8IPG",
+      "town": "WINCHESTER",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 50650000,
+      "repeater": "GB7WIN",
+      "rx": 50650000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO91HB",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SU4529",
+        "antennaHeight": 40,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6355,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G3ARX",
+      "town": "WOKINGHAM",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UKB",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO91",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SU8069",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6356,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0PTN",
+      "town": "REDDITCH",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430100000,
+      "repeater": "MB7IXO",
+      "rx": 430100000,
+      "ctcss": 67,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO92",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SP0368",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
