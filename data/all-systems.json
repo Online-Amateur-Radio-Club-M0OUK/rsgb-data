@@ -23385,7 +23385,7 @@
       "id": 5123,
       "fac": false,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G1JSP",
       "town": "CORBY",
       "modeCodes": [
@@ -38289,7 +38289,7 @@
         "M:9"
       ],
       "tx": 433137500,
-      "repeater": "2E0ISI",
+      "repeater": "GB7YC",
       "rx": 438137500,
       "ctcss": 0,
       "txbw": 12.5,
@@ -40236,6 +40236,30 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "SP9323",
+        "antennaHeight": 12,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6333,
+      "fac": true,
+      "type": "DD",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0YDG",
+      "town": "WAKEFIELD",
+      "modeCodes": [
+        "D"
+      ],
+      "tx": 1241375000,
+      "repeater": "MB5WB-A",
+      "rx": 1241375000,
+      "ctcss": 0,
+      "txbw": 150,
+      "band": "23CM",
+      "locator": "IO93HP",
+      "dbwErp": 11.8,
+      "extraDetails": {
+        "ngr": "SE3814",
         "antennaHeight": 12,
         "polarisation": "V"
       }
