@@ -16552,7 +16552,7 @@
       "id": 4371,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GW0UXJ",
       "town": "MERTHYR TYDFIL",
       "modeCodes": [
@@ -22502,7 +22502,7 @@
       "id": 5060,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GW0UXJ",
       "town": "MERTHYR TYDFIL",
       "modeCodes": [
@@ -37712,7 +37712,7 @@
       "id": 6204,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GI4RNP",
       "town": "NEWTOWNABBEY",
       "modeCodes": [
@@ -40456,7 +40456,7 @@
       "id": 6343,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7HMV",
       "town": "WOBURN SANDS",
       "modeCodes": [
@@ -40733,6 +40733,30 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "SP0368",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6357,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0ZZT",
+      "town": "TIVERTON",
+      "modeCodes": [
+        "M:1"
+      ],
+      "tx": 439562500,
+      "repeater": "GB7MZ",
+      "rx": 430562500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO80",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SS9211",
         "antennaHeight": 0,
         "polarisation": ""
       }
