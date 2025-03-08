@@ -35971,7 +35971,7 @@
         "D"
       ],
       "tx": 439537500,
-      "repeater": "MB5YN",
+      "repeater": "MB5WB-B",
       "rx": 430537500,
       "ctcss": 88.5,
       "txbw": 12.5,
@@ -40759,6 +40759,30 @@
         "ngr": "SS9211",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6358,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM0NRT",
+      "town": "ABERDEEN",
+      "modeCodes": [
+        "M:11"
+      ],
+      "tx": 439425000,
+      "repeater": "GB7EM",
+      "rx": 430425000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO87WD",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NJ9204",
+        "antennaHeight": 10,
+        "polarisation": "V"
       }
     }
   ]
