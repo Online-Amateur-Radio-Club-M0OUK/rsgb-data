@@ -14587,7 +14587,7 @@
       "id": 4138,
       "fac": false,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G8KHF",
       "town": "DAVENTRY",
       "modeCodes": [
@@ -35979,7 +35979,7 @@
       "locator": "IO93HP",
       "dbwErp": 14,
       "extraDetails": {
-        "ngr": "SE3808",
+        "ngr": "SE3814",
         "antennaHeight": 7,
         "polarisation": "V"
       }
@@ -38306,7 +38306,7 @@
       "id": 6238,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M1AXM",
       "town": "SIDMOUTH",
       "modeCodes": [
@@ -40528,7 +40528,7 @@
       "id": 6347,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM3DDQ",
       "town": "ALEXANDRIA",
       "modeCodes": [
