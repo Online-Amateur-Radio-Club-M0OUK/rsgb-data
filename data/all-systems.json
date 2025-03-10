@@ -4390,30 +4390,6 @@
       }
     },
     {
-      "id": 1202,
-      "fac": false,
-      "type": "TV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M1EGI",
-      "town": "MIRFIELD",
-      "modeCodes": [
-        "T"
-      ],
-      "tx": 1316000000,
-      "repeater": "GB3YT",
-      "rx": 1276000000,
-      "ctcss": 0,
-      "txbw": 4000,
-      "band": "23CM",
-      "locator": "IO93DP",
-      "dbwErp": 16,
-      "extraDetails": {
-        "ngr": "SE1918",
-        "antennaHeight": 10,
-        "polarisation": "H"
-      }
-    },
-    {
       "id": 1231,
       "fac": true,
       "type": "PN",
@@ -22576,9 +22552,9 @@
     },
     {
       "id": 5066,
-      "fac": false,
+      "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM8SJP",
       "town": "HAWICK",
       "modeCodes": [
@@ -22592,7 +22568,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO85",
-      "dbwErp": 13,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "NT5316",
         "antennaHeight": 0,
@@ -23164,7 +23140,7 @@
       "fac": false,
       "type": "DV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "GM0NRT",
+      "keeperCallsign": "GM0APN",
       "town": "ABERDEEN",
       "modeCodes": [
         "M:11"
@@ -37341,7 +37317,7 @@
       "id": 6184,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0YDG",
       "town": "WAKEFIELD",
       "modeCodes": [
@@ -40782,6 +40758,50 @@
       "extraDetails": {
         "ngr": "NJ9204",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6359,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MM3DDQ",
+      "town": "ALEXANDRIA",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 70350000,
+      "repeater": "MB7IDR",
+      "rx": 70350000,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "4M",
+      "locator": "IO75QX",
+      "dbwErp": 7,
+      "extraDetails": null
+    },
+    {
+      "id": 6360,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM0APN",
+      "town": "INVERURIE",
+      "modeCodes": [
+        "M:5"
+      ],
+      "tx": 439450000,
+      "repeater": "GB7EN",
+      "rx": 430450000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO87UH",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NJ8124",
+        "antennaHeight": 13,
         "polarisation": "V"
       }
     }
