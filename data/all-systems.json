@@ -4152,7 +4152,7 @@
       "id": 1073,
       "fac": false,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G1IRG",
       "town": "NORTHAMPTON",
       "modeCodes": [
@@ -23136,30 +23136,6 @@
       }
     },
     {
-      "id": 5102,
-      "fac": false,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GM0APN",
-      "town": "ABERDEEN",
-      "modeCodes": [
-        "M:11"
-      ],
-      "tx": 430925000,
-      "repeater": "GB7EC",
-      "rx": 438525000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO87",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NJ9204",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 5105,
       "fac": true,
       "type": "DG",
@@ -38281,16 +38257,17 @@
     {
       "id": 6238,
       "fac": true,
-      "type": "AV",
+      "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "M1AXM",
       "town": "SIDMOUTH",
       "modeCodes": [
-        "A"
+        "A",
+        "M:10"
       ],
-      "tx": 430900000,
+      "tx": 430925000,
       "repeater": "GB7SX",
-      "rx": 438500000,
+      "rx": 438525000,
       "ctcss": 77,
       "txbw": 12.5,
       "band": "70CM",
@@ -40787,13 +40764,13 @@
       "type": "DV",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM0APN",
-      "town": "INVERURIE",
+      "town": "OLDMELDRUM",
       "modeCodes": [
         "M:5"
       ],
-      "tx": 439450000,
-      "repeater": "GB7EN",
-      "rx": 430450000,
+      "tx": 430925000,
+      "repeater": "GB7EC",
+      "rx": 438525000,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
@@ -40803,6 +40780,30 @@
         "ngr": "NJ8124",
         "antennaHeight": 13,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6361,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0OGR",
+      "town": "MIRFIELD",
+      "modeCodes": [
+        "M:2"
+      ],
+      "tx": 431062500,
+      "repeater": "MB6MI",
+      "rx": 431062500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SE1920",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
