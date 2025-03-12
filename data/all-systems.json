@@ -12456,31 +12456,6 @@
       }
     },
     {
-      "id": 3855,
-      "fac": false,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0VUB",
-      "town": "NOTTINGHAM",
-      "modeCodes": [
-        "D",
-        "M:1"
-      ],
-      "tx": 439437500,
-      "repeater": "GB7NR",
-      "rx": 430437500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO92KX",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SK5943",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 3864,
       "fac": true,
       "type": "AP",
@@ -14561,9 +14536,9 @@
     },
     {
       "id": 4138,
-      "fac": false,
+      "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G8KHF",
       "town": "DAVENTRY",
       "modeCodes": [
@@ -17322,30 +17297,6 @@
       "extraDetails": {
         "ngr": "NY8456",
         "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 4453,
-      "fac": true,
-      "type": "AG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GW4UAJ",
-      "town": "CWMBACH",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 144962500,
-      "repeater": "MB7INX",
-      "rx": 144962500,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO81GQ",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SO0102",
-        "antennaHeight": 4,
         "polarisation": "V"
       }
     },
@@ -38265,9 +38216,9 @@
         "A",
         "M:10"
       ],
-      "tx": 430925000,
+      "tx": 430987500,
       "repeater": "GB7SX",
-      "rx": 438525000,
+      "rx": 438587500,
       "ctcss": 77,
       "txbw": 12.5,
       "band": "70CM",
@@ -39871,7 +39822,7 @@
       "id": 6317,
       "fac": true,
       "type": "RN",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "G1TZC",
       "town": "WYTHALL",
       "modeCodes": [
@@ -40313,7 +40264,7 @@
       "id": 6339,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0TPZ",
       "town": "HALESOWEN",
       "modeCodes": [
@@ -40786,7 +40737,7 @@
       "id": 6361,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0OGR",
       "town": "MIRFIELD",
       "modeCodes": [
@@ -40802,6 +40753,54 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "SE1920",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6362,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G7HIF",
+      "town": "POTCOTE",
+      "modeCodes": [
+        "D"
+      ],
+      "tx": 430275000,
+      "repeater": "GB7NP",
+      "rx": 439275000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO92LD",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SP6652",
+        "antennaHeight": 40,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6363,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G1JSF",
+      "town": "MIDDLESBROUGH",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 144887500,
+      "repeater": "G1JSF",
+      "rx": 144887500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO94",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NZ4714",
         "antennaHeight": 0,
         "polarisation": ""
       }
