@@ -7547,7 +7547,7 @@
     },
     {
       "id": 2653,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GM4AUP",
@@ -12453,6 +12453,31 @@
         "ngr": "TQ4467",
         "antennaHeight": 15,
         "polarisation": "H"
+      }
+    },
+    {
+      "id": 3855,
+      "fac": false,
+      "type": "DV",
+      "status": "CLOSED DOWN",
+      "keeperCallsign": "M0VUB",
+      "town": "NOTTINGHAM",
+      "modeCodes": [
+        "D",
+        "M:1"
+      ],
+      "tx": 439437500,
+      "repeater": "GB7NR",
+      "rx": 430437500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO92KX",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SK5943",
+        "antennaHeight": 10,
+        "polarisation": "V"
       }
     },
     {
@@ -19788,7 +19813,7 @@
       "txbw": 25,
       "band": "70CM",
       "locator": "JO02TK",
-      "dbwErp": 3.8,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "TM4488",
         "antennaHeight": 3,
@@ -28625,7 +28650,7 @@
       "id": 5532,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "M0VNY",
       "town": "BURNLEY",
       "modeCodes": [
@@ -39822,7 +39847,7 @@
       "id": 6317,
       "fac": true,
       "type": "RN",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G1TZC",
       "town": "WYTHALL",
       "modeCodes": [
@@ -40713,7 +40738,7 @@
       "id": 6360,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM0APN",
       "town": "OLDMELDRUM",
       "modeCodes": [
@@ -40785,14 +40810,14 @@
       "id": 6363,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G1JSF",
       "town": "MIDDLESBROUGH",
       "modeCodes": [
         "F"
       ],
       "tx": 144887500,
-      "repeater": "G1JSF",
+      "repeater": "MB6JP",
       "rx": 144887500,
       "ctcss": 0,
       "txbw": 12.5,
@@ -40804,6 +40829,26 @@
         "antennaHeight": 0,
         "polarisation": ""
       }
+    },
+    {
+      "id": 6365,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0ZZT",
+      "town": "TIVERTON",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 145575000,
+      "repeater": "GB7MX",
+      "rx": 144975000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO80",
+      "dbwErp": 7,
+      "extraDetails": null
     }
   ]
 }
