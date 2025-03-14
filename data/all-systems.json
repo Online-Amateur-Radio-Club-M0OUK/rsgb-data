@@ -3502,7 +3502,7 @@
       "id": 981,
       "fac": false,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G8XST",
       "town": "TORQUAY",
       "modeCodes": [
@@ -34138,30 +34138,6 @@
       }
     },
     {
-      "id": 5946,
-      "fac": true,
-      "type": "AV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G4LUE",
-      "town": "BARNSLEY",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 439450000,
-      "repeater": "GB7NA-P",
-      "rx": 430450000,
-      "ctcss": 71.9,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO93SE",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SE3907",
-        "antennaHeight": 12,
-        "polarisation": "H"
-      }
-    },
-    {
       "id": 5948,
       "fac": true,
       "type": "PX",
@@ -36856,7 +36832,7 @@
       "id": 6158,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G7SMD",
       "town": "LONDON",
       "modeCodes": [
@@ -40700,9 +40676,9 @@
       "modeCodes": [
         "M:11"
       ],
-      "tx": 439425000,
+      "tx": 430975000,
       "repeater": "GB7EM",
-      "rx": 430425000,
+      "rx": 438575000,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
@@ -40848,6 +40824,50 @@
       "band": "2M",
       "locator": "IO80",
       "dbwErp": 7,
+      "extraDetails": null
+    },
+    {
+      "id": 6366,
+      "fac": true,
+      "type": "PX",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0ZZT",
+      "town": "TIVERTON",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 50650000,
+      "repeater": "GB7TIV",
+      "rx": 50650000,
+      "ctcss": 0,
+      "txbw": 10,
+      "band": "6M",
+      "locator": "IO80",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SS9211",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6367,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "2E0SOH",
+      "town": "RAMSGATE",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 433800000,
+      "repeater": "MB7URM",
+      "rx": 433800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO01",
+      "dbwErp": 11.8,
       "extraDetails": null
     }
   ]
