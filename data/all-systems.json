@@ -12457,13 +12457,12 @@
     },
     {
       "id": 3855,
-      "fac": false,
+      "fac": true,
       "type": "DV",
-      "status": "CLOSED DOWN",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0VUB",
       "town": "NOTTINGHAM",
       "modeCodes": [
-        "D",
         "M:1"
       ],
       "tx": 439437500,
@@ -12506,7 +12505,7 @@
     },
     {
       "id": 3871,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0XRS",
@@ -36832,7 +36831,7 @@
       "id": 6158,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7SMD",
       "town": "LONDON",
       "modeCodes": [
@@ -40676,9 +40675,9 @@
       "modeCodes": [
         "M:11"
       ],
-      "tx": 430975000,
+      "tx": 439425000,
       "repeater": "GB7EM",
-      "rx": 438575000,
+      "rx": 430425000,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
@@ -40869,6 +40868,30 @@
       "locator": "JO01",
       "dbwErp": 11.8,
       "extraDetails": null
+    },
+    {
+      "id": 6368,
+      "fac": true,
+      "type": "PX",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0ZZT",
+      "town": "EXETER",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 50650000,
+      "repeater": "GB7EXE",
+      "rx": 50650000,
+      "ctcss": 0,
+      "txbw": 10,
+      "band": "6M",
+      "locator": "IO80FR",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SX9393",
+        "antennaHeight": 5,
+        "polarisation": "V"
+      }
     }
   ]
 }
