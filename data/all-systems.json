@@ -17182,7 +17182,7 @@
       "id": 4444,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "2E1HWE",
       "town": "WESTCLIFF ON SEA",
       "modeCodes": [
@@ -20705,31 +20705,6 @@
         "ngr": "SZ0178",
         "antennaHeight": 0,
         "polarisation": ""
-      }
-    },
-    {
-      "id": 4896,
-      "fac": true,
-      "type": "DM",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GM4WMM",
-      "town": "KIRKWALL",
-      "modeCodes": [
-        "A",
-        "M:1"
-      ],
-      "tx": 439462500,
-      "repeater": "GB7OR",
-      "rx": 430462500,
-      "ctcss": 162.2,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO88LX",
-      "dbwErp": 11.8,
-      "extraDetails": {
-        "ngr": "HY4111",
-        "antennaHeight": 17,
-        "polarisation": "V"
       }
     },
     {
@@ -31536,7 +31511,7 @@
       "id": 5741,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "2E1HWE",
       "town": "WESTCLIFF ON SEA",
       "modeCodes": [
@@ -31662,7 +31637,7 @@
       "id": 5748,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G6ASK",
       "town": "TIVERTON",
       "modeCodes": [
@@ -40669,7 +40644,7 @@
       "id": 6358,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM0NRT",
       "town": "ABERDEEN",
       "modeCodes": [
