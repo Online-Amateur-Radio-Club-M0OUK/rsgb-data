@@ -7870,7 +7870,7 @@
       "id": 2763,
       "fac": false,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4RKY",
       "town": "CHEDDAR",
       "modeCodes": [
@@ -9906,7 +9906,7 @@
       "id": 3276,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4RKY",
       "town": "CHARTERHOUSE",
       "modeCodes": [
@@ -39447,30 +39447,6 @@
       }
     },
     {
-      "id": 6302,
-      "fac": true,
-      "type": "DG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GM0NRT",
-      "town": "ABERDEEN",
-      "modeCodes": [
-        "M:11"
-      ],
-      "tx": 431087500,
-      "repeater": "GM0NRT",
-      "rx": 431087500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO87WD",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "NJ9204",
-        "antennaHeight": 9,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6303,
       "fac": true,
       "type": "AG",
@@ -40867,6 +40843,46 @@
         "antennaHeight": 5,
         "polarisation": "V"
       }
+    },
+    {
+      "id": 6369,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "2E0SOH",
+      "town": "RAMSGATE",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "MB7URM",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "JO01",
+      "dbwErp": -7,
+      "extraDetails": null
+    },
+    {
+      "id": 6370,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G1BHM",
+      "town": "BRAYFORD NORTH DEVON",
+      "modeCodes": [
+        "M:1"
+      ],
+      "tx": 439662500,
+      "repeater": "GB3XM",
+      "rx": 430662500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81",
+      "dbwErp": 14,
+      "extraDetails": null
     }
   ]
 }
