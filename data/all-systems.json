@@ -29183,7 +29183,7 @@
       "id": 5576,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM4CCN",
       "town": "DULNAIN BRIDGE",
       "modeCodes": [
@@ -30126,7 +30126,7 @@
       "id": 5644,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0MBA",
       "town": "CLACTON ON SEA",
       "modeCodes": [
@@ -37640,7 +37640,7 @@
       "type": "DV",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "G3ZXX",
-      "town": "SILVERTON",
+      "town": "WELLINGTON    ",
       "modeCodes": [
         "M:7"
       ],
@@ -37653,7 +37653,7 @@
       "locator": "IO80",
       "dbwErp": 14,
       "extraDetails": {
-        "ngr": "SS9605",
+        "ngr": "ST1320",
         "antennaHeight": 0,
         "polarisation": ""
       }
@@ -40332,54 +40332,6 @@
       }
     },
     {
-      "id": 6344,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0KPQ",
-      "town": "SEATON",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 438400000,
-      "repeater": "M0KPQ",
-      "rx": 430800000,
-      "ctcss": 141.3,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO80",
-      "dbwErp": 10,
-      "extraDetails": {
-        "ngr": "SY2289",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 6345,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G1SOM",
-      "town": "SEATON",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430987500,
-      "repeater": "G1SOM",
-      "rx": 438587500,
-      "ctcss": 141.3,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO80",
-      "dbwErp": 9.5,
-      "extraDetails": {
-        "ngr": "SY1989",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6347,
       "fac": true,
       "type": "AG",
@@ -40882,7 +40834,80 @@
       "band": "70CM",
       "locator": "IO81",
       "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SS6433",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6372,
+      "fac": true,
+      "type": "DM",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "MI0KAM",
+      "town": "PORTSTEWART",
+      "modeCodes": [
+        "A",
+        "M:3"
+      ],
+      "tx": 430837500,
+      "repeater": "GB3JM",
+      "rx": 438437500,
+      "ctcss": 110.9,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "I065PE",
+      "dbwErp": 14,
       "extraDetails": null
+    },
+    {
+      "id": 6375,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0BOY",
+      "town": "MILTON KEYNES",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7USS",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO92OA",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "SP8435",
+        "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6376,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MM0TOH",
+      "town": "HOUSTON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430025000,
+      "repeater": "MB7IOH",
+      "rx": 430025000,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO75RU",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NS4165",
+        "antennaHeight": 7,
+        "polarisation": "V"
+      }
     }
   ]
 }
