@@ -2272,31 +2272,6 @@
       }
     },
     {
-      "id": 845,
-      "fac": true,
-      "type": "DM",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G3ZXX",
-      "town": "MERE WILTSHIRE",
-      "modeCodes": [
-        "A",
-        "M:5"
-      ],
-      "tx": 145787500,
-      "repeater": "GB3JB",
-      "rx": 145187500,
-      "ctcss": 103.5,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO81VC",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "ST8633",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 846,
       "fac": false,
       "type": "AV",
@@ -12952,7 +12927,7 @@
     },
     {
       "id": 3931,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "GM8SAU",
@@ -18327,7 +18302,7 @@
       "id": 4618,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MM0XAF",
       "town": "LUMPHANAN",
       "modeCodes": [
@@ -31026,30 +31001,6 @@
       }
     },
     {
-      "id": 5700,
-      "fac": true,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "2E0DHT",
-      "town": "HORWICH",
-      "modeCodes": [
-        "E"
-      ],
-      "tx": 434018750,
-      "repeater": "GB7HW",
-      "rx": 434018750,
-      "ctcss": 0,
-      "txbw": 25,
-      "band": "70CM",
-      "locator": "IO83RO",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SD6411",
-        "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5701,
       "fac": true,
       "type": "AG",
@@ -40841,6 +40792,30 @@
       }
     },
     {
+      "id": 6371,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G1SOM",
+      "town": "TAUNTON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 438400000,
+      "repeater": "G1SOM",
+      "rx": 430800000,
+      "ctcss": 141.3,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81KA",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "ST2324",
+        "antennaHeight": 11,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 6372,
       "fac": true,
       "type": "DM",
@@ -40906,6 +40881,78 @@
       "extraDetails": {
         "ngr": "NS4165",
         "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6378,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "MM0TOH",
+      "town": "HOUSTON",
+      "modeCodes": [
+        "M:3"
+      ],
+      "tx": 144900000,
+      "repeater": "MB6HO",
+      "rx": 144900000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO75RU",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NS4165",
+        "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6379,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M5WOB",
+      "town": "CORBY",
+      "modeCodes": [
+        "D"
+      ],
+      "tx": 439562500,
+      "repeater": "GB7CI",
+      "rx": 430562500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO92PL",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SP8888",
+        "antennaHeight": 40,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6380,
+      "fac": true,
+      "type": "DV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "2E0DHT",
+      "town": "CHORLEY",
+      "modeCodes": [
+        "E"
+      ],
+      "tx": 434018750,
+      "repeater": "GB7HW",
+      "rx": 434018750,
+      "ctcss": 0,
+      "txbw": 37.5,
+      "band": "70CM",
+      "locator": "IO83QP",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SD5918",
+        "antennaHeight": 10,
         "polarisation": "V"
       }
     }
