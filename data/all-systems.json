@@ -23012,30 +23012,6 @@
       }
     },
     {
-      "id": 5100,
-      "fac": true,
-      "type": "PN",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0AHN",
-      "town": "PEWSEY",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144925000,
-      "repeater": "MB7NPW",
-      "rx": 144925000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO91",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SU0959",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 5101,
       "fac": false,
       "type": "DM",
@@ -29062,7 +29038,7 @@
       "id": 5568,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0JSV",
       "town": "NR EYE",
       "modeCodes": [
@@ -40187,30 +40163,6 @@
       }
     },
     {
-      "id": 6340,
-      "fac": true,
-      "type": "AP",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "2E0HKD",
-      "town": "BASINGSTOKE",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144800000,
-      "repeater": "MB7UBK",
-      "rx": 144800000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO91KG",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SU6153",
-        "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6341,
       "fac": true,
       "type": "AP",
@@ -40953,6 +40905,30 @@
       "extraDetails": {
         "ngr": "SD5918",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6381,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "2E0HKD",
+      "town": "BASINGSTOKE",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144950000,
+      "repeater": "GB7BSK",
+      "rx": 144950000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO91KG",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SU6153",
+        "antennaHeight": 7,
         "polarisation": "V"
       }
     }
