@@ -28575,7 +28575,7 @@
       "id": 5532,
       "fac": true,
       "type": "AG",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0VNY",
       "town": "BURNLEY",
       "modeCodes": [
@@ -29134,7 +29134,7 @@
       "id": 5576,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM4CCN",
       "town": "DULNAIN BRIDGE",
       "modeCodes": [
@@ -37048,7 +37048,7 @@
       "id": 6176,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0ZAH",
       "town": "DISS",
       "modeCodes": [
@@ -38376,7 +38376,7 @@
       "id": 6253,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM5AUG",
       "town": "COLCHESTER",
       "modeCodes": [
@@ -40929,6 +40929,102 @@
       "extraDetails": {
         "ngr": "SU6153",
         "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6383,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G5BSD",
+      "town": "100TH BOMB MUSEUM THORPE ABBOT",
+      "modeCodes": [
+        "M:1"
+      ],
+      "tx": 439425000,
+      "repeater": "G5BSD",
+      "rx": 430425000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO02OJ",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TM1881",
+        "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6384,
+      "fac": true,
+      "type": "DG",
+      "status": "REDUCED OUTPUT",
+      "keeperCallsign": "MI6JVC",
+      "town": "ARMAGH",
+      "modeCodes": [
+        "M:1"
+      ],
+      "tx": 431075000,
+      "repeater": "MI6JVC",
+      "rx": 431075000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO64",
+      "dbwErp": 4.8,
+      "extraDetails": {
+        "ngr": "IH8845",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6385,
+      "fac": true,
+      "type": "DG",
+      "status": "REDUCED OUTPUT",
+      "keeperCallsign": "M7HJB",
+      "town": "RUSHDEN",
+      "modeCodes": [
+        "M:2"
+      ],
+      "tx": 434500000,
+      "repeater": "MB6RH",
+      "rx": 434500000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO92QH",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SP9666",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6386,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0OFF",
+      "town": "GRAVELEY",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 70412500,
+      "repeater": "MB7PV",
+      "rx": 70412500,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "4M",
+      "locator": "IO92VG",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TL2465",
+        "antennaHeight": 10,
         "polarisation": "V"
       }
     }
