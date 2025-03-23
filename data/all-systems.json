@@ -13384,7 +13384,7 @@
       "id": 3988,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4LUE",
       "town": "BARNSLEY",
       "modeCodes": [
@@ -27145,7 +27145,11 @@
       "band": "2M",
       "locator": "IO92KX",
       "dbwErp": 7,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "SK5943",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
     },
     {
       "id": 5409,
@@ -29854,7 +29858,11 @@
       "band": "2M",
       "locator": "IO94FX35",
       "dbwErp": 14,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "NZ2865",
+        "antennaHeight": 8,
+        "polarisation": "V"
+      }
     },
     {
       "id": 5632,
@@ -30395,7 +30403,7 @@
       "id": 5662,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M1CYR",
       "town": "CANNOCK",
       "modeCodes": [
@@ -37676,7 +37684,11 @@
       "band": "40M",
       "locator": "IO83SM",
       "dbwErp": 10,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "SD6700",
+        "antennaHeight": 1,
+        "polarisation": "V"
+      }
     },
     {
       "id": 6214,
@@ -37817,7 +37829,11 @@
       "band": "70CM",
       "locator": "IO93",
       "dbwErp": 0,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "SE2220",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
     },
     {
       "id": 6221,
@@ -38056,7 +38072,11 @@
       "band": "70CM",
       "locator": "IO83",
       "dbwErp": 7,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "SD6204",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
     },
     {
       "id": 6236,
@@ -38606,7 +38626,11 @@
       "band": "2M",
       "locator": "JO02PQ",
       "dbwErp": 14,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "TG2112",
+        "antennaHeight": 7,
+        "polarisation": "V"
+      }
     },
     {
       "id": 6265,
@@ -39012,7 +39036,11 @@
       "band": "2M",
       "locator": "IO80NX",
       "dbwErp": 7,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "ST3561",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
     },
     {
       "id": 6285,
@@ -39080,7 +39108,11 @@
       "band": "2M",
       "locator": "IO93",
       "dbwErp": 7,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "SK9972",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
     },
     {
       "id": 6288,
@@ -39762,7 +39794,11 @@
       "band": "70CM",
       "locator": "IO91SV",
       "dbwErp": -7,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "TL0422",
+        "antennaHeight": 7,
+        "polarisation": "V"
+      }
     },
     {
       "id": 6321,
@@ -39782,7 +39818,11 @@
       "band": "70CM",
       "locator": "IO91RV",
       "dbwErp": -7,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "TL0222",
+        "antennaHeight": 7,
+        "polarisation": "V"
+      }
     },
     {
       "id": 6322,
@@ -39946,7 +39986,11 @@
       "band": "70CM",
       "locator": "IO75ST",
       "dbwErp": 7,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "NS4561",
+        "antennaHeight": 6,
+        "polarisation": "V"
+      }
     },
     {
       "id": 6329,
@@ -40064,7 +40108,11 @@
       "band": "2M",
       "locator": "JO01FN",
       "dbwErp": 7,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "TQ7390",
+        "antennaHeight": 7,
+        "polarisation": "V"
+      }
     },
     {
       "id": 6335,
@@ -40300,7 +40348,11 @@
       "band": "2M",
       "locator": "JO01",
       "dbwErp": 14,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "TR3765",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
     },
     {
       "id": 6350,
@@ -40513,7 +40565,11 @@
       "band": "4M",
       "locator": "IO75QX",
       "dbwErp": 7,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "NS3878",
+        "antennaHeight": 11,
+        "polarisation": "V"
+      }
     },
     {
       "id": 6360,
@@ -40629,7 +40685,11 @@
       "band": "2M",
       "locator": "IO80",
       "dbwErp": 7,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "SS9211",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
     },
     {
       "id": 6366,
@@ -40673,7 +40733,11 @@
       "band": "70CM",
       "locator": "JO01",
       "dbwErp": 11.8,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "TR3765",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
     },
     {
       "id": 6368,
@@ -40717,7 +40781,11 @@
       "band": "70CM",
       "locator": "JO01",
       "dbwErp": -7,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "TR3765",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
     },
     {
       "id": 6370,
@@ -40792,7 +40860,7 @@
       "id": 6375,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0BOY",
       "town": "MILTON KEYNES",
       "modeCodes": [
@@ -41025,6 +41093,30 @@
       "extraDetails": {
         "ngr": "TL2465",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6387,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0JOW",
+      "town": "NEWBURY",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 434475000,
+      "repeater": "MB6EA",
+      "rx": 434475000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91HI",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SU4563",
+        "antennaHeight": 4,
         "polarisation": "V"
       }
     }
