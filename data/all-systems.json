@@ -32496,7 +32496,7 @@
       "id": 5812,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM4YTD",
       "town": "STRANRAER",
       "modeCodes": [
@@ -39560,7 +39560,7 @@
       "id": 6309,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G8IPG",
       "town": "WINCHESTER",
       "modeCodes": [
@@ -40242,7 +40242,8 @@
       "keeperCallsign": "M0LLC",
       "town": "WORKINGTON",
       "modeCodes": [
-        "A"
+        "A",
+        "F"
       ],
       "tx": 145637500,
       "repeater": "GB3MX",
@@ -41100,7 +41101,7 @@
       "id": 6387,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0JOW",
       "town": "NEWBURY",
       "modeCodes": [
