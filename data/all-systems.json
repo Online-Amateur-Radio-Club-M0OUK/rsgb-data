@@ -2924,7 +2924,7 @@
       "id": 922,
       "fac": false,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM7GDE",
       "town": "PAISLEY",
       "modeCodes": [
@@ -3475,13 +3475,14 @@
     },
     {
       "id": 981,
-      "fac": false,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "fac": true,
+      "type": "DM",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G8XST",
       "town": "TORQUAY",
       "modeCodes": [
-        "A"
+        "A",
+        "F"
       ],
       "tx": 145650000,
       "repeater": "GB3TR",
@@ -13526,30 +13527,6 @@
       }
     },
     {
-      "id": 4008,
-      "fac": false,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G1XCC",
-      "town": "BRADFORD",
-      "modeCodes": [
-        "M:13"
-      ],
-      "tx": 439762500,
-      "repeater": "GB7BA",
-      "rx": 430762500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO93CS",
-      "dbwErp": 10,
-      "extraDetails": {
-        "ngr": "SE1530",
-        "antennaHeight": 18,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 4024,
       "fac": true,
       "type": "DG",
@@ -17157,7 +17134,7 @@
       "id": 4444,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E1HWE",
       "town": "WESTCLIFF ON SEA",
       "modeCodes": [
@@ -26382,7 +26359,7 @@
       "id": 5355,
       "fac": true,
       "type": "PX",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MM0RFN",
       "town": "ABERDEEN",
       "modeCodes": [
@@ -30743,7 +30720,7 @@
       "id": 5681,
       "fac": true,
       "type": "PX",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MM0RFN",
       "town": "ABERDEEN",
       "modeCodes": [
@@ -32496,16 +32473,16 @@
       "id": 5812,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM4YTD",
       "town": "STRANRAER",
       "modeCodes": [
         "A",
         "M:5"
       ],
-      "tx": 430987500,
+      "tx": 430937500,
       "repeater": "GB7RG",
-      "rx": 438587500,
+      "rx": 438537500,
       "ctcss": 103.5,
       "txbw": 12.5,
       "band": "70CM",
@@ -39948,7 +39925,7 @@
       "id": 6327,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GW4DVB",
       "town": "BRIDGEND",
       "modeCodes": [
@@ -41118,6 +41095,30 @@
       "extraDetails": {
         "ngr": "SU4563",
         "antennaHeight": 4,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6388,
+      "fac": true,
+      "type": "DV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G1XCC",
+      "town": "ROBERTTOWN",
+      "modeCodes": [
+        "M:13"
+      ],
+      "tx": 439762500,
+      "repeater": "GB7BA",
+      "rx": 430762500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93DQ",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SE1922",
+        "antennaHeight": 10,
         "polarisation": "V"
       }
     }
