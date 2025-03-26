@@ -18398,31 +18398,6 @@
       }
     },
     {
-      "id": 4630,
-      "fac": true,
-      "type": "DM",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M1CMN",
-      "town": "FOLKESTONE",
-      "modeCodes": [
-        "A",
-        "F"
-      ],
-      "tx": 145750000,
-      "repeater": "GB3FK",
-      "rx": 145150000,
-      "ctcss": 103.5,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO01",
-      "dbwErp": 10,
-      "extraDetails": {
-        "ngr": "TR2238",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 4631,
       "fac": true,
       "type": "DV",
@@ -21342,30 +21317,6 @@
       }
     },
     {
-      "id": 4960,
-      "fac": false,
-      "type": "AV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G4WTV",
-      "town": "WORTHING",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 29630000,
-      "repeater": "GB3CQ",
-      "rx": 29530000,
-      "ctcss": 88.5,
-      "txbw": 10,
-      "band": "10M",
-      "locator": "IO90",
-      "dbwErp": 11.2,
-      "extraDetails": {
-        "ngr": "TQ1104",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 4963,
       "fac": true,
       "type": "DV",
@@ -22356,7 +22307,7 @@
       "id": 5059,
       "fac": true,
       "type": "AP",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0MZF",
       "town": "SOUTHAMPTON",
       "modeCodes": [
@@ -26264,9 +26215,9 @@
       "modeCodes": [
         "X"
       ],
-      "tx": 144950000,
+      "tx": 144937500,
       "repeater": "GB7RDG",
-      "rx": 0,
+      "rx": 144937500,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "2M",
@@ -40955,30 +40906,6 @@
       }
     },
     {
-      "id": 6381,
-      "fac": true,
-      "type": "PX",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "2E0HKD",
-      "town": "BASINGSTOKE",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144950000,
-      "repeater": "GB7BSK",
-      "rx": 144950000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO91KG",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SU6153",
-        "antennaHeight": 7,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6383,
       "fac": true,
       "type": "DV",
@@ -41120,6 +41047,150 @@
         "ngr": "SE1922",
         "antennaHeight": 10,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6389,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G8NDT",
+      "town": "BIRMINGHAM",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 50760000,
+      "repeater": "GB3FQ",
+      "rx": 51760000,
+      "ctcss": 67,
+      "txbw": 10,
+      "band": "6M",
+      "locator": "IO92BL",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SP0785",
+        "antennaHeight": 50,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6390,
+      "fac": true,
+      "type": "PX",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4WQG",
+      "town": "BROAD HINTON",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144937500,
+      "repeater": "GB7BDH",
+      "rx": 144937500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO91",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SU1176",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6391,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4WTV",
+      "town": "WORTHING",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 50750000,
+      "repeater": "GB3CQ",
+      "rx": 51250000,
+      "ctcss": 88.5,
+      "txbw": 10,
+      "band": "6M",
+      "locator": "IO90ST",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TQ1104",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6392,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "2E0HKD",
+      "town": "BASINGSTOKE",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144937500,
+      "repeater": "GB7BSK",
+      "rx": 144937500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO91KG",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SU6153",
+        "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6393,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G8IPG",
+      "town": "WINCHESTER",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144937500,
+      "repeater": "GB7WIN",
+      "rx": 144937500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO91HB",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SU4529",
+        "antennaHeight": 40,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6394,
+      "fac": true,
+      "type": "PN",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0AHN",
+      "town": "PEWSEY",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144937500,
+      "repeater": "MB7NPW",
+      "rx": 144937500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO91",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SU0959",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
