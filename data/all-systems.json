@@ -4441,12 +4441,10 @@
       "id": 2000,
       "fac": true,
       "type": "BN",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GW3TKH",
       "town": "CARDIFF",
-      "modeCodes": [
-        "B"
-      ],
+      "modeCodes": null,
       "tx": 24048940000,
       "repeater": "GB3AMU",
       "rx": 0,
@@ -25053,7 +25051,7 @@
       "id": 5258,
       "fac": false,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0JDN",
       "town": "BEXHILL-ON-SEA",
       "modeCodes": [
