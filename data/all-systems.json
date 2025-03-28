@@ -2272,6 +2272,31 @@
       }
     },
     {
+      "id": 845,
+      "fac": true,
+      "type": "DM",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G3ZXX",
+      "town": "MERE WILTSHIRE",
+      "modeCodes": [
+        "A",
+        "M:5"
+      ],
+      "tx": 145787500,
+      "repeater": "GB3JB",
+      "rx": 145187500,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO81VC",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "ST8633",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 846,
       "fac": false,
       "type": "AV",
@@ -6625,7 +6650,7 @@
     },
     {
       "id": 2437,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0WTX",
@@ -6637,7 +6662,7 @@
       "repeater": "GB7SJ",
       "rx": 434775000,
       "ctcss": 103.5,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO83RF",
       "dbwErp": 10,
@@ -7202,31 +7227,6 @@
       "extraDetails": {
         "ngr": "TM4488",
         "antennaHeight": 23,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 2598,
-      "fac": false,
-      "type": "DM",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G0JWJ",
-      "town": "HEREFORD",
-      "modeCodes": [
-        "A",
-        "F"
-      ],
-      "tx": 433150000,
-      "repeater": "GB3HC",
-      "rx": 434750000,
-      "ctcss": 118.8,
-      "txbw": 25,
-      "band": "70CM",
-      "locator": "IO82PB",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SO5141",
-        "antennaHeight": 6,
         "polarisation": "V"
       }
     },
@@ -8452,7 +8452,7 @@
     },
     {
       "id": 2921,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0WTX",
@@ -19578,7 +19578,7 @@
     },
     {
       "id": 4800,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G1XCC",
@@ -19669,30 +19669,6 @@
       "extraDetails": {
         "ngr": "SE3813",
         "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 4811,
-      "fac": false,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GM6GRE",
-      "town": "INVERNESS",
-      "modeCodes": [
-        "M:5"
-      ],
-      "tx": 145662500,
-      "repeater": "GB7IL",
-      "rx": 145062500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO77UL",
-      "dbwErp": 8.9,
-      "extraDetails": {
-        "ngr": "NH6445",
-        "antennaHeight": 5,
         "polarisation": "V"
       }
     },
@@ -20811,7 +20787,7 @@
       "id": 4911,
       "fac": false,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0DZZ",
       "town": "GREAT CLACTON",
       "modeCodes": [
@@ -27081,7 +27057,7 @@
       "id": 5409,
       "fac": true,
       "type": "PX",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4WQG",
       "town": "BROAD HINTON",
       "modeCodes": [
@@ -27309,7 +27285,7 @@
       "id": 5425,
       "fac": true,
       "type": "PX",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4WQG",
       "town": "BROAD HINTON",
       "modeCodes": [
@@ -29500,7 +29476,7 @@
       "id": 5612,
       "fac": true,
       "type": "PX",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4WQG",
       "town": "BROAD HINTON",
       "modeCodes": [
@@ -33467,7 +33443,7 @@
       "id": 5915,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0RXH",
       "town": "EXMOUTH",
       "modeCodes": [
@@ -40526,7 +40502,7 @@
       "id": 6361,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "M0OGR",
       "town": "MIRFIELD",
       "modeCodes": [
@@ -41075,7 +41051,7 @@
       "id": 6390,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4WQG",
       "town": "BROAD HINTON",
       "modeCodes": [
@@ -41099,7 +41075,7 @@
       "id": 6391,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4WTV",
       "town": "WORTHING",
       "modeCodes": [
