@@ -23138,7 +23138,7 @@
     },
     {
       "id": 5123,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G1JSP",
@@ -31474,7 +31474,7 @@
       "id": 5748,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G6ASK",
       "town": "TIVERTON",
       "modeCodes": [
@@ -33443,7 +33443,7 @@
       "id": 5915,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0RXH",
       "town": "EXMOUTH",
       "modeCodes": [
@@ -38418,7 +38418,7 @@
       "id": 6258,
       "fac": true,
       "type": "DV",
-      "status": "REDUCED OUTPUT",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GW6RTV",
       "town": "COEDKERNEW",
       "modeCodes": [
@@ -40715,30 +40715,6 @@
       }
     },
     {
-      "id": 6371,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G1SOM",
-      "town": "TAUNTON",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 438400000,
-      "repeater": "G1SOM",
-      "rx": 430800000,
-      "ctcss": 141.3,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81KA",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "ST2324",
-        "antennaHeight": 11,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6372,
       "fac": true,
       "type": "DM",
@@ -41166,6 +41142,26 @@
         "antennaHeight": 0,
         "polarisation": ""
       }
+    },
+    {
+      "id": 6395,
+      "fac": true,
+      "type": "PX",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G7TWZ",
+      "town": "WORCESTER PARK",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144937500,
+      "repeater": "GB7WOR",
+      "rx": 144937500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO91VJ",
+      "dbwErp": 14,
+      "extraDetails": null
     }
   ]
 }
