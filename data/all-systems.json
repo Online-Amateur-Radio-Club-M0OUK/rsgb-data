@@ -2613,7 +2613,7 @@
       "id": 884,
       "fac": false,
       "type": "AV",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7KBR",
       "town": "EAST GRINSTEAD",
       "modeCodes": [
@@ -38442,7 +38442,7 @@
       "id": 6259,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0LLD",
       "town": "TITCHFIELD ",
       "modeCodes": [
@@ -38972,7 +38972,7 @@
       "id": 6286,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0ABL",
       "town": "LEASOWE",
       "modeCodes": [
@@ -39754,7 +39754,7 @@
       "id": 6323,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M7HSF",
       "town": "WENDLING",
       "modeCodes": [
@@ -40763,7 +40763,7 @@
       "id": 6376,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM0TOH",
       "town": "HOUSTON",
       "modeCodes": [
