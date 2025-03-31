@@ -10144,7 +10144,7 @@
       "id": 3333,
       "fac": false,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MI0JPD",
       "town": "MAGHERAFELT",
       "modeCodes": [
@@ -38586,7 +38586,7 @@
       "id": 6269,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "2W0APD",
       "town": "SWANSEA",
       "modeCodes": [
@@ -41162,6 +41162,30 @@
       "locator": "IO91VJ",
       "dbwErp": 14,
       "extraDetails": null
+    },
+    {
+      "id": 6396,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M7HSF",
+      "town": "MARTHAM",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430012500,
+      "repeater": "MB7INE",
+      "rx": 430012500,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO02",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TG4418",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
     }
   ]
 }
