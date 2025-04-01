@@ -10856,7 +10856,7 @@
       "id": 3523,
       "fac": false,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MM1BJO",
       "town": "DALKEITH",
       "modeCodes": [
@@ -20811,7 +20811,7 @@
       "id": 4912,
       "fac": false,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM7RYR",
       "town": "LARGS",
       "modeCodes": [
@@ -34314,7 +34314,7 @@
     {
       "id": 5970,
       "fac": true,
-      "type": "",
+      "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GM7RYR",
       "town": "EDINBURGH",
@@ -37177,7 +37177,7 @@
       "id": 6193,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M1VSR",
       "town": "STOCKPORT",
       "modeCodes": [
@@ -39778,7 +39778,7 @@
       "id": 6324,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM7RYR",
       "town": "EDINBURGH",
       "modeCodes": [
@@ -41183,6 +41183,32 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "TG4418",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6398,
+      "fac": true,
+      "type": "DG",
+      "status": "REDUCED OUTPUT",
+      "keeperCallsign": "2E0XXY",
+      "town": "BLACKPOOL",
+      "modeCodes": [
+        "D",
+        "M:9",
+        "F"
+      ],
+      "tx": 431225000,
+      "repeater": "MB6XT",
+      "rx": 431225000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SD3239",
         "antennaHeight": 0,
         "polarisation": ""
       }
