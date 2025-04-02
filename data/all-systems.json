@@ -1529,31 +1529,6 @@
       }
     },
     {
-      "id": 770,
-      "fac": false,
-      "type": "DM",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G3ZYC",
-      "town": "WIRKSWORTH",
-      "modeCodes": [
-        "A",
-        "M"
-      ],
-      "tx": 433250000,
-      "repeater": "GB3DY",
-      "rx": 434850000,
-      "ctcss": 71.9,
-      "txbw": 25,
-      "band": "70CM",
-      "locator": "IO93",
-      "dbwErp": 11.5,
-      "extraDetails": {
-        "ngr": "SK3051",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 776,
       "fac": false,
       "type": "AV",
@@ -12598,30 +12573,6 @@
       }
     },
     {
-      "id": 3882,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M1FJB",
-      "town": "COLD ASHBY",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 438437500,
-      "repeater": "GB3EU",
-      "rx": 430837500,
-      "ctcss": 77,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO92LJ",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SP6476",
-        "antennaHeight": 45,
-        "polarisation": "H"
-      }
-    },
-    {
       "id": 3888,
       "fac": true,
       "type": "AP",
@@ -20787,7 +20738,7 @@
       "id": 4911,
       "fac": false,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0DZZ",
       "town": "GREAT CLACTON",
       "modeCodes": [
@@ -35506,7 +35457,7 @@
       "id": 6069,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GW0GTW",
       "town": "LLANDUDNO",
       "modeCodes": [
@@ -36951,32 +36902,6 @@
       "extraDetails": {
         "ngr": "NT6877",
         "antennaHeight": 15,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 6176,
-      "fac": true,
-      "type": "DM",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0ZAH",
-      "town": "DISS",
-      "modeCodes": [
-        "A",
-        "D",
-        "7"
-      ],
-      "tx": 439425000,
-      "repeater": "GB3DL",
-      "rx": 430425000,
-      "ctcss": 110.9,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO02NI",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TM1579",
-        "antennaHeight": 7,
         "polarisation": "V"
       }
     },
@@ -38586,7 +38511,7 @@
       "id": 6269,
       "fac": true,
       "type": "AG",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2W0APD",
       "town": "SWANSEA",
       "modeCodes": [
@@ -40502,7 +40427,7 @@
       "id": 6361,
       "fac": true,
       "type": "DG",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0OGR",
       "town": "MIRFIELD",
       "modeCodes": [
@@ -41191,7 +41116,7 @@
       "id": 6398,
       "fac": true,
       "type": "DG",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0XXY",
       "town": "BLACKPOOL",
       "modeCodes": [
@@ -41212,6 +41137,46 @@
         "antennaHeight": 0,
         "polarisation": ""
       }
+    },
+    {
+      "id": 6399,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "GI3JMC",
+      "town": "BALLYMONEY",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 7050100,
+      "repeater": "GB7BMY",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 2.7,
+      "band": "4M",
+      "locator": "IO65RB76",
+      "dbwErp": 7.8,
+      "extraDetails": null
+    },
+    {
+      "id": 6401,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0NJW",
+      "town": "MORLEY",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UML",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO93FR",
+      "dbwErp": 10,
+      "extraDetails": null
     }
   ]
 }
