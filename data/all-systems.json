@@ -20762,7 +20762,7 @@
       "id": 4912,
       "fac": false,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM7RYR",
       "town": "LARGS",
       "modeCodes": [
@@ -28888,30 +28888,6 @@
       "extraDetails": {
         "ngr": "TL7006",
         "antennaHeight": 44,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 5568,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G0JSV",
-      "town": "NR EYE",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145700000,
-      "repeater": "GB3II",
-      "rx": 145100000,
-      "ctcss": 110.9,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO02NH",
-      "dbwErp": 11,
-      "extraDetails": {
-        "ngr": "TM1070",
-        "antennaHeight": 9,
         "polarisation": "V"
       }
     },
@@ -38187,7 +38163,7 @@
       "ctcss": 110.9,
       "txbw": 12.5,
       "band": "4M",
-      "locator": "I065PE",
+      "locator": "IO65PE",
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "IC8138",
@@ -39724,30 +39700,6 @@
       }
     },
     {
-      "id": 6325,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G6IET",
-      "town": "RICHMOND",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 144912500,
-      "repeater": "MB7IET",
-      "rx": 144912500,
-      "ctcss": 118.8,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO94CK",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "NZ1306",
-        "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6326,
       "fac": true,
       "type": "AG",
@@ -41113,6 +41065,30 @@
       }
     },
     {
+      "id": 6397,
+      "fac": true,
+      "type": "SP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G3DBI",
+      "town": "ROTHERHAM",
+      "modeCodes": [
+        "S"
+      ],
+      "tx": 145575000,
+      "repeater": "MB5SB",
+      "rx": 434575000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO93",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SK5392",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
       "id": 6398,
       "fac": true,
       "type": "DG",
@@ -41177,6 +41153,100 @@
       "locator": "IO93FR",
       "dbwErp": 10,
       "extraDetails": null
+    },
+    {
+      "id": 6402,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MM3DDQ",
+      "town": "DALRY",
+      "modeCodes": null,
+      "tx": 70387500,
+      "repeater": "MB7IDL",
+      "rx": 70387500,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "4M",
+      "locator": "IO75OR",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NS2651",
+        "antennaHeight": 11,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6404,
+      "fac": true,
+      "type": "AV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G0JSV",
+      "town": "THORNHAM MAGNA  EYE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 439325000,
+      "repeater": "GB3II",
+      "rx": 430325000,
+      "ctcss": 110.9,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO02NH",
+      "dbwErp": 11,
+      "extraDetails": {
+        "ngr": "TM1070",
+        "antennaHeight": 12,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6405,
+      "fac": true,
+      "type": "PX",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4WQG",
+      "town": "BROAD HINTON",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 28130000,
+      "repeater": "GB7BDH",
+      "rx": 28130000,
+      "ctcss": 0,
+      "txbw": 0.5,
+      "band": "",
+      "locator": "IO91",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SU1176",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6406,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G6IET",
+      "town": "RICHMOND",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145737500,
+      "repeater": "GB3RT",
+      "rx": 145137500,
+      "ctcss": 118.8,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO94CK",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NZ1306",
+        "antennaHeight": 5,
+        "polarisation": "V"
+      }
     }
   ]
 }
