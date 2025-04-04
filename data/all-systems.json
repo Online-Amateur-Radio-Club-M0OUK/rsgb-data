@@ -10831,7 +10831,7 @@
       "id": 3523,
       "fac": false,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM1BJO",
       "town": "DALKEITH",
       "modeCodes": [
@@ -32156,7 +32156,7 @@
       "id": 5799,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM7RYR",
       "town": "PAISLEY",
       "modeCodes": [
@@ -37078,7 +37078,7 @@
       "id": 6193,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M1VSR",
       "town": "STOCKPORT",
       "modeCodes": [
@@ -39679,7 +39679,7 @@
       "id": 6324,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM7RYR",
       "town": "EDINBURGH",
       "modeCodes": [
@@ -39758,7 +39758,7 @@
         "F"
       ],
       "tx": 431112500,
-      "repeater": "GM0EZP ",
+      "repeater": "MB6PY",
       "rx": 431112500,
       "ctcss": 0,
       "txbw": 12.5,
