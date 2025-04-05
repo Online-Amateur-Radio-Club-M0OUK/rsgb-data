@@ -16251,7 +16251,7 @@
       "id": 4354,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G1DCG",
       "town": "CLEVEDON ",
       "modeCodes": [
@@ -21422,7 +21422,7 @@
       "id": 4982,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0DUB",
       "town": "WAKEFIELD",
       "modeCodes": [
@@ -30232,7 +30232,7 @@
       "id": 5662,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M1CYR",
       "town": "CANNOCK",
       "modeCodes": [
@@ -38247,7 +38247,7 @@
       "id": 6255,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "M7GAY",
       "town": "ELSTREE",
       "modeCodes": [
