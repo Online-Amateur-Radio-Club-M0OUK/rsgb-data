@@ -17548,9 +17548,9 @@
       "modeCodes": [
         "A"
       ],
-      "tx": 144912500,
+      "tx": 145312500,
       "repeater": "MB7IMT",
-      "rx": 144912500,
+      "rx": 145312500,
       "ctcss": 103.5,
       "txbw": 12.5,
       "band": "2M",
@@ -36957,7 +36957,7 @@
       "id": 6184,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0YDG",
       "town": "WAKEFIELD",
       "modeCodes": [
@@ -38247,7 +38247,7 @@
       "id": 6255,
       "fac": true,
       "type": "AG",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M7GAY",
       "town": "ELSTREE",
       "modeCodes": [
@@ -40760,14 +40760,14 @@
       "id": 6384,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MI6JVC",
       "town": "ARMAGH",
       "modeCodes": [
         "M:1"
       ],
       "tx": 431075000,
-      "repeater": "MI6JVC",
+      "repeater": "MB6AH",
       "rx": 431075000,
       "ctcss": 0,
       "txbw": 12.5,
