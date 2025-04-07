@@ -31695,30 +31695,6 @@
       }
     },
     {
-      "id": 5769,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "2E0KBZ",
-      "town": "WORKSOP",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 144962500,
-      "repeater": "MB7IBZ",
-      "rx": 0,
-      "ctcss": 77,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO93KH",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SK5979",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5770,
       "fac": true,
       "type": "AV",
@@ -40760,7 +40736,7 @@
       "id": 6384,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MI6JVC",
       "town": "ARMAGH",
       "modeCodes": [
@@ -41038,7 +41014,11 @@
       "band": "2M",
       "locator": "IO91VJ",
       "dbwErp": 14,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "TQ2266",
+        "antennaHeight": 9,
+        "polarisation": "V"
+      }
     },
     {
       "id": 6396,
@@ -41152,7 +41132,11 @@
       "band": "2M",
       "locator": "IO93FR",
       "dbwErp": 10,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "SE2827",
+        "antennaHeight": 9,
+        "polarisation": "V"
+      }
     },
     {
       "id": 6402,
