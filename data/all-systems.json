@@ -6627,7 +6627,7 @@
       "id": 2437,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0WTX",
       "town": "NORTHWICH",
       "modeCodes": [
@@ -8429,7 +8429,7 @@
       "id": 2921,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0WTX",
       "town": "NORTHWICH",
       "modeCodes": [
@@ -9711,7 +9711,7 @@
       "id": 3237,
       "fac": false,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0WTX",
       "town": "NORTHWICH",
       "modeCodes": [
@@ -35295,9 +35295,9 @@
       "modeCodes": [
         "A"
       ],
-      "tx": 144912500,
+      "tx": 145312500,
       "repeater": "MB7IHI",
-      "rx": 144912500,
+      "rx": 145312500,
       "ctcss": 82.5,
       "txbw": 12.5,
       "band": "2M",
@@ -41230,6 +41230,102 @@
         "ngr": "NZ1306",
         "antennaHeight": 5,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6408,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G1SOM",
+      "town": "MINEHEAD",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 438400000,
+      "repeater": "G1SOM",
+      "rx": 430800000,
+      "ctcss": 141.3,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81GF",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SS9547",
+        "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6409,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0KPQ",
+      "town": "BISHOPS LYDEARD",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430987500,
+      "repeater": "M0KPQ",
+      "rx": 438587500,
+      "ctcss": 141.3,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81JC",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "ST1833",
+        "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6411,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2E0KBZ",
+      "town": "WORKSOP",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145237500,
+      "repeater": "MB7IBZ",
+      "rx": 145237500,
+      "ctcss": 71.9,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO93KH",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SK5979",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6413,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0VOB",
+      "town": "BRADFORD",
+      "modeCodes": [
+        "M:2"
+      ],
+      "tx": 439700000,
+      "repeater": "GB3DV",
+      "rx": 430700000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SE1835",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
