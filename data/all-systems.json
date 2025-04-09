@@ -1365,7 +1365,7 @@
       "type": "TV",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0MBA",
-      "town": "CLACTON ON SEA",
+      "town": "CLACTON",
       "modeCodes": [
         "T"
       ],
@@ -7134,18 +7134,19 @@
     },
     {
       "id": 2582,
-      "fac": false,
-      "type": "DV",
+      "fac": true,
+      "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0MBA",
       "town": "CLACTON ON SEA",
       "modeCodes": [
+        "A",
         "D"
       ],
       "tx": 145775000,
       "repeater": "GB7TE",
       "rx": 145175000,
-      "ctcss": 0,
+      "ctcss": 67,
       "txbw": 12.5,
       "band": "2M",
       "locator": "JO01OT",
@@ -7886,30 +7887,6 @@
         "ngr": "NS7763",
         "antennaHeight": 0,
         "polarisation": ""
-      }
-    },
-    {
-      "id": 2767,
-      "fac": false,
-      "type": "AV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G7HPE",
-      "town": "CORBY",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430825000,
-      "repeater": "GB3CI",
-      "rx": 438425000,
-      "ctcss": 77,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO92PM",
-      "dbwErp": 10.2,
-      "extraDetails": {
-        "ngr": "SP8991",
-        "antennaHeight": 65,
-        "polarisation": "V"
       }
     },
     {
@@ -20560,6 +20537,31 @@
       }
     },
     {
+      "id": 4897,
+      "fac": true,
+      "type": "DM",
+      "status": "",
+      "keeperCallsign": "M0DUB",
+      "town": "WAKEFIELD",
+      "modeCodes": [
+        "A",
+        "F"
+      ],
+      "tx": 439512500,
+      "repeater": "GB7WY",
+      "rx": 430512500,
+      "ctcss": 82.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93FR",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "SE3024",
+        "antennaHeight": 20,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 4900,
       "fac": true,
       "type": "DG",
@@ -29902,30 +29904,6 @@
       "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
-      "locator": "JO01OT",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TM2117",
-        "antennaHeight": 50,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 5644,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G0MBA",
-      "town": "CLACTON ON SEA",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145612500,
-      "repeater": "GB3TE",
-      "rx": 145012500,
-      "ctcss": 67,
-      "txbw": 12.5,
-      "band": "2M",
       "locator": "JO01OT",
       "dbwErp": 14,
       "extraDetails": {
@@ -41301,6 +41279,30 @@
       "extraDetails": {
         "ngr": "SK5979",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6412,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G7HPE",
+      "town": "CORBY",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430825000,
+      "repeater": "GB3CI",
+      "rx": 438425000,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO92QM",
+      "dbwErp": 10.2,
+      "extraDetails": {
+        "ngr": "SP9290",
+        "antennaHeight": 27,
         "polarisation": "V"
       }
     },
