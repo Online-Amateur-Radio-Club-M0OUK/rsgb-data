@@ -7897,7 +7897,9 @@
       "keeperCallsign": "G4LRP",
       "town": "HORSHAM",
       "modeCodes": [
-        "A"
+        "A",
+        " ",
+        "F"
       ],
       "tx": 430887500,
       "repeater": "GB3HO",
@@ -22166,7 +22168,9 @@
       "keeperCallsign": "G4LRP",
       "town": "HORSHAM",
       "modeCodes": [
-        "A"
+        "A",
+        " ",
+        "F"
       ],
       "tx": 145750000,
       "repeater": "GB3WS",
@@ -23945,9 +23949,9 @@
       "modeCodes": [
         "A"
       ],
-      "tx": 144912500,
+      "tx": 145312500,
       "repeater": "MB7IPS",
-      "rx": 144912500,
+      "rx": 145312500,
       "ctcss": 103.5,
       "txbw": 12.5,
       "band": "2M",
@@ -26935,30 +26939,6 @@
       }
     },
     {
-      "id": 5404,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0ZAH",
-      "town": "NORWICH",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 50540000,
-      "repeater": "M0ZAH",
-      "rx": 0,
-      "ctcss": 94.8,
-      "txbw": 10,
-      "band": "6M",
-      "locator": "JO02PP",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TG2210",
-        "antennaHeight": 7,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5406,
       "fac": true,
       "type": "DG",
@@ -27823,7 +27803,7 @@
       "id": 5477,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G8IKP",
       "town": "WEYMOUTH",
       "modeCodes": [
@@ -31325,6 +31305,34 @@
         "ngr": "SK5979",
         "antennaHeight": 10,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 5745,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "GW5TEE",
+      "town": "MOLD",
+      "modeCodes": [
+        "D",
+        "M:1",
+        "F",
+        "P",
+        "N"
+      ],
+      "tx": 144887500,
+      "repeater": "MB6TE",
+      "rx": 144887500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO83",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SJ2364",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     },
     {
@@ -37626,9 +37634,9 @@
       "modeCodes": [
         "A"
       ],
-      "tx": 144912500,
+      "tx": 145312500,
       "repeater": "MB7IMF",
-      "rx": 0,
+      "rx": 145312500,
       "ctcss": 67,
       "txbw": 12.5,
       "band": "2M",
@@ -39705,7 +39713,7 @@
       "id": 6328,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM0EZP ",
       "town": "PAISLEY",
       "modeCodes": [
@@ -39939,30 +39947,6 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "SO9384",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 6341,
-      "fac": true,
-      "type": "AP",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0ZAH",
-      "town": "DISS",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144800000,
-      "repeater": "M0ZAH",
-      "rx": 144800000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO02",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TM1579",
         "antennaHeight": 0,
         "polarisation": ""
       }
@@ -41026,7 +41010,7 @@
       "id": 6397,
       "fac": true,
       "type": "SP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G3DBI",
       "town": "ROTHERHAM",
       "modeCodes": [
@@ -41326,6 +41310,74 @@
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "SE1835",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6415,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MX0WVV",
+      "town": "WYMONDHAM",
+      "modeCodes": null,
+      "tx": 50540000,
+      "repeater": "MX0WVV",
+      "rx": 0,
+      "ctcss": 94.8,
+      "txbw": 10,
+      "band": "6M",
+      "locator": "JO02NN",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TG1000",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6416,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0ZAH",
+      "town": "NORWICH",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430950000,
+      "repeater": "GB3NU",
+      "rx": 438550000,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO02",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TG2210",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6417,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M7HSF",
+      "town": "HORSHAM ST FAITH",
+      "modeCodes": null,
+      "tx": 50520000,
+      "repeater": "MB7INR",
+      "rx": 0,
+      "ctcss": 94.8,
+      "txbw": 10,
+      "band": "6M",
+      "locator": "JO02",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TG2114",
         "antennaHeight": 0,
         "polarisation": ""
       }
