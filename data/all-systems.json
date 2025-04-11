@@ -5672,7 +5672,7 @@
       "tx": 144962500,
       "repeater": "MB7IUK",
       "rx": 144962500,
-      "ctcss": 110.9,
+      "ctcss": 77,
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO83XM",
@@ -7898,7 +7898,6 @@
       "town": "HORSHAM",
       "modeCodes": [
         "A",
-        " ",
         "F"
       ],
       "tx": 430887500,
@@ -11987,30 +11986,6 @@
       }
     },
     {
-      "id": 3772,
-      "fac": true,
-      "type": "AV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G5BSD",
-      "town": "SURREY",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430975000,
-      "repeater": "G5BSD",
-      "rx": 438575000,
-      "ctcss": 82.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO91WF",
-      "dbwErp": 8.1,
-      "extraDetails": {
-        "ngr": "TQ2948",
-        "antennaHeight": 12,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 3783,
       "fac": true,
       "type": "AP",
@@ -15815,7 +15790,7 @@
       "town": "LINLITHGOW",
       "modeCodes": [
         "A",
-        "M"
+        "M:1"
       ],
       "tx": 430950000,
       "repeater": "GB3OH",
@@ -22169,7 +22144,6 @@
       "town": "HORSHAM",
       "modeCodes": [
         "A",
-        " ",
         "F"
       ],
       "tx": 145750000,
@@ -27800,31 +27774,6 @@
       }
     },
     {
-      "id": 5477,
-      "fac": true,
-      "type": "DM",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G8IKP",
-      "town": "WEYMOUTH",
-      "modeCodes": [
-        "A",
-        "F"
-      ],
-      "tx": 439775000,
-      "repeater": "GB3JG",
-      "rx": 430775000,
-      "ctcss": 71.9,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO80SO",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SY6778",
-        "antennaHeight": 15,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5481,
       "fac": true,
       "type": "DM",
@@ -29328,31 +29277,6 @@
       "extraDetails": {
         "ngr": "SD7923",
         "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 5607,
-      "fac": true,
-      "type": "RL",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G8IKP",
-      "town": "WEYMOUTH",
-      "modeCodes": [
-        "A",
-        "F"
-      ],
-      "tx": 430775000,
-      "repeater": "GB3JG-L",
-      "rx": 439775000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO80SO",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SY6679",
-        "antennaHeight": 8,
         "polarisation": "V"
       }
     },
@@ -33138,7 +33062,7 @@
       "id": 5894,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "2E0IPK",
       "town": "DAGENHAM",
       "modeCodes": [
@@ -36043,30 +35967,6 @@
         "ngr": "NZ3157",
         "antennaHeight": 8,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 6127,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0KNJ",
-      "town": "FRETTENHAM",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 432800000,
-      "repeater": "MB5NN",
-      "rx": 144562500,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO02",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TG2416",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -41380,6 +41280,55 @@
         "ngr": "TG2114",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6418,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G6PDE",
+      "town": "IPSWICH",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 439362500,
+      "repeater": "GB3IH",
+      "rx": 430362500,
+      "ctcss": 110.9,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO02OB",
+      "dbwErp": 10.3,
+      "extraDetails": {
+        "ngr": "TM1944",
+        "antennaHeight": 41,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6419,
+      "fac": true,
+      "type": "DM",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G8IKP",
+      "town": "WEYMOUTH",
+      "modeCodes": [
+        "A",
+        "F"
+      ],
+      "tx": 439775000,
+      "repeater": "GB3JG",
+      "rx": 430775000,
+      "ctcss": 71.9,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO80SO",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SY6679",
+        "antennaHeight": 10,
+        "polarisation": "V"
       }
     }
   ]
