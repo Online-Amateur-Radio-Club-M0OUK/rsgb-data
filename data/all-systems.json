@@ -20518,7 +20518,7 @@
       "fac": true,
       "type": "DM",
       "status": "",
-      "keeperCallsign": "M0DUB",
+      "keeperCallsign": "G6DUZ",
       "town": "WAKEFIELD",
       "modeCodes": [
         "A",
@@ -33062,7 +33062,7 @@
       "id": 5894,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0IPK",
       "town": "DAGENHAM",
       "modeCodes": [
