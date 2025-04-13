@@ -14442,7 +14442,7 @@
       "id": 4139,
       "fac": false,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0TNY",
       "town": "STAINES UPON THAMES",
       "modeCodes": [
@@ -20514,31 +20514,6 @@
       }
     },
     {
-      "id": 4897,
-      "fac": true,
-      "type": "DM",
-      "status": "",
-      "keeperCallsign": "G6DUZ",
-      "town": "WAKEFIELD",
-      "modeCodes": [
-        "A",
-        "F"
-      ],
-      "tx": 439512500,
-      "repeater": "GB7WY",
-      "rx": 430512500,
-      "ctcss": 82.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO93FR",
-      "dbwErp": 10,
-      "extraDetails": {
-        "ngr": "SE3024",
-        "antennaHeight": 20,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 4900,
       "fac": true,
       "type": "DG",
@@ -26146,7 +26121,7 @@
       ],
       "tx": 50650000,
       "repeater": "GB7RDG",
-      "rx": 0,
+      "rx": 50650000,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "6M",
@@ -40971,7 +40946,7 @@
       "rx": 0,
       "ctcss": 0,
       "txbw": 2.7,
-      "band": "4M",
+      "band": "40M",
       "locator": "IO65RB76",
       "dbwErp": 7.8,
       "extraDetails": null
@@ -41224,7 +41199,7 @@
       "modeCodes": null,
       "tx": 50540000,
       "repeater": "MX0WVV",
-      "rx": 0,
+      "rx": 50540000,
       "ctcss": 94.8,
       "txbw": 10,
       "band": "6M",
@@ -41328,6 +41303,56 @@
       "extraDetails": {
         "ngr": "SY6679",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6420,
+      "fac": true,
+      "type": "DM",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G6DUZ",
+      "town": "DEWSBURY",
+      "modeCodes": [
+        "A",
+        "F"
+      ],
+      "tx": 439512500,
+      "repeater": "GB7WY",
+      "rx": 430512500,
+      "ctcss": 82.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93EQ",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "SE2521",
+        "antennaHeight": 11,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6421,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM7RYR",
+      "town": "DUNBAR",
+      "modeCodes": [
+        "A",
+        "M:9"
+      ],
+      "tx": 430937500,
+      "repeater": "GB7TN",
+      "rx": 438537500,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO85RX",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NT6877",
+        "antennaHeight": 12,
         "polarisation": "V"
       }
     }
