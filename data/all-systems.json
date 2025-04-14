@@ -7891,8 +7891,8 @@
     },
     {
       "id": 2769,
-      "fac": false,
-      "type": "AV",
+      "fac": true,
+      "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4LRP",
       "town": "HORSHAM",
@@ -8407,7 +8407,7 @@
       "id": 2921,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0WTX",
       "town": "NORTHWICH",
       "modeCodes": [
@@ -16646,9 +16646,9 @@
     },
     {
       "id": 4395,
-      "fac": false,
+      "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4RKY",
       "town": "LISKEARD",
       "modeCodes": [
@@ -18208,7 +18208,7 @@
       "id": 4621,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "2E0EMO",
       "town": "LOUGHTON",
       "modeCodes": [
@@ -18232,7 +18232,7 @@
       "id": 4623,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "2E0EMO",
       "town": "LOUGHTON",
       "modeCodes": [
@@ -20499,9 +20499,9 @@
       "modeCodes": [
         "A"
       ],
-      "tx": 144912500,
+      "tx": 145312500,
       "repeater": "MB7IPR",
-      "rx": 144912500,
+      "rx": 145312500,
       "ctcss": 77,
       "txbw": 12.5,
       "band": "2M",
@@ -22113,7 +22113,7 @@
     {
       "id": 5052,
       "fac": true,
-      "type": "AV",
+      "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4LRP",
       "town": "HORSHAM",
@@ -33261,9 +33261,9 @@
       "modeCodes": [
         "A"
       ],
-      "tx": 144912500,
+      "tx": 145312500,
       "repeater": "MB7IBY",
-      "rx": 144912500,
+      "rx": 145312500,
       "ctcss": 114.8,
       "txbw": 12.5,
       "band": "2M",
@@ -36715,6 +36715,30 @@
       "extraDetails": {
         "ngr": "NT6877",
         "antennaHeight": 15,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6176,
+      "fac": true,
+      "type": "AV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0ZAH",
+      "town": "DISS",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 439425000,
+      "repeater": "GB3DL",
+      "rx": 430425000,
+      "ctcss": 110.9,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO02NI",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TM1579",
+        "antennaHeight": 10,
         "polarisation": "V"
       }
     },
@@ -41355,6 +41379,50 @@
         "antennaHeight": 12,
         "polarisation": "V"
       }
+    },
+    {
+      "id": 6422,
+      "fac": true,
+      "type": "DV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "2E0CJT",
+      "town": "BARNSLEY",
+      "modeCodes": [
+        "M:9"
+      ],
+      "tx": 439150000,
+      "repeater": "2E0CJT",
+      "rx": 430150000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SE3805",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6423,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "GI3JMC",
+      "town": "BALLYMONEY",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144925000,
+      "repeater": "GB7BMY",
+      "rx": 144925000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO65RB76",
+      "dbwErp": 14,
+      "extraDetails": null
     }
   ]
 }
