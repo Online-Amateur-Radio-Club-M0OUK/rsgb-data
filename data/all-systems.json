@@ -2010,7 +2010,7 @@
       "id": 824,
       "fac": true,
       "type": "AV",
-      "status": "",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM7LUN",
       "town": "SELKIRK",
       "modeCodes": [
@@ -14725,34 +14725,6 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "SJ8443",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 4168,
-      "fac": false,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GM4AUP",
-      "town": "SELKIRK",
-      "modeCodes": [
-        "D",
-        "M:1",
-        "F",
-        "P",
-        "N"
-      ],
-      "tx": 439512500,
-      "repeater": "GB7EY",
-      "rx": 430512500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO85",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NT4728",
         "antennaHeight": 0,
         "polarisation": ""
       }
@@ -31081,30 +31053,6 @@
       }
     },
     {
-      "id": 5738,
-      "fac": true,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "2M0MSU",
-      "town": "MAYBOLE",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 439450000,
-      "repeater": "GB7MA",
-      "rx": 430450000,
-      "ctcss": 103.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO75PI",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "NS2909",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5739,
       "fac": true,
       "type": "DG",
@@ -41094,54 +41042,6 @@
       }
     },
     {
-      "id": 6408,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G1SOM",
-      "town": "MINEHEAD",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 438400000,
-      "repeater": "G1SOM",
-      "rx": 430800000,
-      "ctcss": 141.3,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81GF",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SS9547",
-        "antennaHeight": 7,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 6409,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0KPQ",
-      "town": "BISHOPS LYDEARD",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430987500,
-      "repeater": "M0KPQ",
-      "rx": 438587500,
-      "ctcss": 141.3,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81JC",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "ST1833",
-        "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6411,
       "fac": true,
       "type": "AG",
@@ -41423,6 +41323,54 @@
       "locator": "IO65RB76",
       "dbwErp": 14,
       "extraDetails": null
+    },
+    {
+      "id": 6424,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G8BPQ",
+      "town": "NOTTINGHAM",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "MB7UNM",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "IO92KX",
+      "dbwErp": -7,
+      "extraDetails": {
+        "ngr": "SK5943",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6425,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2E0PXW",
+      "town": "WINSFORD",
+      "modeCodes": [
+        "D"
+      ],
+      "tx": 144812500,
+      "repeater": "MB6WF",
+      "rx": 144812500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO83RE",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SJ6365",
+        "antennaHeight": 6,
+        "polarisation": "V"
+      }
     }
   ]
 }
