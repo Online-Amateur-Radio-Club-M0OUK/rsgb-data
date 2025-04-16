@@ -3572,9 +3572,9 @@
     },
     {
       "id": 990,
-      "fac": false,
+      "fac": true,
       "type": "TV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4DHO",
       "town": "STOKE ON TRENT",
       "modeCodes": [
@@ -12885,7 +12885,7 @@
     },
     {
       "id": 3939,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0OCB",
@@ -27830,14 +27830,14 @@
       "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2E0WFL",
+      "keeperCallsign": "M0WFL",
       "town": "HADFIELD",
       "modeCodes": [
         "F"
       ],
       "tx": 144875000,
-      "repeater": "2E0WFL",
-      "rx": 0,
+      "repeater": "MB6FL",
+      "rx": 144875000,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "2M",
@@ -38634,7 +38634,7 @@
       "id": 6284,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0CVL",
       "town": "WESTON SUPER MARE",
       "modeCodes": [
@@ -40970,6 +40970,30 @@
       }
     },
     {
+      "id": 6403,
+      "fac": true,
+      "type": "BN",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4FKI",
+      "town": "BEDFORD",
+      "modeCodes": [
+        "B"
+      ],
+      "tx": 1296840000,
+      "repeater": "GB3BED",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 5,
+      "band": "23CM",
+      "locator": "IO92SD",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TL0451",
+        "antennaHeight": 12,
+        "polarisation": "H"
+      }
+    },
+    {
       "id": 6404,
       "fac": true,
       "type": "AV",
@@ -41039,6 +41063,30 @@
         "ngr": "NZ1306",
         "antennaHeight": 5,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6407,
+      "fac": true,
+      "type": "BN",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G8CUB",
+      "town": "DORSET",
+      "modeCodes": [
+        "B"
+      ],
+      "tx": 75976800000,
+      "repeater": "GB3SWM",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 5,
+      "band": "SHF",
+      "locator": "IO80QR",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SY5593",
+        "antennaHeight": 22,
+        "polarisation": "H"
       }
     },
     {
@@ -41370,6 +41418,55 @@
         "ngr": "SJ6365",
         "antennaHeight": 6,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6426,
+      "fac": true,
+      "type": "DM",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G7RZU",
+      "town": "BARNHAM",
+      "modeCodes": [
+        "A",
+        "M:4"
+      ],
+      "tx": 145712500,
+      "repeater": "GB7FR",
+      "rx": 145112500,
+      "ctcss": 88.5,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO90",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SU9604",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6427,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GW8LGX",
+      "town": "SWANSEA",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430087500,
+      "repeater": "MB7IHN",
+      "rx": 430087500,
+      "ctcss": 82.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SS6393",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
