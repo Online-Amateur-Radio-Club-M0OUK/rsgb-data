@@ -1747,9 +1747,9 @@
     },
     {
       "id": 796,
-      "fac": false,
+      "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M1FJB",
       "town": "SPILSBY LINCS.",
       "modeCodes": [
@@ -19479,7 +19479,7 @@
     },
     {
       "id": 4802,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G8KHF",
@@ -19995,7 +19995,7 @@
     },
     {
       "id": 4849,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GM3NFO",
@@ -25340,7 +25340,7 @@
       "id": 5294,
       "fac": false,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7RZU",
       "town": "BARNHAM",
       "modeCodes": [
@@ -37813,30 +37813,6 @@
       }
     },
     {
-      "id": 6242,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G0DUQ",
-      "town": "HEDNESFORD",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430012500,
-      "repeater": "MB7IRU",
-      "rx": 430012500,
-      "ctcss": 103.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO82",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SJ9913",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6244,
       "fac": true,
       "type": "DG",
@@ -39996,7 +39972,7 @@
       "id": 6354,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G8IPG",
       "town": "WINCHESTER",
       "modeCodes": [
@@ -41449,7 +41425,7 @@
       "id": 6427,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GW8LGX",
       "town": "SWANSEA",
       "modeCodes": [
@@ -41467,6 +41443,30 @@
         "ngr": "SS6393",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6428,
+      "fac": true,
+      "type": "AV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G4WTV",
+      "town": "WORTHING",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 438387500,
+      "repeater": "G4WTV",
+      "rx": 430787500,
+      "ctcss": 88.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO90ST",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TQ1104",
+        "antennaHeight": 10,
+        "polarisation": "V"
       }
     }
   ]
