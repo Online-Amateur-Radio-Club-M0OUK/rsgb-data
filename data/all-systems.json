@@ -23452,7 +23452,7 @@
       "id": 5153,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "M5ADU",
       "town": "NOTTINGHAM",
       "modeCodes": [
@@ -37936,7 +37936,7 @@
       "id": 6251,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MI0KAM",
       "town": "PORTSTEWART",
       "modeCodes": [
@@ -38032,7 +38032,7 @@
       "id": 6255,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M7GAY",
       "town": "ELSTREE",
       "modeCodes": [
@@ -38272,7 +38272,7 @@
       "id": 6269,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "2W0APD",
       "town": "SWANSEA",
       "modeCodes": [
@@ -41066,30 +41066,6 @@
       }
     },
     {
-      "id": 6411,
-      "fac": true,
-      "type": "AG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "2E0KBZ",
-      "town": "WORKSOP",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145237500,
-      "repeater": "MB7IBZ",
-      "rx": 145237500,
-      "ctcss": 71.9,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO93KH",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SK5979",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6412,
       "fac": true,
       "type": "AV",
@@ -41465,6 +41441,31 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "TQ1104",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6429,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "2E0KBZ",
+      "town": "WORKSOP",
+      "modeCodes": [
+        "M:1",
+        "N"
+      ],
+      "tx": 144900000,
+      "repeater": "MB6IB",
+      "rx": 144900000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO93KH",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SK5979",
         "antennaHeight": 10,
         "polarisation": "V"
       }
