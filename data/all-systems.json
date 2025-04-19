@@ -7523,9 +7523,9 @@
     },
     {
       "id": 2664,
-      "fac": false,
+      "fac": true,
       "type": "DM",
-      "status": "DMR ONLY",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0IRK",
       "town": "SHIPLEY",
       "modeCodes": [
@@ -7539,7 +7539,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO93CT",
-      "dbwErp": 13,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SE1536",
         "antennaHeight": 10,
@@ -16558,30 +16558,6 @@
       "repeater": "GB3SG",
       "rx": 438512500,
       "ctcss": 118.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SO8303",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 4392,
-      "fac": true,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G7RPG",
-      "town": "STROUD",
-      "modeCodes": [
-        "M:2"
-      ],
-      "tx": 430250000,
-      "repeater": "GB7KS",
-      "rx": 439250000,
-      "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO81",
@@ -35146,7 +35122,7 @@
       "id": 6062,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4RKY",
       "town": "SHIPHAM",
       "modeCodes": [
@@ -40927,7 +40903,7 @@
       "id": 6402,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM3DDQ",
       "town": "DALRY",
       "modeCodes": null,
@@ -41422,30 +41398,6 @@
       }
     },
     {
-      "id": 6428,
-      "fac": true,
-      "type": "AV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G4WTV",
-      "town": "WORTHING",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 438387500,
-      "repeater": "G4WTV",
-      "rx": 430787500,
-      "ctcss": 88.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO90ST",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TQ1104",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6429,
       "fac": true,
       "type": "DG",
@@ -41468,6 +41420,30 @@
         "ngr": "SK5979",
         "antennaHeight": 10,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6430,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MM6SNT",
+      "town": "KIRKCALDY",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 431112500,
+      "repeater": "MB6KY",
+      "rx": 431112500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO86",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NT2694",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
