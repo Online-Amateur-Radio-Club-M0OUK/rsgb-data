@@ -8209,7 +8209,7 @@
     },
     {
       "id": 2849,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "MI0IRZ",
@@ -23444,30 +23444,6 @@
       "dbwErp": 5.4,
       "extraDetails": {
         "ngr": "SK5244",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 5154,
-      "fac": true,
-      "type": "PX",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M5MPC",
-      "town": "WALKDEN",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144950000,
-      "repeater": "GB7ELE",
-      "rx": 144950000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO83",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SD7301",
         "antennaHeight": 0,
         "polarisation": ""
       }
@@ -41328,7 +41304,7 @@
       "id": 6425,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0PXW",
       "town": "WINSFORD",
       "modeCodes": [
@@ -41398,6 +41374,30 @@
       }
     },
     {
+      "id": 6428,
+      "fac": true,
+      "type": "AV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G4WTV",
+      "town": "WORTHING",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 438387500,
+      "repeater": "G4WTV",
+      "rx": 430787500,
+      "ctcss": 88.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO90ST",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TQ1104",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 6429,
       "fac": true,
       "type": "DG",
@@ -41444,6 +41444,54 @@
         "ngr": "NT2694",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6431,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0YDG ",
+      "town": "HARROGATE",
+      "modeCodes": [
+        "M:5"
+      ],
+      "tx": 431075000,
+      "repeater": "MB6YN",
+      "rx": 431075000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO94EB",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SE2663",
+        "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6432,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0HKC",
+      "town": "IPSWICH",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UKC",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO01PX",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TM2434",
+        "antennaHeight": 10,
+        "polarisation": "V"
       }
     }
   ]
