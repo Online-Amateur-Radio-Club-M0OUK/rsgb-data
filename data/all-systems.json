@@ -3235,9 +3235,9 @@
     },
     {
       "id": 951,
-      "fac": false,
+      "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G8NSS",
       "town": "STOKE ON TRENT",
       "modeCodes": [
@@ -3250,7 +3250,7 @@
       "txbw": 25,
       "band": "23CM",
       "locator": "IO83",
-      "dbwErp": 12.8,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SJ9348",
         "antennaHeight": 0,
@@ -30522,30 +30522,6 @@
       }
     },
     {
-      "id": 5697,
-      "fac": true,
-      "type": "PX",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GM0BKS",
-      "town": "EDINBURGH",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144937500,
-      "repeater": "GB7BKS",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO85JX",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NT2375",
-        "antennaHeight": 4,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5698,
       "fac": true,
       "type": "DG",
@@ -37837,30 +37813,6 @@
       }
     },
     {
-      "id": 6249,
-      "fac": true,
-      "type": "AG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M6PRV",
-      "town": "HASLINGDEN",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430087500,
-      "repeater": "MB7IRV",
-      "rx": 430087500,
-      "ctcss": 77,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO83",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SD7823",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6250,
       "fac": true,
       "type": "AP",
@@ -38779,7 +38731,7 @@
       "id": 6294,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M6LUN",
       "town": "LONDON COLNEY",
       "modeCodes": [
@@ -39900,7 +39852,7 @@
       "id": 6353,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0JML",
       "town": "CAISTER ON SEA",
       "modeCodes": [
