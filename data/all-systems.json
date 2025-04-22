@@ -2107,7 +2107,7 @@
       "fac": false,
       "type": "AV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "GM0LZE",
+      "keeperCallsign": "MM0KMQ",
       "town": "STORNOWAY",
       "modeCodes": [
         "A"
@@ -16596,7 +16596,7 @@
       "id": 4395,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4RKY",
       "town": "LISKEARD",
       "modeCodes": [
@@ -36498,31 +36498,6 @@
       }
     },
     {
-      "id": 6172,
-      "fac": true,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G1RUN",
-      "town": "DENTON",
-      "modeCodes": [
-        "F",
-        "7"
-      ],
-      "tx": 144562500,
-      "repeater": "GB3XB",
-      "rx": 432800000,
-      "ctcss": 67,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO83",
-      "dbwErp": 10,
-      "extraDetails": {
-        "ngr": "SJ9393",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6173,
       "fac": true,
       "type": "DV",
@@ -37327,30 +37302,6 @@
       }
     },
     {
-      "id": 6218,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M7DSQ",
-      "town": "WINGATE ",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145337500,
-      "repeater": "MB7ISQ",
-      "rx": 145337500,
-      "ctcss": 67,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO94HR",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "NZ3937",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6220,
       "fac": true,
       "type": "DG",
@@ -37421,30 +37372,6 @@
         "ngr": "TQ1363",
         "antennaHeight": 10,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 6224,
-      "fac": true,
-      "type": "AG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "2E0GSY",
-      "town": "IVER",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430087500,
-      "repeater": "MB7IMP",
-      "rx": 430087500,
-      "ctcss": 82.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO91",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TQ0379",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -41378,7 +41305,7 @@
       "id": 6430,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM6SNT",
       "town": "KIRKCALDY",
       "modeCodes": [
@@ -41443,6 +41370,54 @@
       "extraDetails": {
         "ngr": "TM2434",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6433,
+      "fac": true,
+      "type": "PX",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MM0UHR",
+      "town": "EDINBURGH",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144937500,
+      "repeater": "GB7BKS",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO85",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NT2868",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6434,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M7SSQ",
+      "town": "HARTLEPOOL",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145337500,
+      "repeater": "MB7ISQ",
+      "rx": 145337500,
+      "ctcss": 67,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO94JQ",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NZ5132",
+        "antennaHeight": 17,
         "polarisation": "V"
       }
     }
