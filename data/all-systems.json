@@ -3500,7 +3500,7 @@
     },
     {
       "id": 983,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0ZPU",
@@ -3512,7 +3512,7 @@
       "repeater": "GB3TU",
       "rx": 434825000,
       "ctcss": 77,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO91PS",
       "dbwErp": 11.8,
@@ -4509,7 +4509,7 @@
     },
     {
       "id": 2056,
-      "fac": false,
+      "fac": true,
       "type": "BN",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0ZPU",
@@ -4524,7 +4524,7 @@
       "txbw": 1,
       "band": "6M",
       "locator": "IO91PS",
-      "dbwErp": 0,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SP9008",
         "antennaHeight": 35,
@@ -5205,7 +5205,7 @@
     },
     {
       "id": 2149,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0ZPU",
@@ -37911,7 +37911,7 @@
       "id": 6258,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "GW6RTV",
       "town": "COEDKERNEW",
       "modeCodes": [
@@ -41443,6 +41443,30 @@
       "extraDetails": {
         "ngr": "NS4571",
         "antennaHeight": 4,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6437,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4TAD",
+      "town": "GREAT YARMOUTH",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430837500,
+      "repeater": "GB3GY",
+      "rx": 438437500,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO02UO",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TG5105",
+        "antennaHeight": 10,
         "polarisation": "V"
       }
     }
