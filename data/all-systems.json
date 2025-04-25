@@ -1169,7 +1169,7 @@
       "id": 725,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM0JNL",
       "town": "BERWICK ON TWEED",
       "modeCodes": [
@@ -39803,7 +39803,7 @@
       "id": 6355,
       "fac": true,
       "type": "AP",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G3ARX",
       "town": "WOKINGHAM",
       "modeCodes": [
