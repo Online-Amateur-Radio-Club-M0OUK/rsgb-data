@@ -7037,6 +7037,30 @@
       }
     },
     {
+      "id": 2529,
+      "fac": false,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0PFX",
+      "town": "THURROCK",
+      "modeCodes": [
+        "M:3"
+      ],
+      "tx": 439475000,
+      "repeater": "GB7SE",
+      "rx": 430475000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO01DM",
+      "dbwErp": 8.8,
+      "extraDetails": {
+        "ngr": "TQ5781",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 2564,
       "fac": false,
       "type": "DV",
@@ -37551,7 +37575,7 @@
       "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2E0ISI",
+      "keeperCallsign": "G8IMZ",
       "town": "YORK",
       "modeCodes": [
         "M:9"
@@ -39441,7 +39465,7 @@
       "id": 6333,
       "fac": true,
       "type": "DD",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0YDG",
       "town": "WAKEFIELD",
       "modeCodes": [
@@ -41353,7 +41377,7 @@
       "id": 6433,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM0UHR",
       "town": "EDINBURGH",
       "modeCodes": [
@@ -41468,6 +41492,30 @@
         "ngr": "TG5105",
         "antennaHeight": 10,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6438,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G1JSF",
+      "town": "MIDDLESBROUGH",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 431087500,
+      "repeater": "MB6JP",
+      "rx": 431087500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO94",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NZ4714",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
