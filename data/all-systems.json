@@ -2924,7 +2924,7 @@
       "id": 922,
       "fac": false,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM7GDE",
       "town": "PAISLEY",
       "modeCodes": [
@@ -31167,7 +31167,7 @@
       "town": "TIVERTON",
       "modeCodes": [
         "A",
-        "M"
+        "F"
       ],
       "tx": 430862500,
       "repeater": "GB3JH",
@@ -38103,7 +38103,7 @@
       "id": 6269,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2W0APD",
       "town": "SWANSEA",
       "modeCodes": [
