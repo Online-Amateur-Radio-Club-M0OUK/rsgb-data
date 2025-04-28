@@ -12336,7 +12336,7 @@
     },
     {
       "id": 3854,
-      "fac": false,
+      "fac": true,
       "type": "TV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G8YTZ",
@@ -36948,7 +36948,8 @@
         "M:1",
         "D",
         "F",
-        "N"
+        "N",
+        "P"
       ],
       "tx": 439350000,
       "repeater": "GB7SA",
@@ -37863,7 +37864,7 @@
       "id": 6255,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M7GAY",
       "town": "ELSTREE",
       "modeCodes": [
@@ -41285,7 +41286,7 @@
       "town": "WORKSOP",
       "modeCodes": [
         "M:1",
-        "N"
+        "F"
       ],
       "tx": 144900000,
       "repeater": "MB6IB",
@@ -41516,6 +41517,30 @@
         "ngr": "NZ4714",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6439,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2E0EUM",
+      "town": "WICKFORD",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 144900000,
+      "repeater": "MB6EM",
+      "rx": 144900000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO01GO",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TQ7692",
+        "antennaHeight": 10,
+        "polarisation": "V"
       }
     }
   ]
