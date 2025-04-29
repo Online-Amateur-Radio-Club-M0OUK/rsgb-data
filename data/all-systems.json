@@ -6627,7 +6627,7 @@
       "id": 2437,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0WTX",
       "town": "NORTHWICH",
       "modeCodes": [
@@ -9689,7 +9689,7 @@
       "id": 3237,
       "fac": false,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0WTX",
       "town": "NORTHWICH",
       "modeCodes": [
@@ -19873,7 +19873,7 @@
     },
     {
       "id": 4842,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M1DNS",
@@ -25720,32 +25720,6 @@
       "extraDetails": null
     },
     {
-      "id": 5320,
-      "fac": true,
-      "type": "DM",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "MM0JNL",
-      "town": "KIRRIEMUIR",
-      "modeCodes": [
-        "A",
-        "F",
-        "M:3"
-      ],
-      "tx": 430825000,
-      "repeater": "GB7CH",
-      "rx": 438425000,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO86KO",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NO3248",
-        "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5321,
       "fac": true,
       "type": "AP",
@@ -26893,9 +26867,9 @@
       "modeCodes": [
         "A"
       ],
-      "tx": 144912500,
+      "tx": 145312500,
       "repeater": "MB7IEC",
-      "rx": 144912500,
+      "rx": 145312500,
       "ctcss": 110.9,
       "txbw": 12.5,
       "band": "2M",
@@ -40326,30 +40300,6 @@
       }
     },
     {
-      "id": 6383,
-      "fac": true,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G5BSD",
-      "town": "100TH BOMB MUSEUM THORPE ABBOT",
-      "modeCodes": [
-        "M:1"
-      ],
-      "tx": 439425000,
-      "repeater": "G5BSD",
-      "rx": 430425000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO02OJ",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TM1881",
-        "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6384,
       "fac": true,
       "type": "DG",
@@ -41523,7 +41473,7 @@
       "id": 6439,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0EUM",
       "town": "WICKFORD",
       "modeCodes": [
@@ -41540,6 +41490,31 @@
       "extraDetails": {
         "ngr": "TQ7692",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6442,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MW0KEC",
+      "town": "CARDIFF",
+      "modeCodes": [
+        "A",
+        "M:1"
+      ],
+      "tx": 430837500,
+      "repeater": "GB7GE",
+      "rx": 438437500,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81JM",
+      "dbwErp": 11.8,
+      "extraDetails": {
+        "ngr": "ST1680",
+        "antennaHeight": 8,
         "polarisation": "V"
       }
     }
