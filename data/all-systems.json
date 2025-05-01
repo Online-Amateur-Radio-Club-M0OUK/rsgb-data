@@ -39315,30 +39315,6 @@
       }
     },
     {
-      "id": 6327,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GW4DVB",
-      "town": "BRIDGEND",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430937500,
-      "repeater": "GB3TC",
-      "rx": 438537500,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81FM",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SS9283",
-        "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6328,
       "fac": true,
       "type": "DG",
@@ -41515,6 +41491,30 @@
       "extraDetails": {
         "ngr": "ST1680",
         "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6443,
+      "fac": true,
+      "type": "AV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "GW4DVB",
+      "town": "BETTWS",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430937500,
+      "repeater": "GB3TC",
+      "rx": 438537500,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SS9087",
+        "antennaHeight": 6,
         "polarisation": "V"
       }
     }
