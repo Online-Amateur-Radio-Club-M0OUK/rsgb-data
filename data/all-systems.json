@@ -32107,33 +32107,6 @@
       }
     },
     {
-      "id": 5815,
-      "fac": true,
-      "type": "DM",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G4SBL",
-      "town": "MABLETHORPE",
-      "modeCodes": [
-        "A",
-        "M:7",
-        "D",
-        "F"
-      ],
-      "tx": 430925000,
-      "repeater": "MB5DS",
-      "rx": 438525000,
-      "ctcss": 82.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO03DH",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TF5083",
-        "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5820,
       "fac": true,
       "type": "PX",
@@ -39967,30 +39940,6 @@
       }
     },
     {
-      "id": 6363,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G1JSF",
-      "town": "MIDDLESBROUGH",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 144887500,
-      "repeater": "MB6JP",
-      "rx": 144887500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO94",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "NZ4714",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6365,
       "fac": true,
       "type": "DV",
@@ -41017,7 +40966,7 @@
       "id": 6421,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM7RYR",
       "town": "DUNBAR",
       "modeCodes": [
@@ -41425,7 +41374,7 @@
       "id": 6438,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G1JSF",
       "town": "MIDDLESBROUGH",
       "modeCodes": [
@@ -41517,6 +41466,26 @@
         "antennaHeight": 6,
         "polarisation": "V"
       }
+    },
+    {
+      "id": 6444,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GW4BML",
+      "town": "BALA",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "MB7UBL",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "IO82DW",
+      "dbwErp": -7,
+      "extraDetails": null
     }
   ]
 }
