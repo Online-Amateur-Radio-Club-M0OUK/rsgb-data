@@ -9141,33 +9141,6 @@
       }
     },
     {
-      "id": 3116,
-      "fac": false,
-      "type": "DM",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GM7HHB",
-      "town": "LIVINGSTON",
-      "modeCodes": [
-        "A",
-        "D",
-        "M:1",
-        "F"
-      ],
-      "tx": 145612500,
-      "repeater": "GB7LV",
-      "rx": 145012500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO85FV",
-      "dbwErp": 4,
-      "extraDetails": {
-        "ngr": "NT0465",
-        "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 3118,
       "fac": true,
       "type": "AG",
@@ -12730,30 +12703,6 @@
       "extraDetails": {
         "ngr": "TL2873",
         "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 3923,
-      "fac": false,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M1SWB",
-      "town": "LIVERPOOL",
-      "modeCodes": [
-        "M:1"
-      ],
-      "tx": 145762500,
-      "repeater": "GB7SG",
-      "rx": 145162500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO83MK",
-      "dbwErp": 7.6,
-      "extraDetails": {
-        "ngr": "SJ3893",
-        "antennaHeight": 12,
         "polarisation": "V"
       }
     },
@@ -38977,7 +38926,7 @@
       "id": 6311,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7HIF",
       "town": "POTCOTE",
       "modeCodes": [
@@ -41422,7 +41371,7 @@
       "id": 6442,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MW0KEC",
       "town": "CARDIFF",
       "modeCodes": [
@@ -41486,6 +41435,30 @@
       "locator": "IO82DW",
       "dbwErp": -7,
       "extraDetails": null
+    },
+    {
+      "id": 6445,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G1VHF",
+      "town": "SCOLE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 50530000,
+      "repeater": "G1VHF",
+      "rx": 50530000,
+      "ctcss": 94.8,
+      "txbw": 151.4,
+      "band": "6M",
+      "locator": "JO02NI",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TM1579",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
     }
   ]
 }
