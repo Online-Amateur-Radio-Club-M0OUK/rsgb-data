@@ -9141,6 +9141,33 @@
       }
     },
     {
+      "id": 3116,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM7HHB",
+      "town": "BROXBURN",
+      "modeCodes": [
+        "A",
+        "D",
+        "M:1",
+        "F"
+      ],
+      "tx": 145612500,
+      "repeater": "GB7LV",
+      "rx": 145012500,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO85GW",
+      "dbwErp": 12,
+      "extraDetails": {
+        "ngr": "NT0871",
+        "antennaHeight": 12,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 3118,
       "fac": true,
       "type": "AG",
@@ -13017,7 +13044,7 @@
       "id": 3967,
       "fac": false,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GW8KCY",
       "town": "CARMARTHEN",
       "modeCodes": [
@@ -26183,7 +26210,7 @@
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G1YFF",
-      "town": "2 MILES NW OF HAVERHILL SUFFOLK ",
+      "town": "HAVERHILL",
       "modeCodes": [
         "A"
       ],
@@ -26191,10 +26218,10 @@
       "repeater": "G1YFF",
       "rx": 434800000,
       "ctcss": 210.7,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "JO02",
-      "dbwErp": 0,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "TL6343",
         "antennaHeight": 0,
@@ -29425,7 +29452,7 @@
       "id": 5632,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G7JHW",
       "town": "CHURCH GRESLEY",
       "modeCodes": [
@@ -38568,7 +38595,7 @@
       "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
-      "locator": "IO92RJ",
+      "locator": "IO91UR",
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "TL1704",
@@ -38850,13 +38877,7 @@
       "keeperCallsign": "G3YPP",
       "town": "MUNDESLEY",
       "modeCodes": [
-        "S",
-        "P",
-        "E",
-        "C",
-        "I",
-        "A",
-        "L"
+        "A"
       ],
       "tx": 144562500,
       "repeater": "G3YPP",
@@ -40773,7 +40794,7 @@
       "id": 6415,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MX0WVV",
       "town": "WYMONDHAM",
       "modeCodes": null,
@@ -41457,6 +41478,30 @@
       "extraDetails": {
         "ngr": "TM1579",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6446,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M6LUN",
+      "town": "LONDON COLNEY",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 144962500,
+      "repeater": "MB7ILC",
+      "rx": 144962500,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO91UR",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TL1704",
+        "antennaHeight": 7,
         "polarisation": "V"
       }
     }
