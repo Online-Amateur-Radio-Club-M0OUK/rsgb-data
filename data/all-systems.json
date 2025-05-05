@@ -1935,7 +1935,7 @@
     },
     {
       "id": 821,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G8IMZ",
@@ -4559,7 +4559,7 @@
       "id": 2058,
       "fac": false,
       "type": "BN",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7EKY",
       "town": "BUXTON",
       "modeCodes": [
@@ -4679,7 +4679,7 @@
       "id": 2067,
       "fac": false,
       "type": "BN",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4EPX",
       "town": "FLEET  HANTS",
       "modeCodes": [
@@ -4727,7 +4727,7 @@
       "id": 2074,
       "fac": false,
       "type": "BN",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G3TQF",
       "town": "MARKFIELD  LEICS",
       "modeCodes": [
@@ -4751,7 +4751,7 @@
       "id": 2075,
       "fac": false,
       "type": "BN",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G3TQF",
       "town": "MARKFIELD  LEICS",
       "modeCodes": [
@@ -10342,7 +10342,7 @@
     },
     {
       "id": 3369,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4MYS",
@@ -10357,7 +10357,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO90IV",
-      "dbwErp": 12.8,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SU4711",
         "antennaHeight": 49,
@@ -19485,12 +19485,13 @@
       "keeperCallsign": "M0YDG",
       "town": "WAKEFIELD",
       "modeCodes": [
+        "A",
         "D"
       ],
       "tx": 430812500,
       "repeater": "GB3BW",
       "rx": 438412500,
-      "ctcss": 107.2,
+      "ctcss": 88.5,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO93HO",
@@ -32932,9 +32933,9 @@
       "id": 5906,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G1YFF",
-      "town": "BURY ST EDMUNDS ",
+      "town": "HAVERHILL",
       "modeCodes": [
         "A"
       ],
@@ -32947,7 +32948,7 @@
       "locator": "JO02",
       "dbwErp": 14,
       "extraDetails": {
-        "ngr": "TL7856",
+        "ngr": "TL6343",
         "antennaHeight": 0,
         "polarisation": ""
       }
