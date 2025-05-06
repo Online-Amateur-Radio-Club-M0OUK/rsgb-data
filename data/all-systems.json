@@ -17441,30 +17441,6 @@
       }
     },
     {
-      "id": 4505,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0HOY",
-      "town": "LEIGH",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 144912500,
-      "repeater": "MB7IDJ",
-      "rx": 144912500,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO83",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SJ6498",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 4507,
       "fac": true,
       "type": "DG",
@@ -26664,30 +26640,6 @@
         "ngr": "SJ9097",
         "antennaHeight": 0,
         "polarisation": ""
-      }
-    },
-    {
-      "id": 5394,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "MW0KEC",
-      "town": "CARDIFF",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 431075000,
-      "repeater": "MW0KEC",
-      "rx": 431075000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81JM",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "ST1680",
-        "antennaHeight": 8,
-        "polarisation": "V"
       }
     },
     {
@@ -37303,7 +37255,7 @@
       "id": 6225,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4ZWH",
       "town": "EATON SOCON",
       "modeCodes": [
@@ -41200,7 +41152,7 @@
       "id": 6432,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0HKC",
       "town": "IPSWICH",
       "modeCodes": [
