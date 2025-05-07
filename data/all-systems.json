@@ -4727,7 +4727,7 @@
       "id": 2074,
       "fac": false,
       "type": "BN",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G3TQF",
       "town": "MARKFIELD  LEICS",
       "modeCodes": [
@@ -40723,7 +40723,7 @@
       "id": 6413,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0VOB",
       "town": "BRADFORD",
       "modeCodes": [
@@ -41456,6 +41456,30 @@
         "ngr": "TL1704",
         "antennaHeight": 7,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6447,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M7LBI",
+      "town": "WARRINGTON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145312500,
+      "repeater": "MB7IHF",
+      "rx": 145312500,
+      "ctcss": 82.5,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO83",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SJ5688",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
