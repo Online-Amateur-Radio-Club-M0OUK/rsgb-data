@@ -8134,31 +8134,6 @@
       }
     },
     {
-      "id": 2828,
-      "fac": false,
-      "type": "DM",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G1LOE",
-      "town": "PLYMOUTH",
-      "modeCodes": [
-        "A",
-        "F"
-      ],
-      "tx": 145675000,
-      "repeater": "GB7IE",
-      "rx": 145075000,
-      "ctcss": 77,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO70WJ",
-      "dbwErp": 11.7,
-      "extraDetails": {
-        "ngr": "SX5056",
-        "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 2833,
       "fac": true,
       "type": "DV",
@@ -9905,7 +9880,7 @@
     },
     {
       "id": 3311,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0HOY",
@@ -14899,7 +14874,7 @@
     },
     {
       "id": 4201,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0HOY",
@@ -23992,7 +23967,7 @@
       "id": 5198,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4MQQ",
       "town": "WINKLEIGH",
       "modeCodes": [
@@ -32885,7 +32860,7 @@
       "id": 5906,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G1YFF",
       "town": "HAVERHILL",
       "modeCodes": [
@@ -39722,7 +39697,7 @@
       "id": 6357,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0ZZT",
       "town": "TIVERTON",
       "modeCodes": [
@@ -41200,7 +41175,7 @@
       "id": 6434,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M7SSQ",
       "town": "HARTLEPOOL",
       "modeCodes": [
