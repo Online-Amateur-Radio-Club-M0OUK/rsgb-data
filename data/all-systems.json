@@ -636,30 +636,6 @@
       }
     },
     {
-      "id": 560,
-      "fac": false,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M1SWB",
-      "town": "LIVERPOOL",
-      "modeCodes": [
-        "M:1"
-      ],
-      "tx": 439400000,
-      "repeater": "GB7LP",
-      "rx": 430400000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO83MK",
-      "dbwErp": 10,
-      "extraDetails": {
-        "ngr": "SJ3893",
-        "antennaHeight": 12,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 562,
       "fac": true,
       "type": "AG",
@@ -2461,30 +2437,6 @@
       "extraDetails": {
         "ngr": "SJ3296",
         "antennaHeight": 100,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 869,
-      "fac": false,
-      "type": "AV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M1SWB",
-      "town": "LIVERPOOL",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 50750000,
-      "repeater": "GB3LP",
-      "rx": 51250000,
-      "ctcss": 77,
-      "txbw": 10,
-      "band": "6M",
-      "locator": "IO83MK",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SJ3893",
-        "antennaHeight": 10,
         "polarisation": "V"
       }
     },
@@ -13019,7 +12971,7 @@
       "id": 3967,
       "fac": false,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GW8KCY",
       "town": "CARMARTHEN",
       "modeCodes": [
@@ -36424,7 +36376,7 @@
       "id": 6176,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0ZAH",
       "town": "DISS",
       "modeCodes": [
@@ -36657,30 +36609,6 @@
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "SJ9589",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 6194,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G4ZWH",
-      "town": "EATON SOCON",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430062500,
-      "repeater": "MB7IES",
-      "rx": 430062500,
-      "ctcss": 67,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO92UF",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TL1759",
         "antennaHeight": 10,
         "polarisation": "V"
       }
@@ -38899,7 +38827,7 @@
       "id": 6312,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4ZWH",
       "town": "EATON SOCON",
       "modeCodes": [
@@ -39913,7 +39841,7 @@
       "id": 6368,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0ZZT",
       "town": "EXETER",
       "modeCodes": [
@@ -41455,6 +41383,54 @@
         "ngr": "SJ5688",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6448,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0DIT",
+      "town": "KEIGHLEY",
+      "modeCodes": [
+        "D"
+      ],
+      "tx": 144912500,
+      "repeater": "MB6JT",
+      "rx": 144912500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO93AU",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SE0541",
+        "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6449,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "GM3STM",
+      "town": "AUCHINLECK",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7USM",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO75UL",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NS5522",
+        "antennaHeight": 10,
+        "polarisation": "V"
       }
     }
   ]
