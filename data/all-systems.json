@@ -19875,7 +19875,7 @@
     },
     {
       "id": 4852,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4WTV",
@@ -37158,7 +37158,7 @@
       "id": 6225,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4ZWH",
       "town": "EATON SOCON",
       "modeCodes": [
@@ -39577,7 +39577,7 @@
       "id": 6355,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G3ARX",
       "town": "WOKINGHAM",
       "modeCodes": [
@@ -40934,7 +40934,7 @@
       "id": 6427,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GW8LGX",
       "town": "SWANSEA",
       "modeCodes": [
@@ -41413,7 +41413,7 @@
       "id": 6449,
       "fac": true,
       "type": "AP",
-      "status": "OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "GM3STM",
       "town": "AUCHINLECK",
       "modeCodes": [
