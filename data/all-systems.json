@@ -4676,34 +4676,10 @@
       }
     },
     {
-      "id": 2074,
-      "fac": false,
-      "type": "BN",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G3TQF",
-      "town": "MARKFIELD  LEICS",
-      "modeCodes": [
-        "B"
-      ],
-      "tx": 3400955000,
-      "repeater": "GB3LEF",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 1.5,
-      "band": "9CM",
-      "locator": "IO92IQ",
-      "dbwErp": -7,
-      "extraDetails": {
-        "ngr": "SK4810",
-        "antennaHeight": 12,
-        "polarisation": "H"
-      }
-    },
-    {
       "id": 2075,
       "fac": false,
       "type": "BN",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G3TQF",
       "town": "MARKFIELD  LEICS",
       "modeCodes": [
@@ -35866,30 +35842,6 @@
       }
     },
     {
-      "id": 6148,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0UKB",
-      "town": "ALLENDALE",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430012500,
-      "repeater": "MB7IAE",
-      "rx": 430012500,
-      "ctcss": 118.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO84VV",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "NY8456",
-        "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6149,
       "fac": true,
       "type": "DM",
@@ -41413,7 +41365,7 @@
       "id": 6449,
       "fac": true,
       "type": "AP",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM3STM",
       "town": "AUCHINLECK",
       "modeCodes": [
