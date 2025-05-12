@@ -41269,7 +41269,7 @@
       "id": 6445,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G1VHF",
       "town": "SCOLE",
       "modeCodes": [
@@ -41383,6 +41383,32 @@
         "ngr": "NS5522",
         "antennaHeight": 10,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6450,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2E0XXY",
+      "town": "BASINGSTOKE",
+      "modeCodes": [
+        "D",
+        "M:5",
+        "F"
+      ],
+      "tx": 434500000,
+      "repeater": "MB6LQ",
+      "rx": 434500000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SU6051",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
