@@ -1627,13 +1627,14 @@
     },
     {
       "id": 788,
-      "fac": false,
-      "type": "AV",
-      "status": "REDUCED OUTPUT",
+      "fac": true,
+      "type": "DM",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM0MZB",
       "town": "STIRLING",
       "modeCodes": [
-        "A"
+        "A",
+        "M:1"
       ],
       "tx": 145662500,
       "repeater": "GB3FE",
@@ -8504,7 +8505,7 @@
     },
     {
       "id": 2969,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0NWI",
@@ -9223,7 +9224,7 @@
       "id": 3155,
       "fac": true,
       "type": "DV",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM0MZB",
       "town": "STIRLING",
       "modeCodes": [
@@ -19605,30 +19606,6 @@
       }
     },
     {
-      "id": 4833,
-      "fac": false,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G4YYB",
-      "town": "ATHERTON",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 50720000,
-      "repeater": "GB3MA",
-      "rx": 51220000,
-      "ctcss": 82.5,
-      "txbw": 10,
-      "band": "6M",
-      "locator": "IO83SM",
-      "dbwErp": 0.8,
-      "extraDetails": {
-        "ngr": "SD6603",
-        "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 4836,
       "fac": false,
       "type": "TV",
@@ -23576,7 +23553,7 @@
       "id": 5177,
       "fac": false,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4UVZ",
       "town": "TRULL",
       "modeCodes": [
@@ -25527,31 +25504,6 @@
       "extraDetails": {
         "ngr": "NF9168",
         "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 5318,
-      "fac": true,
-      "type": "DM",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GM0ONX",
-      "town": "KILMARNOCK",
-      "modeCodes": [
-        "A",
-        "F"
-      ],
-      "tx": 430812500,
-      "repeater": "GB7AY",
-      "rx": 438412500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO75TQ",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NS4944",
-        "antennaHeight": 10,
         "polarisation": "V"
       }
     },
@@ -39745,7 +39697,7 @@
       "id": 6366,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0ZZT",
       "town": "TIVERTON",
       "modeCodes": [
@@ -40506,7 +40458,7 @@
       "id": 6406,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G6IET",
       "town": "RICHMOND",
       "modeCodes": [
@@ -41407,6 +41359,30 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "SU6051",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6451,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G1ZRN",
+      "town": "STOURPORT ON SEVERN",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "G1ZRN",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "IO82",
+      "dbwErp": -7,
+      "extraDetails": {
+        "ngr": "SO8172",
         "antennaHeight": 0,
         "polarisation": ""
       }
