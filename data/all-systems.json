@@ -22644,12 +22644,12 @@
       "ctcss": 0,
       "txbw": 12.5,
       "band": "2M",
-      "locator": "IO93DT",
+      "locator": "IO93",
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "SE1835",
-        "antennaHeight": 5,
-        "polarisation": "V"
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     },
     {
@@ -39381,31 +39381,6 @@
       }
     },
     {
-      "id": 6350,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0ZAH",
-      "town": "SCOLE",
-      "modeCodes": [
-        "D",
-        "F"
-      ],
-      "tx": 144887500,
-      "repeater": "M0ZAH",
-      "rx": 144887500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO02",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TM1579",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6352,
       "fac": true,
       "type": "PX",
@@ -41201,7 +41176,7 @@
       "id": 6444,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GW4BML",
       "town": "BALA",
       "modeCodes": [
@@ -41385,6 +41360,31 @@
         "ngr": "SO8172",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6452,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM0PWS",
+      "town": "STORNOWAY",
+      "modeCodes": [
+        "A",
+        "M:1"
+      ],
+      "tx": 430937500,
+      "repeater": "GB7IG",
+      "rx": 438537500,
+      "ctcss": 88.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO68QE",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NB3030",
+        "antennaHeight": 10,
+        "polarisation": "V"
       }
     }
   ]
