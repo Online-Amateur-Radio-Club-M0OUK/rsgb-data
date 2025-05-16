@@ -19360,7 +19360,7 @@
     {
       "id": 4808,
       "fac": true,
-      "type": "DV",
+      "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0YDG",
       "town": "WAKEFIELD",
@@ -41384,6 +41384,30 @@
       "extraDetails": {
         "ngr": "NB3030",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6453,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G6GXH",
+      "town": "REDBROOK",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145212500,
+      "repeater": "MB7IRB",
+      "rx": 145212500,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO81PS",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SO5309",
+        "antennaHeight": 5,
         "polarisation": "V"
       }
     }
