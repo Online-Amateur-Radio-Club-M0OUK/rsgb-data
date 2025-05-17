@@ -23550,30 +23550,6 @@
       }
     },
     {
-      "id": 5177,
-      "fac": false,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G4UVZ",
-      "town": "TRULL",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430837500,
-      "repeater": "GB3VS",
-      "rx": 438437500,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO80KW",
-      "dbwErp": 10.8,
-      "extraDetails": {
-        "ngr": "ST2117",
-        "antennaHeight": 4,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5179,
       "fac": true,
       "type": "PN",
@@ -41408,6 +41384,54 @@
       "extraDetails": {
         "ngr": "SO5309",
         "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6456,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4UVZ",
+      "town": "TAUNTON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430837500,
+      "repeater": "GB3VS",
+      "rx": 438437500,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO80KX51",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "ST2118",
+        "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6458,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0KYC",
+      "town": "WALLSEND",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430950000,
+      "repeater": "MB5NT",
+      "rx": 438550000,
+      "ctcss": 118.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO95GA",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "NZ3267",
+        "antennaHeight": 11,
         "polarisation": "V"
       }
     }
