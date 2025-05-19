@@ -29233,30 +29233,6 @@
       }
     },
     {
-      "id": 5632,
-      "fac": true,
-      "type": "DG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G7JHW",
-      "town": "CHURCH GRESLEY",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 431100000,
-      "repeater": "G7JHW",
-      "rx": 431100000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO92FS",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SK3018",
-        "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5633,
       "fac": true,
       "type": "PN",
@@ -41140,7 +41116,7 @@
       "ctcss": 94.8,
       "txbw": 12.5,
       "band": "70CM",
-      "locator": "IO81",
+      "locator": "IO81EN",
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "SS9087",
@@ -41432,6 +41408,30 @@
       "extraDetails": {
         "ngr": "NZ3267",
         "antennaHeight": 11,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6459,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G1SCQ",
+      "town": "KING'S LYNN",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430062500,
+      "repeater": "MB7IKY",
+      "rx": 430062500,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO02FS",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TF6723",
+        "antennaHeight": 15,
         "polarisation": "V"
       }
     }
