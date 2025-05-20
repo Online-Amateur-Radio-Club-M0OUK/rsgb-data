@@ -8578,7 +8578,7 @@
     },
     {
       "id": 2994,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M1NIZ",
@@ -19925,7 +19925,7 @@
     },
     {
       "id": 4862,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G7HMV",
@@ -19938,10 +19938,10 @@
       "repeater": "GB3BV",
       "rx": 434625000,
       "ctcss": 82.5,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO91SR",
-      "dbwErp": 12.8,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "TL0804",
         "antennaHeight": 15,
@@ -41433,6 +41433,106 @@
         "ngr": "TF6723",
         "antennaHeight": 15,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6460,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G1SCQ",
+      "town": "KING'S LYNN",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 50520000,
+      "repeater": "MB7IKY",
+      "rx": 50520000,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "6M",
+      "locator": "JO02FS",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TF6723",
+        "antennaHeight": 15,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6461,
+      "fac": true,
+      "type": "PX",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G0WDA",
+      "town": "BLACKPOOL",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 432675000,
+      "repeater": "GB7ESC",
+      "rx": 432675000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83LT",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "SD3135",
+        "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6462,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G1EFU",
+      "town": "WIGAN",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 70412500,
+      "repeater": "MB7IJL",
+      "rx": 70412500,
+      "ctcss": 82.5,
+      "txbw": 12.5,
+      "band": "4M",
+      "locator": "IO83RL",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SJ6198",
+        "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6463,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G6PHF",
+      "town": "LANCASTER",
+      "modeCodes": [
+        "D",
+        "M:1",
+        "F",
+        "N",
+        "7"
+      ],
+      "tx": 439525000,
+      "repeater": "MB5LA",
+      "rx": 430525000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO84",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "SD4759",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
