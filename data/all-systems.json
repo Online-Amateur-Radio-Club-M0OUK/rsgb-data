@@ -2201,11 +2201,11 @@
     },
     {
       "id": 841,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4FZN",
-      "town": "RICHMOND YORKS",
+      "town": "RICHMOND",
       "modeCodes": [
         "A"
       ],
@@ -4397,7 +4397,9 @@
       "status": "OPERATIONAL",
       "keeperCallsign": "GW3TKH",
       "town": "CARDIFF",
-      "modeCodes": null,
+      "modeCodes": [
+        "B"
+      ],
       "tx": 24048940000,
       "repeater": "GB3AMU",
       "rx": 0,
@@ -12242,7 +12244,7 @@
       "id": 3854,
       "fac": true,
       "type": "TV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G8YTZ",
       "town": "PETTS WOOD",
       "modeCodes": [
@@ -14173,7 +14175,7 @@
       "id": 4127,
       "fac": false,
       "type": "TV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7KPM",
       "town": "CAISTOR",
       "modeCodes": [
@@ -26967,30 +26969,6 @@
       }
     },
     {
-      "id": 5439,
-      "fac": true,
-      "type": "AV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G4LYB",
-      "town": "Roughton",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430825000,
-      "repeater": "MB5CR",
-      "rx": 438425000,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO02PV",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TG2139",
-        "antennaHeight": 16,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5440,
       "fac": true,
       "type": "AG",
@@ -36208,7 +36186,7 @@
       "id": 6175,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM7RYR",
       "town": "DUNBAR",
       "modeCodes": [
@@ -36917,7 +36895,7 @@
       "id": 6217,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GW0UXJ",
       "town": "PONTYPRIDD ",
       "modeCodes": [
@@ -37684,30 +37662,6 @@
       "extraDetails": {
         "ngr": "TG2112",
         "antennaHeight": 7,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 6265,
-      "fac": true,
-      "type": "AP",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "2E0KFG",
-      "town": "BURNHAM ON CROUCH",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144800000,
-      "repeater": "MB7UBC",
-      "rx": 144800000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO01JC",
-      "dbwErp": 11.8,
-      "extraDetails": {
-        "ngr": "TQ9595",
-        "antennaHeight": 20,
         "polarisation": "V"
       }
     },
@@ -40197,20 +40151,20 @@
       "id": 6397,
       "fac": true,
       "type": "SP",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G3DBI",
       "town": "ROTHERHAM",
       "modeCodes": [
         "S"
       ],
-      "tx": 145575000,
+      "tx": 145762500,
       "repeater": "MB5SB",
-      "rx": 434575000,
+      "rx": 145162500,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO93",
-      "dbwErp": 7,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SK5392",
         "antennaHeight": 0,
@@ -40294,7 +40248,9 @@
       "status": "OPERATIONAL",
       "keeperCallsign": "MM3DDQ",
       "town": "DALRY",
-      "modeCodes": null,
+      "modeCodes": [
+        "A"
+      ],
       "tx": 70387500,
       "repeater": "MB7IDL",
       "rx": 70387500,
@@ -40484,7 +40440,9 @@
       "status": "OPERATIONAL",
       "keeperCallsign": "MX0WVV",
       "town": "WYMONDHAM",
-      "modeCodes": null,
+      "modeCodes": [
+        "A"
+      ],
       "tx": 50540000,
       "repeater": "MX0WVV",
       "rx": 50540000,
@@ -40530,7 +40488,9 @@
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "M7HSF",
       "town": "HORSHAM ST FAITH",
-      "modeCodes": null,
+      "modeCodes": [
+        "A"
+      ],
       "tx": 50520000,
       "repeater": "MB7INR",
       "rx": 0,
@@ -40623,7 +40583,7 @@
       "id": 6421,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM7RYR",
       "town": "DUNBAR",
       "modeCodes": [
@@ -41533,6 +41493,78 @@
         "ngr": "SD4759",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6464,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0KJO",
+      "town": "GUILDFORD",
+      "modeCodes": [
+        "M:3"
+      ],
+      "tx": 439712500,
+      "repeater": "GB7GU",
+      "rx": 430712500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91RF",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SU9849",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6465,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2E0KFG",
+      "town": "WICKFORD",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UWF",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO01GO",
+      "dbwErp": 11.8,
+      "extraDetails": {
+        "ngr": "TQ7592",
+        "antennaHeight": 11,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6466,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MM3DDQ",
+      "town": "ROTHESAY",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145237500,
+      "repeater": "MB7IOB",
+      "rx": 145237500,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO75LT",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NS0963",
+        "antennaHeight": 10,
+        "polarisation": "V"
       }
     }
   ]
