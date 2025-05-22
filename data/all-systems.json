@@ -12640,30 +12640,6 @@
       }
     },
     {
-      "id": 3925,
-      "fac": false,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M1CMN",
-      "town": "FOLKESTONE",
-      "modeCodes": [
-        "D"
-      ],
-      "tx": 439675000,
-      "repeater": "GB7FK-B",
-      "rx": 430675000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO01OC",
-      "dbwErp": 10.8,
-      "extraDetails": {
-        "ngr": "TR2538",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 3927,
       "fac": false,
       "type": "AV",
@@ -20475,7 +20451,7 @@
       "id": 4911,
       "fac": false,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0DZZ",
       "town": "GREAT CLACTON",
       "modeCodes": [
@@ -40798,7 +40774,7 @@
       "id": 6430,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MM6SNT",
       "town": "KIRKCALDY",
       "modeCodes": [
@@ -41565,6 +41541,54 @@
         "ngr": "NS0963",
         "antennaHeight": 10,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6467,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M1CMN",
+      "town": "FOLKESTONE",
+      "modeCodes": [
+        "D"
+      ],
+      "tx": 439675000,
+      "repeater": "GB7FK",
+      "rx": 430675000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO01",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "TR2238",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6468,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2M1EUB ",
+      "town": "ABOYNE ",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145225000,
+      "repeater": "MB7IOR",
+      "rx": 145225000,
+      "ctcss": 67,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO87",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NJ4501",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
