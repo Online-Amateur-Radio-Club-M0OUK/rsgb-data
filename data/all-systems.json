@@ -33592,7 +33592,7 @@
       "id": 5969,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0VGP",
       "town": "WALSALL",
       "modeCodes": [
@@ -39046,30 +39046,6 @@
       }
     },
     {
-      "id": 6335,
-      "fac": true,
-      "type": "DG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0UKF",
-      "town": "NEWPORT PAGNELL",
-      "modeCodes": [
-        "M:3"
-      ],
-      "tx": 434525000,
-      "repeater": "MB6NP",
-      "rx": 434525000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO92PB",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SP 8 4",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6336,
       "fac": true,
       "type": "PX",
@@ -41499,7 +41475,7 @@
       "id": 6465,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0KFG",
       "town": "WICKFORD",
       "modeCodes": [
