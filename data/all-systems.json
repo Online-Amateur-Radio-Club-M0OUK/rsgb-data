@@ -24450,7 +24450,7 @@
       "id": 5242,
       "fac": false,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0TTL",
       "town": "COTTINGHAM",
       "modeCodes": [
@@ -40221,7 +40221,7 @@
       "id": 6403,
       "fac": true,
       "type": "BN",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4FKI",
       "town": "BEDFORD",
       "modeCodes": [
@@ -40677,7 +40677,7 @@
       "id": 6427,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GW8LGX",
       "town": "SWANSEA",
       "modeCodes": [
