@@ -20451,7 +20451,7 @@
       "id": 4911,
       "fac": false,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0DZZ",
       "town": "GREAT CLACTON",
       "modeCodes": [
@@ -22411,7 +22411,7 @@
       "id": 5090,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M5PDL",
       "town": "POOLE",
       "modeCodes": [
@@ -40055,7 +40055,7 @@
       "id": 6395,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7TWZ",
       "town": "WORCESTER PARK",
       "modeCodes": [
@@ -40103,7 +40103,7 @@
       "id": 6397,
       "fac": true,
       "type": "SP",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "G3DBI",
       "town": "ROTHERHAM",
       "modeCodes": [
@@ -41303,7 +41303,7 @@
       "id": 6458,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0KYC",
       "town": "WALLSEND",
       "modeCodes": [
@@ -41565,6 +41565,31 @@
         "ngr": "NJ4501",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6469,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2E0IZO",
+      "town": "HERNE BAY",
+      "modeCodes": [
+        "A",
+        "F"
+      ],
+      "tx": 430962500,
+      "repeater": "GB7EK",
+      "rx": 438562500,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO01NI",
+      "dbwErp": 8.5,
+      "extraDetails": {
+        "ngr": "TR1865",
+        "antennaHeight": 10,
+        "polarisation": "V"
       }
     }
   ]
