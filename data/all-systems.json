@@ -39839,7 +39839,7 @@
       "id": 6386,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0OFF",
       "town": "GRAVELEY",
       "modeCodes": [
@@ -41399,7 +41399,7 @@
       "id": 6462,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G1EFU",
       "town": "WIGAN",
       "modeCodes": [
