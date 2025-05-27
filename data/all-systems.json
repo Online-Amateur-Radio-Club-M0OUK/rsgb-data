@@ -9247,31 +9247,6 @@
       }
     },
     {
-      "id": 3160,
-      "fac": true,
-      "type": "DM",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G1IVG",
-      "town": "MARKET HARBOROUGH",
-      "modeCodes": [
-        "A",
-        "M:2"
-      ],
-      "tx": 439687500,
-      "repeater": "GB7WV",
-      "rx": 430687500,
-      "ctcss": 77,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO92NL",
-      "dbwErp": 8.3,
-      "extraDetails": {
-        "ngr": "SP7487",
-        "antennaHeight": 7,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 3164,
       "fac": false,
       "type": "DM",
@@ -17422,7 +17397,7 @@
     },
     {
       "id": 4522,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G8XYJ",
@@ -17430,8 +17405,7 @@
       "modeCodes": [
         "D",
         "M:1",
-        "F",
-        "N"
+        "F"
       ],
       "tx": 439700000,
       "repeater": "GB7VO",
@@ -17440,7 +17414,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO82QJ",
-      "dbwErp": 6,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "SO5975",
         "antennaHeight": 5,
@@ -32384,11 +32358,10 @@
       "town": "KINGSWINFORD",
       "modeCodes": [
         "A",
-        "M:11",
-        "N"
+        "M:11"
       ],
       "tx": 433250000,
-      "repeater": "G4VZO",
+      "repeater": "GB7KF",
       "rx": 438250000,
       "ctcss": 123,
       "txbw": 12.5,
@@ -39506,7 +39479,7 @@
       "id": 6365,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0ZZT",
       "town": "TIVERTON",
       "modeCodes": [
@@ -41585,10 +41558,60 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "JO01NI",
-      "dbwErp": 8.5,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "TR1865",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6472,
+      "fac": true,
+      "type": "DM",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G4XEX",
+      "town": "MARKET HARBOROUGH",
+      "modeCodes": [
+        "A",
+        "M:2"
+      ],
+      "tx": 439687500,
+      "repeater": "GB7WV",
+      "rx": 430687500,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO92ML",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "SP7288",
+        "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6473,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4XUR",
+      "town": "TAUNTON",
+      "modeCodes": [
+        "A",
+        "M:10"
+      ],
+      "tx": 439337500,
+      "repeater": "GB3TA",
+      "rx": 430337500,
+      "ctcss": 141.3,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO80KW",
+      "dbwErp": 11.1,
+      "extraDetails": {
+        "ngr": "ST2117",
+        "antennaHeight": 6,
         "polarisation": "V"
       }
     }
