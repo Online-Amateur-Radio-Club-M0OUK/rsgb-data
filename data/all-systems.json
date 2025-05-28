@@ -10103,7 +10103,7 @@
     },
     {
       "id": 3355,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4OHB",
@@ -12691,7 +12691,7 @@
     },
     {
       "id": 3937,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G8OXG",
@@ -13420,7 +13420,7 @@
       "id": 4048,
       "fac": false,
       "type": "DM",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MW0HAC",
       "town": "PORT TALBOT",
       "modeCodes": [
@@ -22578,33 +22578,6 @@
       }
     },
     {
-      "id": 5105,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0VOB",
-      "town": "BRADFORD",
-      "modeCodes": [
-        "D",
-        "M:2",
-        "F",
-        "P"
-      ],
-      "tx": 144825000,
-      "repeater": "MB6DV",
-      "rx": 144825000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO93",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SE1835",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 5106,
       "fac": false,
       "type": "DM",
@@ -25295,7 +25268,7 @@
       "id": 5311,
       "fac": true,
       "type": "RL",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MW0KJN",
       "town": "SWANSEA",
       "modeCodes": [
@@ -36748,7 +36721,7 @@
       "id": 6213,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G8LIY",
       "town": "LEIGH",
       "modeCodes": [
@@ -41612,6 +41585,79 @@
       "extraDetails": {
         "ngr": "ST2117",
         "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6474,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0VOB",
+      "town": "BRADFORD",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145337500,
+      "repeater": "MB7IAV",
+      "rx": 145337500,
+      "ctcss": 82.5,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO93DT",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SE1835",
+        "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6475,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4OHB",
+      "town": "BANBURY",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145687500,
+      "repeater": "GB3EH",
+      "rx": 145087500,
+      "ctcss": 67,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO92GC",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SP3645",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6476,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G0FGX",
+      "town": "HAYTOR VALE",
+      "modeCodes": [
+        "A",
+        "F"
+      ],
+      "tx": 145675000,
+      "repeater": "GB7HV",
+      "rx": 145075000,
+      "ctcss": 67,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO80DN",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SX7776",
+        "antennaHeight": 10,
         "polarisation": "V"
       }
     }
