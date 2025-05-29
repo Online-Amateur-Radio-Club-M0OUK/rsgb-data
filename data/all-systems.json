@@ -18156,7 +18156,7 @@
       "id": 4650,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0XZS",
       "town": "GREAT MALVERN",
       "modeCodes": [
@@ -25962,30 +25962,6 @@
       }
     },
     {
-      "id": 5363,
-      "fac": true,
-      "type": "PX",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G6JME",
-      "town": "EASTBOURNE",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144950000,
-      "repeater": "GB7EBN",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO00",
-      "dbwErp": 10,
-      "extraDetails": {
-        "ngr": "TV5998",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 5364,
       "fac": true,
       "type": "PX",
@@ -27610,7 +27586,7 @@
       "type": "AP",
       "status": "OPERATIONAL",
       "keeperCallsign": "2E1GW",
-      "town": "SOUTHGATE  LONDON",
+      "town": "SOUTHGATE",
       "modeCodes": [
         "X"
       ],
@@ -29131,30 +29107,6 @@
         "ngr": "NZ2865",
         "antennaHeight": 8,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 5633,
-      "fac": true,
-      "type": "PN",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G6JME",
-      "town": "EASTBOURNE",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144950000,
-      "repeater": "MB7NEB",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO00",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TQ5801",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -31504,7 +31456,7 @@
       "id": 5799,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM7RYR",
       "town": "PAISLEY",
       "modeCodes": [
@@ -32397,30 +32349,6 @@
       }
     },
     {
-      "id": 5885,
-      "fac": true,
-      "type": "PN",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G6JME",
-      "town": "EASTBOURNE",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 70487500,
-      "repeater": "MB7NEB",
-      "rx": 70487500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "4M",
-      "locator": "JO00",
-      "dbwErp": 11.8,
-      "extraDetails": {
-        "ngr": "TQ5801",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 5887,
       "fac": true,
       "type": "AG",
@@ -33049,30 +32977,6 @@
         "ngr": "NO3734",
         "antennaHeight": 10,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 5939,
-      "fac": true,
-      "type": "PN",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G6JME",
-      "town": "EASTBOURNE",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 432675000,
-      "repeater": "MB7NEB",
-      "rx": 432675000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO00",
-      "dbwErp": 11.8,
-      "extraDetails": {
-        "ngr": "TQ5801",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -34821,30 +34725,6 @@
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "NT7354",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 6072,
-      "fac": true,
-      "type": "PX",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G6JME",
-      "town": "EASTBOURNE",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 70487500,
-      "repeater": "GB7EBN",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "4M",
-      "locator": "JO00",
-      "dbwErp": 10,
-      "extraDetails": {
-        "ngr": "TV5998",
         "antennaHeight": 0,
         "polarisation": ""
       }
@@ -38437,7 +38317,7 @@
       "id": 6307,
       "fac": true,
       "type": "TV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G8VDP",
       "town": "BARNSLEY",
       "modeCodes": [
@@ -41469,7 +41349,7 @@
       "id": 6467,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M1CMN",
       "town": "FOLKESTONE",
       "modeCodes": [
@@ -41659,6 +41539,78 @@
         "ngr": "SX7776",
         "antennaHeight": 10,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6477,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G6JME",
+      "town": "EASTBOURNE",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 432675000,
+      "repeater": "GB7EBN",
+      "rx": 432675000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO00",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TQ5801",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6478,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G6JME",
+      "town": "EASTBOURNE",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144950000,
+      "repeater": "GB7EBN",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO00",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TQ5801",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6479,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G6JME",
+      "town": "EASTBOURNE",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 70487500,
+      "repeater": "GB7EBN",
+      "rx": 70487500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "4M",
+      "locator": "JO00",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TQ5801",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
