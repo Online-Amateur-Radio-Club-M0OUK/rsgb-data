@@ -41105,7 +41105,7 @@
       "id": 6456,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4UVZ",
       "town": "TAUNTON",
       "modeCodes": [
