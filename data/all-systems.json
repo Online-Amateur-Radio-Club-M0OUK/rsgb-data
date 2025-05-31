@@ -36817,30 +36817,6 @@
       }
     },
     {
-      "id": 6227,
-      "fac": true,
-      "type": "DG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "2E0JOO",
-      "town": "LEASOWE",
-      "modeCodes": [
-        "D"
-      ],
-      "tx": 144900000,
-      "repeater": "MB6JC",
-      "rx": 144900000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO83KJ",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SJ2790",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6228,
       "fac": true,
       "type": "RL",
@@ -37129,30 +37105,6 @@
         "ngr": "IJ4059",
         "antennaHeight": 0,
         "polarisation": ""
-      }
-    },
-    {
-      "id": 6247,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G4UVZ",
-      "town": "TAUNTON",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430062500,
-      "repeater": "G4UVZ",
-      "rx": 430062500,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO80KX",
-      "dbwErp": 0,
-      "extraDetails": {
-        "ngr": "ST2119",
-        "antennaHeight": 5,
-        "polarisation": "V"
       }
     },
     {
@@ -37688,7 +37640,7 @@
       "id": 6277,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM7LUN",
       "town": "DUNS",
       "modeCodes": [
@@ -37712,7 +37664,7 @@
       "id": 6278,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM7LUN",
       "town": "LINDEAN",
       "modeCodes": [
@@ -41611,6 +41563,30 @@
         "ngr": "TQ5801",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6480,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GW0RVR",
+      "town": "BRIDGEND",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430812500,
+      "repeater": "GB3VZ",
+      "rx": 438412500,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81FM",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "SS9280",
+        "antennaHeight": 5,
+        "polarisation": "V"
       }
     }
   ]
