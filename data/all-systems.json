@@ -272,7 +272,7 @@
       "id": 207,
       "fac": false,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4EID",
       "town": "SOUTHPORT",
       "modeCodes": [
@@ -3447,7 +3447,7 @@
       "dbwErp": 11.3,
       "extraDetails": {
         "ngr": "SX9168",
-        "antennaHeight": 0,
+        "antennaHeight": 6,
         "polarisation": "V"
       }
     },
@@ -17964,7 +17964,7 @@
       "id": 4621,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0EMO",
       "town": "LOUGHTON",
       "modeCodes": [
@@ -19533,7 +19533,7 @@
     },
     {
       "id": 4832,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0DKR",
@@ -41586,6 +41586,30 @@
       "extraDetails": {
         "ngr": "SS9280",
         "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6481,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2E0XFD",
+      "town": "CANTERBURY",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145337500,
+      "repeater": "MB7ILT",
+      "rx": 145337500,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO01NG",
+      "dbwErp": -12.2,
+      "extraDetails": {
+        "ngr": "TR2057",
+        "antennaHeight": 7,
         "polarisation": "V"
       }
     }
