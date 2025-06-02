@@ -4679,6 +4679,30 @@
       }
     },
     {
+      "id": 2074,
+      "fac": false,
+      "type": "BN",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G3TQF",
+      "town": "MARKFIELD  LEICS",
+      "modeCodes": [
+        "B"
+      ],
+      "tx": 3400955000,
+      "repeater": "GB3LEF",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 1.5,
+      "band": "9CM",
+      "locator": "IO92IQ",
+      "dbwErp": -7,
+      "extraDetails": {
+        "ngr": "SK4810",
+        "antennaHeight": 12,
+        "polarisation": "H"
+      }
+    },
+    {
       "id": 2075,
       "fac": false,
       "type": "BN",
@@ -8533,7 +8557,7 @@
       "id": 2978,
       "fac": false,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0WTX",
       "town": "MOLD",
       "modeCodes": [
@@ -12799,30 +12823,6 @@
       }
     },
     {
-      "id": 3946,
-      "fac": false,
-      "type": "AV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G4FUO",
-      "town": "YORK",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430862500,
-      "repeater": "GB3CY",
-      "rx": 438462500,
-      "ctcss": 88.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO93KW",
-      "dbwErp": 10,
-      "extraDetails": {
-        "ngr": "SE5547",
-        "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 3958,
       "fac": false,
       "type": "DM",
@@ -12996,15 +12996,14 @@
     },
     {
       "id": 3975,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4LUE",
       "town": "BARNSLEY",
       "modeCodes": [
         "A",
-        "D",
-        "F"
+        "D"
       ],
       "tx": 145612500,
       "repeater": "GB3NA",
@@ -13022,7 +13021,7 @@
     },
     {
       "id": 3976,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4LUE",
@@ -13038,7 +13037,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO93HN",
-      "dbwErp": 12.9,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SE3907",
         "antennaHeight": 15,
@@ -13095,7 +13094,7 @@
     },
     {
       "id": 3987,
-      "fac": false,
+      "fac": true,
       "type": "DD",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4LUE",
@@ -41229,7 +41228,7 @@
       "id": 6464,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0KJO",
       "town": "GUILDFORD",
       "modeCodes": [
@@ -41593,7 +41592,7 @@
       "id": 6481,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0XFD",
       "town": "CANTERBURY",
       "modeCodes": [
@@ -41602,11 +41601,11 @@
       "tx": 145337500,
       "repeater": "MB7ILT",
       "rx": 145337500,
-      "ctcss": 77,
+      "ctcss": 103.5,
       "txbw": 12.5,
       "band": "2M",
       "locator": "JO01NG",
-      "dbwErp": -12.2,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "TR2057",
         "antennaHeight": 7,
