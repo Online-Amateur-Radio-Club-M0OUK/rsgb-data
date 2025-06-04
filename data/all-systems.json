@@ -15243,30 +15243,6 @@
       }
     },
     {
-      "id": 4282,
-      "fac": false,
-      "type": "AV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GW6JSO",
-      "town": "NEWCASTLE EMLYN",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145687500,
-      "repeater": "GB3CN",
-      "rx": 145087500,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO71TX",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SN3535",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 4284,
       "fac": true,
       "type": "DG",
@@ -21842,7 +21818,7 @@
       "id": 5060,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GW0UXJ",
       "town": "MERTHYR TYDFIL",
       "modeCodes": [
@@ -32761,7 +32737,7 @@
       "id": 5936,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0ZNH",
       "town": "POLLINGTON",
       "modeCodes": [
@@ -33115,30 +33091,6 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "SD4662",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 5959,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G7ELZ",
-      "town": "WALLINGTON",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145337500,
-      "repeater": "MB7IWS",
-      "rx": 145337500,
-      "ctcss": 82.5,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO91",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TQ2864",
         "antennaHeight": 0,
         "polarisation": ""
       }
@@ -38990,7 +38942,7 @@
       "id": 6356,
       "fac": true,
       "type": "AG",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0PTN",
       "town": "REDDITCH",
       "modeCodes": [
@@ -41346,7 +41298,7 @@
       "id": 6475,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4OHB",
       "town": "BANBURY",
       "modeCodes": [
