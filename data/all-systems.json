@@ -16472,31 +16472,6 @@
       }
     },
     {
-      "id": 4407,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "2W0LPU",
-      "town": "BRECON",
-      "modeCodes": [
-        "M:3",
-        "F"
-      ],
-      "tx": 144850000,
-      "repeater": "MB6BB",
-      "rx": 144850000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO81",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SO1128",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 4409,
       "fac": true,
       "type": "AP",
@@ -41151,7 +41126,7 @@
       "id": 6468,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2M1EUB ",
       "town": "ABOYNE ",
       "modeCodes": [
@@ -41582,6 +41557,31 @@
         "ngr": "NZ8607",
         "antennaHeight": 25,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6488,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "2W0LPU",
+      "town": "BRECON",
+      "modeCodes": [
+        "M:3",
+        "F"
+      ],
+      "tx": 431075000,
+      "repeater": "MB6BB",
+      "rx": 431075000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SO1128",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
