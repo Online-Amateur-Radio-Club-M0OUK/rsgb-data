@@ -10077,9 +10077,9 @@
     },
     {
       "id": 3346,
-      "fac": false,
+      "fac": true,
       "type": "DV",
-      "status": "REDUCED OUTPUT",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G8NDT",
       "town": "BANBURY",
       "modeCodes": [
@@ -13020,7 +13020,7 @@
     },
     {
       "id": 3981,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0HBK",
@@ -16136,7 +16136,7 @@
       "id": 4371,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GW0UXJ",
       "town": "MERTHYR TYDFIL",
       "modeCodes": [
@@ -37569,7 +37569,7 @@
         "D"
       ],
       "tx": 144875000,
-      "repeater": "MB6MD",
+      "repeater": "MB6MD-C",
       "rx": 144875000,
       "ctcss": 0,
       "txbw": 12.5,
@@ -41273,7 +41273,7 @@
       "id": 6475,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4OHB",
       "town": "BANBURY",
       "modeCodes": [
@@ -41286,7 +41286,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO92GC",
-      "dbwErp": 7,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SP3645",
         "antennaHeight": 10,
