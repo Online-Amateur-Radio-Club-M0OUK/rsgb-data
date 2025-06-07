@@ -272,7 +272,7 @@
       "id": 207,
       "fac": false,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4EID",
       "town": "SOUTHPORT",
       "modeCodes": [
@@ -9074,7 +9074,7 @@
       "id": 3116,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM7HHB",
       "town": "BROXBURN",
       "modeCodes": [
@@ -12819,6 +12819,30 @@
       "extraDetails": {
         "ngr": "TM2445",
         "antennaHeight": 92,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 3946,
+      "fac": true,
+      "type": "AV",
+      "status": "",
+      "keeperCallsign": "G4FUO",
+      "town": "YORK",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430862500,
+      "repeater": "GB3CY",
+      "rx": 438462500,
+      "ctcss": 88.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93KW",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "SE5547",
+        "antennaHeight": 6,
         "polarisation": "V"
       }
     },
