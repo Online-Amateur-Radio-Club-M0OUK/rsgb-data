@@ -12113,7 +12113,7 @@
     },
     {
       "id": 3833,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0VMX",
@@ -19480,9 +19480,9 @@
     },
     {
       "id": 4840,
-      "fac": false,
+      "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM1TCN",
       "town": "FORFAR",
       "modeCodes": [
@@ -22547,30 +22547,6 @@
         "ngr": "IC6509",
         "antennaHeight": 4,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 5117,
-      "fac": true,
-      "type": "AP",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G4LVV",
-      "town": "WORCESTER",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144800000,
-      "repeater": "MB7UAA",
-      "rx": 144800000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO82",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SO8549",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -36595,7 +36571,7 @@
       "id": 6225,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4ZWH",
       "town": "EATON SOCON",
       "modeCodes": [
@@ -36833,30 +36809,6 @@
       "extraDetails": {
         "ngr": "SY1792",
         "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 6239,
-      "fac": true,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G3XOU",
-      "town": "LODDISWELL",
-      "modeCodes": [
-        "M:3"
-      ],
-      "tx": 145587500,
-      "repeater": "GB7LW",
-      "rx": 144987500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO80CI",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SX7152",
-        "antennaHeight": 6,
         "polarisation": "V"
       }
     },
@@ -41606,6 +41558,30 @@
         "ngr": "SO1128",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6489,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G3XOU",
+      "town": "LODDISWELL",
+      "modeCodes": [
+        "M:3"
+      ],
+      "tx": 145587500,
+      "repeater": "GB7LW",
+      "rx": 144987500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO80CI",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SX7252",
+        "antennaHeight": 6,
+        "polarisation": "V"
       }
     }
   ]
