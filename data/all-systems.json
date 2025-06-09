@@ -31426,7 +31426,7 @@
       "id": 5812,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM4YTD",
       "town": "STRANRAER",
       "modeCodes": [
@@ -40229,30 +40229,6 @@
       }
     },
     {
-      "id": 6427,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GW8LGX",
-      "town": "SWANSEA",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430087500,
-      "repeater": "MB7IHN",
-      "rx": 430087500,
-      "ctcss": 82.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SS6393",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6428,
       "fac": true,
       "type": "AV",
@@ -41581,6 +41557,54 @@
       "extraDetails": {
         "ngr": "SX7252",
         "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6490,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0KOW",
+      "town": "DULVERTON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 438400000,
+      "repeater": "M0KOW",
+      "rx": 430800000,
+      "ctcss": 141.3,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81CC",
+      "dbwErp": 10.8,
+      "extraDetails": {
+        "ngr": "SS7436",
+        "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6491,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MOKOY",
+      "town": "SIMONSBATH",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 439137500,
+      "repeater": "M0KOY",
+      "rx": 430137500,
+      "ctcss": 141.3,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO82AW",
+      "dbwErp": 10.8,
+      "extraDetails": {
+        "ngr": "SS7241",
+        "antennaHeight": 7,
         "polarisation": "V"
       }
     }
