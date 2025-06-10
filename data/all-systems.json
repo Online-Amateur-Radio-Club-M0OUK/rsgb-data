@@ -2658,30 +2658,6 @@
       }
     },
     {
-      "id": 901,
-      "fac": false,
-      "type": "AV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GM4ZUK",
-      "town": "FRASERBURGH",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145625000,
-      "repeater": "GB3NG",
-      "rx": 145025000,
-      "ctcss": 67,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO87XO",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NJ9856",
-        "antennaHeight": 60,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 903,
       "fac": false,
       "type": "AV",
@@ -10000,9 +9976,9 @@
     },
     {
       "id": 3333,
-      "fac": false,
+      "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MI0JPD",
       "town": "MAGHERAFELT",
       "modeCodes": [
@@ -10019,7 +9995,7 @@
       "locator": "IO64QR",
       "dbwErp": 11,
       "extraDetails": {
-        "ngr": "IH8989",
+        "ngr": "IH8980",
         "antennaHeight": 6,
         "polarisation": "V"
       }
@@ -19474,33 +19450,6 @@
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "SJ2364",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 4840,
-      "fac": true,
-      "type": "DM",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GM1TCN",
-      "town": "FORFAR",
-      "modeCodes": [
-        "A",
-        "D",
-        "M:3",
-        "F"
-      ],
-      "tx": 430900000,
-      "repeater": "GB7AG",
-      "rx": 438500000,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO86",
-      "dbwErp": 11.3,
-      "extraDetails": {
-        "ngr": "NO4458",
         "antennaHeight": 0,
         "polarisation": ""
       }
@@ -30991,7 +30940,7 @@
       "id": 5785,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0NCZ",
       "town": "ASHTON-UNDER-LYNE",
       "modeCodes": [
@@ -41605,6 +41554,30 @@
       "extraDetails": {
         "ngr": "SS7241",
         "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6494,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM0APN",
+      "town": "INVERURIE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145625000,
+      "repeater": "GB3NG",
+      "rx": 145025000,
+      "ctcss": 67,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO87UH",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NJ8124",
+        "antennaHeight": 6,
         "polarisation": "V"
       }
     }
