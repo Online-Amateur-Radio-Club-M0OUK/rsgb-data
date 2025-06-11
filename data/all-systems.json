@@ -10102,30 +10102,6 @@
       }
     },
     {
-      "id": 3355,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G4OHB",
-      "town": "BANBURY",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430962500,
-      "repeater": "GB3EH",
-      "rx": 438562500,
-      "ctcss": 67,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO92GC",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SP3645",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 3362,
       "fac": true,
       "type": "DV",
@@ -18937,30 +18913,6 @@
         "ngr": "TM2330",
         "antennaHeight": 1,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 4779,
-      "fac": false,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G8NSS",
-      "town": "LEEK",
-      "modeCodes": [
-        "M:1"
-      ],
-      "tx": 439762500,
-      "repeater": "GB7SI",
-      "rx": 430762500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO83",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SJ9158",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -41578,6 +41530,31 @@
       "extraDetails": {
         "ngr": "NJ8124",
         "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6495,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G8NSS",
+      "town": "BIDDUPLH",
+      "modeCodes": [
+        "A",
+        "M:1"
+      ],
+      "tx": 430937500,
+      "repeater": "GB7SI",
+      "rx": 438537500,
+      "ctcss": 82.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83WA",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SJ9158",
+        "antennaHeight": 8,
         "polarisation": "V"
       }
     }
