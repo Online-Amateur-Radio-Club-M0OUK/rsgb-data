@@ -14885,8 +14885,7 @@
       "keeperCallsign": "MM0DUN",
       "town": "DUNDEE",
       "modeCodes": [
-        "M:1",
-        "N"
+        "M:1"
       ],
       "tx": 439662500,
       "repeater": "GB7DD",
@@ -33240,7 +33239,7 @@
       "id": 5974,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "GW8IOA",
       "town": "NEWPORT",
       "modeCodes": [
@@ -37641,7 +37640,7 @@
       "tx": 433150000,
       "repeater": "MB5HF",
       "rx": 434750000,
-      "ctcss": 71.9,
+      "ctcss": 82.5,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO93XQ",
