@@ -33067,30 +33067,6 @@
       }
     },
     {
-      "id": 5966,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "2E0BEQ",
-      "town": "SUTTON IN ASHFIELD",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430100000,
-      "repeater": "MB7IDW",
-      "rx": 430100000,
-      "ctcss": 203.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO93ID",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SK4960",
-        "antennaHeight": 3,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5967,
       "fac": true,
       "type": "DG",
