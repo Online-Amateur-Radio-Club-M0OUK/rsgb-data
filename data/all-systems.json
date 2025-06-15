@@ -23639,6 +23639,30 @@
       }
     },
     {
+      "id": 5205,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM0WUR",
+      "town": "STIRLING",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7USC",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO86AC",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NS8090",
+        "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 5209,
       "fac": true,
       "type": "AG",
@@ -32780,7 +32804,7 @@
       "id": 5945,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0YDG",
       "town": "HARROGATE",
       "modeCodes": [
@@ -40156,7 +40180,7 @@
       "id": 6431,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0YDG ",
       "town": "HARROGATE",
       "modeCodes": [
