@@ -39507,30 +39507,6 @@
       }
     },
     {
-      "id": 6395,
-      "fac": true,
-      "type": "PX",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G7TWZ",
-      "town": "WORCESTER PARK",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144937500,
-      "repeater": "GB7WOR",
-      "rx": 144937500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO91VJ",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TQ2266",
-        "antennaHeight": 9,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6396,
       "fac": true,
       "type": "AG",
@@ -41553,6 +41529,30 @@
       "extraDetails": {
         "ngr": "SK5979",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6497,
+      "fac": true,
+      "type": "PX",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G7TWZ",
+      "town": "WORCESTER PARK",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144950000,
+      "repeater": "GB7WOR",
+      "rx": 144950000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO91VJ",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TQ2266",
+        "antennaHeight": 9,
         "polarisation": "V"
       }
     }
