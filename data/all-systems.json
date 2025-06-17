@@ -30915,7 +30915,7 @@
       "id": 5785,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0NCZ",
       "town": "ASHTON-UNDER-LYNE",
       "modeCodes": [
@@ -34507,7 +34507,7 @@
       "id": 6099,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM5JET",
       "town": "NAIRN",
       "modeCodes": [
@@ -41554,6 +41554,78 @@
         "ngr": "TQ2266",
         "antennaHeight": 9,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6499,
+      "fac": true,
+      "type": "PX",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G7TWZ",
+      "town": "WORCESTER PARK",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 432675000,
+      "repeater": "GB7WOR",
+      "rx": 432675000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91VJ",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TQ2266",
+        "antennaHeight": 9,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6500,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0YDG",
+      "town": "CLECKHEATON ",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 433125000,
+      "repeater": "MB5YN",
+      "rx": 438125000,
+      "ctcss": 82.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93CR",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SE1625",
+        "antennaHeight": 11,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6501,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0HOY",
+      "town": "SKELMERSDALE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145762500,
+      "repeater": "GB3RP",
+      "rx": 145162500,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO83",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SD5104",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
