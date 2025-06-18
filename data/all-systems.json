@@ -15193,31 +15193,6 @@
       }
     },
     {
-      "id": 4278,
-      "fac": false,
-      "type": "DM",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G0LCG",
-      "town": "NOTTINGHAM",
-      "modeCodes": [
-        "A",
-        "F"
-      ],
-      "tx": 430887500,
-      "repeater": "GB7FU",
-      "rx": 438487500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO93JA",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SK5547",
-        "antennaHeight": 15,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 4284,
       "fac": true,
       "type": "DG",
@@ -18171,31 +18146,6 @@
       "extraDetails": {
         "ngr": "ST2693",
         "antennaHeight": 4,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 4667,
-      "fac": true,
-      "type": "DM",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "MM0PAZ",
-      "town": "ERSKINE",
-      "modeCodes": [
-        "A",
-        "F"
-      ],
-      "tx": 439375000,
-      "repeater": "GB7EA",
-      "rx": 430375000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO75SV",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NS4570",
-        "antennaHeight": 7,
         "polarisation": "V"
       }
     },
@@ -31855,31 +31805,6 @@
       }
     },
     {
-      "id": 5873,
-      "fac": true,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G7RPG",
-      "town": "CHURCHDOWN",
-      "modeCodes": [
-        "M:13",
-        "N"
-      ],
-      "tx": 439612500,
-      "repeater": "GB7GH",
-      "rx": 430612500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SO8818",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 5874,
       "fac": true,
       "type": "DG",
@@ -38334,7 +38259,7 @@
       "id": 6326,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "2E0ULH",
       "town": "LONDON",
       "modeCodes": [
@@ -41626,6 +41551,54 @@
         "ngr": "SD5104",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6502,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "2E0BEQ",
+      "town": "SUTTON-IN-ASHFIELD",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430100000,
+      "repeater": "MB7IDW",
+      "rx": 430100000,
+      "ctcss": 203.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93ID",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SK4960",
+        "antennaHeight": 3,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6504,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4RKY",
+      "town": "PRIDDY",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 145587500,
+      "repeater": "GB7PM",
+      "rx": 144987500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO81PH",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "ST4956",
+        "antennaHeight": 15,
+        "polarisation": "V"
       }
     }
   ]
