@@ -30246,7 +30246,7 @@
       "id": 5741,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E1HWE",
       "town": "WESTCLIFF ON SEA",
       "modeCodes": [
@@ -40730,15 +40730,14 @@
       "id": 6463,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G6PHF",
       "town": "LANCASTER",
       "modeCodes": [
         "D",
         "M:1",
         "F",
-        "N",
-        "7"
+        "N"
       ],
       "tx": 439525000,
       "repeater": "MB5LA",
@@ -41434,30 +41433,6 @@
       }
     },
     {
-      "id": 6496,
-      "fac": true,
-      "type": "AG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "2E0KBZ",
-      "town": "WORKSOP",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 144962500,
-      "repeater": "MB7IBZ",
-      "rx": 144962500,
-      "ctcss": 71.9,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO93KH",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SK5979",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6497,
       "fac": true,
       "type": "PX",
@@ -41598,6 +41573,31 @@
       "extraDetails": {
         "ngr": "ST4956",
         "antennaHeight": 15,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6505,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "2E0KBZ",
+      "town": "WORKSOP",
+      "modeCodes": [
+        "M:1",
+        "N"
+      ],
+      "tx": 144900000,
+      "repeater": "MB6IB",
+      "rx": 144900000,
+      "ctcss": 71.9,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO93KH",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SK5979",
+        "antennaHeight": 10,
         "polarisation": "V"
       }
     }
