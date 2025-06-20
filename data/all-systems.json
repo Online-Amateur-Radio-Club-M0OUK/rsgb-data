@@ -2348,7 +2348,7 @@
       "id": 858,
       "fac": false,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM3SAN",
       "town": "SANQUHAR",
       "modeCodes": [
@@ -26122,30 +26122,6 @@
       }
     },
     {
-      "id": 5406,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M1DNS",
-      "town": "ST AUSTELL",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 144862500,
-      "repeater": "M1DNS",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO70",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SW9453",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 5407,
       "fac": true,
       "type": "AP",
@@ -37029,6 +37005,7 @@
       "keeperCallsign": "2E0ULH",
       "town": "LONDON",
       "modeCodes": [
+        "F",
         "M:7"
       ],
       "tx": 433662500,
@@ -38259,7 +38236,7 @@
       "id": 6326,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0ULH",
       "town": "LONDON",
       "modeCodes": [
@@ -41598,6 +41575,54 @@
       "extraDetails": {
         "ngr": "SK5979",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6506,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G0AMO",
+      "town": "ANDOVER",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145225000,
+      "repeater": "MB7ICH",
+      "rx": 145225000,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO91FF",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SU3447",
+        "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6507,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0SCS",
+      "town": "HEMEL HEMPSTEAD",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430087500,
+      "repeater": "MB7IHH",
+      "rx": 430087500,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91SR",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TL0606",
+        "antennaHeight": 7,
         "polarisation": "V"
       }
     }
