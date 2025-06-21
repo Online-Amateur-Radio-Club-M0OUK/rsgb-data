@@ -4054,30 +4054,6 @@
       }
     },
     {
-      "id": 1073,
-      "fac": false,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G1IRG",
-      "town": "NORTHAMPTON",
-      "modeCodes": [
-        "D"
-      ],
-      "tx": 439637500,
-      "repeater": "GB7JF",
-      "rx": 430637500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO92NE",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SP7753",
-        "antennaHeight": 19,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 1081,
       "fac": false,
       "type": "DV",
@@ -4987,30 +4963,6 @@
       "extraDetails": {
         "ngr": "ST8008",
         "antennaHeight": 12,
-        "polarisation": "H"
-      }
-    },
-    {
-      "id": 2095,
-      "fac": false,
-      "type": "BN",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G0OLX",
-      "town": "REIGATE",
-      "modeCodes": [
-        "B"
-      ],
-      "tx": 10368850000,
-      "repeater": "GB3SEE",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 2.4,
-      "band": "3CM",
-      "locator": "IO91VG",
-      "dbwErp": 0,
-      "extraDetails": {
-        "ngr": "TQ2452",
-        "antennaHeight": 20,
         "polarisation": "H"
       }
     },
@@ -10513,7 +10465,7 @@
     },
     {
       "id": 3467,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G3PWJ",
@@ -14537,7 +14489,7 @@
     },
     {
       "id": 4182,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4WLI",
@@ -16302,7 +16254,7 @@
     },
     {
       "id": 4394,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4RKY",
@@ -36443,30 +36395,6 @@
       }
     },
     {
-      "id": 6230,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G6PHF",
-      "town": "LANCASTER",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 431087500,
-      "repeater": "MB6LA",
-      "rx": 431087500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO84",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SD4759",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6231,
       "fac": true,
       "type": "DV",
@@ -41623,6 +41551,54 @@
       "extraDetails": {
         "ngr": "TL0606",
         "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6508,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G8NAI",
+      "town": "LONGTON",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 144900000,
+      "repeater": "MB6LT",
+      "rx": 144900000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO82WX",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SJ9243",
+        "antennaHeight": 15,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6509,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G1IRG",
+      "town": "NORTHAMPTON",
+      "modeCodes": [
+        "D"
+      ],
+      "tx": 439637500,
+      "repeater": "GB7NG",
+      "rx": 430637500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO92NF",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SP7657",
+        "antennaHeight": 8,
         "polarisation": "V"
       }
     }
