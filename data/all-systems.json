@@ -35885,7 +35885,7 @@
       "id": 6199,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GW4EHZ",
       "town": "RHYL",
       "modeCodes": [
@@ -41495,7 +41495,7 @@
       "tx": 144900000,
       "repeater": "MB6IB",
       "rx": 144900000,
-      "ctcss": 71.9,
+      "ctcss": 0,
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO93KH",
@@ -41598,6 +41598,30 @@
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "SP7657",
+        "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6510,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2E0IJZ",
+      "town": "CANNING TOWN",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145312500,
+      "repeater": "MB7ICT",
+      "rx": 145312500,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO01AM",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TQ4181",
         "antennaHeight": 8,
         "polarisation": "V"
       }
