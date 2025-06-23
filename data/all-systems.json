@@ -12777,7 +12777,7 @@
     },
     {
       "id": 3965,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GM7RYR",
@@ -17595,7 +17595,7 @@
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0KGR",
-      "town": "WIRRAL",
+      "town": "LEASOWE",
       "modeCodes": [
         "A",
         "F"
@@ -35882,35 +35882,6 @@
       }
     },
     {
-      "id": 6199,
-      "fac": true,
-      "type": "DM",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GW4EHZ",
-      "town": "RHYL",
-      "modeCodes": [
-        "A",
-        "M:1",
-        "D",
-        "F",
-        "N",
-        "P"
-      ],
-      "tx": 439350000,
-      "repeater": "GB7SA",
-      "rx": 430350000,
-      "ctcss": 103.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO83",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SJ0277",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6200,
       "fac": true,
       "type": "PX",
@@ -39508,7 +39479,7 @@
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0JSV",
-      "town": "THORNHAM MAGNA  EYE",
+      "town": "EYE",
       "modeCodes": [
         "A"
       ],
@@ -40539,7 +40510,7 @@
       "id": 6459,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G1SCQ",
       "town": "KING'S LYNN",
       "modeCodes": [
@@ -41624,6 +41595,84 @@
         "ngr": "TQ4181",
         "antennaHeight": 8,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6511,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MW0VCK",
+      "town": "NEWPORT",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 144962500,
+      "repeater": "MB7ISK",
+      "rx": 144962500,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO81LO",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "ST2887",
+        "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6512,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GW4EHZ",
+      "town": "DYSERTH ",
+      "modeCodes": [
+        "A",
+        "D",
+        "M:1",
+        "F",
+        "P",
+        "N",
+        "7"
+      ],
+      "tx": 430987500,
+      "repeater": "GB7SA",
+      "rx": 438587500,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SJ0781",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6513,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0XDR",
+      "town": "NORTHWICH",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 145050000,
+      "repeater": "GB3MN-L",
+      "rx": 145650000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO83",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SJ6570",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
