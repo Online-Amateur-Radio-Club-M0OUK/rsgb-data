@@ -4967,6 +4967,30 @@
       }
     },
     {
+      "id": 2095,
+      "fac": true,
+      "type": "BN",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G0OLX",
+      "town": "REIGATE",
+      "modeCodes": [
+        "B"
+      ],
+      "tx": 10368850000,
+      "repeater": "GB3SEE",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 2.4,
+      "band": "3CM",
+      "locator": "IO91VG",
+      "dbwErp": 5,
+      "extraDetails": {
+        "ngr": "TQ2452",
+        "antennaHeight": 20,
+        "polarisation": "H"
+      }
+    },
+    {
       "id": 2097,
       "fac": false,
       "type": "BN",
@@ -39391,14 +39415,14 @@
       "modeCodes": [
         "X"
       ],
-      "tx": 7050100,
+      "tx": 7050000,
       "repeater": "GB7BMY",
-      "rx": 0,
+      "rx": 7050000,
       "ctcss": 0,
       "txbw": 2.7,
       "band": "40M",
       "locator": "IO65RB76",
-      "dbwErp": 7.8,
+      "dbwErp": 14,
       "extraDetails": null
     },
     {
@@ -41624,12 +41648,11 @@
     {
       "id": 6512,
       "fac": true,
-      "type": "DM",
+      "type": "DV",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "GW4EHZ",
       "town": "DYSERTH ",
       "modeCodes": [
-        "A",
         "D",
         "M:1",
         "F",
@@ -41637,10 +41660,10 @@
         "N",
         "7"
       ],
-      "tx": 430987500,
+      "tx": 439537500,
       "repeater": "GB7SA",
-      "rx": 438587500,
-      "ctcss": 103.5,
+      "rx": 430537500,
+      "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO83",
@@ -41673,6 +41696,54 @@
         "ngr": "SJ6570",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6514,
+      "fac": true,
+      "type": "AV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G4KFK",
+      "town": "BRACKNELL",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430875000,
+      "repeater": "G4KFK",
+      "rx": 438475000,
+      "ctcss": 118.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91PK",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SU8770",
+        "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6515,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "GM4SLV",
+      "town": "BIXTER",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145312500,
+      "repeater": "MB7IZE",
+      "rx": 145312500,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IP90GG",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "HU3156",
+        "antennaHeight": 5,
+        "polarisation": "V"
       }
     }
   ]
