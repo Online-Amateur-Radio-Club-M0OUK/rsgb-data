@@ -9739,7 +9739,7 @@
       "id": 3308,
       "fac": false,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M1JCB",
       "town": "KIRKBY LONSDALE",
       "modeCodes": [
@@ -36471,7 +36471,8 @@
       "town": "CASTLE DOUGLAS",
       "modeCodes": [
         "M:1",
-        "F"
+        "F",
+        "D"
       ],
       "tx": 439762500,
       "repeater": "GB7PG",
@@ -40777,7 +40778,7 @@
       "id": 6469,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0IZO",
       "town": "HERNE BAY",
       "modeCodes": [
@@ -41232,54 +41233,6 @@
       "extraDetails": {
         "ngr": "SX7252",
         "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 6490,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0KOW",
-      "town": "DULVERTON",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 438400000,
-      "repeater": "M0KOW",
-      "rx": 430800000,
-      "ctcss": 141.3,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81CC",
-      "dbwErp": 10.8,
-      "extraDetails": {
-        "ngr": "SS7436",
-        "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 6491,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "MOKOY",
-      "town": "SIMONSBATH",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 439137500,
-      "repeater": "M0KOY",
-      "rx": 430137500,
-      "ctcss": 141.3,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO82AW",
-      "dbwErp": 10.8,
-      "extraDetails": {
-        "ngr": "SS7241",
-        "antennaHeight": 7,
         "polarisation": "V"
       }
     },
@@ -41743,6 +41696,54 @@
       "extraDetails": {
         "ngr": "HU3156",
         "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6516,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G7ELZ ",
+      "town": "CAMBRIDGE ",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145337500,
+      "repeater": "MB7ICF ",
+      "rx": 145337500,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO02AK",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TL3985",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6517,
+      "fac": true,
+      "type": "AG",
+      "status": "REDUCED OUTPUT",
+      "keeperCallsign": "M7OXP",
+      "town": "MILTON KEYNES",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145287500,
+      "repeater": "MB7IOP",
+      "rx": 145287500,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO92OA",
+      "dbwErp": 3,
+      "extraDetails": {
+        "ngr": "SP8235",
+        "antennaHeight": 4,
         "polarisation": "V"
       }
     }
