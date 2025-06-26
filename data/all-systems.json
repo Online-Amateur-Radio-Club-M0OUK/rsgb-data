@@ -38763,7 +38763,7 @@
       "id": 6362,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7HIF",
       "town": "POTCOTE",
       "modeCodes": [
@@ -40583,7 +40583,7 @@
       "id": 6461,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0WDA",
       "town": "BLACKPOOL",
       "modeCodes": [
@@ -41703,7 +41703,7 @@
       "id": 6516,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7ELZ ",
       "town": "CAMBRIDGE ",
       "modeCodes": [
@@ -41745,6 +41745,30 @@
         "ngr": "SP8235",
         "antennaHeight": 4,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6518,
+      "fac": true,
+      "type": "RL",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G4SCY",
+      "town": "STOKE-ON-TRENT",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 434925000,
+      "repeater": "GB3SM-L",
+      "rx": 433325000,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SJ9347",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
