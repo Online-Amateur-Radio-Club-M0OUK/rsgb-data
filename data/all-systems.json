@@ -19802,7 +19802,7 @@
     },
     {
       "id": 4878,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G3XOU",
@@ -26125,7 +26125,7 @@
       "id": 5409,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4WQG",
       "town": "BROAD HINTON",
       "modeCodes": [
@@ -26353,7 +26353,7 @@
       "id": 5425,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4WQG",
       "town": "BROAD HINTON",
       "modeCodes": [
@@ -28446,7 +28446,7 @@
       "id": 5612,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4WQG",
       "town": "BROAD HINTON",
       "modeCodes": [
@@ -41437,8 +41437,7 @@
       "keeperCallsign": "2E0KBZ",
       "town": "WORKSOP",
       "modeCodes": [
-        "M:1",
-        "N"
+        "M:1"
       ],
       "tx": 144900000,
       "repeater": "MB6IB",
