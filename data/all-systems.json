@@ -2346,7 +2346,7 @@
     },
     {
       "id": 858,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM3SAN",
@@ -41726,7 +41726,7 @@
       "id": 6517,
       "fac": true,
       "type": "AG",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M7OXP",
       "town": "MILTON KEYNES",
       "modeCodes": [
