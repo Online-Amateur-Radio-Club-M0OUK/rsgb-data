@@ -6675,54 +6675,6 @@
       }
     },
     {
-      "id": 2462,
-      "fac": true,
-      "type": "PN",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GM3SAN",
-      "town": "SANQUHAR",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 432650000,
-      "repeater": "MB7NWD",
-      "rx": 432650000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO85CJ",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NS8910",
-        "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 2482,
-      "fac": true,
-      "type": "PN",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GM3SAN",
-      "town": "SANQUHAR",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 439950000,
-      "repeater": "MB7NWD",
-      "rx": 439950000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO85CJ",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NS8910",
-        "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 2487,
       "fac": false,
       "type": "DM",
@@ -40438,7 +40390,7 @@
       "id": 6452,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM0PWS",
       "town": "STORNOWAY",
       "modeCodes": [
