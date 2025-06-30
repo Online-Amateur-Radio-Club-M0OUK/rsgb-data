@@ -37433,7 +37433,7 @@
       "id": 6293,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M7HSF",
       "town": "NORWICH",
       "modeCodes": [
@@ -37846,7 +37846,7 @@
       "id": 6312,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4ZWH",
       "town": "EATON SOCON",
       "modeCodes": [
@@ -40387,31 +40387,6 @@
       }
     },
     {
-      "id": 6452,
-      "fac": true,
-      "type": "DM",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GM0PWS",
-      "town": "STORNOWAY",
-      "modeCodes": [
-        "A",
-        "M:1"
-      ],
-      "tx": 430937500,
-      "repeater": "GB7IG",
-      "rx": 438537500,
-      "ctcss": 88.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO68QE",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NB3030",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6453,
       "fac": true,
       "type": "AG",
@@ -40779,7 +40754,7 @@
       "id": 6472,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4XEX",
       "town": "MARKET HARBOROUGH",
       "modeCodes": [
@@ -41358,30 +41333,6 @@
       }
     },
     {
-      "id": 6504,
-      "fac": true,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G4RKY",
-      "town": "PRIDDY",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 145587500,
-      "repeater": "GB7PM",
-      "rx": 144987500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO81PH",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "ST4956",
-        "antennaHeight": 15,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6505,
       "fac": true,
       "type": "DG",
@@ -41720,6 +41671,79 @@
         "ngr": "SJ9347",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6519,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2D0PEY",
+      "town": "GLEN VINE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145312500,
+      "repeater": "MB7IGV",
+      "rx": 145312500,
+      "ctcss": 110.9,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO74RE",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SC3378",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6520,
+      "fac": true,
+      "type": "DM",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "GM0PWS",
+      "town": "STORNOWAY",
+      "modeCodes": [
+        "A",
+        "M:1"
+      ],
+      "tx": 430937500,
+      "repeater": "GB7IG",
+      "rx": 438537500,
+      "ctcss": 88.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO68TE",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NB4332",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6521,
+      "fac": true,
+      "type": "RL",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0YDG",
+      "town": "WAKEFIELD",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 438125000,
+      "repeater": "MB5YN-L",
+      "rx": 433125000,
+      "ctcss": 82.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93HO",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SE3814",
+        "antennaHeight": 6,
+        "polarisation": "V"
       }
     }
   ]
