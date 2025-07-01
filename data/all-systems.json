@@ -37433,7 +37433,7 @@
       "id": 6293,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M7HSF",
       "town": "NORWICH",
       "modeCodes": [
@@ -37846,7 +37846,7 @@
       "id": 6312,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4ZWH",
       "town": "EATON SOCON",
       "modeCodes": [
@@ -41614,7 +41614,7 @@
       "tx": 145337500,
       "repeater": "MB7ICF ",
       "rx": 145337500,
-      "ctcss": 77,
+      "ctcss": 82.5,
       "txbw": 12.5,
       "band": "2M",
       "locator": "JO02AK",
@@ -41743,6 +41743,30 @@
       "extraDetails": {
         "ngr": "SE3814",
         "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6522,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G7VJA",
+      "town": "HARTLAND",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "MB7UND",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "IO70SX",
+      "dbwErp": -7,
+      "extraDetails": {
+        "ngr": "SS2624",
+        "antennaHeight": 11,
         "polarisation": "V"
       }
     }
