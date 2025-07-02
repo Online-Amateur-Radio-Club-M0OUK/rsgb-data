@@ -6675,6 +6675,30 @@
       }
     },
     {
+      "id": 2462,
+      "fac": true,
+      "type": "PN",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM3SAN",
+      "town": "SANQUHAR",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 432650000,
+      "repeater": "MB7NWD",
+      "rx": 432650000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO85CJ",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NS8910",
+        "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 2487,
       "fac": false,
       "type": "DM",
@@ -17399,7 +17423,7 @@
       "id": 4566,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM7LUN",
       "town": "UPPER LARGO",
       "modeCodes": [
@@ -20729,31 +20753,6 @@
         "ngr": "NT3774",
         "antennaHeight": 10,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 4974,
-      "fac": true,
-      "type": "DG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G8CAP",
-      "town": "ASHTON-UNDER-LYNE",
-      "modeCodes": [
-        "M:3",
-        "F"
-      ],
-      "tx": 431087500,
-      "repeater": "MB6AL",
-      "rx": 431087500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO83",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SD9601",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -26573,54 +26572,6 @@
       }
     },
     {
-      "id": 5449,
-      "fac": true,
-      "type": "PX",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GM5AUG",
-      "town": "NEWTON MEARNS",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144937500,
-      "repeater": "GB7AUG",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO75US",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NS5355",
-        "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 5450,
-      "fac": true,
-      "type": "PX",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GM5AUG",
-      "town": "NEWTON MEARNS",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 7045740,
-      "repeater": "GB7AUG",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 0.5,
-      "band": "40M",
-      "locator": "IO75US",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NS5355",
-        "antennaHeight": 8,
-        "polarisation": "H"
-      }
-    },
-    {
       "id": 5451,
       "fac": true,
       "type": "PN",
@@ -30646,30 +30597,6 @@
       }
     },
     {
-      "id": 5777,
-      "fac": true,
-      "type": "AP",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GM5AUG",
-      "town": "NEWTON MEARNS",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 439912500,
-      "repeater": "MB7UMT",
-      "rx": 439912500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO75TS",
-      "dbwErp": 0,
-      "extraDetails": {
-        "ngr": "NS5355",
-        "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5778,
       "fac": true,
       "type": "PX",
@@ -33630,7 +33557,7 @@
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GW7VFJ",
-      "town": "MOLD",
+      "town": "HOLYWELL",
       "modeCodes": [
         "A"
       ],
@@ -37479,30 +37406,6 @@
       }
     },
     {
-      "id": 6295,
-      "fac": true,
-      "type": "PX",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GM5AUG",
-      "town": "NEWTON MEARNS",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 70487500,
-      "repeater": "GB7AUG",
-      "rx": 70487500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "4M",
-      "locator": "IO75US",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NS 5 5",
-        "antennaHeight": 15,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6296,
       "fac": true,
       "type": "DM",
@@ -39478,7 +39381,7 @@
       "id": 6405,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4WQG",
       "town": "BROAD HINTON",
       "modeCodes": [
@@ -41768,6 +41671,102 @@
         "ngr": "SS2624",
         "antennaHeight": 11,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6523,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "GM5AUG",
+      "town": "STORNOWAY",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144950000,
+      "repeater": "GB7STO",
+      "rx": 144950000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO68TF",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NB4135",
+        "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6524,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "GM5AUG",
+      "town": "STORNOWAY",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "MB7UMT",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "IO68TF",
+      "dbwErp": -7,
+      "extraDetails": {
+        "ngr": "NB4135",
+        "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6525,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G0RQL",
+      "town": "HOLSWORTHY",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "MB7UDN",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "IO70UV",
+      "dbwErp": -7,
+      "extraDetails": {
+        "ngr": "SS3811",
+        "antennaHeight": 11,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6526,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0ZAH",
+      "town": "SCOLE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 439362500,
+      "repeater": "MB0RPT",
+      "rx": 430362500,
+      "ctcss": 110.9,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO02",
+      "dbwErp": 3,
+      "extraDetails": {
+        "ngr": "TM1579",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
