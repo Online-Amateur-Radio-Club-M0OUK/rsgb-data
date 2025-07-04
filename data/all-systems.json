@@ -901,6 +901,54 @@
       }
     },
     {
+      "id": 703,
+      "fac": true,
+      "type": "AV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0ZPU",
+      "town": "AMERSHAM",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145737500,
+      "repeater": "GB3AL",
+      "rx": 145137500,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO91QP",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "SU9595",
+        "antennaHeight": 35,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 704,
+      "fac": true,
+      "type": "AV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0ZPU",
+      "town": "AMERSHAM",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 50840000,
+      "repeater": "GB3AM",
+      "rx": 51340000,
+      "ctcss": 77,
+      "txbw": 10,
+      "band": "6M",
+      "locator": "IO91QP",
+      "dbwErp": 11.8,
+      "extraDetails": {
+        "ngr": "SU9595",
+        "antennaHeight": 0,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 706,
       "fac": false,
       "type": "DM",
@@ -922,6 +970,30 @@
       "extraDetails": {
         "ngr": "SH5260",
         "antennaHeight": 20,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 708,
+      "fac": true,
+      "type": "AV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0ZPU",
+      "town": "AMERSHAM",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 433175000,
+      "repeater": "GB3AU",
+      "rx": 434775000,
+      "ctcss": 82.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91QP",
+      "dbwErp": 11.8,
+      "extraDetails": {
+        "ngr": "SU9595",
+        "antennaHeight": 37,
         "polarisation": "V"
       }
     },
@@ -5279,6 +5351,30 @@
       }
     },
     {
+      "id": 2195,
+      "fac": true,
+      "type": "DV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0ZPU",
+      "town": "AMERSHAM",
+      "modeCodes": [
+        "M:3"
+      ],
+      "tx": 439462500,
+      "repeater": "GB7WL",
+      "rx": 430462500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91QP",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SU9595",
+        "antennaHeight": 35,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 2210,
       "fac": false,
       "type": "AV",
@@ -8505,6 +8601,30 @@
       "extraDetails": {
         "ngr": "TM0195",
         "antennaHeight": 15,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 3005,
+      "fac": true,
+      "type": "AV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G3VFC",
+      "town": "MAIDSTONE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145700000,
+      "repeater": "GB3KN",
+      "rx": 145100000,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO01HH",
+      "dbwErp": 8,
+      "extraDetails": {
+        "ngr": "TQ8058",
+        "antennaHeight": 20,
         "polarisation": "V"
       }
     },
@@ -15290,6 +15410,31 @@
         "ngr": "SX9295",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 4308,
+      "fac": true,
+      "type": "DV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0ZPU",
+      "town": "AMERSHAM",
+      "modeCodes": [
+        "D",
+        "F"
+      ],
+      "tx": 439700000,
+      "repeater": "GB7AU",
+      "rx": 430700000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91QP",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SU9595",
+        "antennaHeight": 37,
+        "polarisation": "V"
       }
     },
     {
@@ -41595,6 +41740,30 @@
       "extraDetails": {
         "ngr": "TM1579",
         "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6529,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4ZWH",
+      "town": "EATON SOCON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 50550000,
+      "repeater": "MB7IES",
+      "rx": 50550000,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "6M",
+      "locator": "IO92UF",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TL1759",
+        "antennaHeight": 9,
         "polarisation": "V"
       }
     }
