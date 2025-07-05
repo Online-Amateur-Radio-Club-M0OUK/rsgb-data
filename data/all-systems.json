@@ -15858,30 +15858,6 @@
       }
     },
     {
-      "id": 4354,
-      "fac": true,
-      "type": "AG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G1DCG",
-      "town": "CLEVEDON ",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145287500,
-      "repeater": "MB7INS",
-      "rx": 145287500,
-      "ctcss": 77,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO81",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "ST4266",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 4356,
       "fac": false,
       "type": "DM",
@@ -20730,30 +20706,6 @@
       }
     },
     {
-      "id": 4982,
-      "fac": true,
-      "type": "DG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0DUB",
-      "town": "WAKEFIELD",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 144875000,
-      "repeater": "MB6DW",
-      "rx": 144875000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO93FR",
-      "dbwErp": 3,
-      "extraDetails": {
-        "ngr": "SE3026",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 4983,
       "fac": true,
       "type": "DM",
@@ -25193,30 +25145,6 @@
       "extraDetails": {
         "ngr": "SP5177",
         "antennaHeight": 4,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 5340,
-      "fac": false,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G4LUE",
-      "town": "SHEFFIELD",
-      "modeCodes": [
-        "D"
-      ],
-      "tx": 439600000,
-      "repeater": "GB7SC",
-      "rx": 430600000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO99GI",
-      "dbwErp": 11.8,
-      "extraDetails": {
-        "ngr": "SK3684",
-        "antennaHeight": 7,
         "polarisation": "V"
       }
     },
@@ -41237,7 +41165,7 @@
       "id": 6507,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0SCS",
       "town": "HEMEL HEMPSTEAD",
       "modeCodes": [
@@ -41333,7 +41261,7 @@
       "id": 6511,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MW0VCK",
       "town": "NEWPORT",
       "modeCodes": [
@@ -41764,6 +41692,30 @@
       "extraDetails": {
         "ngr": "TL1759",
         "antennaHeight": 9,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6530,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4LUE",
+      "town": "KIPPAX",
+      "modeCodes": [
+        "D"
+      ],
+      "tx": 439600000,
+      "repeater": "GB7SC",
+      "rx": 430600000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93HS",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SE4230",
+        "antennaHeight": 7,
         "polarisation": "V"
       }
     }
