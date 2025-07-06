@@ -17399,7 +17399,7 @@
       "id": 4566,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM7LUN",
       "town": "UPPER LARGO",
       "modeCodes": [
@@ -23764,7 +23764,9 @@
       "town": "MARYPORT",
       "modeCodes": [
         "A",
-        "F"
+        "F",
+        "M:13",
+        "D"
       ],
       "tx": 438387500,
       "repeater": "GB3CU",
@@ -34646,7 +34648,7 @@
       "id": 6129,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "2E0HOQ ",
       "town": "WESTON SUPER MARE",
       "modeCodes": [
@@ -40535,7 +40537,7 @@
       "id": 6472,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "G4XEX",
       "town": "MARKET HARBOROUGH",
       "modeCodes": [
@@ -41716,6 +41718,30 @@
       "extraDetails": {
         "ngr": "SE4230",
         "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6531,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "2E0DHT",
+      "town": "CHORLEY",
+      "modeCodes": [
+        "M:1"
+      ],
+      "tx": 431137500,
+      "repeater": "MB6JB",
+      "rx": 431137500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83QP",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SD5918",
+        "antennaHeight": 10,
         "polarisation": "V"
       }
     }
