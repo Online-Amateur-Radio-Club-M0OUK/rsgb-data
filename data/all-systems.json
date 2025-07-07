@@ -12568,7 +12568,7 @@
     },
     {
       "id": 3929,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "REDUCED OUTPUT",
       "keeperCallsign": "G7SYT",
@@ -17399,7 +17399,7 @@
       "id": 4566,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM7LUN",
       "town": "UPPER LARGO",
       "modeCodes": [
@@ -30549,30 +30549,6 @@
       }
     },
     {
-      "id": 5781,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M7FGZ",
-      "town": "MANCHESTER",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430062500,
-      "repeater": "M7FGZ",
-      "rx": 430062500,
-      "ctcss": 82.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO83VN",
-      "dbwErp": 3,
-      "extraDetails": {
-        "ngr": "SD8607",
-        "antennaHeight": 0,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5782,
       "fac": true,
       "type": "DG",
@@ -31688,7 +31664,7 @@
       "id": 5883,
       "fac": true,
       "type": "DM",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G3PWJ",
       "town": "STOURBRIDGE",
       "modeCodes": [
@@ -35812,7 +35788,7 @@
       "id": 6207,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G3ZXX",
       "town": "WELLINGTON    ",
       "modeCodes": [
