@@ -2345,30 +2345,6 @@
       }
     },
     {
-      "id": 858,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GM3SAN",
-      "town": "SANQUHAR",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145712500,
-      "repeater": "GB3LA",
-      "rx": 145112500,
-      "ctcss": 103.5,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO85CJ",
-      "dbwErp": 10,
-      "extraDetails": {
-        "ngr": "NS8910",
-        "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 859,
       "fac": true,
       "type": "AV",
@@ -12050,7 +12026,7 @@
         "A"
       ],
       "tx": 430037500,
-      "repeater": "MB7ALC",
+      "repeater": "MB7ILC",
       "rx": 430037500,
       "ctcss": 71.9,
       "txbw": 12.5,
@@ -27260,13 +27236,13 @@
       "type": "AG",
       "status": "OPERATIONAL",
       "keeperCallsign": "G5HVH",
-      "town": "SHEFFIELD",
+      "town": "STOCKSBRIDGE",
       "modeCodes": [
         "A"
       ],
       "tx": 50520000,
       "repeater": "MB7ITS",
-      "rx": 0,
+      "rx": 50520000,
       "ctcss": 71.9,
       "txbw": 12.5,
       "band": "6M",
@@ -32174,7 +32150,7 @@
       "id": 5930,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0IQF",
       "town": "LUTON",
       "modeCodes": [
@@ -33362,7 +33338,7 @@
       "id": 6026,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0IQF",
       "town": "LUTON",
       "modeCodes": [
@@ -41718,6 +41694,30 @@
       "extraDetails": {
         "ngr": "SD5918",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6534,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0DWK",
+      "town": "LANCASTER",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UWV",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO84RC",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SD6769",
+        "antennaHeight": 12,
         "polarisation": "V"
       }
     }
