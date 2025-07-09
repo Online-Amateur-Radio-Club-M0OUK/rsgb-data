@@ -1305,11 +1305,7 @@
       "band": "2M",
       "locator": "IO64FI",
       "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "IH30 4",
-        "antennaHeight": 30,
-        "polarisation": "V"
-      }
+      "extraDetails": null
     },
     {
       "id": 744,
@@ -4824,7 +4820,7 @@
     },
     {
       "id": 2090,
-      "fac": false,
+      "fac": true,
       "type": "BN",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4JNT",
@@ -4839,7 +4835,7 @@
       "txbw": 1.5,
       "band": "6CM",
       "locator": "IO80UU",
-      "dbwErp": -4,
+      "dbwErp": 8,
       "extraDetails": {
         "ngr": "ST8008",
         "antennaHeight": 12,
@@ -6947,7 +6943,7 @@
       "id": 2573,
       "fac": false,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GW6CUR",
       "town": "COWBRIDGE",
       "modeCodes": [
@@ -9022,33 +9018,6 @@
       "extraDetails": {
         "ngr": "NZ3554",
         "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 3130,
-      "fac": false,
-      "type": "DM",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0MFP",
-      "town": "WITHERNSEA",
-      "modeCodes": [
-        "A",
-        "D",
-        "M:8",
-        "F"
-      ],
-      "tx": 433000000,
-      "repeater": "GB3SO",
-      "rx": 434600000,
-      "ctcss": 71.9,
-      "txbw": 25,
-      "band": "70CM",
-      "locator": "JO03AR",
-      "dbwErp": 10,
-      "extraDetails": {
-        "ngr": "TA3328",
-        "antennaHeight": 8,
         "polarisation": "V"
       }
     },
@@ -12706,7 +12675,7 @@
       "id": 3946,
       "fac": true,
       "type": "AV",
-      "status": "",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4FUO",
       "town": "YORK",
       "modeCodes": [
@@ -19187,7 +19156,7 @@
     },
     {
       "id": 4836,
-      "fac": false,
+      "fac": true,
       "type": "TV",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "G8CKN",
@@ -26617,7 +26586,11 @@
       "band": "2M",
       "locator": "IO81",
       "dbwErp": 14,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "ST6360",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
     },
     {
       "id": 5461,
@@ -35308,7 +35281,7 @@
         "A"
       ],
       "tx": 439425000,
-      "repeater": "GB3DL",
+      "repeater": "MB0SLO",
       "rx": 430425000,
       "ctcss": 110.9,
       "txbw": 12.5,
@@ -36540,7 +36513,7 @@
       "id": 6258,
       "fac": true,
       "type": "DV",
-      "status": "REDUCED OUTPUT",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GW6RTV",
       "town": "COEDKERNEW",
       "modeCodes": [
@@ -39949,7 +39922,11 @@
       "band": "70CM",
       "locator": "IO82DW",
       "dbwErp": -7,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "SH8236",
+        "antennaHeight": 3,
+        "polarisation": "V"
+      }
     },
     {
       "id": 6445,
@@ -40729,6 +40706,30 @@
       }
     },
     {
+      "id": 6482,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M7JVH",
+      "town": "RAINHILL",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UJH",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO83OJ",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SJ4891",
+        "antennaHeight": 15,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 6483,
       "fac": true,
       "type": "AG",
@@ -40999,7 +41000,7 @@
       "id": 6500,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0YDG",
       "town": "CLECKHEATON ",
       "modeCodes": [
@@ -41557,7 +41558,7 @@
       "id": 6525,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0RQL",
       "town": "HOLSWORTHY",
       "modeCodes": [
@@ -41719,6 +41720,30 @@
         "ngr": "SD6769",
         "antennaHeight": 12,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6535,
+      "fac": true,
+      "type": "PX",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2E0JKI",
+      "town": "LANCASTER",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 21096100,
+      "repeater": "MB0LUR",
+      "rx": 21094600,
+      "ctcss": 0,
+      "txbw": 0.06,
+      "band": "",
+      "locator": "IO84",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SD4957",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
