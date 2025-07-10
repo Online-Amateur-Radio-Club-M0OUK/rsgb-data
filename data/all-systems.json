@@ -4342,7 +4342,7 @@
       "id": 2053,
       "fac": false,
       "type": "BN",
-      "status": "LICENSED",
+      "status": "UNKNOWN",
       "keeperCallsign": "GM4ZUK",
       "town": "TEALING, ANGUS",
       "modeCodes": [
@@ -4750,7 +4750,7 @@
       "id": 2083,
       "fac": false,
       "type": "BN",
-      "status": "LICENSED",
+      "status": "UNKNOWN",
       "keeperCallsign": "GI6ATZ",
       "town": "ENNISKILLEN  CO.FERMANAGH",
       "modeCodes": [
@@ -32487,7 +32487,7 @@
       "id": 5954,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "2E0SGG",
       "town": "CHATHAM ",
       "modeCodes": [
@@ -40516,7 +40516,7 @@
       "id": 6474,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0VOB",
       "town": "BRADFORD",
       "modeCodes": [
@@ -40709,7 +40709,7 @@
       "id": 6482,
       "fac": true,
       "type": "AP",
-      "status": "OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "M7JVH",
       "town": "RAINHILL",
       "modeCodes": [
@@ -41695,6 +41695,54 @@
       "extraDetails": {
         "ngr": "SD5918",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6532,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MOKON",
+      "town": "DULVERTON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 438400000,
+      "repeater": "M0KON",
+      "rx": 430800000,
+      "ctcss": 141.3,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81EC",
+      "dbwErp": 10.8,
+      "extraDetails": {
+        "ngr": "SS8734",
+        "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6533,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MOKOY",
+      "town": "DULVERTON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 439125000,
+      "repeater": "M0KOY",
+      "rx": 430125000,
+      "ctcss": 141.3,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81FB",
+      "dbwErp": 11.5,
+      "extraDetails": {
+        "ngr": "SS8928",
+        "antennaHeight": 5,
         "polarisation": "V"
       }
     },
