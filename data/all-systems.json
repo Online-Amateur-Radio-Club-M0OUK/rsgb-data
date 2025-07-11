@@ -19602,8 +19602,7 @@
       "keeperCallsign": "GM7RYR",
       "town": "BATHGATE",
       "modeCodes": [
-        "M:4",
-        "N"
+        "M:4"
       ],
       "tx": 439712500,
       "repeater": "GB7CB",
@@ -32487,7 +32486,7 @@
       "id": 5954,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0SGG",
       "town": "CHATHAM ",
       "modeCodes": [
@@ -36728,54 +36727,6 @@
       }
     },
     {
-      "id": 6272,
-      "fac": true,
-      "type": "PN",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GM7LUN",
-      "town": "DUNS",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 70487500,
-      "repeater": "MB7NDU",
-      "rx": 70487500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "4M",
-      "locator": "IO85",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NT7354",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 6273,
-      "fac": true,
-      "type": "PN",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GM7LUN",
-      "town": "LAMBERTON",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 70487500,
-      "repeater": "MB7NXA",
-      "rx": 70487500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "4M",
-      "locator": "IO85",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NT9458",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6274,
       "fac": true,
       "type": "DV",
@@ -36795,54 +36746,6 @@
       "dbwErp": 10,
       "extraDetails": {
         "ngr": "TL0450",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 6275,
-      "fac": true,
-      "type": "PN",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GM7LUN",
-      "town": "LAMBERTON",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 430200000,
-      "repeater": "MB7NXA",
-      "rx": 430200000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO85",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NT9458",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 6276,
-      "fac": true,
-      "type": "PN",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GM7LUN",
-      "town": "DUNS",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 430200000,
-      "repeater": "MB7NDU",
-      "rx": 430200000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO85",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NT7354",
         "antennaHeight": 0,
         "polarisation": ""
       }
@@ -36891,30 +36794,6 @@
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "NT5029",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 6280,
-      "fac": true,
-      "type": "PN",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GM7LUN",
-      "town": "UPPER LARGO",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 70487500,
-      "repeater": "MB7NUL",
-      "rx": 70487500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "4M",
-      "locator": "IO86",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NO4304",
         "antennaHeight": 0,
         "polarisation": ""
       }
@@ -41096,7 +40975,7 @@
       "id": 6506,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0AMO",
       "town": "ANDOVER",
       "modeCodes": [
@@ -41790,6 +41669,50 @@
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "SD4957",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6536,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M7FGZ",
+      "town": "BURSCOUGH",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430087500,
+      "repeater": "MB7IBU",
+      "rx": 430087500,
+      "ctcss": 82.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83NO",
+      "dbwErp": 3,
+      "extraDetails": null
+    },
+    {
+      "id": 6537,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G0SOX",
+      "town": "BRIGHTLINGSEA",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UBE",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO01",
+      "dbwErp": -42.2,
+      "extraDetails": {
+        "ngr": "TM0817",
         "antennaHeight": 0,
         "polarisation": ""
       }
