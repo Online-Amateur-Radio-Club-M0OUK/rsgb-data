@@ -16739,7 +16739,8 @@
       "keeperCallsign": "G4NAB",
       "town": "ASHINGTON",
       "modeCodes": [
-        "M:10"
+        "M:10",
+        "F"
       ],
       "tx": 439737500,
       "repeater": "GB7HT",
@@ -24231,30 +24232,6 @@
       }
     },
     {
-      "id": 5275,
-      "fac": true,
-      "type": "PN",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0AHN",
-      "town": "PEWSEY",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 50650000,
-      "repeater": "MB7NPW",
-      "rx": 50650000,
-      "ctcss": 0,
-      "txbw": 10,
-      "band": "6M",
-      "locator": "IO91",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SU0959",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 5276,
       "fac": true,
       "type": "PN",
@@ -31733,7 +31710,7 @@
       "id": 5894,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "2E0IPK",
       "town": "DAGENHAM",
       "modeCodes": [
@@ -35273,7 +35250,7 @@
       "id": 6176,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0ZAH",
       "town": "DISS",
       "modeCodes": [
@@ -41713,6 +41690,30 @@
       "dbwErp": -42.2,
       "extraDetails": {
         "ngr": "TM0817",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6538,
+      "fac": true,
+      "type": "PN",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0AHN",
+      "town": "PEWSEY",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 50670000,
+      "repeater": "MB7NPW",
+      "rx": 50670000,
+      "ctcss": 0,
+      "txbw": 10,
+      "band": "6M",
+      "locator": "IO91",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SU0959",
         "antennaHeight": 0,
         "polarisation": ""
       }
