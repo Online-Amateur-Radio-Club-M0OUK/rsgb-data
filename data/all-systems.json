@@ -17688,7 +17688,7 @@
       "id": 4623,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0EMO",
       "town": "LOUGHTON",
       "modeCodes": [
@@ -41714,6 +41714,30 @@
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "SU0959",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6539,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0OFX",
+      "town": "LEEDS",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439987500,
+      "repeater": "MB7PWU",
+      "rx": 439987500,
+      "ctcss": 0,
+      "txbw": 5,
+      "band": "70CM",
+      "locator": "IO93",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SE3633",
         "antennaHeight": 0,
         "polarisation": ""
       }
