@@ -4750,7 +4750,7 @@
       "id": 2083,
       "fac": false,
       "type": "BN",
-      "status": "UNKNOWN",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GI6ATZ",
       "town": "ENNISKILLEN  CO.FERMANAGH",
       "modeCodes": [
@@ -30574,7 +30574,7 @@
       "id": 5789,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M7GFA",
       "town": "CHORLEY",
       "modeCodes": [
@@ -33311,7 +33311,7 @@
       "id": 6028,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M7GFA",
       "town": "CHORLEY",
       "modeCodes": [
@@ -41048,7 +41048,7 @@
       "id": 6510,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0IJZ",
       "town": "CANNING TOWN",
       "modeCodes": [
@@ -41318,7 +41318,7 @@
       "id": 6521,
       "fac": true,
       "type": "RL",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0YDG",
       "town": "WAKEFIELD",
       "modeCodes": [
