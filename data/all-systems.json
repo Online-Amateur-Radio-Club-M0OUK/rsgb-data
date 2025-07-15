@@ -4750,7 +4750,7 @@
       "id": 2083,
       "fac": false,
       "type": "BN",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GI6ATZ",
       "town": "ENNISKILLEN  CO.FERMANAGH",
       "modeCodes": [
@@ -4942,7 +4942,7 @@
       "id": 2095,
       "fac": true,
       "type": "BN",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0OLX",
       "town": "REIGATE",
       "modeCodes": [
@@ -35467,7 +35467,7 @@
       "id": 6193,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M1VSR",
       "town": "STOCKPORT",
       "modeCodes": [
@@ -35714,8 +35714,8 @@
       "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G3ZXX",
-      "town": "WELLINGTON    ",
+      "keeperCallsign": "G1BED",
+      "town": "WELLINGTON, SOMERSET.",
       "modeCodes": [
         "M:7"
       ],
@@ -36900,7 +36900,7 @@
       "id": 6286,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0ABL",
       "town": "LEASOWE",
       "modeCodes": [
