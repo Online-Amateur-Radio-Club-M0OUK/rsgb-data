@@ -5468,7 +5468,7 @@
     },
     {
       "id": 2248,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GI0AZB",
@@ -6943,7 +6943,7 @@
       "id": 2573,
       "fac": false,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GW6CUR",
       "town": "COWBRIDGE",
       "modeCodes": [
@@ -7795,7 +7795,7 @@
     },
     {
       "id": 2779,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "GI4SXV",
@@ -19721,7 +19721,7 @@
     },
     {
       "id": 4880,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G7ICH",
@@ -39114,7 +39114,7 @@
       "id": 6412,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7HPE",
       "town": "CORBY",
       "modeCodes": [
@@ -41048,7 +41048,7 @@
       "id": 6510,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "2E0IJZ",
       "town": "CANNING TOWN",
       "modeCodes": [
@@ -41740,6 +41740,54 @@
         "ngr": "SE3633",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6540,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0WWD",
+      "town": "ILFRACOMBE",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "MB7UIL",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "IO71WE",
+      "dbwErp": -7,
+      "extraDetails": {
+        "ngr": "SS5144",
+        "antennaHeight": 2,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6542,
+      "fac": true,
+      "type": "RL",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G6MNJ",
+      "town": "ST. AUSTELL",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145125000,
+      "repeater": "GB3NC-L",
+      "rx": 145725000,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO70OJ",
+      "dbwErp": 0,
+      "extraDetails": {
+        "ngr": "SW9857",
+        "antennaHeight": 1,
+        "polarisation": "V"
       }
     }
   ]
