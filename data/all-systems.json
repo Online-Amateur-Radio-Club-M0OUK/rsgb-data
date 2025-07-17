@@ -17249,7 +17249,7 @@
       "id": 4542,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G6XJZ",
       "town": "EASTLEIGH",
       "modeCodes": [
@@ -41048,7 +41048,7 @@
       "id": 6510,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0IJZ",
       "town": "CANNING TOWN",
       "modeCodes": [
@@ -41763,6 +41763,30 @@
       "extraDetails": {
         "ngr": "SS5144",
         "antennaHeight": 2,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6541,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "MM7IGU",
+      "town": "GARTHDEE ",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 144912500,
+      "repeater": "MB7GD",
+      "rx": 144912500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO87WC",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NJ9103",
+        "antennaHeight": 8,
         "polarisation": "V"
       }
     },
