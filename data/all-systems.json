@@ -8480,7 +8480,7 @@
     },
     {
       "id": 2987,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4RKY",
@@ -24671,7 +24671,7 @@
       "id": 5309,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0YDG",
       "town": "CLECKHEATON",
       "modeCodes": [
@@ -41777,7 +41777,7 @@
         "F"
       ],
       "tx": 144912500,
-      "repeater": "MB7GD",
+      "repeater": "MB6GD",
       "rx": 144912500,
       "ctcss": 0,
       "txbw": 12.5,
