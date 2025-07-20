@@ -41813,6 +41813,30 @@
         "antennaHeight": 1,
         "polarisation": "V"
       }
+    },
+    {
+      "id": 6546,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2E0DIQ",
+      "town": "BURY ST. EDMUNDS",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 51700000,
+      "repeater": "MB0MAR",
+      "rx": 70375000,
+      "ctcss": 150,
+      "txbw": 25,
+      "band": "6M",
+      "locator": "JO02JF",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TL8964",
+        "antennaHeight": 8,
+        "polarisation": "V"
+      }
     }
   ]
 }
