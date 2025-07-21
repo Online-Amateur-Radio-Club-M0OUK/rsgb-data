@@ -7917,9 +7917,9 @@
     },
     {
       "id": 2798,
-      "fac": false,
+      "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM7SVK",
       "town": "GLASGOW",
       "modeCodes": [
@@ -12990,7 +12990,7 @@
     },
     {
       "id": 3995,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0RRZ",
@@ -13002,7 +13002,7 @@
       "repeater": "GB3EE",
       "rx": 434900000,
       "ctcss": 71.9,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO93",
       "dbwErp": 4,
@@ -35927,6 +35927,30 @@
       }
     },
     {
+      "id": 6219,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G7HMV",
+      "town": "HARPENDEN",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 1297925000,
+      "repeater": "MB7IVR",
+      "rx": 1297925000,
+      "ctcss": 82.5,
+      "txbw": 25,
+      "band": "23CM",
+      "locator": "IO91TU",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TL1317",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 6220,
       "fac": true,
       "type": "DG",
@@ -39819,7 +39843,7 @@
         "A"
       ],
       "tx": 144962500,
-      "repeater": "MB7ILC",
+      "repeater": "MB7IUN",
       "rx": 144962500,
       "ctcss": 77,
       "txbw": 12.5,
@@ -41096,7 +41120,7 @@
       "id": 6512,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GW4EHZ",
       "town": "DYSERTH ",
       "modeCodes": [
@@ -41818,7 +41842,7 @@
       "id": 6546,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0DIQ",
       "town": "BURY ST. EDMUNDS",
       "modeCodes": [
