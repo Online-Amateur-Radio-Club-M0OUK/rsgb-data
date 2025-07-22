@@ -5350,7 +5350,7 @@
       "id": 2210,
       "fac": false,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G6ZZX",
       "town": "HASTINGS",
       "modeCodes": [
@@ -7919,7 +7919,7 @@
       "id": 2798,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM7SVK",
       "town": "GLASGOW",
       "modeCodes": [
@@ -9196,7 +9196,7 @@
       "id": 3170,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GW3XJQ",
       "town": "PEMBROKE",
       "modeCodes": [
@@ -41366,7 +41366,7 @@
       "id": 6522,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7VJA",
       "town": "HARTLAND",
       "modeCodes": [
@@ -41835,30 +41835,6 @@
       "extraDetails": {
         "ngr": "SW9857",
         "antennaHeight": 1,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 6546,
-      "fac": true,
-      "type": "AV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "2E0DIQ",
-      "town": "BURY ST. EDMUNDS",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 51700000,
-      "repeater": "MB0MAR",
-      "rx": 70375000,
-      "ctcss": 150,
-      "txbw": 25,
-      "band": "6M",
-      "locator": "JO02JF",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TL8964",
-        "antennaHeight": 8,
         "polarisation": "V"
       }
     }
