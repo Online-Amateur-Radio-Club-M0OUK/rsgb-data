@@ -19159,7 +19159,7 @@
       "id": 4836,
       "fac": true,
       "type": "TV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G8CKN",
       "town": "ALTON",
       "modeCodes": [
@@ -31710,7 +31710,7 @@
       "id": 5894,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0IPK",
       "town": "DAGENHAM",
       "modeCodes": [
@@ -41293,7 +41293,7 @@
       "id": 6519,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2D0PEY",
       "town": "GLEN VINE",
       "modeCodes": [
@@ -41835,6 +41835,76 @@
       "extraDetails": {
         "ngr": "SW9857",
         "antennaHeight": 1,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6547,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M7JPF",
+      "town": "STOKE-ON-TRENT",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430087500,
+      "repeater": "MB7IJF",
+      "rx": 430087500,
+      "ctcss": 67,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO82",
+      "dbwErp": 5.6,
+      "extraDetails": {
+        "ngr": "SJ8744",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6548,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G1SCQ",
+      "town": "KING'S LYNN",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "MB7UKY",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "JO02FS",
+      "dbwErp": -7,
+      "extraDetails": {
+        "ngr": "TF6723",
+        "antennaHeight": 15,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6549,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "GM7RYR",
+      "town": "EDINBURGH",
+      "modeCodes": null,
+      "tx": 431125000,
+      "repeater": "MB6ED",
+      "rx": 431125000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO85JW",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NT2470",
+        "antennaHeight": 15,
         "polarisation": "V"
       }
     }
