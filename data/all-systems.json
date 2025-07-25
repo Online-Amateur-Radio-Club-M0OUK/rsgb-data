@@ -1650,7 +1650,7 @@
       "id": 791,
       "fac": false,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4RKY",
       "town": "SOMERSET",
       "modeCodes": [
@@ -7256,7 +7256,7 @@
       "id": 2636,
       "fac": false,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4RKY",
       "town": "AXBRIDGE",
       "modeCodes": [
@@ -28569,7 +28569,7 @@
       "id": 5638,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G6HUI",
       "town": "CHIPPENHAM",
       "modeCodes": [
@@ -41906,6 +41906,32 @@
         "ngr": "NT2470",
         "antennaHeight": 15,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6550,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G6PHF",
+      "town": "LANCASTER",
+      "modeCodes": [
+        "A",
+        "D",
+        "M:1"
+      ],
+      "tx": 145650000,
+      "repeater": "MB5LC",
+      "rx": 145050000,
+      "ctcss": 110.9,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO84",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "SD4759",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
