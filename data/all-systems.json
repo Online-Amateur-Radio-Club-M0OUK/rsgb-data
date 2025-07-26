@@ -1648,7 +1648,7 @@
     },
     {
       "id": 791,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4RKY",
@@ -40759,7 +40759,7 @@
       "id": 6489,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G3XOU",
       "town": "LODDISWELL",
       "modeCodes": [
