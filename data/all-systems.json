@@ -4172,7 +4172,7 @@
     },
     {
       "id": 1160,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4CJZ",
@@ -7942,7 +7942,7 @@
     },
     {
       "id": 2817,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4CJZ",
@@ -8651,7 +8651,7 @@
     },
     {
       "id": 3037,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "GM3SAN",
@@ -8775,7 +8775,7 @@
     },
     {
       "id": 3067,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G7VIL",
@@ -14338,7 +14338,7 @@
     },
     {
       "id": 4160,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0NFI",
@@ -32099,7 +32099,7 @@
       "id": 5930,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0IQF",
       "town": "LUTON",
       "modeCodes": [
@@ -33287,7 +33287,7 @@
       "id": 6026,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0IQF",
       "town": "LUTON",
       "modeCodes": [
@@ -37700,7 +37700,7 @@
       "id": 6324,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM7RYR",
       "town": "EDINBURGH",
       "modeCodes": [
