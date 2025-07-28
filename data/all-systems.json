@@ -33824,7 +33824,7 @@
       "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "GM0MEM",
+      "keeperCallsign": "MM0KLQ",
       "town": "LOSSIEMOUTH",
       "modeCodes": [
         "M:1"
@@ -41579,54 +41579,6 @@
       }
     },
     {
-      "id": 6532,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "MOKON",
-      "town": "DULVERTON",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 438400000,
-      "repeater": "M0KON",
-      "rx": 430800000,
-      "ctcss": 141.3,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81EC",
-      "dbwErp": 10.8,
-      "extraDetails": {
-        "ngr": "SS8734",
-        "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 6533,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "MOKOY",
-      "town": "DULVERTON",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 439125000,
-      "repeater": "M0KOY",
-      "rx": 430125000,
-      "ctcss": 141.3,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81FB",
-      "dbwErp": 11.5,
-      "extraDetails": {
-        "ngr": "SS8928",
-        "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6534,
       "fac": true,
       "type": "AP",
@@ -41932,6 +41884,54 @@
         "ngr": "SD4759",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6551,
+      "fac": true,
+      "type": "PX",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G0WDA",
+      "town": "BLACKPOOL",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 14107500,
+      "repeater": "GB7ESC",
+      "rx": 14107500,
+      "ctcss": 0,
+      "txbw": 2.5,
+      "band": "20M",
+      "locator": "IO83LT",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SD3135",
+        "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6552,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4WKW",
+      "town": "ST KEVERNE, HELSTON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145262500,
+      "repeater": "MB7ILZ",
+      "rx": 0,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO70KB",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SW7821",
+        "antennaHeight": 5,
+        "polarisation": "V"
       }
     }
   ]
