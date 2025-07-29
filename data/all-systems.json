@@ -19156,30 +19156,6 @@
       }
     },
     {
-      "id": 4836,
-      "fac": true,
-      "type": "TV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G8CKN",
-      "town": "ALTON",
-      "modeCodes": [
-        "T"
-      ],
-      "tx": 1308000000,
-      "repeater": "GB3HV",
-      "rx": 1248000000,
-      "ctcss": 0,
-      "txbw": 2000,
-      "band": "23CM",
-      "locator": "IO91LD",
-      "dbwErp": 17,
-      "extraDetails": {
-        "ngr": "SU6537",
-        "antennaHeight": 13,
-        "polarisation": "H"
-      }
-    },
-    {
       "id": 4839,
       "fac": true,
       "type": "AP",
@@ -23607,7 +23583,7 @@
       "id": 5222,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "2M0ROT",
       "town": "PORT GLASGOW",
       "modeCodes": [
@@ -39138,7 +39114,7 @@
       "id": 6412,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G7HPE",
       "town": "CORBY",
       "modeCodes": [
@@ -41722,7 +41698,7 @@
       "id": 6540,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0WWD",
       "town": "ILFRACOMBE",
       "modeCodes": [
