@@ -13062,7 +13062,7 @@
     },
     {
       "id": 4004,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "MI0CRR",
@@ -41906,6 +41906,54 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "SW7821",
+        "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6553,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G6FCI",
+      "town": "BLACKPOOL",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 432625000,
+      "repeater": "GB7FCI",
+      "rx": 432625000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83LT",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SD3237",
+        "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6554,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G6FCI",
+      "town": "BLACKPOOL",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144925000,
+      "repeater": "GB7FCI",
+      "rx": 144925000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO83LT",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SD3237",
         "antennaHeight": 5,
         "polarisation": "V"
       }
