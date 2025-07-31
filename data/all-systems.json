@@ -3234,7 +3234,7 @@
       "id": 957,
       "fac": false,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "G4EPX",
       "town": "ALTON HANTS",
       "modeCodes": [
@@ -40084,11 +40084,11 @@
       "modeCodes": [
         "X"
       ],
-      "tx": 432675000,
+      "tx": 439950000,
       "repeater": "GB7ESC",
-      "rx": 432675000,
+      "rx": 439950000,
       "ctcss": 0,
-      "txbw": 12.5,
+      "txbw": 25,
       "band": "70CM",
       "locator": "IO83LT",
       "dbwErp": 10,
@@ -40322,7 +40322,7 @@
       "id": 6472,
       "fac": true,
       "type": "DM",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4XEX",
       "town": "MARKET HARBOROUGH",
       "modeCodes": [
@@ -40952,7 +40952,7 @@
       "id": 6506,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0AMO",
       "town": "ANDOVER",
       "modeCodes": [
@@ -41920,11 +41920,11 @@
       "modeCodes": [
         "X"
       ],
-      "tx": 432625000,
+      "tx": 439950000,
       "repeater": "GB7FCI",
-      "rx": 432625000,
+      "rx": 439950000,
       "ctcss": 0,
-      "txbw": 12.5,
+      "txbw": 25,
       "band": "70CM",
       "locator": "IO83LT",
       "dbwErp": 14,
@@ -41955,6 +41955,30 @@
       "extraDetails": {
         "ngr": "SD3237",
         "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6555,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MM7IIL",
+      "town": "DALGETY BAY",
+      "modeCodes": [
+        "M:1"
+      ],
+      "tx": 431062500,
+      "repeater": "MB6DL",
+      "rx": 431062500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO86HA",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NT1583",
+        "antennaHeight": 8,
         "polarisation": "V"
       }
     }
