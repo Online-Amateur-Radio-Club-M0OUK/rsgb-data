@@ -41221,7 +41221,7 @@
       "id": 6517,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M7OXP",
       "town": "MILTON KEYNES",
       "modeCodes": [
@@ -41770,7 +41770,7 @@
       "id": 6547,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M7JPF",
       "town": "STOKE-ON-TRENT",
       "modeCodes": [
@@ -41979,6 +41979,78 @@
       "extraDetails": {
         "ngr": "NT1583",
         "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6556,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0WWD",
+      "town": "CROYDE",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "MB7UCY",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "IO71VD",
+      "dbwErp": -7,
+      "extraDetails": {
+        "ngr": "SS4438",
+        "antennaHeight": 2,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6557,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G6SIC",
+      "town": "WHITTLESEY",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430862500,
+      "repeater": "GB3WZ",
+      "rx": 438462500,
+      "ctcss": 123,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO92WN",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TL2797",
+        "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6558,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "GW0OZB",
+      "town": "CWMBRAN",
+      "modeCodes": [
+        "M:1"
+      ],
+      "tx": 431125000,
+      "repeater": "GW0OZB",
+      "rx": 431125000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81LP",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "ST2795",
+        "antennaHeight": 10,
         "polarisation": "V"
       }
     }
