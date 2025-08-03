@@ -12722,7 +12722,7 @@
     },
     {
       "id": 3967,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "GW8KCY",
@@ -19374,6 +19374,31 @@
       }
     },
     {
+      "id": 4854,
+      "fac": true,
+      "type": "DM",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0RHS",
+      "town": "WEYMOUTH",
+      "modeCodes": [
+        "A",
+        "F"
+      ],
+      "tx": 430850000,
+      "repeater": "GB3PD",
+      "rx": 438450000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO80SN",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SY6973",
+        "antennaHeight": 15,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 4861,
       "fac": true,
       "type": "AV",
@@ -19424,7 +19449,7 @@
     },
     {
       "id": 4864,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0PPR",
@@ -34140,7 +34165,7 @@
       "id": 6104,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0RDF",
       "town": "PORTISHEAD",
       "modeCodes": [
@@ -38276,30 +38301,6 @@
       }
     },
     {
-      "id": 6361,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0OGR",
-      "town": "MIRFIELD",
-      "modeCodes": [
-        "M:2"
-      ],
-      "tx": 431062500,
-      "repeater": "MB6MI",
-      "rx": 431062500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO93",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SE1920",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6362,
       "fac": true,
       "type": "DV",
@@ -42051,6 +42052,54 @@
       "extraDetails": {
         "ngr": "ST2795",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6559,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0OGR",
+      "town": "MIRFIELD",
+      "modeCodes": [
+        "M:2"
+      ],
+      "tx": 439437500,
+      "repeater": "GB7MI",
+      "rx": 430437500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "SE1920",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6560,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0MFS",
+      "town": "BIDEFORD",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "MB7UFB",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "IO71VA",
+      "dbwErp": -7,
+      "extraDetails": {
+        "ngr": "SS4426",
+        "antennaHeight": 5,
         "polarisation": "V"
       }
     }
