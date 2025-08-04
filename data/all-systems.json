@@ -41891,7 +41891,7 @@
       "id": 6552,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4WKW",
       "town": "ST KEVERNE, HELSTON",
       "modeCodes": [
@@ -42059,7 +42059,7 @@
       "id": 6559,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "M0OGR",
       "town": "MIRFIELD",
       "modeCodes": [
