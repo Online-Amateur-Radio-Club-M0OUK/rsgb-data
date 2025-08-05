@@ -32243,30 +32243,6 @@
       }
     },
     {
-      "id": 5938,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GM0ROU",
-      "town": "DUNDEE",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 144862500,
-      "repeater": "MB6DD",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO86LL",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "NO3734",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5940,
       "fac": true,
       "type": "PX",
@@ -35203,7 +35179,7 @@
       "id": 6174,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0HEL",
       "town": "LEICESTER",
       "modeCodes": [
