@@ -41963,7 +41963,7 @@
       "id": 6556,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0WWD",
       "town": "CROYDE",
       "modeCodes": [
@@ -42035,7 +42035,7 @@
       "id": 6559,
       "fac": true,
       "type": "DV",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0OGR",
       "town": "MIRFIELD",
       "modeCodes": [
