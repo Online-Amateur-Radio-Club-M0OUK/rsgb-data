@@ -1722,7 +1722,7 @@
       "id": 796,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M1FJB",
       "town": "SPILSBY LINCS.",
       "modeCodes": [
@@ -20777,31 +20777,6 @@
       }
     },
     {
-      "id": 4992,
-      "fac": false,
-      "type": "DM",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0JBR",
-      "town": "HASTINGS",
-      "modeCodes": [
-        "A",
-        "M:3"
-      ],
-      "tx": 145775000,
-      "repeater": "GB7RX",
-      "rx": 145175000,
-      "ctcss": 103.5,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO00GU",
-      "dbwErp": 8.1,
-      "extraDetails": {
-        "ngr": "TQ7911",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 4993,
       "fac": false,
       "type": "DV",
@@ -27462,30 +27437,6 @@
       "ctcss": 94.8,
       "txbw": 12.5,
       "band": "70CM",
-      "locator": "JO02NN",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TG1000",
-        "antennaHeight": 25,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 5550,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0ZAH",
-      "town": "WYMONDHAM",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145600000,
-      "repeater": "GB3TX",
-      "rx": 145000000,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "2M",
       "locator": "JO02NN",
       "dbwErp": 14,
       "extraDetails": {
@@ -41939,7 +41890,7 @@
       "id": 6555,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM7IIL",
       "town": "DALGETY BAY",
       "modeCodes": [
@@ -42076,6 +42027,54 @@
       "extraDetails": {
         "ngr": "SS4426",
         "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6561,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MX0WVV",
+      "town": "NORWICH",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 50830000,
+      "repeater": "GB3HZ",
+      "rx": 51830000,
+      "ctcss": 94.8,
+      "txbw": 10,
+      "band": "6M",
+      "locator": "JO02NN",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TG1000",
+        "antennaHeight": 20,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6562,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0ZAH",
+      "town": "DISS",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145600000,
+      "repeater": "M0ZAH",
+      "rx": 145000000,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO02NI",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TM1579",
+        "antennaHeight": 10,
         "polarisation": "V"
       }
     }
