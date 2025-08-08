@@ -12185,30 +12185,6 @@
       }
     },
     {
-      "id": 3875,
-      "fac": true,
-      "type": "AP",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0PVO",
-      "town": "PORTSMOUTH",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144800000,
-      "repeater": "MB7UP",
-      "rx": 144800000,
-      "ctcss": 0,
-      "txbw": 2.5,
-      "band": "2M",
-      "locator": "IO90LU",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SU6506",
-        "antennaHeight": 20,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 3877,
       "fac": false,
       "type": "AV",
@@ -19254,7 +19230,7 @@
     },
     {
       "id": 4845,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4HFG",
@@ -39740,7 +39716,7 @@
       "id": 6446,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M6LUN",
       "town": "LONDON COLNEY",
       "modeCodes": [
@@ -42075,6 +42051,30 @@
       "extraDetails": {
         "ngr": "TM1579",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6564,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0NFZ",
+      "town": "PORTSMOUTH ",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UP",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO90LU",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SU6506",
+        "antennaHeight": 20,
         "polarisation": "V"
       }
     }
