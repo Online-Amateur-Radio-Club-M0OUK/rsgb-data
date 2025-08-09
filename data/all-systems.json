@@ -38468,7 +38468,7 @@
       "id": 6379,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M5WOB",
       "town": "CORBY",
       "modeCodes": [
@@ -39699,10 +39699,10 @@
         "A"
       ],
       "tx": 50530000,
-      "repeater": "G1VHF",
+      "repeater": "MB0DBF",
       "rx": 50530000,
-      "ctcss": 94.8,
-      "txbw": 151.4,
+      "ctcss": 162.2,
+      "txbw": 10,
       "band": "6M",
       "locator": "JO02NI",
       "dbwErp": 7,
@@ -39812,7 +39812,7 @@
       "id": 6450,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0XXY",
       "town": "BASINGSTOKE",
       "modeCodes": [
@@ -42075,6 +42075,30 @@
       "extraDetails": {
         "ngr": "SU6506",
         "antennaHeight": 20,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6565,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0DPH",
+      "town": "BRIDLINGTON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145337500,
+      "repeater": "MB7IWW",
+      "rx": 0,
+      "ctcss": 88.5,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO94VC",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TA1769",
+        "antennaHeight": 6,
         "polarisation": "V"
       }
     }
