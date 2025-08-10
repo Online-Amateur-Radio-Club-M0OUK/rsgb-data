@@ -24623,7 +24623,7 @@
       "id": 5309,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0YDG",
       "town": "CLECKHEATON",
       "modeCodes": [
@@ -29227,7 +29227,7 @@
       "id": 5683,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0EIG",
       "town": "PLYMOUTH",
       "modeCodes": [
@@ -37431,32 +37431,6 @@
       }
     },
     {
-      "id": 6316,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0YDG",
-      "town": "WAKEFIELD",
-      "modeCodes": [
-        "M:6",
-        "P",
-        "F"
-      ],
-      "tx": 144887500,
-      "repeater": "MB6BW",
-      "rx": 144887500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO93HO",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SE3813",
-        "antennaHeight": 12,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6317,
       "fac": true,
       "type": "RN",
@@ -41942,7 +41916,9 @@
       "keeperCallsign": "GW0OZB",
       "town": "CWMBRAN",
       "modeCodes": [
-        "M:1"
+        "D",
+        "M:1",
+        "F"
       ],
       "tx": 431125000,
       "repeater": "GW0OZB",
