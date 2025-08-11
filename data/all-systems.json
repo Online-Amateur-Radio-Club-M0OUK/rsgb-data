@@ -13313,7 +13313,7 @@
     },
     {
       "id": 4069,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0ZPU",
@@ -18978,31 +18978,6 @@
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "TL1317",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 4822,
-      "fac": false,
-      "type": "DM",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G3TCG",
-      "town": "HASTINGS",
-      "modeCodes": [
-        "A",
-        "F"
-      ],
-      "tx": 430925000,
-      "repeater": "GB3HE",
-      "rx": 438525000,
-      "ctcss": 103.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO00HV",
-      "dbwErp": 12,
-      "extraDetails": {
-        "ngr": "TQ8212",
         "antennaHeight": 10,
         "polarisation": "V"
       }
@@ -26592,36 +26567,6 @@
         "ngr": "SK4574",
         "antennaHeight": 10,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 5481,
-      "fac": true,
-      "type": "DM",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G0LCG",
-      "town": "HUCKNALL",
-      "modeCodes": [
-        "A",
-        "D",
-        "M",
-        "F",
-        "P",
-        "N",
-        "7"
-      ],
-      "tx": 430887500,
-      "repeater": "GB7AF",
-      "rx": 438487500,
-      "ctcss": 71.9,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO92",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SK5547",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -40298,7 +40243,7 @@
       "id": 6476,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0FGX",
       "town": "HAYTOR VALE",
       "modeCodes": [
@@ -42075,6 +42020,78 @@
       "extraDetails": {
         "ngr": "TA1769",
         "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6566,
+      "fac": true,
+      "type": "RL",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0YDG",
+      "town": "WAKEFIELD",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145012500,
+      "repeater": "GB3NA-L",
+      "rx": 145612500,
+      "ctcss": 71.9,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO93HO",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SE3813",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6568,
+      "fac": true,
+      "type": "AV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M1FJB",
+      "town": "LEICESTER",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 439325000,
+      "repeater": "GB3UH",
+      "rx": 430325000,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO92KP",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SK6004",
+        "antennaHeight": 71,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6569,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G7HMV",
+      "town": "HARPENDEN",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 29630000,
+      "repeater": "MB0TEN",
+      "rx": 29530000,
+      "ctcss": 82.5,
+      "txbw": 10,
+      "band": "10M",
+      "locator": "IO91TU",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TL1317",
+        "antennaHeight": 10,
         "polarisation": "V"
       }
     }
