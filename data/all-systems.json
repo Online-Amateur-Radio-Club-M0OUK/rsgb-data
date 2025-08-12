@@ -9320,7 +9320,7 @@
       "id": 3213,
       "fac": false,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GW6TKK",
       "town": "FISHGUARD",
       "modeCodes": [
@@ -38723,7 +38723,7 @@
       "id": 6397,
       "fac": true,
       "type": "SP",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G3DBI",
       "town": "ROTHERHAM",
       "modeCodes": [
