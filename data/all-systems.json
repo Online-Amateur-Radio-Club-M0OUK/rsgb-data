@@ -39781,7 +39781,7 @@
       "id": 6453,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G6GXH",
       "town": "REDBROOK",
       "modeCodes": [
@@ -40364,7 +40364,7 @@
       "id": 6481,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "2E0XFD",
       "town": "CANTERBURY",
       "modeCodes": [
@@ -41689,7 +41689,7 @@
       "id": 6551,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0WDA",
       "town": "BLACKPOOL",
       "modeCodes": [
