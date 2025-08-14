@@ -1840,7 +1840,7 @@
     },
     {
       "id": 807,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GM4ZUK",
@@ -18978,6 +18978,31 @@
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "TL1317",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 4822,
+      "fac": true,
+      "type": "DM",
+      "status": "",
+      "keeperCallsign": "G3TCG",
+      "town": "HASTINGS",
+      "modeCodes": [
+        "A",
+        "F"
+      ],
+      "tx": 430925000,
+      "repeater": "GB3HE",
+      "rx": 438525000,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO00HV",
+      "dbwErp": 12,
+      "extraDetails": {
+        "ngr": "TQ8212",
         "antennaHeight": 10,
         "polarisation": "V"
       }
@@ -42092,6 +42117,30 @@
       "extraDetails": {
         "ngr": "TL1317",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6571,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G7HIF",
+      "town": "TOWCESTER",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UWN",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO92MC",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SP6947",
+        "antennaHeight": 12,
         "polarisation": "V"
       }
     }
