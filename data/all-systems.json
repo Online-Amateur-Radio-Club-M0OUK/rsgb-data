@@ -11454,7 +11454,7 @@
       "id": 3722,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0JSV",
       "town": "EYE",
       "modeCodes": [
@@ -19056,32 +19056,6 @@
       }
     },
     {
-      "id": 4829,
-      "fac": false,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G6SSN",
-      "town": "BOURNE",
-      "modeCodes": [
-        "D",
-        "M:5",
-        "F"
-      ],
-      "tx": 439525000,
-      "repeater": "GB7KU",
-      "rx": 430525000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO92TT",
-      "dbwErp": 12.1,
-      "extraDetails": {
-        "ngr": "TF0727",
-        "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 4832,
       "fac": true,
       "type": "DV",
@@ -19766,31 +19740,6 @@
         "ngr": "SZ0178",
         "antennaHeight": 0,
         "polarisation": ""
-      }
-    },
-    {
-      "id": 4897,
-      "fac": true,
-      "type": "DM",
-      "status": "",
-      "keeperCallsign": "G6DUZ",
-      "town": "WAKEFIELD",
-      "modeCodes": [
-        "A",
-        "F"
-      ],
-      "tx": 439512500,
-      "repeater": "GB7WY",
-      "rx": 430512500,
-      "ctcss": 82.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO93FR",
-      "dbwErp": 10,
-      "extraDetails": {
-        "ngr": "SE3024",
-        "antennaHeight": 20,
-        "polarisation": "V"
       }
     },
     {
@@ -26718,30 +26667,6 @@
       }
     },
     {
-      "id": 5493,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G3EWE",
-      "town": "OLD ARLESFORD",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 433637500,
-      "repeater": "G3EWE",
-      "rx": 433637500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO91",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SU5833",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 5494,
       "fac": true,
       "type": "DG",
@@ -30448,7 +30373,7 @@
       "id": 5788,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "2M0MSU",
       "town": "MAYBOLE",
       "modeCodes": [
@@ -40800,7 +40725,7 @@
       "id": 6506,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0AMO",
       "town": "ANDOVER",
       "modeCodes": [
@@ -40972,7 +40897,7 @@
     {
       "id": 6513,
       "fac": true,
-      "type": "DG",
+      "type": "RL",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0XDR",
       "town": "NORTHWICH",
@@ -41357,16 +41282,17 @@
     {
       "id": 6530,
       "fac": true,
-      "type": "DV",
+      "type": "DM",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4LUE",
       "town": "KIPPAX",
       "modeCodes": [
+        "A",
         "D"
       ],
-      "tx": 439600000,
-      "repeater": "GB7SC",
-      "rx": 430600000,
+      "tx": 439362500,
+      "repeater": "GB7YK",
+      "rx": 430362500,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
