@@ -7698,7 +7698,7 @@
     },
     {
       "id": 2765,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GM8HBY",
@@ -8578,7 +8578,7 @@
     },
     {
       "id": 3022,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G1HZI",
@@ -20380,7 +20380,7 @@
       "fac": false,
       "type": "AV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "M0DKR",
+      "keeperCallsign": "M0VXT",
       "town": "CHORLEY",
       "modeCodes": [
         "A"
@@ -30367,30 +30367,6 @@
         "ngr": "SJ4986",
         "antennaHeight": 0,
         "polarisation": ""
-      }
-    },
-    {
-      "id": 5788,
-      "fac": true,
-      "type": "DG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "2M0MSU",
-      "town": "MAYBOLE",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 144887500,
-      "repeater": "MB6AY",
-      "rx": 144887500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO75PI",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "NS2909",
-        "antennaHeight": 10,
-        "polarisation": "V"
       }
     },
     {
@@ -42067,6 +42043,78 @@
       "extraDetails": {
         "ngr": "SP6947",
         "antennaHeight": 12,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6572,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "2M0MSU",
+      "town": "MAYBOLE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145262500,
+      "repeater": "MB7IAY",
+      "rx": 145262500,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO75PI",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NS2909",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6573,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2E0JML",
+      "town": "GRANGE VILLA",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430025000,
+      "repeater": "MB7IFS",
+      "rx": 430025000,
+      "ctcss": 118.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO94EU",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NZ2352",
+        "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6574,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2E0JML",
+      "town": "GRANGE VILLA",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7URS",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO94EU",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NZ2352",
+        "antennaHeight": 7,
         "polarisation": "V"
       }
     }
