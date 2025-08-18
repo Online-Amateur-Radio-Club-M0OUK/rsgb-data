@@ -12651,7 +12651,7 @@
       "id": 3958,
       "fac": true,
       "type": "DM",
-      "status": "",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "GM7RYR",
       "town": "EDINBURGH",
       "modeCodes": [
@@ -20376,30 +20376,6 @@
       }
     },
     {
-      "id": 4958,
-      "fac": false,
-      "type": "AV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0VXT",
-      "town": "CHORLEY",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430975000,
-      "repeater": "GB3BY",
-      "rx": 438575000,
-      "ctcss": 82.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO83QP",
-      "dbwErp": 10.8,
-      "extraDetails": {
-        "ngr": "SD5918",
-        "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 4959,
       "fac": true,
       "type": "DG",
@@ -20500,7 +20476,7 @@
     },
     {
       "id": 4969,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "GM8SJP",
@@ -41259,7 +41235,7 @@
       "id": 6530,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4LUE",
       "town": "KIPPAX",
       "modeCodes": [
@@ -41269,7 +41245,7 @@
       "tx": 439362500,
       "repeater": "GB7YK",
       "rx": 430362500,
-      "ctcss": 0,
+      "ctcss": 71.9,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO93HS",
@@ -42116,6 +42092,54 @@
         "ngr": "NZ2352",
         "antennaHeight": 7,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6575,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4LUE",
+      "town": "SHEFFIELD",
+      "modeCodes": [
+        "D"
+      ],
+      "tx": 439600000,
+      "repeater": "GB7SC",
+      "rx": 430600000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93GI",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SK3684",
+        "antennaHeight": 13,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6576,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0VXT",
+      "town": "PRESTON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430975000,
+      "repeater": "GB3BY",
+      "rx": 438575000,
+      "ctcss": 82.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SD5429",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
