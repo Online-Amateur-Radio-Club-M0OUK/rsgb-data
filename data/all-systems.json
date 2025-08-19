@@ -27683,30 +27683,6 @@
       }
     },
     {
-      "id": 5586,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "MM0ICX",
-      "town": "PETERHEAD",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 433000000,
-      "repeater": "GB3DK",
-      "rx": 434600000,
-      "ctcss": 67,
-      "txbw": 25,
-      "band": "70CM",
-      "locator": "IO97",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "NK1245",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 5587,
       "fac": true,
       "type": "DG",
@@ -42026,7 +42002,7 @@
       "id": 6572,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "2M0MSU",
       "town": "MAYBOLE",
       "modeCodes": [
@@ -42122,7 +42098,7 @@
       "id": 6576,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0VXT",
       "town": "PRESTON",
       "modeCodes": [
