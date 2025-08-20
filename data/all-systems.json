@@ -31461,7 +31461,7 @@
       "id": 5894,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "2E0IPK",
       "town": "DAGENHAM",
       "modeCodes": [
@@ -31581,7 +31581,7 @@
       "id": 5907,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "2M0FPI",
       "town": "ABERDEEN",
       "modeCodes": [
@@ -39169,30 +39169,6 @@
         "ngr": "TQ1104",
         "antennaHeight": 10,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 6430,
-      "fac": true,
-      "type": "DG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "MM6SNT",
-      "town": "KIRKCALDY",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 431112500,
-      "repeater": "MB6KY",
-      "rx": 431112500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO86",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "NT2694",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
