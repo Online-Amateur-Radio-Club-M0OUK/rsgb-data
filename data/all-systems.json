@@ -9172,7 +9172,7 @@
       "id": 3170,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GW3XJQ",
       "town": "PEMBROKE",
       "modeCodes": [
@@ -26148,6 +26148,30 @@
       }
     },
     {
+      "id": 5439,
+      "fac": true,
+      "type": "AV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G4LYB",
+      "town": "ROUGHTON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430825000,
+      "repeater": "MB5CR",
+      "rx": 438425000,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO02PV",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TG2139",
+        "antennaHeight": 16,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 5440,
       "fac": true,
       "type": "AG",
@@ -32250,12 +32274,12 @@
       "ctcss": 82.5,
       "txbw": 12.5,
       "band": "2M",
-      "locator": "IO83UN",
+      "locator": "IO83",
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "SD8106",
-        "antennaHeight": 9,
-        "polarisation": "V"
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     },
     {
@@ -32401,30 +32425,6 @@
         "ngr": "TQ0579",
         "antennaHeight": 8,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 5969,
-      "fac": true,
-      "type": "AG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0VGP",
-      "town": "WALSALL",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430087500,
-      "repeater": "MB7IHT",
-      "rx": 430087500,
-      "ctcss": 88.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO92",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SP0498",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
