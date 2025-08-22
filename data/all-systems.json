@@ -26164,7 +26164,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "JO02PV",
-      "dbwErp": 7,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "TG2139",
         "antennaHeight": 16,
@@ -33415,7 +33415,7 @@
       "tx": 145237500,
       "repeater": "MB7IVX",
       "rx": 145237500,
-      "ctcss": 86.5,
+      "ctcss": 77,
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO83UO",
@@ -41978,7 +41978,7 @@
       "id": 6572,
       "fac": true,
       "type": "AG",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2M0MSU",
       "town": "MAYBOLE",
       "modeCodes": [
