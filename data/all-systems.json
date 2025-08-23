@@ -21610,30 +21610,6 @@
       }
     },
     {
-      "id": 5078,
-      "fac": false,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0VKR",
-      "town": "YEOVIL",
-      "modeCodes": [
-        "M:5"
-      ],
-      "tx": 439687500,
-      "repeater": "GB7YD",
-      "rx": 430687500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO80PW",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "ST5217",
-        "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5081,
       "fac": true,
       "type": "DV",
@@ -21776,30 +21752,6 @@
       "extraDetails": {
         "ngr": "SK5058",
         "antennaHeight": 9,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 5090,
-      "fac": true,
-      "type": "DG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M5PDL",
-      "town": "POOLE",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 144825000,
-      "repeater": "MB6AG",
-      "rx": 144825000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO90AS",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SZ0294",
-        "antennaHeight": 6,
         "polarisation": "V"
       }
     },
@@ -31605,7 +31557,7 @@
       "id": 5907,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2M0FPI",
       "town": "ABERDEEN",
       "modeCodes": [
@@ -31613,7 +31565,7 @@
         "F"
       ],
       "tx": 439150000,
-      "repeater": "2M0FPI",
+      "repeater": "GB7FP",
       "rx": 430150000,
       "ctcss": 0,
       "txbw": 12.5,
@@ -41518,13 +41470,12 @@
       "id": 6550,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G6PHF",
       "town": "LANCASTER",
       "modeCodes": [
         "A",
-        "D",
-        "M:1"
+        "D"
       ],
       "tx": 145650000,
       "repeater": "MB5LC",
@@ -41688,7 +41639,7 @@
       "id": 6557,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G6SIC",
       "town": "WHITTLESEY",
       "modeCodes": [
