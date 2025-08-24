@@ -19919,7 +19919,7 @@
     },
     {
       "id": 4911,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0DZZ",
@@ -36964,30 +36964,6 @@
       }
     },
     {
-      "id": 6305,
-      "fac": true,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G7TRL",
-      "town": "HORWICH",
-      "modeCodes": [
-        "E"
-      ],
-      "tx": 439218750,
-      "repeater": "GB7TL",
-      "rx": 430218750,
-      "ctcss": 0,
-      "txbw": 37.5,
-      "band": "70CM",
-      "locator": "IO83RO",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SD6411",
-        "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6306,
       "fac": true,
       "type": "DG",
@@ -42043,6 +42019,30 @@
         "ngr": "SD5429",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6577,
+      "fac": true,
+      "type": "DV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G7TRL",
+      "town": "PRESTON",
+      "modeCodes": [
+        "E"
+      ],
+      "tx": 439218750,
+      "repeater": "GB7TL",
+      "rx": 430218750,
+      "ctcss": 0,
+      "txbw": 37.5,
+      "band": "70CM",
+      "locator": "IO83PS",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SD5032",
+        "antennaHeight": 7,
+        "polarisation": "V"
       }
     }
   ]
