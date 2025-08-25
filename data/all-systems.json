@@ -8775,9 +8775,9 @@
     },
     {
       "id": 3074,
-      "fac": false,
+      "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM0HPK",
       "town": "STRANRAER",
       "modeCodes": [
