@@ -1602,7 +1602,7 @@
       "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "M0DKR",
+      "keeperCallsign": "G3UIS ",
       "town": "BLACKPOOL",
       "modeCodes": [
         "A"
@@ -18987,7 +18987,7 @@
       "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "M0DKR",
+      "keeperCallsign": "G3UIS ",
       "town": "BLACKPOOL",
       "modeCodes": [
         "D",
@@ -41969,6 +41969,54 @@
         "ngr": "TL0901",
         "antennaHeight": 2,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6581,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G7DPE",
+      "town": "BEACONSFIELD",
+      "modeCodes": [
+        "M:3"
+      ],
+      "tx": 439475000,
+      "repeater": "MB5MT",
+      "rx": 430475000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91QO",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SU9489",
+        "antennaHeight": 15,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6582,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0MDS",
+      "town": "ALEXANDRA PALACE",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "MB7UAP",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "IO91",
+      "dbwErp": -7,
+      "extraDetails": {
+        "ngr": "TQ2990",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
