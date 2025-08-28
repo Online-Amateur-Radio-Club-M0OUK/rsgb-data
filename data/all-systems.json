@@ -26786,30 +26786,6 @@
       }
     },
     {
-      "id": 5513,
-      "fac": true,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "MM0ELF",
-      "town": "ALEXANDRIA",
-      "modeCodes": [
-        "M:7"
-      ],
-      "tx": 439337500,
-      "repeater": "GB7LB",
-      "rx": 430337500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO75RX",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NS2367",
-        "antennaHeight": 11,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5519,
       "fac": true,
       "type": "AG",
