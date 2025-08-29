@@ -6458,7 +6458,7 @@
       "id": 2431,
       "fac": false,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G8DOR",
       "town": "READING",
       "modeCodes": [
@@ -9977,7 +9977,7 @@
       "id": 3366,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4MYS",
       "town": "SOUTHAMPTON",
       "modeCodes": [
@@ -38470,7 +38470,7 @@
       "ctcss": 0,
       "txbw": 2.7,
       "band": "40M",
-      "locator": "IO65RB76",
+      "locator": "IO65RB",
       "dbwErp": 14,
       "extraDetails": null
     },
@@ -41482,7 +41482,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO92WN",
-      "dbwErp": 7,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "TL2797",
         "antennaHeight": 8,
