@@ -2607,7 +2607,7 @@
     },
     {
       "id": 899,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G6IBI",
@@ -13314,7 +13314,7 @@
     },
     {
       "id": 4072,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0RMA",
@@ -33722,7 +33722,7 @@
       "id": 6104,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0RDF",
       "town": "PORTISHEAD",
       "modeCodes": [
@@ -41991,6 +41991,54 @@
       "dbwErp": -7,
       "extraDetails": {
         "ngr": "TQ2990",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6583,
+      "fac": true,
+      "type": "DV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "2E0ISI",
+      "town": "ANDOVER",
+      "modeCodes": [
+        "M:9"
+      ],
+      "tx": 433137500,
+      "repeater": "GB7BV",
+      "rx": 438137500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91HG10",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SU4150",
+        "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6587,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M6OER",
+      "town": "SALISBURY",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430062500,
+      "repeater": "MB7ISA",
+      "rx": 430062500,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SU1231",
         "antennaHeight": 0,
         "polarisation": ""
       }
