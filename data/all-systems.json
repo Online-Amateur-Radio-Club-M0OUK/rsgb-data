@@ -34034,17 +34034,18 @@
     {
       "id": 6124,
       "fac": true,
-      "type": "DV",
+      "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G7MLO",
       "town": "BURY ST EDMUNDS",
       "modeCodes": [
-        "D"
+        "D",
+        "A"
       ],
       "tx": 433300000,
       "repeater": "GB7DS",
       "rx": 438300000,
-      "ctcss": 0,
+      "ctcss": 110.9,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "JO02IE",
@@ -40897,7 +40898,7 @@
       "id": 6526,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "",
       "keeperCallsign": "M0ZAH",
       "town": "SCOLE",
       "modeCodes": [
