@@ -4942,7 +4942,7 @@
       "id": 2095,
       "fac": true,
       "type": "BN",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0OLX",
       "town": "REIGATE",
       "modeCodes": [
@@ -24448,30 +24448,6 @@
       }
     },
     {
-      "id": 5311,
-      "fac": true,
-      "type": "RL",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "MW0KJN",
-      "town": "SWANSEA",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 145175000,
-      "repeater": "GB3WW-L",
-      "rx": 145775000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO81",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SS7098",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 5312,
       "fac": true,
       "type": "AP",
@@ -31309,30 +31285,6 @@
       "extraDetails": {
         "ngr": "SK5943",
         "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 5894,
-      "fac": true,
-      "type": "DG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "2E0IPK",
-      "town": "DAGENHAM",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 433637500,
-      "repeater": "2E0IPK",
-      "rx": 433637500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO01BM",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TQ4884",
-        "antennaHeight": 15,
         "polarisation": "V"
       }
     },
@@ -40146,7 +40098,7 @@
       "id": 6487,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0JKS",
       "town": "SLEIGHTS",
       "modeCodes": [
