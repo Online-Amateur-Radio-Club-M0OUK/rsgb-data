@@ -23119,30 +23119,6 @@
       }
     },
     {
-      "id": 5205,
-      "fac": true,
-      "type": "AP",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GM0WUR",
-      "town": "STIRLING",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144800000,
-      "repeater": "MB7USC",
-      "rx": 144800000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO86AC",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "NS8090",
-        "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5209,
       "fac": true,
       "type": "AG",
@@ -40001,7 +39977,7 @@
       "id": 6483,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0WUR",
       "town": "KEMNAY",
       "modeCodes": [
@@ -40050,7 +40026,7 @@
       "id": 6485,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0WUR",
       "town": "KEMNAY",
       "modeCodes": [
@@ -40074,7 +40050,7 @@
       "id": 6486,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0WUR",
       "town": "KEMNAY",
       "modeCodes": [
@@ -41952,7 +41928,7 @@
       "id": 6583,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "2E0ISI",
       "town": "ANDOVER",
       "modeCodes": [
@@ -41968,6 +41944,54 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "SU4150",
+        "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6585,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MOKON",
+      "town": "CROWCOMBE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 438400000,
+      "repeater": "M0KON",
+      "rx": 430800000,
+      "ctcss": 141.3,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81JD",
+      "dbwErp": 11.5,
+      "extraDetails": {
+        "ngr": "ST1538",
+        "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6586,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MOKOY",
+      "town": "OVER STOWEY, CRICKET CLUB, TAU",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 439125000,
+      "repeater": "M0KOY",
+      "rx": 430125000,
+      "ctcss": 141.3,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81KD",
+      "dbwErp": 10.8,
+      "extraDetails": {
+        "ngr": "ST1938",
         "antennaHeight": 6,
         "polarisation": "V"
       }
@@ -41994,6 +42018,54 @@
         "ngr": "SU1231",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6588,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G5BSD/R",
+      "town": "EMF CAMP",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145587500,
+      "repeater": "G5BSD",
+      "rx": 144587500,
+      "ctcss": 146.2,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO82TA",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SO7438",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6589,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "2E1GW",
+      "town": "SOUTHGATE",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "2E1GW",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "IO91WP",
+      "dbwErp": -7,
+      "extraDetails": {
+        "ngr": "TQ2893",
+        "antennaHeight": 10,
+        "polarisation": "V"
       }
     }
   ]
