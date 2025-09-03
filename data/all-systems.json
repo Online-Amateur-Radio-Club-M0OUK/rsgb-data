@@ -37644,7 +37644,7 @@
       "id": 6357,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0ZZT",
       "town": "TIVERTON",
       "modeCodes": [
@@ -41009,7 +41009,11 @@
       "band": "70CM",
       "locator": "IO83NO",
       "dbwErp": 3,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "SD4311",
+        "antennaHeight": 6,
+        "polarisation": "V"
+      }
     },
     {
       "id": 6537,
