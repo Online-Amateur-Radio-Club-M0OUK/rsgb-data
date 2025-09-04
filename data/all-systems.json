@@ -2079,7 +2079,7 @@
       "id": 833,
       "fac": false,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM0KMQ",
       "town": "STORNOWAY",
       "modeCodes": [
@@ -35973,30 +35973,6 @@
       }
     },
     {
-      "id": 6257,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "MM6SSO",
-      "town": "MONTROSE",
-      "modeCodes": [
-        "E"
-      ],
-      "tx": 434050000,
-      "repeater": "MB6MR",
-      "rx": 434050000,
-      "ctcss": 0,
-      "txbw": 25,
-      "band": "70CM",
-      "locator": "IO86",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "NO7158",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6258,
       "fac": true,
       "type": "DV",
@@ -37644,7 +37620,7 @@
       "id": 6357,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0ZZT",
       "town": "TIVERTON",
       "modeCodes": [
@@ -42069,6 +42045,30 @@
       "extraDetails": {
         "ngr": "TQ2893",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6590,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G1AW",
+      "town": "SHEFFIELD",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UAW",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO93HI",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SK4482",
+        "antennaHeight": 5,
         "polarisation": "V"
       }
     }
