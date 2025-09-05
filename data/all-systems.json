@@ -1933,7 +1933,7 @@
     },
     {
       "id": 822,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G7EKY",
@@ -5348,7 +5348,7 @@
     },
     {
       "id": 2210,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "G6ZZX",
@@ -5363,7 +5363,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "JO00",
-      "dbwErp": 13,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "TQ8212",
         "antennaHeight": 0,
@@ -9999,7 +9999,7 @@
     },
     {
       "id": 3367,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4MYS",
@@ -23461,7 +23461,7 @@
     },
     {
       "id": 5234,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "GM4GZW",
@@ -23602,7 +23602,7 @@
     },
     {
       "id": 5245,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0NCV",
@@ -39977,7 +39977,7 @@
       "id": 6484,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "G0WUR",
       "town": "KEMNAY",
       "modeCodes": [
