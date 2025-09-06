@@ -3016,7 +3016,7 @@
     },
     {
       "id": 942,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G8DOR",
@@ -3955,7 +3955,7 @@
     },
     {
       "id": 1045,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4CJZ",
@@ -4942,7 +4942,7 @@
       "id": 2095,
       "fac": true,
       "type": "BN",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0OLX",
       "town": "REIGATE",
       "modeCodes": [
@@ -7625,7 +7625,7 @@
     },
     {
       "id": 2758,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M1CMN",
@@ -11098,7 +11098,7 @@
       "repeater": "GB3KL",
       "rx": 434700000,
       "ctcss": 94.8,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "JO02FR",
       "dbwErp": 14,
@@ -19846,7 +19846,7 @@
     },
     {
       "id": 4912,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "GM7RYR",
@@ -21274,7 +21274,7 @@
       "fac": true,
       "type": "RL",
       "status": "OPERATIONAL",
-      "keeperCallsign": " MW0YAC",
+      "keeperCallsign": "MW0YAC",
       "town": "CWMBRAN",
       "modeCodes": [
         "A"
@@ -39248,7 +39248,7 @@
       "id": 6449,
       "fac": true,
       "type": "AP",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM3STM",
       "town": "AUCHINLECK",
       "modeCodes": [
@@ -39977,10 +39977,11 @@
       "id": 6484,
       "fac": true,
       "type": "DM",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0WUR",
       "town": "KEMNAY",
       "modeCodes": [
+        "A",
         "F",
         "M:5"
       ],
