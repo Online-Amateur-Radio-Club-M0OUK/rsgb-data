@@ -42072,6 +42072,30 @@
         "antennaHeight": 5,
         "polarisation": "V"
       }
+    },
+    {
+      "id": 6592,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "MM0HPP",
+      "town": "DORNOCH",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144937500,
+      "repeater": "GB7HPP",
+      "rx": 144937500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO77XW",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NH7793",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
     }
   ]
 }
