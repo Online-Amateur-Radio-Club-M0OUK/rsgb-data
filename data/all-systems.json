@@ -32746,30 +32746,6 @@
       }
     },
     {
-      "id": 6022,
-      "fac": true,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G0WEB",
-      "town": "BILSTON",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 439425000,
-      "repeater": "GB7FS",
-      "rx": 430425000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO82XN",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SO9494",
-        "antennaHeight": 7,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6026,
       "fac": true,
       "type": "AG",
@@ -35928,7 +35904,7 @@
       "id": 6255,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M7GAY",
       "town": "ELSTREE",
       "modeCodes": [
@@ -41925,54 +41901,6 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "SU4150",
-        "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 6585,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "MOKON",
-      "town": "CROWCOMBE",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 438400000,
-      "repeater": "M0KON",
-      "rx": 430800000,
-      "ctcss": 141.3,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81JD",
-      "dbwErp": 11.5,
-      "extraDetails": {
-        "ngr": "ST1538",
-        "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 6586,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "MOKOY",
-      "town": "OVER STOWEY, CRICKET CLUB, TAU",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 439125000,
-      "repeater": "M0KOY",
-      "rx": 430125000,
-      "ctcss": 141.3,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81KD",
-      "dbwErp": 10.8,
-      "extraDetails": {
-        "ngr": "ST1938",
         "antennaHeight": 6,
         "polarisation": "V"
       }
