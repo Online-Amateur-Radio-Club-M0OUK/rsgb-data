@@ -1602,7 +1602,7 @@
       "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G3UIS ",
+      "keeperCallsign": "G3UIS",
       "town": "BLACKPOOL",
       "modeCodes": [
         "A"
@@ -6458,7 +6458,7 @@
       "id": 2431,
       "fac": false,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G8DOR",
       "town": "READING",
       "modeCodes": [
@@ -10915,7 +10915,7 @@
       "type": "DG",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4SJI",
-      "town": "WITHERNSEA ",
+      "town": "WITHERNSEA",
       "modeCodes": [
         "D",
         "M:5",
@@ -11744,7 +11744,7 @@
       "type": "DG",
       "status": "OPERATIONAL",
       "keeperCallsign": "2E0ENN",
-      "town": "SLEAFORD ",
+      "town": "SLEAFORD",
       "modeCodes": [
         "F"
       ],
@@ -15120,7 +15120,7 @@
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GM7LUN",
-      "town": "GALASHIELS ",
+      "town": "GALASHIELS",
       "modeCodes": [
         "D",
         "M",
@@ -15485,7 +15485,7 @@
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "MM0DXE",
-      "town": "GLENROTHES ",
+      "town": "GLENROTHES",
       "modeCodes": [
         "A",
         "D",
@@ -15765,7 +15765,7 @@
       "type": "AP",
       "status": "OPERATIONAL",
       "keeperCallsign": "GW0VFF",
-      "town": "SWANSEA ",
+      "town": "SWANSEA",
       "modeCodes": [
         "X"
       ],
@@ -16858,7 +16858,7 @@
       "type": "AP",
       "status": "OPERATIONAL",
       "keeperCallsign": "G7PQF",
-      "town": "NORWICH ",
+      "town": "NORWICH",
       "modeCodes": [
         "X"
       ],
@@ -17784,7 +17784,7 @@
       "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "MW0TTF ",
+      "keeperCallsign": "MW0TTF",
       "town": "PORT TALBOT",
       "modeCodes": [
         "D",
@@ -18987,7 +18987,7 @@
       "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G3UIS ",
+      "keeperCallsign": "G3UIS",
       "town": "BLACKPOOL",
       "modeCodes": [
         "D",
@@ -19453,7 +19453,7 @@
       "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G7TRL ",
+      "keeperCallsign": "G7TRL",
       "town": "LONGRIDGE",
       "modeCodes": [
         "D",
@@ -19626,8 +19626,8 @@
       "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G0VZY ",
-      "town": "SWANAGE ",
+      "keeperCallsign": "G0VZY",
+      "town": "SWANAGE",
       "modeCodes": [
         "A"
       ],
@@ -20043,7 +20043,7 @@
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0YDG",
-      "town": "WAKEFIELD ",
+      "town": "WAKEFIELD",
       "modeCodes": [
         "F"
       ],
@@ -20212,7 +20212,7 @@
       "type": "PX",
       "status": "OPERATIONAL",
       "keeperCallsign": "GM8SAU",
-      "town": "LOCHBOISDALE ",
+      "town": "LOCHBOISDALE",
       "modeCodes": [
         "X"
       ],
@@ -20424,35 +20424,6 @@
         "ngr": "SD4464",
         "antennaHeight": 0,
         "polarisation": ""
-      }
-    },
-    {
-      "id": 4971,
-      "fac": true,
-      "type": "DM",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "MM0DXE",
-      "town": "PRESTONPANS",
-      "modeCodes": [
-        "A",
-        "D",
-        "M:1",
-        "F",
-        "P",
-        "N"
-      ],
-      "tx": 145737500,
-      "repeater": "GB7FF",
-      "rx": 145137500,
-      "ctcss": 103.5,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO85MW",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NT3774",
-        "antennaHeight": 10,
-        "polarisation": "V"
       }
     },
     {
@@ -20835,7 +20806,7 @@
       "type": "PX",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0NVK",
-      "town": "PORCHFIELD ",
+      "town": "PORCHFIELD",
       "modeCodes": [
         "X"
       ],
@@ -22055,7 +22026,7 @@
       "type": "AG",
       "status": "OPERATIONAL",
       "keeperCallsign": "M1CVZ",
-      "town": "LEIGHTON BUZZARD ",
+      "town": "LEIGHTON BUZZARD",
       "modeCodes": [
         "A"
       ],
@@ -22757,7 +22728,7 @@
       "type": "AG",
       "status": "OPERATIONAL",
       "keeperCallsign": "2M0BGK",
-      "town": "PRESTONPANS ",
+      "town": "PRESTONPANS",
       "modeCodes": [
         "A"
       ],
@@ -23027,7 +22998,7 @@
       "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G5CTX ",
+      "keeperCallsign": "G5CTX",
       "town": "CADISHEAD",
       "modeCodes": [
         "F"
@@ -23123,7 +23094,7 @@
       "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "GM1TCN ",
+      "keeperCallsign": "GM1TCN",
       "town": "FORFAR",
       "modeCodes": [
         "A"
@@ -23244,7 +23215,7 @@
       "type": "AG",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4JBW",
-      "town": "STREET ",
+      "town": "STREET",
       "modeCodes": [
         "A"
       ],
@@ -23267,8 +23238,8 @@
       "fac": false,
       "type": "DM",
       "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G7KPR ",
-      "town": "MALVERN ",
+      "keeperCallsign": "G7KPR",
+      "town": "MALVERN",
       "modeCodes": [
         "A",
         "F"
@@ -25467,7 +25438,7 @@
       "type": "AG",
       "status": "OPERATIONAL",
       "keeperCallsign": "G8CZE",
-      "town": "DROYLSDEN  MANCHESTER ",
+      "town": "DROYLSDEN  MANCHESTER",
       "modeCodes": [
         "A"
       ],
@@ -26305,13 +26276,13 @@
       "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "M0TZR ",
-      "town": "PETERLEE ",
+      "keeperCallsign": "M0TZR",
+      "town": "PETERLEE",
       "modeCodes": [
         "A"
       ],
       "tx": 144962500,
-      "repeater": "MB7IZR ",
+      "repeater": "MB7IZR",
       "rx": 0,
       "ctcss": 118.8,
       "txbw": 12.5,
@@ -29004,7 +28975,7 @@
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G1BHM",
-      "town": "NEAR HOLSWORTHY ",
+      "town": "NEAR HOLSWORTHY",
       "modeCodes": [
         "A",
         "D",
@@ -29693,7 +29664,7 @@
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "MM0DXE",
-      "town": "PRESTONPANS ",
+      "town": "PRESTONPANS",
       "modeCodes": [
         "A",
         "D",
@@ -30448,7 +30419,7 @@
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4TAD",
-      "town": "GREAT YARMOUTH ",
+      "town": "GREAT YARMOUTH",
       "modeCodes": [
         "A"
       ],
@@ -30692,7 +30663,7 @@
       "type": "DG",
       "status": "OPERATIONAL",
       "keeperCallsign": "MW6HDV",
-      "town": "PORTH ",
+      "town": "PORTH",
       "modeCodes": [
         "F"
       ],
@@ -30791,13 +30762,13 @@
       "fac": true,
       "type": "BN",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G0MBA ",
-      "town": "CLACTON ON SEA ",
+      "keeperCallsign": "G0MBA",
+      "town": "CLACTON ON SEA",
       "modeCodes": [
         "B"
       ],
       "tx": 10144400,
-      "repeater": "G0MBA ",
+      "repeater": "G0MBA",
       "rx": 0,
       "ctcss": 0,
       "txbw": 0.5,
@@ -30815,13 +30786,13 @@
       "fac": true,
       "type": "BN",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G0MBA ",
-      "town": "CLACTON ON SEA ",
+      "keeperCallsign": "G0MBA",
+      "town": "CLACTON ON SEA",
       "modeCodes": [
         "B"
       ],
       "tx": 10139926,
-      "repeater": "G0MBA ",
+      "repeater": "G0MBA",
       "rx": 0,
       "ctcss": 0,
       "txbw": 0.5,
@@ -30839,13 +30810,13 @@
       "fac": true,
       "type": "BN",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G0MBA ",
-      "town": "CLACTON ON SEA ",
+      "keeperCallsign": "G0MBA",
+      "town": "CLACTON ON SEA",
       "modeCodes": [
         "B"
       ],
       "tx": 10139930,
-      "repeater": "G0MBA ",
+      "repeater": "G0MBA",
       "rx": 0,
       "ctcss": 0,
       "txbw": 0.5,
@@ -30863,13 +30834,13 @@
       "fac": true,
       "type": "BN",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G0MBA ",
-      "town": "CLACTON ON SEA ",
+      "keeperCallsign": "G0MBA",
+      "town": "CLACTON ON SEA",
       "modeCodes": [
         "B"
       ],
       "tx": 28126055,
-      "repeater": "G0MBA ",
+      "repeater": "G0MBA",
       "rx": 0,
       "ctcss": 0,
       "txbw": 0.5,
@@ -30887,13 +30858,13 @@
       "fac": true,
       "type": "BN",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G0MBA ",
-      "town": "CLACTON ON SEA ",
+      "keeperCallsign": "G0MBA",
+      "town": "CLACTON ON SEA",
       "modeCodes": [
         "B"
       ],
       "tx": 28243500,
-      "repeater": "G0MBA ",
+      "repeater": "G0MBA",
       "rx": 0,
       "ctcss": 0,
       "txbw": 0.5,
@@ -30911,13 +30882,13 @@
       "fac": true,
       "type": "BN",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G0MBA ",
-      "town": "CLACTON ON SEA ",
+      "keeperCallsign": "G0MBA",
+      "town": "CLACTON ON SEA",
       "modeCodes": [
         "B"
       ],
       "tx": 28125691,
-      "repeater": "G0MBA ",
+      "repeater": "G0MBA",
       "rx": 0,
       "ctcss": 0,
       "txbw": 0.5,
@@ -30935,13 +30906,13 @@
       "fac": true,
       "type": "BN",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G0MBA ",
-      "town": "CLACTON ON SEA ",
+      "keeperCallsign": "G0MBA",
+      "town": "CLACTON ON SEA",
       "modeCodes": [
         "B"
       ],
       "tx": 28125695,
-      "repeater": "G0MBA ",
+      "repeater": "G0MBA",
       "rx": 0,
       "ctcss": 0,
       "txbw": 0.5,
@@ -30959,13 +30930,13 @@
       "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "M6NVO ",
+      "keeperCallsign": "M6NVO",
       "town": "DUDLEY",
       "modeCodes": [
         "F"
       ],
       "tx": 431112500,
-      "repeater": "M6NVO ",
+      "repeater": "M6NVO",
       "rx": 431112500,
       "ctcss": 0,
       "txbw": 12.5,
@@ -31269,7 +31240,7 @@
       "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "M0YDG ",
+      "keeperCallsign": "M0YDG",
       "town": "WAKEFIELD",
       "modeCodes": [
         "M:5"
@@ -31318,7 +31289,7 @@
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G1YFF",
-      "town": "BURY ST EDMUNDS ",
+      "town": "BURY ST EDMUNDS",
       "modeCodes": [
         "A"
       ],
@@ -31464,7 +31435,7 @@
       "type": "AG",
       "status": "OPERATIONAL",
       "keeperCallsign": "M1LOU",
-      "town": "BARNSLEY  ",
+      "town": "BARNSLEY",
       "modeCodes": [
         "A"
       ],
@@ -31611,7 +31582,7 @@
       "type": "AG",
       "status": "OPERATIONAL",
       "keeperCallsign": "G7ANA",
-      "town": "HOOTON PAGNELL ",
+      "town": "HOOTON PAGNELL",
       "modeCodes": [
         "A"
       ],
@@ -31924,7 +31895,7 @@
       "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "M0YDG ",
+      "keeperCallsign": "M0YDG",
       "town": "WAKEFIELD",
       "modeCodes": [
         "A"
@@ -31949,7 +31920,7 @@
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "2E0SGG",
-      "town": "CHATHAM ",
+      "town": "CHATHAM",
       "modeCodes": [
         "D",
         "F",
@@ -31975,7 +31946,7 @@
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "2E0SGG",
-      "town": "CHATHAM ",
+      "town": "CHATHAM",
       "modeCodes": [
         "A"
       ],
@@ -32311,7 +32282,7 @@
       "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "M0YDG ",
+      "keeperCallsign": "M0YDG",
       "town": "WAKEFIELD",
       "modeCodes": [
         "A"
@@ -32605,7 +32576,7 @@
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G7HMV",
-      "town": "HEMEL HEMPSTEAD ",
+      "town": "HEMEL HEMPSTEAD",
       "modeCodes": [
         "A"
       ],
@@ -33239,7 +33210,7 @@
       "type": "AG",
       "status": "OPERATIONAL",
       "keeperCallsign": "M7GCQ",
-      "town": "HITCHIN  ",
+      "town": "HITCHIN",
       "modeCodes": [
         "A"
       ],
@@ -33410,7 +33381,7 @@
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "GM7LUN",
-      "town": "DUNS ",
+      "town": "DUNS",
       "modeCodes": [
         "A",
         "M:1"
@@ -33506,7 +33477,7 @@
       "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
-      "keeperCallsign": "M0YDG ",
+      "keeperCallsign": "M0YDG",
       "town": "WAKEFIELD",
       "modeCodes": [
         "A",
@@ -34013,13 +33984,13 @@
       "fac": true,
       "type": "AG",
       "status": "NOT OPERATIONAL",
-      "keeperCallsign": "2E0HOQ ",
+      "keeperCallsign": "2E0HOQ",
       "town": "WESTON SUPER MARE",
       "modeCodes": [
         "A"
       ],
       "tx": 430012500,
-      "repeater": "2E0HOQ ",
+      "repeater": "2E0HOQ",
       "rx": 430012500,
       "ctcss": 94.8,
       "txbw": 12.5,
@@ -34448,7 +34419,7 @@
       "fac": true,
       "type": "PX",
       "status": "OPERATIONAL",
-      "keeperCallsign": "M5EHG ",
+      "keeperCallsign": "M5EHG",
       "town": "DERBY",
       "modeCodes": [
         "X"
@@ -35009,8 +34980,8 @@
       "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "MM0KJJ ",
-      "town": "KILMARNOCK ",
+      "keeperCallsign": "MM0KJJ",
+      "town": "KILMARNOCK",
       "modeCodes": [
         "F"
       ],
@@ -35153,8 +35124,8 @@
       "fac": true,
       "type": "AP",
       "status": "OPERATIONAL",
-      "keeperCallsign": "GM5AUG ",
-      "town": "EDINBURGH ",
+      "keeperCallsign": "GM5AUG",
+      "town": "EDINBURGH",
       "modeCodes": [
         "X"
       ],
@@ -35371,7 +35342,7 @@
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GW0UXJ",
-      "town": "PONTYPRIDD ",
+      "town": "PONTYPRIDD",
       "modeCodes": [
         "A"
       ],
@@ -35518,7 +35489,7 @@
       "type": "RL",
       "status": "OPERATIONAL",
       "keeperCallsign": "MW0JYY",
-      "town": "LLANGEFNI ",
+      "town": "LLANGEFNI",
       "modeCodes": [
         "A"
       ],
@@ -35615,7 +35586,7 @@
       "type": "DG",
       "status": "OPERATIONAL",
       "keeperCallsign": "2E0AW0",
-      "town": "WIGAN ",
+      "town": "WIGAN",
       "modeCodes": [
         "F"
       ],
@@ -35930,7 +35901,7 @@
       "type": "AG",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0JIT",
-      "town": "RAINHAM ",
+      "town": "RAINHAM",
       "modeCodes": [
         "A"
       ],
@@ -35978,7 +35949,7 @@
       "type": "DG",
       "status": "OPERATIONAL",
       "keeperCallsign": "2E0LLD",
-      "town": "TITCHFIELD ",
+      "town": "TITCHFIELD",
       "modeCodes": [
         "F"
       ],
@@ -37138,7 +37109,7 @@
       "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "GM0EZP ",
+      "keeperCallsign": "GM0EZP",
       "town": "PAISLEY",
       "modeCodes": [
         "F"
@@ -38839,7 +38810,7 @@
       "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "M0YDG ",
+      "keeperCallsign": "M0YDG",
       "town": "HARROGATE",
       "modeCodes": [
         "M:5"
@@ -39541,7 +39512,7 @@
       "id": 6466,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM3DDQ",
       "town": "ROTHESAY",
       "modeCodes": [
@@ -39590,8 +39561,8 @@
       "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2M1EUB ",
-      "town": "ABOYNE ",
+      "keeperCallsign": "2M1EUB",
+      "town": "ABOYNE",
       "modeCodes": [
         "A"
       ],
@@ -39640,7 +39611,7 @@
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0MBA",
-      "town": "CLACTON ON SEA ",
+      "town": "CLACTON ON SEA",
       "modeCodes": [
         "A"
       ],
@@ -40199,7 +40170,7 @@
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0YDG",
-      "town": "CLECKHEATON ",
+      "town": "CLECKHEATON",
       "modeCodes": [
         "A"
       ],
@@ -40439,7 +40410,7 @@
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GW4EHZ",
-      "town": "DYSERTH ",
+      "town": "DYSERTH",
       "modeCodes": [
         "D",
         "M:1",
@@ -40539,13 +40510,13 @@
       "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G7ELZ ",
-      "town": "CAMBRIDGE ",
+      "keeperCallsign": "G7ELZ",
+      "town": "CAMBRIDGE",
       "modeCodes": [
         "A"
       ],
       "tx": 145337500,
-      "repeater": "MB7ICF ",
+      "repeater": "MB7ICF",
       "rx": 145337500,
       "ctcss": 82.5,
       "txbw": 12.5,
@@ -41070,7 +41041,7 @@
       "type": "DG",
       "status": "OPERATIONAL",
       "keeperCallsign": "MM7IGU",
-      "town": "GARTHDEE ",
+      "town": "GARTHDEE",
       "modeCodes": [
         "F"
       ],
@@ -41503,7 +41474,7 @@
       "type": "AP",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0NFZ",
-      "town": "PORTSMOUTH ",
+      "town": "PORTSMOUTH",
       "modeCodes": [
         "X"
       ],
@@ -42022,6 +41993,54 @@
       "extraDetails": {
         "ngr": "NH7793",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6593,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G0WUR",
+      "town": "KEMNAY",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7USC",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO87SF",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NJ7316",
+        "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6594,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G6FCI",
+      "town": "BLACKPOOL",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 7050000,
+      "repeater": "GB7FCI",
+      "rx": 7050000,
+      "ctcss": 0,
+      "txbw": 0.5,
+      "band": "40M",
+      "locator": "IO83LT",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SD3237",
+        "antennaHeight": 2,
         "polarisation": "V"
       }
     }
