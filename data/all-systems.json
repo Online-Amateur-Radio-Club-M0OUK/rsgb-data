@@ -6480,7 +6480,7 @@
     },
     {
       "id": 2434,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G7ICH",
@@ -9392,7 +9392,7 @@
     },
     {
       "id": 3237,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0WTX",
@@ -9977,7 +9977,7 @@
       "id": 3366,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4MYS",
       "town": "SOUTHAMPTON",
       "modeCodes": [
@@ -41616,7 +41616,7 @@
       "id": 6572,
       "fac": true,
       "type": "AG",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2M0MSU",
       "town": "MAYBOLE",
       "modeCodes": [
@@ -42042,6 +42042,30 @@
         "ngr": "SD3237",
         "antennaHeight": 2,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6595,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0RFT",
+      "town": "SHEFFIELD",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 433000000,
+      "repeater": "GB3US",
+      "rx": 434600000,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SK3285",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
