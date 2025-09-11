@@ -8975,7 +8975,7 @@
     },
     {
       "id": 3140,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4WVD",
@@ -8988,7 +8988,7 @@
       "repeater": "GB3HB",
       "rx": 434975000,
       "ctcss": 77,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO70OJ",
       "dbwErp": 11,
@@ -14678,30 +14678,6 @@
       }
     },
     {
-      "id": 4230,
-      "fac": true,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "MM0DUN",
-      "town": "DUNDEE",
-      "modeCodes": [
-        "M:1"
-      ],
-      "tx": 439662500,
-      "repeater": "GB7DD",
-      "rx": 430662500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO86",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NO4732",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 4232,
       "fac": true,
       "type": "AP",
@@ -17735,7 +17711,7 @@
       "id": 4650,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0XZS",
       "town": "GREAT MALVERN",
       "modeCodes": [
@@ -40095,7 +40071,7 @@
       "id": 6495,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G8NSS",
       "town": "BIDDUPLH",
       "modeCodes": [
@@ -42066,6 +42042,30 @@
         "ngr": "SK3285",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6596,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M7DYD",
+      "town": "HARPENDEN",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UGB",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO91TT",
+      "dbwErp": 0.8,
+      "extraDetails": {
+        "ngr": "TL1414",
+        "antennaHeight": 8,
+        "polarisation": "V"
       }
     }
   ]
