@@ -1722,7 +1722,7 @@
       "id": 796,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M1FJB",
       "town": "SPILSBY LINCS.",
       "modeCodes": [
@@ -38426,7 +38426,7 @@
       "id": 6407,
       "fac": true,
       "type": "BN",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G8CUB",
       "town": "DORSET",
       "modeCodes": [
