@@ -26781,31 +26781,6 @@
       }
     },
     {
-      "id": 5530,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "2E0HSV",
-      "town": "NORTHAMPTON",
-      "modeCodes": [
-        "M:4",
-        "F"
-      ],
-      "tx": 434512500,
-      "repeater": "2E0HSV",
-      "rx": 434512500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO92MF",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SP7359",
-        "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5532,
       "fac": true,
       "type": "AG",
@@ -27797,30 +27772,6 @@
         "ngr": "SJ2411",
         "antennaHeight": 7,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 5621,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G0TVJ",
-      "town": "BISHOP'S STORTFORD",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 144825000,
-      "repeater": "G0TVJ",
-      "rx": 144825000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO01",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TL4820",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -29638,7 +29589,7 @@
       "id": 5750,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MM0DXE",
       "town": "PRESTONPANS",
       "modeCodes": [
@@ -42065,6 +42016,30 @@
       "extraDetails": {
         "ngr": "TL1414",
         "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6598,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2E0HSV",
+      "town": "NORTHAMPTON",
+      "modeCodes": [
+        "M:6"
+      ],
+      "tx": 145587500,
+      "repeater": "GB7SY",
+      "rx": 144987500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO92MF",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SP7359",
+        "antennaHeight": 10,
         "polarisation": "V"
       }
     }
