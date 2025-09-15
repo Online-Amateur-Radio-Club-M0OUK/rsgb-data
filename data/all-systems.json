@@ -8213,7 +8213,7 @@
       "id": 2921,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0WTX",
       "town": "NORTHWICH",
       "modeCodes": [
@@ -12698,7 +12698,7 @@
     },
     {
       "id": 3973,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G6FEO",
@@ -12710,10 +12710,10 @@
       "repeater": "GB3MW",
       "rx": 434850000,
       "ctcss": 67,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO92FH",
-      "dbwErp": 13,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SP3367",
         "antennaHeight": 29,
@@ -12722,7 +12722,7 @@
     },
     {
       "id": 3974,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G6FEO",
@@ -13240,7 +13240,7 @@
     },
     {
       "id": 4068,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0ZPU",
@@ -17487,32 +17487,6 @@
         "ngr": "SO9687",
         "antennaHeight": 0,
         "polarisation": ""
-      }
-    },
-    {
-      "id": 4618,
-      "fac": true,
-      "type": "DG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "MM0XAF",
-      "town": "LUMPHANAN",
-      "modeCodes": [
-        "D",
-        "M:5",
-        "F"
-      ],
-      "tx": 144825000,
-      "repeater": "MB6AF",
-      "rx": 144825000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO87PC",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "NJ5703",
-        "antennaHeight": 18,
-        "polarisation": "V"
       }
     },
     {
@@ -41879,7 +41853,7 @@
       "id": 6590,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G1AW",
       "town": "SHEFFIELD",
       "modeCodes": [
