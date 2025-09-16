@@ -221,7 +221,7 @@
     },
     {
       "id": 200,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4TKR",
@@ -233,7 +233,7 @@
       "tx": 145662500,
       "repeater": "GB7IC-C",
       "rx": 145062500,
-      "ctcss": 0,
+      "ctcss": 103.5,
       "txbw": 12.5,
       "band": "2M",
       "locator": "JO01NI",
@@ -3469,30 +3469,6 @@
         "ngr": "ST7764",
         "antennaHeight": 30,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 990,
-      "fac": true,
-      "type": "TV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G4DHO",
-      "town": "STOKE ON TRENT",
-      "modeCodes": [
-        "T"
-      ],
-      "tx": 1318500000,
-      "repeater": "GB3UD",
-      "rx": 1249000000,
-      "ctcss": 0,
-      "txbw": 600,
-      "band": "23CM",
-      "locator": "IO83VC",
-      "dbwErp": 10,
-      "extraDetails": {
-        "ngr": "SJ8557",
-        "antennaHeight": 0,
-        "polarisation": "H"
       }
     },
     {
@@ -11463,7 +11439,7 @@
       "tx": 430900000,
       "repeater": "GB3MG",
       "rx": 438500000,
-      "ctcss": 0,
+      "ctcss": 94.8,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO81KP",
@@ -12783,7 +12759,7 @@
       "tx": 145675000,
       "repeater": "GB7NA-C",
       "rx": 145075000,
-      "ctcss": 0,
+      "ctcss": 82.5,
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO93HN",
@@ -13288,7 +13264,7 @@
     },
     {
       "id": 4070,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0ZPU",
@@ -17430,7 +17406,7 @@
       "tx": 145787500,
       "repeater": "GB7YL",
       "rx": 145187500,
-      "ctcss": 0,
+      "ctcss": 110.9,
       "txbw": 12.5,
       "band": "2M",
       "locator": "JO02UL",
@@ -17879,30 +17855,6 @@
       }
     },
     {
-      "id": 4671,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G4YYB",
-      "town": "LLANGOLLEN",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 29690000,
-      "repeater": "GB3HF",
-      "rx": 29590000,
-      "ctcss": 103.5,
-      "txbw": 10,
-      "band": "10M",
-      "locator": "IO82",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SJ2340",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 4675,
       "fac": true,
       "type": "DM",
@@ -18278,7 +18230,7 @@
       "tx": 145737500,
       "repeater": "GB3DR",
       "rx": 145137500,
-      "ctcss": 0,
+      "ctcss": 71.9,
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO80SN",
@@ -19214,7 +19166,7 @@
       "tx": 430850000,
       "repeater": "GB3PD",
       "rx": 438450000,
-      "ctcss": 0,
+      "ctcss": 71.9,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO80SN",
@@ -19916,30 +19868,6 @@
       }
     },
     {
-      "id": 4926,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G4YYB",
-      "town": "LLANGOLLEN",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 50830000,
-      "repeater": "GB3LG",
-      "rx": 51330000,
-      "ctcss": 0,
-      "txbw": 10,
-      "band": "6M",
-      "locator": "IO82",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SJ2340",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 4929,
       "fac": false,
       "type": "DV",
@@ -20574,35 +20502,6 @@
         "ngr": "SP3379",
         "antennaHeight": 70,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 4996,
-      "fac": true,
-      "type": "DM",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G4YYB",
-      "town": "LLANGOLLEN",
-      "modeCodes": [
-        "A",
-        "D",
-        "M:3",
-        "F",
-        "P",
-        "N"
-      ],
-      "tx": 145587500,
-      "repeater": "GB3YK",
-      "rx": 144987500,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO82",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SJ2340",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -25105,7 +25004,7 @@
       "tx": 439362500,
       "repeater": "GB7LA",
       "rx": 430362500,
-      "ctcss": 0,
+      "ctcss": 82.5,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO84",
@@ -40021,7 +39920,7 @@
       "id": 6497,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7TWZ",
       "town": "WORCESTER PARK",
       "modeCodes": [
@@ -40045,7 +39944,7 @@
       "id": 6499,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7TWZ",
       "town": "WORCESTER PARK",
       "modeCodes": [
