@@ -3472,6 +3472,30 @@
       }
     },
     {
+      "id": 990,
+      "fac": true,
+      "type": "TV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G4DHO",
+      "town": "STOKE ON TRENT",
+      "modeCodes": [
+        "T"
+      ],
+      "tx": 1318500000,
+      "repeater": "GB3UD",
+      "rx": 1249000000,
+      "ctcss": 0,
+      "txbw": 600,
+      "band": "23CM",
+      "locator": "IO83VC",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "SJ8557",
+        "antennaHeight": 0,
+        "polarisation": "H"
+      }
+    },
+    {
       "id": 992,
       "fac": false,
       "type": "AV",
@@ -14388,7 +14412,7 @@
       "fac": true,
       "type": "AP",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G0BUX",
+      "keeperCallsign": "G8WBI",
       "town": "HEATHFIELD",
       "modeCodes": [
         "X"
@@ -14412,7 +14436,7 @@
       "fac": true,
       "type": "AP",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G0BUX",
+      "keeperCallsign": "G8WBI",
       "town": "BLACKBOYS",
       "modeCodes": [
         "X"
@@ -17406,7 +17430,7 @@
       "tx": 145787500,
       "repeater": "GB7YL",
       "rx": 145187500,
-      "ctcss": 110.9,
+      "ctcss": 94.8,
       "txbw": 12.5,
       "band": "2M",
       "locator": "JO02UL",
@@ -18815,7 +18839,7 @@
       "id": 4822,
       "fac": true,
       "type": "DM",
-      "status": "",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G3TCG",
       "town": "HASTINGS",
       "modeCodes": [
@@ -19330,7 +19354,7 @@
       "id": 4874,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM7RYR",
       "town": "BATHGATE",
       "modeCodes": [
@@ -28090,9 +28114,9 @@
       "id": 5649,
       "fac": true,
       "type": "AP",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G0BUX",
-      "town": "MAYFIELD",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G8WBI",
+      "town": "TBC",
       "modeCodes": [
         "X"
       ],
@@ -28102,13 +28126,9 @@
       "ctcss": 0,
       "txbw": 12.5,
       "band": "2M",
-      "locator": "JO01DA",
+      "locator": "TBC",
       "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TQ5927",
-        "antennaHeight": 4,
-        "polarisation": "V"
-      }
+      "extraDetails": null
     },
     {
       "id": 5652,
@@ -41578,6 +41598,30 @@
         "ngr": "SJ9394",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6579,
+      "fac": true,
+      "type": "TV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G3UIS",
+      "town": "BLACKPOOL",
+      "modeCodes": [
+        "T"
+      ],
+      "tx": 1315000000,
+      "repeater": "GB3FT",
+      "rx": 1249000000,
+      "ctcss": 0,
+      "txbw": 500,
+      "band": "23CM",
+      "locator": "IO83LU",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SD3140",
+        "antennaHeight": 30,
+        "polarisation": "V"
       }
     },
     {
