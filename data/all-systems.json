@@ -41959,6 +41959,30 @@
         "antennaHeight": 10,
         "polarisation": "V"
       }
+    },
+    {
+      "id": 6599,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0RRX",
+      "town": "HELSTON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430837500,
+      "repeater": "GB3KP",
+      "rx": 438437500,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO70JB",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SW6823",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
     }
   ]
 }
