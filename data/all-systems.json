@@ -8950,7 +8950,7 @@
     },
     {
       "id": 3136,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0SGL",
@@ -8966,7 +8966,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO91VJ",
-      "dbwErp": 4.4,
+      "dbwErp": 4.5,
       "extraDetails": {
         "ngr": "TQ2666",
         "antennaHeight": 25,
@@ -12578,7 +12578,7 @@
       "id": 3946,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4FUO",
       "town": "YORK",
       "modeCodes": [
@@ -23661,30 +23661,6 @@
         "ngr": "SU5704",
         "antennaHeight": 0,
         "polarisation": ""
-      }
-    },
-    {
-      "id": 5266,
-      "fac": false,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GW7UNV",
-      "town": "LLANDRINDOD WELLS",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145650000,
-      "repeater": "GB3RA",
-      "rx": 145050000,
-      "ctcss": 103.5,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO82JI",
-      "dbwErp": 11,
-      "extraDetails": {
-        "ngr": "SO1871",
-        "antennaHeight": 10,
-        "polarisation": "V"
       }
     },
     {
@@ -41980,6 +41956,30 @@
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "SW6823",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6600,
+      "fac": true,
+      "type": "PX",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0NFZ",
+      "town": "WATERLOOVILLE",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144950000,
+      "repeater": "GB7NFZ",
+      "rx": 144950000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO90LV",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SU6810",
         "antennaHeight": 10,
         "polarisation": "V"
       }
