@@ -2897,7 +2897,7 @@
       "id": 934,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0ZPU",
       "town": "ROYSTON",
       "modeCodes": [
@@ -24683,7 +24683,7 @@
       ],
       "tx": 144800000,
       "repeater": "G5BSD",
-      "rx": 0,
+      "rx": 144800000,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "2M",
@@ -24720,30 +24720,6 @@
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "SK9768",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 5355,
-      "fac": true,
-      "type": "PX",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "MM0RFN",
-      "town": "ABERDEEN",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 432625000,
-      "repeater": "GB7HIB",
-      "rx": 432625000,
-      "ctcss": 0,
-      "txbw": 25,
-      "band": "70CM",
-      "locator": "IO87WE",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NJ9210",
         "antennaHeight": 10,
         "polarisation": "V"
       }
@@ -25389,7 +25365,7 @@
       ],
       "tx": 144800000,
       "repeater": "MB7UNM",
-      "rx": 0,
+      "rx": 144800000,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "2M",
@@ -25617,7 +25593,7 @@
       ],
       "tx": 144800000,
       "repeater": "MB7UWK",
-      "rx": 0,
+      "rx": 144800000,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "2M",
@@ -25689,7 +25665,7 @@
       ],
       "tx": 144800000,
       "repeater": "MB7UPP",
-      "rx": 0,
+      "rx": 144800000,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "2M",
@@ -27490,7 +27466,7 @@
       ],
       "tx": 144800000,
       "repeater": "MB7VM",
-      "rx": 0,
+      "rx": 144800000,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "2M",
@@ -28087,26 +28063,6 @@
       }
     },
     {
-      "id": 5649,
-      "fac": true,
-      "type": "AP",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G8WBI",
-      "town": "TBC",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144800000,
-      "repeater": "MB7USA",
-      "rx": 144800000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "TBC",
-      "dbwErp": 14,
-      "extraDetails": null
-    },
-    {
       "id": 5652,
       "fac": true,
       "type": "DM",
@@ -28618,30 +28574,6 @@
         "ngr": "NS8844",
         "antennaHeight": 0,
         "polarisation": ""
-      }
-    },
-    {
-      "id": 5681,
-      "fac": true,
-      "type": "PX",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "MM0RFN",
-      "town": "ABERDEEN",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 7049000,
-      "repeater": "GB7HIB",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 2.7,
-      "band": "40M",
-      "locator": "IO87WE",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NJ9210",
-        "antennaHeight": 10,
-        "polarisation": "H"
       }
     },
     {
@@ -32742,7 +32674,7 @@
       ],
       "tx": 144800000,
       "repeater": "MB7UKH",
-      "rx": 0,
+      "rx": 144800000,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "2M",
@@ -33084,7 +33016,7 @@
       ],
       "tx": 144800000,
       "repeater": "MB7UKR",
-      "rx": 0,
+      "rx": 144800000,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "2M",
@@ -38999,7 +38931,7 @@
       ],
       "tx": 144800000,
       "repeater": "MB7USM",
-      "rx": 0,
+      "rx": 144800000,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "2M",
@@ -41688,7 +41620,7 @@
       "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
-      "locator": "IO91HG10",
+      "locator": "IO91HG",
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "SU4150",
