@@ -1957,7 +1957,7 @@
     },
     {
       "id": 823,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "MM0JRM",
@@ -4355,7 +4355,7 @@
       "txbw": 1,
       "band": "4M",
       "locator": "IO86MN",
-      "dbwErp": -7,
+      "dbwErp": 20,
       "extraDetails": {
         "ngr": "NO3940",
         "antennaHeight": 15,
@@ -4379,7 +4379,7 @@
       "txbw": 1.5,
       "band": "13CM",
       "locator": "JO02PP",
-      "dbwErp": -6,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "TG2208",
         "antennaHeight": 52,
@@ -4427,7 +4427,7 @@
       "txbw": 1.5,
       "band": "13CM",
       "locator": "IO81SR",
-      "dbwErp": 1,
+      "dbwErp": 16,
       "extraDetails": {
         "ngr": "SO6702",
         "antennaHeight": 65,
@@ -4451,7 +4451,7 @@
       "txbw": 1,
       "band": "6M",
       "locator": "IO93BF",
-      "dbwErp": -12,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SK0669",
         "antennaHeight": 7,
@@ -4475,7 +4475,7 @@
       "txbw": 2.4,
       "band": "3CM",
       "locator": "IO92WI",
-      "dbwErp": -2,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "TL2873",
         "antennaHeight": 30,
@@ -4499,7 +4499,7 @@
       "txbw": 1,
       "band": "4M",
       "locator": "IO74BS",
-      "dbwErp": -8,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "IJ3892",
         "antennaHeight": 15,
@@ -4523,7 +4523,7 @@
       "txbw": 2.4,
       "band": "13CM",
       "locator": "IO75XX",
-      "dbwErp": -3,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "NS7380",
         "antennaHeight": 7,
@@ -4547,7 +4547,7 @@
       "txbw": 2.4,
       "band": "23CM",
       "locator": "IO91",
-      "dbwErp": -6,
+      "dbwErp": 16,
       "extraDetails": {
         "ngr": "TL0421",
         "antennaHeight": 0,
@@ -4571,7 +4571,7 @@
       "txbw": 2.4,
       "band": "6CM",
       "locator": "IO91OF",
-      "dbwErp": 0,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SU8249",
         "antennaHeight": 20,
@@ -4595,7 +4595,7 @@
       "txbw": 1,
       "band": "70CM",
       "locator": "IO93NN",
-      "dbwErp": -5,
+      "dbwErp": 17,
       "extraDetails": {
         "ngr": "SE7407",
         "antennaHeight": 10,
@@ -4619,7 +4619,7 @@
       "txbw": 1.5,
       "band": "9CM",
       "locator": "IO92IQ",
-      "dbwErp": -7,
+      "dbwErp": 8,
       "extraDetails": {
         "ngr": "SK4810",
         "antennaHeight": 12,
@@ -4643,7 +4643,7 @@
       "txbw": 1.5,
       "band": "13CM",
       "locator": "IO92IQ",
-      "dbwErp": -5,
+      "dbwErp": 15,
       "extraDetails": {
         "ngr": "SK4810",
         "antennaHeight": 12,
@@ -4667,7 +4667,7 @@
       "txbw": 1.5,
       "band": "70CM",
       "locator": "IO92IQ",
-      "dbwErp": -5,
+      "dbwErp": 17,
       "extraDetails": {
         "ngr": "SK4810",
         "antennaHeight": 10,
@@ -4691,7 +4691,7 @@
       "txbw": 1.5,
       "band": "3CM",
       "locator": "IO92IQ",
-      "dbwErp": -2,
+      "dbwErp": 10,
       "extraDetails": {
         "ngr": "SK4810",
         "antennaHeight": 12,
@@ -4715,7 +4715,7 @@
       "txbw": 1.5,
       "band": "6M",
       "locator": "IO70OJ",
-      "dbwErp": 0,
+      "dbwErp": 16,
       "extraDetails": {
         "ngr": "SW9957",
         "antennaHeight": 30,
@@ -4739,7 +4739,7 @@
       "txbw": 2.4,
       "band": "13CM",
       "locator": "JO02PB",
-      "dbwErp": 2,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "TM2544",
         "antennaHeight": 65,
@@ -4763,7 +4763,7 @@
       "txbw": 1,
       "band": "2M",
       "locator": "IO64",
-      "dbwErp": -2,
+      "dbwErp": 30,
       "extraDetails": {
         "ngr": "IH0657",
         "antennaHeight": 0,
@@ -4787,7 +4787,7 @@
       "txbw": 1.5,
       "band": "3CM",
       "locator": "JO01MT",
-      "dbwErp": 4,
+      "dbwErp": 3,
       "extraDetails": {
         "ngr": "TM0815",
         "antennaHeight": 12,
@@ -4811,7 +4811,7 @@
       "txbw": 1.5,
       "band": "9CM",
       "locator": "IO92AJ",
-      "dbwErp": -2,
+      "dbwErp": 20,
       "extraDetails": {
         "ngr": "SP0277",
         "antennaHeight": 12,
@@ -4859,7 +4859,7 @@
       "txbw": 1.5,
       "band": "9CM",
       "locator": "IO80UU",
-      "dbwErp": -4,
+      "dbwErp": 11,
       "extraDetails": {
         "ngr": "ST8008",
         "antennaHeight": 12,
@@ -4883,7 +4883,7 @@
       "txbw": 2.4,
       "band": "24GHZ",
       "locator": "IO80UU",
-      "dbwErp": -2,
+      "dbwErp": 11,
       "extraDetails": {
         "ngr": "ST8008",
         "antennaHeight": 12,
@@ -4907,7 +4907,7 @@
       "txbw": 1.5,
       "band": "13CM",
       "locator": "IO80UU",
-      "dbwErp": -4,
+      "dbwErp": 8,
       "extraDetails": {
         "ngr": "ST8008",
         "antennaHeight": 12,
@@ -4931,7 +4931,7 @@
       "txbw": 1.5,
       "band": "3CM",
       "locator": "IO80UU",
-      "dbwErp": -7,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "ST8008",
         "antennaHeight": 12,
@@ -4979,7 +4979,7 @@
       "txbw": 1,
       "band": "70CM",
       "locator": "JO01EH",
-      "dbwErp": 0,
+      "dbwErp": 22,
       "extraDetails": {
         "ngr": "TQ6361",
         "antennaHeight": 40,
@@ -5003,7 +5003,7 @@
       "txbw": 1,
       "band": "2M",
       "locator": "JO01EH",
-      "dbwErp": -7,
+      "dbwErp": 22,
       "extraDetails": {
         "ngr": "TQ6361",
         "antennaHeight": 40,
@@ -5027,7 +5027,7 @@
       "txbw": 2.4,
       "band": "13CM",
       "locator": "IO82RP",
-      "dbwErp": 14,
+      "dbwErp": 19,
       "extraDetails": {
         "ngr": "SJ6808",
         "antennaHeight": 10,
@@ -16244,30 +16244,6 @@
       "extraDetails": {
         "ngr": "ST8002",
         "antennaHeight": 21,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 4415,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G4XIB",
-      "town": "SWINDON",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 144862500,
-      "repeater": "MB6TD",
-      "rx": 144862500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO91DN",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SU1886",
-        "antennaHeight": 12,
         "polarisation": "V"
       }
     },
@@ -35864,31 +35840,6 @@
       }
     },
     {
-      "id": 6267,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "2E0ULH",
-      "town": "LONDON",
-      "modeCodes": [
-        "F",
-        "M:7"
-      ],
-      "tx": 433662500,
-      "repeater": "MB6BP",
-      "rx": 433662500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO91WL",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TQ2977",
-        "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6269,
       "fac": true,
       "type": "AG",
@@ -41889,7 +41840,7 @@
       "extraDetails": {
         "ngr": "SD3237",
         "antennaHeight": 2,
-        "polarisation": "V"
+        "polarisation": "H"
       }
     },
     {
@@ -42009,6 +41960,54 @@
       "extraDetails": {
         "ngr": "SU6810",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6601,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2E0ULH",
+      "town": "LONDON",
+      "modeCodes": [
+        "E"
+      ],
+      "tx": 434018750,
+      "repeater": "GB7TT",
+      "rx": 434018750,
+      "ctcss": 0,
+      "txbw": 37.5,
+      "band": "70CM",
+      "locator": "IO91WL",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TQ2977",
+        "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6602,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0PCB",
+      "town": "GLOUCESTER",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UXI",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO81UT",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SO8114",
+        "antennaHeight": 11,
         "polarisation": "V"
       }
     }
