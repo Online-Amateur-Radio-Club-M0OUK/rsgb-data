@@ -38970,7 +38970,7 @@
       "id": 6449,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM3STM",
       "town": "AUCHINLECK",
       "modeCodes": [
