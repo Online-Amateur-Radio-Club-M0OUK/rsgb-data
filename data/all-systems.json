@@ -6432,7 +6432,7 @@
     },
     {
       "id": 2430,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G8DOR",
@@ -6456,7 +6456,7 @@
     },
     {
       "id": 2431,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G8DOR",
@@ -6468,7 +6468,7 @@
       "repeater": "GB3RU",
       "rx": 434875000,
       "ctcss": 118.8,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO91LK",
       "dbwErp": 14,
@@ -35976,7 +35976,7 @@
       "ctcss": 0,
       "txbw": 37.5,
       "band": "70CM",
-      "locator": "JO01D1",
+      "locator": "JO01DI",
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "TQ6163",
