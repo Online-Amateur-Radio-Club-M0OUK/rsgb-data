@@ -10988,30 +10988,6 @@
       }
     },
     {
-      "id": 3665,
-      "fac": true,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G8NSS",
-      "town": "STOCKPORT",
-      "modeCodes": [
-        "M:2"
-      ],
-      "tx": 439412500,
-      "repeater": "GB7MN",
-      "rx": 430412500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO83",
-      "dbwErp": 11,
-      "extraDetails": {
-        "ngr": "SJ9781",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 3670,
       "fac": true,
       "type": "DV",
@@ -19396,30 +19372,6 @@
         "ngr": "SK4644",
         "antennaHeight": 5,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 4874,
-      "fac": true,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GM7RYR",
-      "town": "BATHGATE",
-      "modeCodes": [
-        "M:4"
-      ],
-      "tx": 439712500,
-      "repeater": "GB7CB",
-      "rx": 430712500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO85",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NS9462",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -33104,7 +33056,7 @@
       "id": 6068,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM0MEM",
       "town": "KEITH",
       "modeCodes": [
@@ -42057,6 +42009,55 @@
         "ngr": "TQ3324",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6612,
+      "fac": true,
+      "type": "DM",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "GM7RYR",
+      "town": "LIVINGSTON",
+      "modeCodes": [
+        "M:4"
+      ],
+      "tx": 439712500,
+      "repeater": "GB7CB",
+      "rx": 430712500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO85",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NT0565",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6613,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G8NSS",
+      "town": "TRENTHAM GARDENS",
+      "modeCodes": [
+        "A",
+        "M:1"
+      ],
+      "tx": 430962500,
+      "repeater": "GB7MN",
+      "rx": 438562500,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83HK",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SJ8340",
+        "antennaHeight": 6,
+        "polarisation": "V"
       }
     }
   ]
