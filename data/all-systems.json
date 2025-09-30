@@ -854,7 +854,7 @@
     },
     {
       "id": 701,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0LGJ",
@@ -866,13 +866,13 @@
       "repeater": "GB3AH",
       "rx": 434875000,
       "ctcss": 94.8,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "JO02KP",
       "dbwErp": 9,
       "extraDetails": {
         "ngr": "TF9210",
-        "antennaHeight": 0,
+        "antennaHeight": 25,
         "polarisation": "V"
       }
     },
@@ -8530,7 +8530,7 @@
     },
     {
       "id": 3002,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0LGJ",
@@ -8821,30 +8821,6 @@
         "ngr": "SP5763",
         "antennaHeight": 25,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 3107,
-      "fac": false,
-      "type": "AV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G6ATJ",
-      "town": "EXETER",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145612500,
-      "repeater": "GB3EW",
-      "rx": 145012500,
-      "ctcss": 77,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO80",
-      "dbwErp": 11.8,
-      "extraDetails": {
-        "ngr": "SX9295",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -12392,7 +12368,7 @@
     },
     {
       "id": 3927,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0OJF",
@@ -15186,30 +15162,6 @@
         "ngr": "SO8271",
         "antennaHeight": 4,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 4306,
-      "fac": false,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G6ATJ",
-      "town": "EXETER",
-      "modeCodes": [
-        "M:3"
-      ],
-      "tx": 439525000,
-      "repeater": "GB7EW",
-      "rx": 430525000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO80",
-      "dbwErp": 10,
-      "extraDetails": {
-        "ngr": "SX9295",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -31054,7 +31006,7 @@
       "locator": "JO02",
       "dbwErp": 14,
       "extraDetails": {
-        "ngr": "TL7856",
+        "ngr": "TL7457",
         "antennaHeight": 0,
         "polarisation": ""
       }
@@ -40426,30 +40378,6 @@
       }
     },
     {
-      "id": 6526,
-      "fac": true,
-      "type": "AV",
-      "status": "",
-      "keeperCallsign": "M0ZAH",
-      "town": "SCOLE",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 439362500,
-      "repeater": "MB0RPT",
-      "rx": 430362500,
-      "ctcss": 110.9,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO02",
-      "dbwErp": 3,
-      "extraDetails": {
-        "ngr": "TM1579",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6527,
       "fac": true,
       "type": "AV",
@@ -40550,7 +40478,7 @@
       "id": 6534,
       "fac": true,
       "type": "AP",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0DWK",
       "town": "LANCASTER",
       "modeCodes": [
@@ -41796,6 +41724,30 @@
       }
     },
     {
+      "id": 6597,
+      "fac": true,
+      "type": "TV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G8YTZ",
+      "town": "FOLKESTONE",
+      "modeCodes": [
+        "T"
+      ],
+      "tx": 1304000000,
+      "repeater": "GB3OO",
+      "rx": 437000000,
+      "ctcss": 0,
+      "txbw": 2600,
+      "band": "23CM",
+      "locator": "JO01NC",
+      "dbwErp": 21.8,
+      "extraDetails": {
+        "ngr": "TR1939",
+        "antennaHeight": 30,
+        "polarisation": "H"
+      }
+    },
+    {
       "id": 6598,
       "fac": true,
       "type": "DV",
@@ -42057,6 +42009,30 @@
       "extraDetails": {
         "ngr": "SJ8340",
         "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6614,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0DWK",
+      "town": "HIGH BENTHAM",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 145750000,
+      "repeater": "GB7IB",
+      "rx": 145150000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO84RC",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SD6769",
+        "antennaHeight": 12,
         "polarisation": "V"
       }
     }
