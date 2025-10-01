@@ -2294,7 +2294,7 @@
     },
     {
       "id": 856,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GM3SAN",
@@ -2309,7 +2309,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO75XX",
-      "dbwErp": 12.1,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "NS7380",
         "antennaHeight": 10,
@@ -8824,6 +8824,30 @@
       }
     },
     {
+      "id": 3107,
+      "fac": true,
+      "type": "AV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0JQH",
+      "town": "EXETER",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145612500,
+      "repeater": "GB3EW",
+      "rx": 145012500,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO80",
+      "dbwErp": 11.8,
+      "extraDetails": {
+        "ngr": "SX9295",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
       "id": 3110,
       "fac": true,
       "type": "PX",
@@ -15162,6 +15186,30 @@
         "ngr": "SO8271",
         "antennaHeight": 4,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 4306,
+      "fac": false,
+      "type": "DV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0JQH",
+      "town": "EXETER",
+      "modeCodes": [
+        "M:3"
+      ],
+      "tx": 439525000,
+      "repeater": "GB7EW",
+      "rx": 430525000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO80",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "SX9295",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     },
     {
@@ -25239,7 +25287,7 @@
       "type": "AG",
       "status": "OPERATIONAL",
       "keeperCallsign": "G8CZE",
-      "town": "DROYLSDEN  MANCHESTER",
+      "town": "DROYLSDEN",
       "modeCodes": [
         "A"
       ],
@@ -42035,6 +42083,26 @@
         "antennaHeight": 12,
         "polarisation": "V"
       }
+    },
+    {
+      "id": 6619,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2E0OFF",
+      "town": "STALYBRIDGE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430062500,
+      "repeater": "2E0OFF",
+      "rx": 430062500,
+      "ctcss": 82.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83XL",
+      "dbwErp": 7,
+      "extraDetails": null
     }
   ]
 }
