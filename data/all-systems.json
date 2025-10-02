@@ -3351,30 +3351,6 @@
       }
     },
     {
-      "id": 977,
-      "fac": false,
-      "type": "TV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G4WVU",
-      "town": "FAKENHAM",
-      "modeCodes": [
-        "T"
-      ],
-      "tx": 1316000000,
-      "repeater": "GB3TN",
-      "rx": 1249000000,
-      "ctcss": 71.9,
-      "txbw": 25,
-      "band": "23CM",
-      "locator": "JO02KS",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TF9425",
-        "antennaHeight": 22,
-        "polarisation": "H"
-      }
-    },
-    {
       "id": 981,
       "fac": true,
       "type": "DM",
@@ -7304,7 +7280,7 @@
       "id": 2650,
       "fac": false,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM4AUP",
       "town": "AIRDRIE",
       "modeCodes": [
@@ -7330,7 +7306,7 @@
       "id": 2653,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM4AUP",
       "town": "AIRDRIE",
       "modeCodes": [
@@ -10411,7 +10387,7 @@
       "id": 3478,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MM0DXE",
       "town": "ST MONANS",
       "modeCodes": [
@@ -17273,7 +17249,7 @@
       "id": 4573,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MM0DXE",
       "town": "ST MONANS",
       "modeCodes": [
