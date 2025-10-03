@@ -2489,7 +2489,7 @@
       "id": 877,
       "fac": false,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MI1VOX",
       "town": "LIMAVADY",
       "modeCodes": [
@@ -7278,7 +7278,7 @@
     },
     {
       "id": 2650,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM4AUP",
@@ -21801,7 +21801,7 @@
       "id": 5123,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G1JSP",
       "town": "CORBY",
       "modeCodes": [
@@ -24869,30 +24869,6 @@
       }
     },
     {
-      "id": 5364,
-      "fac": true,
-      "type": "PX",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G7TAJ",
-      "town": "BEXHILL-ON-SEA",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 7050000,
-      "repeater": "GB7BEX",
-      "rx": 7050000,
-      "ctcss": 0,
-      "txbw": 0.5,
-      "band": "40M",
-      "locator": "JO00",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TQ7307",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 5366,
       "fac": true,
       "type": "DM",
@@ -25277,30 +25253,6 @@
       "dbwErp": 0,
       "extraDetails": {
         "ngr": "SJ9097",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 5396,
-      "fac": true,
-      "type": "PX",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G7TAJ",
-      "town": "BEXHILL-ON-SEA",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 439950000,
-      "repeater": "GB7BEX",
-      "rx": 439950000,
-      "ctcss": 0,
-      "txbw": 25,
-      "band": "70CM",
-      "locator": "JO00",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TQ7307",
         "antennaHeight": 0,
         "polarisation": ""
       }
@@ -31496,30 +31448,6 @@
         "ngr": "TG2930",
         "antennaHeight": 12,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 5942,
-      "fac": true,
-      "type": "PX",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G7TAJ",
-      "town": "BEXHILL-ON-SEA",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 432675000,
-      "repeater": "GB7BEX",
-      "rx": 432675000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO00",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TQ7307",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -38129,7 +38057,7 @@
       "id": 6412,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7HPE",
       "town": "CORBY",
       "modeCodes": [
@@ -42061,6 +41989,78 @@
       }
     },
     {
+      "id": 6615,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0KON",
+      "town": "WILMOTS POOL - TA4 4AB CROWCOM",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 438400000,
+      "repeater": "M0KON",
+      "rx": 430800000,
+      "ctcss": 141.3,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81JD",
+      "dbwErp": 10.8,
+      "extraDetails": {
+        "ngr": "ST1538",
+        "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6616,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0KOW",
+      "town": "KILVE COURT - SSE ADVENTURE CE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 439137500,
+      "repeater": "M0KOW",
+      "rx": 430137500,
+      "ctcss": 141.3,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81JE",
+      "dbwErp": 11.5,
+      "extraDetails": {
+        "ngr": "ST1538",
+        "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6617,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0KOY",
+      "town": "ADCOMBE HILL - CORFE, TAUNTON",
+      "modeCodes": [
+        "M:10"
+      ],
+      "tx": 439137500,
+      "repeater": "M0KOY",
+      "rx": 430137500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO80KW",
+      "dbwErp": 11.8,
+      "extraDetails": {
+        "ngr": "ST2217",
+        "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 6619,
       "fac": true,
       "type": "AG",
@@ -42079,6 +42079,54 @@
       "locator": "IO83XL",
       "dbwErp": 7,
       "extraDetails": null
+    },
+    {
+      "id": 6620,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G7TAJ",
+      "town": "BRIDGWATER",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144950000,
+      "repeater": "GB7BWR",
+      "rx": 144950000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO81",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "ST2443",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6621,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G7TAJ",
+      "town": "BRIDGWATER",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 7050000,
+      "repeater": "GB7BWR",
+      "rx": 7050000,
+      "ctcss": 0,
+      "txbw": 0.5,
+      "band": "40M",
+      "locator": "IO81",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "ST2443",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
     }
   ]
 }
