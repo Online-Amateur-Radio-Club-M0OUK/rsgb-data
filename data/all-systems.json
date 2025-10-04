@@ -42064,7 +42064,7 @@
       "id": 6619,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0OFF",
       "town": "STALYBRIDGE",
       "modeCodes": [
@@ -42073,7 +42073,7 @@
       "tx": 430062500,
       "repeater": "2E0OFF",
       "rx": 430062500,
-      "ctcss": 82.5,
+      "ctcss": 103.5,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO83XL",
