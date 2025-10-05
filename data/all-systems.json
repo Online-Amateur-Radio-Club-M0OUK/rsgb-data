@@ -41895,7 +41895,7 @@
       "id": 6611,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0WND",
       "town": "HAYWARDS HEATH",
       "modeCodes": [
