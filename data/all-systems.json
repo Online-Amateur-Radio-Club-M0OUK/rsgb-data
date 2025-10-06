@@ -2223,7 +2223,7 @@
       "id": 845,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G3ZXX",
       "town": "MERE WILTSHIRE",
       "modeCodes": [
@@ -25261,7 +25261,7 @@
       "id": 5397,
       "fac": true,
       "type": "PX",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G7TAJ",
       "town": "BEXHILL-ON-SEA",
       "modeCodes": [
@@ -34317,13 +34317,13 @@
       "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "M0ZAH",
+      "keeperCallsign": "G5BSD",
       "town": "DISS",
       "modeCodes": [
         "A"
       ],
       "tx": 439425000,
-      "repeater": "MB0SLO",
+      "repeater": "G5BSD",
       "rx": 430425000,
       "ctcss": 110.9,
       "txbw": 12.5,
@@ -41968,7 +41968,7 @@
       "id": 6614,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0DWK",
       "town": "HIGH BENTHAM",
       "modeCodes": [
