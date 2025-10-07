@@ -7233,7 +7233,7 @@
       "fac": false,
       "type": "AV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G6DGK",
+      "keeperCallsign": "G7AIE",
       "town": "HAYWARDS HEATH",
       "modeCodes": [
         "A"
@@ -25630,31 +25630,6 @@
       }
     },
     {
-      "id": 5428,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G7CDA",
-      "town": "LANCASTER",
-      "modeCodes": [
-        "D",
-        "F"
-      ],
-      "tx": 144812500,
-      "repeater": "G7CDA",
-      "rx": 144812500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO84",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SD4862",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 5429,
       "fac": true,
       "type": "PX",
@@ -38150,30 +38125,6 @@
       }
     },
     {
-      "id": 6417,
-      "fac": true,
-      "type": "AG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M7HSF",
-      "town": "HORSHAM ST FAITH",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 50520000,
-      "repeater": "MB7INR",
-      "rx": 50520000,
-      "ctcss": 94.8,
-      "txbw": 10,
-      "band": "6M",
-      "locator": "JO02",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TG2114",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6418,
       "fac": true,
       "type": "AV",
@@ -41943,7 +41894,7 @@
       "id": 6613,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G8NSS",
       "town": "TRENTHAM GARDENS",
       "modeCodes": [
@@ -41968,7 +41919,7 @@
       "id": 6614,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0DWK",
       "town": "HIGH BENTHAM",
       "modeCodes": [
@@ -42126,6 +42077,54 @@
         "ngr": "ST2443",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6622,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G0VGS",
+      "town": "MORECAMBE",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 144812500,
+      "repeater": "MB6MG",
+      "rx": 144812500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO84",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SD4464",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6623,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4FZP",
+      "town": "BURY",
+      "modeCodes": [
+        "M:1"
+      ],
+      "tx": 439675000,
+      "repeater": "GB7LJ",
+      "rx": 430675000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83UN",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "SD8106",
+        "antennaHeight": 6,
+        "polarisation": "V"
       }
     }
   ]
