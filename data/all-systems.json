@@ -3351,6 +3351,30 @@
       }
     },
     {
+      "id": 977,
+      "fac": true,
+      "type": "TV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G4WVU",
+      "town": "FAKENHAM",
+      "modeCodes": [
+        "T"
+      ],
+      "tx": 1316000000,
+      "repeater": "GB3TN",
+      "rx": 1249000000,
+      "ctcss": 71.9,
+      "txbw": 25,
+      "band": "23CM",
+      "locator": "JO02KS",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TF9425",
+        "antennaHeight": 22,
+        "polarisation": "H"
+      }
+    },
+    {
       "id": 981,
       "fac": true,
       "type": "DM",
@@ -3397,30 +3421,6 @@
         "ngr": "SP9008",
         "antennaHeight": 40,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 984,
-      "fac": false,
-      "type": "TV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G4ENB",
-      "town": "DUNSTABLE",
-      "modeCodes": [
-        "T"
-      ],
-      "tx": 1318500000,
-      "repeater": "GB3TV",
-      "rx": 1249000000,
-      "ctcss": 0,
-      "txbw": 25,
-      "band": "23CM",
-      "locator": "IO91RU",
-      "dbwErp": 12.2,
-      "extraDetails": {
-        "ngr": "TL0018",
-        "antennaHeight": 0,
-        "polarisation": "H"
       }
     },
     {
@@ -4316,9 +4316,9 @@
     },
     {
       "id": 2053,
-      "fac": false,
+      "fac": true,
       "type": "BN",
-      "status": "UNKNOWN",
+      "status": "",
       "keeperCallsign": "GM4ZUK",
       "town": "TEALING  ANGUS",
       "modeCodes": [
@@ -5351,7 +5351,7 @@
       "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G3PWJ",
+      "keeperCallsign": "M0KRG",
       "town": "STOURBRIDGE",
       "modeCodes": [
         "A"
@@ -5362,12 +5362,12 @@
       "ctcss": 67,
       "txbw": 12.5,
       "band": "70CM",
-      "locator": "IO82WK",
+      "locator": "IO82",
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "SO9183",
-        "antennaHeight": 7,
-        "polarisation": "V"
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     },
     {
@@ -14703,18 +14703,19 @@
     },
     {
       "id": 4245,
-      "fac": false,
-      "type": "DV",
-      "status": "REDUCED OUTPUT",
+      "fac": true,
+      "type": "DM",
+      "status": "",
       "keeperCallsign": "G4VZO",
       "town": "CLEOBURY NORTH",
       "modeCodes": [
+        "A",
         "M:13"
       ],
       "tx": 145675000,
       "repeater": "GB3BX",
       "rx": 145075000,
-      "ctcss": 0,
+      "ctcss": 103.5,
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO82",
@@ -17176,7 +17177,7 @@
       "id": 4566,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "GM7LUN",
       "town": "UPPER LARGO",
       "modeCodes": [
@@ -40428,7 +40429,7 @@
       "id": 6537,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0SOX",
       "town": "BRIGHTLINGSEA",
       "modeCodes": [
