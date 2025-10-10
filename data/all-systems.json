@@ -1332,30 +1332,6 @@
       }
     },
     {
-      "id": 750,
-      "fac": true,
-      "type": "TV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G0MBA",
-      "town": "CLACTON",
-      "modeCodes": [
-        "T"
-      ],
-      "tx": 2432000000,
-      "repeater": "GB3CZ",
-      "rx": 2346500000,
-      "ctcss": 0,
-      "txbw": 16000,
-      "band": "13CM",
-      "locator": "JO01OT",
-      "dbwErp": 8.5,
-      "extraDetails": {
-        "ngr": "TM2117",
-        "antennaHeight": 50,
-        "polarisation": "H"
-      }
-    },
-    {
       "id": 754,
       "fac": true,
       "type": "AV",
@@ -3421,6 +3397,30 @@
         "ngr": "SP9008",
         "antennaHeight": 40,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 984,
+      "fac": true,
+      "type": "TV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G4ENB",
+      "town": "DUNSTABLE",
+      "modeCodes": [
+        "T"
+      ],
+      "tx": 1318500000,
+      "repeater": "GB3TV",
+      "rx": 1249000000,
+      "ctcss": 0,
+      "txbw": 25,
+      "band": "23CM",
+      "locator": "IO91RU",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TL0018",
+        "antennaHeight": 0,
+        "polarisation": "H"
       }
     },
     {
@@ -5542,7 +5542,7 @@
       "id": 2293,
       "fac": false,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "G8LZO",
       "town": "DISLEY",
       "modeCodes": [
@@ -6422,10 +6422,10 @@
       "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
-      "locator": "IO91JM",
+      "locator": "IO91LK",
       "dbwErp": 14,
       "extraDetails": {
-        "ngr": "SU5580",
+        "ngr": "SU6617",
         "antennaHeight": 10,
         "polarisation": "V"
       }
@@ -6446,10 +6446,10 @@
       "ctcss": 118.8,
       "txbw": 12.5,
       "band": "70CM",
-      "locator": "IO91LK",
+      "locator": "IO91JM",
       "dbwErp": 14,
       "extraDetails": {
-        "ngr": "SU6673",
+        "ngr": "SU5580",
         "antennaHeight": 10,
         "polarisation": "V"
       }
@@ -14705,7 +14705,7 @@
       "id": 4245,
       "fac": true,
       "type": "DM",
-      "status": "",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "G4VZO",
       "town": "CLEOBURY NORTH",
       "modeCodes": [
@@ -41936,30 +41936,6 @@
       "extraDetails": {
         "ngr": "ST1538",
         "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 6616,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0KOW",
-      "town": "KILVE COURT - SSE ADVENTURE CE",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 439137500,
-      "repeater": "M0KOW",
-      "rx": 430137500,
-      "ctcss": 141.3,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81JE",
-      "dbwErp": 11.5,
-      "extraDetails": {
-        "ngr": "ST1538",
-        "antennaHeight": 5,
         "polarisation": "V"
       }
     },
