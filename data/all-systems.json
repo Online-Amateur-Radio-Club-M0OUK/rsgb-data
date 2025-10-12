@@ -41678,7 +41678,7 @@
       "id": 6600,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0NFZ",
       "town": "WATERLOOVILLE",
       "modeCodes": [
@@ -42077,6 +42077,30 @@
         "ngr": "SD8106",
         "antennaHeight": 6,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6624,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G5BSD",
+      "town": "SOUTH NUTFIELD",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430075000,
+      "repeater": "G5BSD",
+      "rx": 430075000,
+      "ctcss": 88.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TQ2948",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
