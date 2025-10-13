@@ -16590,14 +16590,13 @@
     },
     {
       "id": 4467,
-      "fac": false,
-      "type": "DM",
+      "fac": true,
+      "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G8XYJ",
       "town": "TENBURY WELLS",
       "modeCodes": [
-        "A",
-        "F"
+        "A"
       ],
       "tx": 145612500,
       "repeater": "GB3VM",
