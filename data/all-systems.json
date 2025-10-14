@@ -1502,7 +1502,7 @@
     },
     {
       "id": 779,
-      "fac": false,
+      "fac": true,
       "type": "TV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4DFB",
@@ -1517,7 +1517,7 @@
       "txbw": 25,
       "band": "23CM",
       "locator": "IO91XP",
-      "dbwErp": 13,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "TQ3296",
         "antennaHeight": 35,
@@ -1551,7 +1551,7 @@
     },
     {
       "id": 783,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0TNF",
@@ -15690,7 +15690,7 @@
     },
     {
       "id": 4363,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0TNF",
@@ -15702,7 +15702,7 @@
       "repeater": "GB3VE",
       "rx": 434700000,
       "ctcss": 77,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO84SQ",
       "dbwErp": 9.5,
@@ -19199,30 +19199,6 @@
         "ngr": "SY6973",
         "antennaHeight": 15,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 4861,
-      "fac": true,
-      "type": "AV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0RFT",
-      "town": "SHEFFIELD",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 433000000,
-      "repeater": "GB3US",
-      "rx": 434600000,
-      "ctcss": 103.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO93",
-      "dbwErp": 10.7,
-      "extraDetails": {
-        "ngr": "SK3483",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -26245,30 +26221,6 @@
       }
     },
     {
-      "id": 5498,
-      "fac": true,
-      "type": "RL",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "2E0TWX",
-      "town": "NEWCASTLE UPON TYNE",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 434600000,
-      "repeater": "GB3NT-L",
-      "rx": 433000000,
-      "ctcss": 118.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO94FX",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "NZ2865",
-        "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5499,
       "fac": true,
       "type": "DV",
@@ -29340,54 +29292,6 @@
       "extraDetails": {
         "ngr": "NT3774",
         "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 5751,
-      "fac": true,
-      "type": "AP",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "2E0MDJ",
-      "town": "CHELTENHAM",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144800000,
-      "repeater": "MB7UWH",
-      "rx": 144800000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO81WV",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SO9320",
-        "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 5752,
-      "fac": true,
-      "type": "AP",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "2E0MDJ",
-      "town": "CHELTENHAM",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 439912500,
-      "repeater": "MB7UWH",
-      "rx": 439912500,
-      "ctcss": 0,
-      "txbw": 125,
-      "band": "70CM",
-      "locator": "IO81WV",
-      "dbwErp": 0,
-      "extraDetails": {
-        "ngr": "SO9320",
-        "antennaHeight": 6,
         "polarisation": "V"
       }
     },
@@ -37502,30 +37406,6 @@
       }
     },
     {
-      "id": 6380,
-      "fac": true,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "2E0DHT",
-      "town": "CHORLEY",
-      "modeCodes": [
-        "E"
-      ],
-      "tx": 434018750,
-      "repeater": "GB7HW",
-      "rx": 434018750,
-      "ctcss": 0,
-      "txbw": 37.5,
-      "band": "70CM",
-      "locator": "IO83QP",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SD5918",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6384,
       "fac": true,
       "type": "DG",
@@ -40332,8 +40212,8 @@
       "id": 6531,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "2E0DHT",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M8DHT",
       "town": "CHORLEY",
       "modeCodes": [
         "M:1"
@@ -41098,30 +40978,6 @@
       }
     },
     {
-      "id": 6572,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "2M0MSU",
-      "town": "MAYBOLE",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145262500,
-      "repeater": "MB7IAY",
-      "rx": 145262500,
-      "ctcss": 103.5,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO75PI",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "NS2909",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6573,
       "fac": true,
       "type": "AG",
@@ -41557,7 +41413,7 @@
       "id": 6595,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0RFT",
       "town": "SHEFFIELD",
       "modeCodes": [
@@ -42100,6 +41956,102 @@
         "ngr": "TQ2948",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6625,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G3EWE",
+      "town": "WINCHESTER",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 433637500,
+      "repeater": "MB6WE",
+      "rx": 433675000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91IB",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SU4829",
+        "antennaHeight": 3,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6626,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M8MDJ",
+      "town": "CHELTENHAM",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UWH",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO81",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SO9320",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6627,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M8MDJ",
+      "town": "CHELTENHAM",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "MB7UWH",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "IO81",
+      "dbwErp": -7,
+      "extraDetails": {
+        "ngr": "SO9320",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6628,
+      "fac": true,
+      "type": "DV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M8DHT",
+      "town": "CHORLEY",
+      "modeCodes": [
+        "E"
+      ],
+      "tx": 434018750,
+      "repeater": "GB7HW",
+      "rx": 434018750,
+      "ctcss": 0,
+      "txbw": 37.5,
+      "band": "70CM",
+      "locator": "IO83QP",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SD5918",
+        "antennaHeight": 10,
+        "polarisation": "V"
       }
     }
   ]
