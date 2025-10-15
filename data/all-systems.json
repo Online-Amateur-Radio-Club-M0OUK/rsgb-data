@@ -3327,30 +3327,6 @@
       }
     },
     {
-      "id": 977,
-      "fac": true,
-      "type": "TV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G4WVU",
-      "town": "FAKENHAM",
-      "modeCodes": [
-        "T"
-      ],
-      "tx": 1316000000,
-      "repeater": "GB3TN",
-      "rx": 1249000000,
-      "ctcss": 71.9,
-      "txbw": 25,
-      "band": "23CM",
-      "locator": "JO02KS",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TF9425",
-        "antennaHeight": 22,
-        "polarisation": "H"
-      }
-    },
-    {
       "id": 981,
       "fac": true,
       "type": "DM",
@@ -8043,7 +8019,7 @@
       "id": 2860,
       "fac": false,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "G0ZEP",
       "town": "BLANDFORD",
       "modeCodes": [
@@ -15167,7 +15143,7 @@
     },
     {
       "id": 4306,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0JQH",
@@ -17072,30 +17048,6 @@
       "dbwErp": 0,
       "extraDetails": {
         "ngr": "SD7430",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 4542,
-      "fac": true,
-      "type": "AG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G6XJZ",
-      "town": "EASTLEIGH",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145337500,
-      "repeater": "MB7IJZ",
-      "rx": 145337500,
-      "ctcss": 71.9,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO90",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SU4221",
         "antennaHeight": 0,
         "polarisation": ""
       }
@@ -21777,7 +21729,7 @@
       "id": 5123,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G1JSP",
       "town": "CORBY",
       "modeCodes": [
@@ -26221,6 +26173,30 @@
       }
     },
     {
+      "id": 5498,
+      "fac": true,
+      "type": "RL",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M9MRD",
+      "town": "NEWCASTLE UPON TYNE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 434600000,
+      "repeater": "GB3NT-L",
+      "rx": 433000000,
+      "ctcss": 118.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO94FX",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NZ2865",
+        "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 5499,
       "fac": true,
       "type": "DV",
@@ -29145,7 +29121,7 @@
       "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2E0KBZ",
+      "keeperCallsign": "M8KBZ",
       "town": "WORKSOP",
       "modeCodes": [
         "D"
@@ -36967,7 +36943,7 @@
       "rx": 50650000,
       "ctcss": 0,
       "txbw": 12.5,
-      "band": "2M",
+      "band": "6M",
       "locator": "IO91HB",
       "dbwErp": 14,
       "extraDetails": {
@@ -38946,30 +38922,6 @@
       }
     },
     {
-      "id": 6468,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "2M1EUB",
-      "town": "ABOYNE",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145225000,
-      "repeater": "MB7IOR",
-      "rx": 145225000,
-      "ctcss": 67,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO87",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "NJ4501",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6469,
       "fac": true,
       "type": "DM",
@@ -39629,7 +39581,7 @@
       "id": 6505,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "2E0KBZ",
       "town": "WORKSOP",
       "modeCodes": [
@@ -40978,6 +40930,30 @@
       }
     },
     {
+      "id": 6572,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "MM9RAB",
+      "town": "MAYBOLE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145262500,
+      "repeater": "MB7IAY",
+      "rx": 145262500,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO75PI",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NS2909",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 6573,
       "fac": true,
       "type": "AG",
@@ -42052,6 +42028,78 @@
         "ngr": "SD5918",
         "antennaHeight": 10,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6629,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M8KBZ",
+      "town": "WORKSOP",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145237500,
+      "repeater": "MB7IBZ",
+      "rx": 145237500,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO93KH",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SK5979",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6630,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM4UQD",
+      "town": "BATHGATE",
+      "modeCodes": [
+        "M:1"
+      ],
+      "tx": 439662500,
+      "repeater": "GB7BG",
+      "rx": 430662500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO85",
+      "dbwErp": 11.8,
+      "extraDetails": {
+        "ngr": "NS9868",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6631,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "MM9SAT ",
+      "town": "ABOYNE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145225000,
+      "repeater": "MB7IOR",
+      "rx": 145225000,
+      "ctcss": 67,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO87",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NJ4501",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
