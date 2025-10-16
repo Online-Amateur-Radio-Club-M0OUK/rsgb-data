@@ -14634,7 +14634,7 @@
       "fac": true,
       "type": "AP",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2E0EMO",
+      "keeperCallsign": "M9TTL",
       "town": "LOUGHTON",
       "modeCodes": [
         "X"
@@ -16496,7 +16496,7 @@
       "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2E0EMO",
+      "keeperCallsign": "M9TTL",
       "town": "LOUGHTON",
       "modeCodes": [
         "A"
@@ -17422,7 +17422,7 @@
       "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2E0EMO",
+      "keeperCallsign": "M9TTL",
       "town": "LOUGHTON",
       "modeCodes": [
         "A"
@@ -17446,7 +17446,7 @@
       "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2E0EMO",
+      "keeperCallsign": "M9TTL",
       "town": "LOUGHTON",
       "modeCodes": [
         "A"
@@ -17613,8 +17613,8 @@
       "id": 4650,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0XZS",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4LVV",
       "town": "GREAT MALVERN",
       "modeCodes": [
         "D"
@@ -18671,7 +18671,7 @@
       "fac": true,
       "type": "AP",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2E0TKK",
+      "keeperCallsign": "M8TKK",
       "town": "WISBECH",
       "modeCodes": [
         "X"
@@ -19359,7 +19359,7 @@
       "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2E0ORE",
+      "keeperCallsign": "M9UTE",
       "town": "MILTON KEYNES",
       "modeCodes": [
         "F"
@@ -19504,7 +19504,7 @@
       "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2E0EMO",
+      "keeperCallsign": "M9TTL",
       "town": "LOUGHTON",
       "modeCodes": [
         "A"
@@ -25658,7 +25658,7 @@
       "fac": true,
       "type": "PX",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2E0EMO",
+      "keeperCallsign": "M9TTL",
       "town": "LOUGHTON",
       "modeCodes": [
         "X"
@@ -26225,7 +26225,7 @@
       "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2E0UCW",
+      "keeperCallsign": "M9UCW",
       "town": "WEST DRAYTON",
       "modeCodes": [
         "A"
@@ -29635,30 +29635,6 @@
       }
     },
     {
-      "id": 5789,
-      "fac": true,
-      "type": "AG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M7GFA",
-      "town": "CHORLEY",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145225000,
-      "repeater": "MB7ICY",
-      "rx": 145225000,
-      "ctcss": 82.5,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO83",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SD5916",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 5790,
       "fac": true,
       "type": "DM",
@@ -31261,7 +31237,7 @@
       "fac": true,
       "type": "PX",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2E0LSR",
+      "keeperCallsign": "M8LSR",
       "town": "NORTH WALSHAM",
       "modeCodes": [
         "X"
@@ -31623,7 +31599,7 @@
       "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2E0UCW",
+      "keeperCallsign": "M9UCW",
       "town": "WEST DRAYTON",
       "modeCodes": [
         "M:9",
@@ -32227,31 +32203,6 @@
       }
     },
     {
-      "id": 6028,
-      "fac": true,
-      "type": "DG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M7GFA",
-      "town": "CHORLEY",
-      "modeCodes": [
-        "M:1",
-        "F"
-      ],
-      "tx": 431062500,
-      "repeater": "MB6GF",
-      "rx": 431062500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO83",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SD5916",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6029,
       "fac": true,
       "type": "PX",
@@ -32790,7 +32741,7 @@
       "id": 6068,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM0MEM",
       "town": "KEITH",
       "modeCodes": [
@@ -39578,30 +39529,6 @@
       }
     },
     {
-      "id": 6505,
-      "fac": true,
-      "type": "DG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "2E0KBZ",
-      "town": "WORKSOP",
-      "modeCodes": [
-        "M:1"
-      ],
-      "tx": 144900000,
-      "repeater": "MB6IB",
-      "rx": 144900000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO93KH",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SK5979",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6506,
       "fac": true,
       "type": "AG",
@@ -41173,7 +41100,7 @@
       "id": 6582,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0MDS",
       "town": "ALEXANDRA PALACE",
       "modeCodes": [
@@ -42100,6 +42027,30 @@
         "ngr": "NJ4501",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6632,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MM3DDQ",
+      "town": "CLYDEBANK ",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430037500,
+      "repeater": "MB7IOC",
+      "rx": 430037500,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO75TV",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NS4970",
+        "antennaHeight": 10,
+        "polarisation": "V"
       }
     }
   ]
