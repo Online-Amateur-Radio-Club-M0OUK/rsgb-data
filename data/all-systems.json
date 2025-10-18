@@ -4318,7 +4318,7 @@
       "id": 2053,
       "fac": true,
       "type": "BN",
-      "status": "",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM4ZUK",
       "town": "TEALING  ANGUS",
       "modeCodes": [
@@ -10388,7 +10388,7 @@
       "fac": true,
       "type": "DM",
       "status": "NOT OPERATIONAL",
-      "keeperCallsign": "MM0DXE",
+      "keeperCallsign": "GM3AND",
       "town": "ST MONANS",
       "modeCodes": [
         "A",
@@ -10715,7 +10715,7 @@
       "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
-      "keeperCallsign": "MM0DRA",
+      "keeperCallsign": "GB3DRA",
       "town": "MONIFIETH",
       "modeCodes": [
         "A",
@@ -15437,7 +15437,7 @@
       "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
-      "keeperCallsign": "MM0DXE",
+      "keeperCallsign": "GM3AND",
       "town": "GLENROTHES",
       "modeCodes": [
         "A",
@@ -17226,7 +17226,7 @@
       "fac": true,
       "type": "AG",
       "status": "NOT OPERATIONAL",
-      "keeperCallsign": "MM0DXE",
+      "keeperCallsign": "GM3AND",
       "town": "ST MONANS",
       "modeCodes": [
         "A"
@@ -23547,7 +23547,7 @@
       "id": 5260,
       "fac": false,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0LIH",
       "town": "FAREHAM",
       "modeCodes": [
@@ -27459,7 +27459,7 @@
       "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
-      "keeperCallsign": "MM0DXE",
+      "keeperCallsign": "GM3AND",
       "town": "LADYBANK",
       "modeCodes": [
         "A",
@@ -29197,7 +29197,7 @@
       "fac": true,
       "type": "DM",
       "status": "NOT OPERATIONAL",
-      "keeperCallsign": "MM0DXE",
+      "keeperCallsign": "GM3AND",
       "town": "PRESTONPANS",
       "modeCodes": [
         "A",
@@ -31332,7 +31332,7 @@
       "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2E0SGG",
+      "keeperCallsign": "M8SGG",
       "town": "CHATHAM",
       "modeCodes": [
         "D",
@@ -31358,7 +31358,7 @@
       "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2E0SGG",
+      "keeperCallsign": "M8SGG",
       "town": "CHATHAM",
       "modeCodes": [
         "A"
@@ -32327,7 +32327,7 @@
       "fac": true,
       "type": "AP",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2E0SGG",
+      "keeperCallsign": "M8SGG",
       "town": "CHATHAM",
       "modeCodes": [
         "X"
@@ -39873,7 +39873,7 @@
       "id": 6523,
       "fac": true,
       "type": "PX",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM5AUG",
       "town": "STORNOWAY",
       "modeCodes": [
@@ -42115,6 +42115,30 @@
       "extraDetails": {
         "ngr": "SP8631",
         "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6639,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "GM5AUG",
+      "town": "STORNOWAY",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UMT",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO68TF",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "NB4135",
+        "antennaHeight": 7,
         "polarisation": "V"
       }
     }
