@@ -11455,7 +11455,7 @@
       "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2E0KVJ",
+      "keeperCallsign": "M8KVJ",
       "town": "OTTERY ST MARY",
       "modeCodes": [
         "F"
@@ -13827,7 +13827,7 @@
       "id": 4121,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4VZO",
       "town": "CLEE HILL",
       "modeCodes": [
@@ -14556,7 +14556,7 @@
       "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2E1JBC",
+      "keeperCallsign": "M9JAB",
       "town": "LOUTH",
       "modeCodes": [
         "A",
@@ -14826,7 +14826,7 @@
       "id": 4255,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G1MAW",
       "town": "HEREFORD",
       "modeCodes": [
@@ -15236,31 +15236,6 @@
       "extraDetails": {
         "ngr": "NS9779",
         "antennaHeight": 15,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 4312,
-      "fac": true,
-      "type": "DM",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "MW0TMH",
-      "town": "LLANDUDNO",
-      "modeCodes": [
-        "A",
-        "F"
-      ],
-      "tx": 430837500,
-      "repeater": "GB3OR",
-      "rx": 438437500,
-      "ctcss": 103.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO83BH",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SH7683",
-        "antennaHeight": 14,
         "polarisation": "V"
       }
     },
@@ -17299,7 +17274,7 @@
       "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2E1JBC",
+      "keeperCallsign": "M9JAB",
       "town": "LOUTH",
       "modeCodes": [
         "A"
@@ -20113,7 +20088,7 @@
       "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2M0MSU",
+      "keeperCallsign": "MM9RAB",
       "town": "MAYBOLE",
       "modeCodes": [
         "D",
@@ -26880,7 +26855,7 @@
       "fac": true,
       "type": "AP",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2E0XTA",
+      "keeperCallsign": "M9XTA",
       "town": "CHELMSFORD",
       "modeCodes": [
         "X"
@@ -27447,7 +27422,7 @@
       "txbw": 125,
       "band": "70CM",
       "locator": "IO82KQ",
-      "dbwErp": -10,
+      "dbwErp": -7,
       "extraDetails": {
         "ngr": "SJ2411",
         "antennaHeight": 7,
@@ -27897,7 +27872,7 @@
       "id": 5652,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GW0TPF",
       "town": "LLANDUDNO",
       "modeCodes": [
@@ -29227,7 +29202,7 @@
       "fac": true,
       "type": "AP",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2E0XTA",
+      "keeperCallsign": "M9XTA",
       "town": "MALDON",
       "modeCodes": [
         "X"
@@ -30492,7 +30467,7 @@
       "tx": 430962500,
       "repeater": "GB3BU",
       "rx": 438562500,
-      "ctcss": 77,
+      "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO70",
@@ -31940,7 +31915,7 @@
       "fac": true,
       "type": "AP",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2E0XTA",
+      "keeperCallsign": "M9XTA",
       "town": "SOUTHEND ON SEA",
       "modeCodes": [
         "X"
@@ -33344,30 +33319,6 @@
       }
     },
     {
-      "id": 6129,
-      "fac": true,
-      "type": "AG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "2E0HOQ",
-      "town": "WESTON SUPER MARE",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430012500,
-      "repeater": "2E0HOQ",
-      "rx": 430012500,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "ST3663",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6130,
       "fac": true,
       "type": "PX",
@@ -34344,7 +34295,7 @@
       "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "MM0KJJ",
+      "keeperCallsign": "GM5TGA",
       "town": "KILMARNOCK",
       "modeCodes": [
         "F"
@@ -39556,7 +39507,7 @@
       "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2E0IJZ",
+      "keeperCallsign": "M9WHT",
       "town": "CANNING TOWN",
       "modeCodes": [
         "A"
@@ -40498,7 +40449,7 @@
       "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G6SIC",
+      "keeperCallsign": "G6TEG",
       "town": "WHITTLESEY",
       "modeCodes": [
         "A"
@@ -42140,6 +42091,30 @@
         "ngr": "NB4135",
         "antennaHeight": 7,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6643,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G1BHM",
+      "town": "BUDE",
+      "modeCodes": [
+        "M:1"
+      ],
+      "tx": 439625000,
+      "repeater": "GB7BU",
+      "rx": 430625000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO70",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SS2105",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
