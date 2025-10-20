@@ -10339,7 +10339,7 @@
       "id": 3467,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4VZO",
       "town": "MALVERN",
       "modeCodes": [
@@ -16300,7 +16300,7 @@
       "id": 4434,
       "fac": false,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0UEM",
       "town": "BIRMINGHAM",
       "modeCodes": [
@@ -35238,7 +35238,7 @@
       "id": 6258,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "GW6RTV",
       "town": "COEDKERNEW",
       "modeCodes": [
@@ -40233,7 +40233,7 @@
       "id": 6548,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G1SCQ",
       "town": "KING'S LYNN",
       "modeCodes": [
@@ -41552,54 +41552,6 @@
       }
     },
     {
-      "id": 6615,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0KON",
-      "town": "WILMOTS POOL - TA4 4AB CROWCOM",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 438400000,
-      "repeater": "M0KON",
-      "rx": 430800000,
-      "ctcss": 141.3,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81JD",
-      "dbwErp": 10.8,
-      "extraDetails": {
-        "ngr": "ST1538",
-        "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 6617,
-      "fac": true,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0KOY",
-      "town": "ADCOMBE HILL - CORFE, TAUNTON",
-      "modeCodes": [
-        "M:10"
-      ],
-      "tx": 439137500,
-      "repeater": "M0KOY",
-      "rx": 430137500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO80KW",
-      "dbwErp": 11.8,
-      "extraDetails": {
-        "ngr": "ST2217",
-        "antennaHeight": 7,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6619,
       "fac": true,
       "type": "AG",
@@ -41932,30 +41884,6 @@
       }
     },
     {
-      "id": 6633,
-      "fac": true,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M7IVV",
-      "town": "BLACKPOOL",
-      "modeCodes": [
-        "E"
-      ],
-      "tx": 434018750,
-      "repeater": "M7IVV",
-      "rx": 434018750,
-      "ctcss": 0,
-      "txbw": 37.5,
-      "band": "70CM",
-      "locator": "IO84GA",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SD3437",
-        "antennaHeight": 7,
-        "polarisation": "H"
-      }
-    },
-    {
       "id": 6634,
       "fac": true,
       "type": "DV",
@@ -42094,6 +42022,26 @@
       }
     },
     {
+      "id": 6642,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MW0TMH",
+      "town": "COLWYN BAY",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430837500,
+      "repeater": "GB3OR",
+      "rx": 438437500,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83DF",
+      "dbwErp": 14,
+      "extraDetails": null
+    },
+    {
       "id": 6643,
       "fac": true,
       "type": "DV",
@@ -42115,6 +42063,30 @@
         "ngr": "SS2105",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6646,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0XRD",
+      "town": "SHORTSTOWN",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7URD",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO92SC",
+      "dbwErp": 3,
+      "extraDetails": {
+        "ngr": "TL0646",
+        "antennaHeight": 10,
+        "polarisation": "V"
       }
     }
   ]
