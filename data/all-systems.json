@@ -2775,7 +2775,7 @@
     },
     {
       "id": 916,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GM0HQG",
@@ -11209,7 +11209,7 @@
       "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "MM0RDM",
+      "keeperCallsign": "GM4DMO",
       "town": "ABERDEEN",
       "modeCodes": [
         "D",
@@ -22986,31 +22986,6 @@
       }
     },
     {
-      "id": 5219,
-      "fac": false,
-      "type": "DM",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G7KPR",
-      "town": "MALVERN",
-      "modeCodes": [
-        "A",
-        "F"
-      ],
-      "tx": 433000000,
-      "repeater": "GB3MS",
-      "rx": 434600000,
-      "ctcss": 67,
-      "txbw": 25,
-      "band": "70CM",
-      "locator": "IO82UC",
-      "dbwErp": 9.1,
-      "extraDetails": {
-        "ngr": "SO7746",
-        "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5221,
       "fac": false,
       "type": "AV",
@@ -23522,7 +23497,7 @@
       "id": 5260,
       "fac": false,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0LIH",
       "town": "FAREHAM",
       "modeCodes": [
@@ -34851,7 +34826,7 @@
       "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2E1THX",
+      "keeperCallsign": "M8UVT",
       "town": "CAULDON LOW",
       "modeCodes": [
         "A",
@@ -41815,7 +41790,7 @@
       "id": 6630,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM4UQD",
       "town": "BATHGATE",
       "modeCodes": [
