@@ -4318,7 +4318,7 @@
       "id": 2053,
       "fac": true,
       "type": "BN",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM4ZUK",
       "town": "TEALING  ANGUS",
       "modeCodes": [
@@ -5350,7 +5350,7 @@
       "id": 2219,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "M0KRG",
       "town": "STOURBRIDGE",
       "modeCodes": [
@@ -8753,7 +8753,7 @@
       "id": 3081,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0MNE",
       "town": "NEWCASTLE UPON TYNE",
       "modeCodes": [
@@ -8878,7 +8878,7 @@
       "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
-      "keeperCallsign": "GM7HHB",
+      "keeperCallsign": "GM5JPB",
       "town": "BROXBURN",
       "modeCodes": [
         "A",
@@ -10637,7 +10637,7 @@
       "fac": false,
       "type": "DV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "GM7HHB",
+      "keeperCallsign": "GM5JPB",
       "town": "EDINBURGH",
       "modeCodes": [
         "D",
@@ -13484,7 +13484,7 @@
       "id": 4087,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "M0KRG",
       "town": "KIDDERMINSTER",
       "modeCodes": [
@@ -34191,7 +34191,7 @@
       "id": 6193,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M1VSR",
       "town": "STOCKPORT",
       "modeCodes": [
@@ -35744,7 +35744,7 @@
       "id": 6293,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M7HSF",
       "town": "NORWICH",
       "modeCodes": [
@@ -42061,6 +42061,30 @@
       "extraDetails": {
         "ngr": "TL0646",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6647,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M9YJR",
+      "town": "STOKE MANDEVILLE",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UJR",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO91OT",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SP8311",
+        "antennaHeight": 8,
         "polarisation": "V"
       }
     }
