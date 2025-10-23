@@ -8043,7 +8043,7 @@
       "id": 2860,
       "fac": false,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0ZEP",
       "town": "BLANDFORD",
       "modeCodes": [
@@ -17250,7 +17250,7 @@
       "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "MM0TMG",
+      "keeperCallsign": "GM4BBK",
       "town": "DUNDEE",
       "modeCodes": [
         "A"
@@ -27287,7 +27287,7 @@
       "id": 5608,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0TKF",
       "town": "HEXHAM",
       "modeCodes": [
@@ -28095,7 +28095,7 @@
       "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "MM0TMG",
+      "keeperCallsign": "GM4BBK",
       "town": "DUNDEE",
       "modeCodes": [
         "A"
@@ -34192,14 +34192,14 @@
       "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "M1VSR",
+      "keeperCallsign": "G0DMX",
       "town": "STOCKPORT",
       "modeCodes": [
         "A"
       ],
-      "tx": 439362500,
+      "tx": 430987500,
       "repeater": "GB3XR",
-      "rx": 430362500,
+      "rx": 438587500,
       "ctcss": 77,
       "txbw": 12.5,
       "band": "70CM",
@@ -42085,6 +42085,54 @@
       "extraDetails": {
         "ngr": "SP8311",
         "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6648,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M6SGZ",
+      "town": "WAKEFIELD",
+      "modeCodes": [
+        "E"
+      ],
+      "tx": 434018750,
+      "repeater": "M6SGZ",
+      "rx": 434018750,
+      "ctcss": 0,
+      "txbw": 37.5,
+      "band": "70CM",
+      "locator": "IO93GS",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SE3421",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6649,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G3MYK",
+      "town": "NEWTON ABBOT ",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145212500,
+      "repeater": "MB7IMN",
+      "rx": 145212500,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO80FM",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SX8871",
+        "antennaHeight": 13,
         "polarisation": "V"
       }
     }
