@@ -17127,7 +17127,7 @@
       "id": 4566,
       "fac": true,
       "type": "AV",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM7LUN",
       "town": "UPPER LARGO",
       "modeCodes": [
@@ -34191,7 +34191,7 @@
       "id": 6193,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0DMX",
       "town": "STOCKPORT",
       "modeCodes": [
@@ -35310,7 +35310,7 @@
       "fac": true,
       "type": "PX",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2E0DBS",
+      "keeperCallsign": "M8DBS",
       "town": "NORWICH",
       "modeCodes": [
         "X"
@@ -35744,7 +35744,7 @@
       "id": 6293,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M7HSF",
       "town": "NORWICH",
       "modeCodes": [
