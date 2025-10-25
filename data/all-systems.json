@@ -13680,7 +13680,7 @@
       "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2E0JTP",
+      "keeperCallsign": "M9MGZ",
       "town": "GILLINGHAM",
       "modeCodes": [
         "F"
@@ -32252,7 +32252,7 @@
       "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G7SVW",
+      "keeperCallsign": "G3RRR",
       "town": "WARRINGTON",
       "modeCodes": [
         "A",
@@ -39362,7 +39362,7 @@
       "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2E0BEQ",
+      "keeperCallsign": "M9TDW",
       "town": "SUTTON-IN-ASHFIELD",
       "modeCodes": [
         "A"
