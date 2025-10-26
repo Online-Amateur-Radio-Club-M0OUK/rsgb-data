@@ -3184,7 +3184,7 @@
     },
     {
       "id": 956,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4SCY",
@@ -3196,7 +3196,7 @@
       "repeater": "GB3SM",
       "rx": 434925000,
       "ctcss": 103.5,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO93BA",
       "dbwErp": 14,
@@ -3256,7 +3256,7 @@
     },
     {
       "id": 964,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4SCY",
@@ -8844,32 +8844,6 @@
       "extraDetails": {
         "ngr": "NO1816",
         "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 3111,
-      "fac": false,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0IRK",
-      "town": "SHIPLEY",
-      "modeCodes": [
-        "D",
-        "M:1",
-        "F"
-      ],
-      "tx": 439687500,
-      "repeater": "GB7TP",
-      "rx": 430687500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO93CT",
-      "dbwErp": 11.7,
-      "extraDetails": {
-        "ngr": "SE1336",
-        "antennaHeight": 12,
         "polarisation": "V"
       }
     },
@@ -19772,7 +19746,7 @@
     },
     {
       "id": 4929,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G7HMV",
@@ -20156,30 +20130,6 @@
         "ngr": "TQ3668",
         "antennaHeight": 0,
         "polarisation": ""
-      }
-    },
-    {
-      "id": 4966,
-      "fac": false,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G1IRG",
-      "town": "BOZEAT",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 29640000,
-      "repeater": "GB3CJ",
-      "rx": 29540000,
-      "ctcss": 77,
-      "txbw": 10,
-      "band": "10M",
-      "locator": "IO92QF",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SP9259",
-        "antennaHeight": 15,
-        "polarisation": "V"
       }
     },
     {
@@ -34801,7 +34751,7 @@
       "id": 6229,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G8ELA",
       "town": "RAVENSDEN",
       "modeCodes": [
@@ -42000,7 +41950,7 @@
       "id": 6642,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MW0TMH",
       "town": "COLWYN BAY",
       "modeCodes": [
@@ -42133,6 +42083,30 @@
       "extraDetails": {
         "ngr": "SX8871",
         "antennaHeight": 13,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6650,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G1IRG",
+      "town": "WEST HADDON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 29640000,
+      "repeater": "GB3CJ",
+      "rx": 29540000,
+      "ctcss": 77,
+      "txbw": 6,
+      "band": "10M",
+      "locator": "IO92LJ",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SP6272",
+        "antennaHeight": 20,
         "polarisation": "V"
       }
     }
