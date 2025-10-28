@@ -26558,7 +26558,7 @@
       "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "M0ZAH",
+      "keeperCallsign": "G5AFL",
       "town": "WYMONDHAM",
       "modeCodes": [
         "A"
@@ -26780,7 +26780,7 @@
       "fac": true,
       "type": "AP",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2E0LSR",
+      "keeperCallsign": "M8LSR",
       "town": "NORTH WALSHAM",
       "modeCodes": [
         "X"
@@ -27581,7 +27581,7 @@
       "id": 5637,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0IDL",
       "town": "POOLE",
       "modeCodes": [
@@ -34220,7 +34220,7 @@
       "fac": true,
       "type": "AV",
       "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0ZAH",
+      "keeperCallsign": "G5AFL",
       "town": "WYMONDHAM",
       "modeCodes": [
         "A"
@@ -36758,7 +36758,7 @@
       "id": 6357,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0ZZT",
       "town": "TIVERTON",
       "modeCodes": [
@@ -39452,35 +39452,6 @@
       }
     },
     {
-      "id": 6512,
-      "fac": true,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GW4EHZ",
-      "town": "DYSERTH",
-      "modeCodes": [
-        "D",
-        "M:1",
-        "F",
-        "P",
-        "N",
-        "7"
-      ],
-      "tx": 439537500,
-      "repeater": "GB7SA",
-      "rx": 430537500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO83",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SJ0781",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6513,
       "fac": true,
       "type": "RL",
@@ -39798,7 +39769,7 @@
       "fac": true,
       "type": "AV",
       "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0ZAH",
+      "keeperCallsign": "G5AFL",
       "town": "SCOLE",
       "modeCodes": [
         "A"
