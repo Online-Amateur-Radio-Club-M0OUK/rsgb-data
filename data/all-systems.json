@@ -6623,30 +6623,6 @@
       }
     },
     {
-      "id": 2462,
-      "fac": true,
-      "type": "PN",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GM3SAN",
-      "town": "SANQUHAR",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 432650000,
-      "repeater": "MB7NWD",
-      "rx": 432650000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO85CJ",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NS8910",
-        "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 2487,
       "fac": false,
       "type": "DM",
@@ -8407,7 +8383,7 @@
     },
     {
       "id": 2978,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0WTX",
@@ -8423,7 +8399,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO83JE",
-      "dbwErp": 12.2,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SJ2166",
         "antennaHeight": 7,
@@ -25635,7 +25611,7 @@
       "id": 5452,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0OZS",
       "town": "SUFFOLK",
       "modeCodes": [
@@ -26789,7 +26765,7 @@
       "repeater": "MB7UKT",
       "rx": 439912500,
       "ctcss": 0,
-      "txbw": 12.5,
+      "txbw": 125,
       "band": "70CM",
       "locator": "JO02QT",
       "dbwErp": -7,
@@ -38094,30 +38070,6 @@
       }
     },
     {
-      "id": 6439,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "2E0EUM",
-      "town": "WICKFORD",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 144900000,
-      "repeater": "MB6EM",
-      "rx": 144900000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO01GO",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TQ7692",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6442,
       "fac": true,
       "type": "DM",
@@ -41663,7 +41615,7 @@
       "id": 6629,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M8KBZ",
       "town": "WORKSOP",
       "modeCodes": [
