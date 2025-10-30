@@ -1146,7 +1146,7 @@
       "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
-      "keeperCallsign": "MM0JNL",
+      "keeperCallsign": "GM1DSV",
       "town": "BERWICK ON TWEED",
       "modeCodes": [
         "A",
@@ -8389,7 +8389,6 @@
       "keeperCallsign": "M0WTX",
       "town": "MOLD",
       "modeCodes": [
-        "M",
         "F"
       ],
       "tx": 439475000,
@@ -13062,32 +13061,6 @@
       "extraDetails": {
         "ngr": "TR3968",
         "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 4046,
-      "fac": false,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "MI0PKO",
-      "town": "COLERAINE",
-      "modeCodes": [
-        "D",
-        "M:12",
-        "F"
-      ],
-      "tx": 430862500,
-      "repeater": "GB7CX",
-      "rx": 438462500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO65OD",
-      "dbwErp": 9,
-      "extraDetails": {
-        "ngr": "IC7834",
-        "antennaHeight": 10,
         "polarisation": "V"
       }
     },
@@ -27581,7 +27554,7 @@
       "id": 5638,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G6HUI",
       "town": "CHIPPENHAM",
       "modeCodes": [
@@ -36107,7 +36080,7 @@
       "id": 6319,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "2M0YMZ",
       "town": "BEITH",
       "modeCodes": [
@@ -39989,7 +39962,8 @@
       "keeperCallsign": "MM7IGU",
       "town": "GARTHDEE",
       "modeCodes": [
-        "F"
+        "F",
+        "D"
       ],
       "tx": 144912500,
       "repeater": "MB6GD",
@@ -42054,6 +42028,30 @@
       "extraDetails": {
         "ngr": "SD3213",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6655,
+      "fac": true,
+      "type": "DV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M8HHT",
+      "town": "HORWICH",
+      "modeCodes": [
+        "E"
+      ],
+      "tx": 434050000,
+      "repeater": "GB7RF",
+      "rx": 434050000,
+      "ctcss": 0,
+      "txbw": 37.5,
+      "band": "70CM",
+      "locator": "IO83RO",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NJ4501",
+        "antennaHeight": 7,
         "polarisation": "V"
       }
     }
