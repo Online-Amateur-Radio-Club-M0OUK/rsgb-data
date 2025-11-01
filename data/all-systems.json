@@ -3379,7 +3379,7 @@
       "id": 983,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0ZPU",
       "town": "TRING",
       "modeCodes": [
@@ -23879,7 +23879,7 @@
       "id": 5302,
       "fac": false,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM7RYR",
       "town": "PORTPATRICK",
       "modeCodes": [
@@ -37608,6 +37608,30 @@
         "ngr": "TG1000",
         "antennaHeight": 10,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6416,
+      "fac": true,
+      "type": "AV",
+      "status": "",
+      "keeperCallsign": "G5AFL",
+      "town": "NORWICH",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430950000,
+      "repeater": "G5AFL",
+      "rx": 438550000,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO02",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TG2210",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     },
     {
