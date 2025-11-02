@@ -38821,30 +38821,6 @@
       }
     },
     {
-      "id": 6480,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GW0RVR",
-      "town": "BRIDGEND",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430812500,
-      "repeater": "GB3VZ",
-      "rx": 438412500,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81FM",
-      "dbwErp": 10,
-      "extraDetails": {
-        "ngr": "SS9280",
-        "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6481,
       "fac": true,
       "type": "AG",
@@ -41963,7 +41939,7 @@
       "id": 6651,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4SCY",
       "town": "ABOYNE",
       "modeCodes": [
