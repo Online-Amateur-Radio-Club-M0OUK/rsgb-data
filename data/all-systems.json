@@ -832,7 +832,7 @@
       "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
-      "keeperCallsign": "MM0XET",
+      "keeperCallsign": "GM5TAY",
       "town": "ANGUS",
       "modeCodes": [
         "A",
@@ -1626,7 +1626,7 @@
       "id": 791,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4RKY",
       "town": "SOMERSET",
       "modeCodes": [
@@ -7184,7 +7184,7 @@
       "id": 2636,
       "fac": false,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4RKY",
       "town": "AXBRIDGE",
       "modeCodes": [
@@ -10330,35 +10330,6 @@
         "ngr": "NZ1800",
         "antennaHeight": 5,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 3478,
-      "fac": true,
-      "type": "DM",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GM3AND",
-      "town": "ST MONANS",
-      "modeCodes": [
-        "A",
-        "D",
-        "M:1",
-        "F",
-        "P",
-        "N"
-      ],
-      "tx": 439587500,
-      "repeater": "GB7SM",
-      "rx": 430587500,
-      "ctcss": 103.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO86",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NO5201",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -15884,7 +15855,7 @@
       "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G7RPG",
+      "keeperCallsign": "G1MAW",
       "town": "STROUD",
       "modeCodes": [
         "A"
@@ -17117,30 +17088,6 @@
         "ngr": "NY8456",
         "antennaHeight": 8,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 4573,
-      "fac": true,
-      "type": "AG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GM3AND",
-      "town": "ST MONANS",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 144962500,
-      "repeater": "MB7ISM",
-      "rx": 144962500,
-      "ctcss": 103.5,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO86",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "NO5201",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -20552,7 +20499,7 @@
       "fac": true,
       "type": "AP",
       "status": "OPERATIONAL",
-      "keeperCallsign": "MM0XET",
+      "keeperCallsign": "GM5TAY",
       "town": "DUNDEE",
       "modeCodes": [
         "X"
@@ -21312,7 +21259,7 @@
       "fac": true,
       "type": "AP",
       "status": "OPERATIONAL",
-      "keeperCallsign": "M0LLC",
+      "keeperCallsign": "M5LEE",
       "town": "MARYPORT",
       "modeCodes": [
         "X"
@@ -31837,7 +31784,7 @@
       "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
-      "keeperCallsign": "M0LLC",
+      "keeperCallsign": "M5LEE",
       "town": "WHITEHAVEN",
       "modeCodes": [
         "A",
@@ -32055,7 +32002,7 @@
       "fac": true,
       "type": "AP",
       "status": "OPERATIONAL",
-      "keeperCallsign": "M0LLC",
+      "keeperCallsign": "M5LEE",
       "town": "WHITEHAVEN",
       "modeCodes": [
         "X"
@@ -34750,7 +34697,7 @@
       "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "M0LLC",
+      "keeperCallsign": "M5LEE",
       "town": "CASTLE DOUGLAS",
       "modeCodes": [
         "M:1",
@@ -36443,7 +36390,7 @@
       "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
-      "keeperCallsign": "M0LLC",
+      "keeperCallsign": "M5LEE",
       "town": "WORKINGTON",
       "modeCodes": [
         "A",
@@ -39763,30 +39710,6 @@
       }
     },
     {
-      "id": 6534,
-      "fac": true,
-      "type": "AP",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0DWK",
-      "town": "LANCASTER",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144800000,
-      "repeater": "MB7UWV",
-      "rx": 144800000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO84RC",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SD6769",
-        "antennaHeight": 12,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6535,
       "fac": true,
       "type": "PX",
@@ -42052,6 +41975,54 @@
       "extraDetails": {
         "ngr": "SJ3204",
         "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6658,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2E0EUM",
+      "town": "MABLETHORPE",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 144912500,
+      "repeater": "MB6EM",
+      "rx": 144912500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO03DI",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TF5085",
+        "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6659,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0DWK",
+      "town": "HIGH BENTHAM",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UWV",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO84RC",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SD6669",
+        "antennaHeight": 6,
         "polarisation": "V"
       }
     }
