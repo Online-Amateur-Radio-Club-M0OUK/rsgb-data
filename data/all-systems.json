@@ -13475,7 +13475,7 @@
       "id": 4098,
       "fac": false,
       "type": "AV",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0KXQ",
       "town": "FILEY",
       "modeCodes": [
@@ -36872,7 +36872,7 @@
       "type": "DV",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "G1BHM",
-      "town": "BRAYFORD NORTH DEVON",
+      "town": "BRAYFORD",
       "modeCodes": [
         "M:1"
       ],
