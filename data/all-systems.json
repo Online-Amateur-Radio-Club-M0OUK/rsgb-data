@@ -21207,7 +21207,7 @@
       "id": 5089,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E1SCR",
       "town": "SUTTON IN ASHFIELD",
       "modeCodes": [
@@ -42023,6 +42023,30 @@
       "extraDetails": {
         "ngr": "SD6669",
         "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6660,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G0RAS",
+      "town": "WHITCHURCH",
+      "modeCodes": [
+        "M:3"
+      ],
+      "tx": 439750000,
+      "repeater": "GB7VM",
+      "rx": 430750000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91OV",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SP8121",
+        "antennaHeight": 20,
         "polarisation": "V"
       }
     }
