@@ -26964,7 +26964,7 @@
       "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "M1EGH",
+      "keeperCallsign": "G3EGG",
       "town": "WIGAN",
       "modeCodes": [
         "A"
@@ -30448,7 +30448,7 @@
       "id": 5901,
       "fac": true,
       "type": "PX",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0BMH",
       "town": "OSWALDTWISTLE",
       "modeCodes": [
@@ -39207,7 +39207,7 @@
       "id": 6508,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G8NAI",
       "town": "LONGTON",
       "modeCodes": [
