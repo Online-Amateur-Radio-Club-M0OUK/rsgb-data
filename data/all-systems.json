@@ -1514,7 +1514,7 @@
       "repeater": "GB3EN",
       "rx": 1249000000,
       "ctcss": 0,
-      "txbw": 25,
+      "txbw": 2000,
       "band": "23CM",
       "locator": "IO91XP",
       "dbwErp": 14,
@@ -2547,7 +2547,7 @@
       "repeater": "GB3MV",
       "rx": 1249000000,
       "ctcss": 0,
-      "txbw": 25,
+      "txbw": 16000,
       "band": "23CM",
       "locator": "IO92NF",
       "dbwErp": 12.3,
@@ -2739,7 +2739,7 @@
       "repeater": "GB3NQ",
       "rx": 1249000000,
       "ctcss": 0,
-      "txbw": 25,
+      "txbw": 2000,
       "band": "23CM",
       "locator": "IO70OJ",
       "dbwErp": 14,
@@ -3292,7 +3292,7 @@
       "repeater": "GB3TB",
       "rx": 1249000000,
       "ctcss": 0,
-      "txbw": 25,
+      "txbw": 16000,
       "band": "23CM",
       "locator": "IO80FM",
       "dbwErp": 15.6,
@@ -3413,7 +3413,7 @@
       "repeater": "GB3TV",
       "rx": 1249000000,
       "ctcss": 0,
-      "txbw": 25,
+      "txbw": 2000,
       "band": "23CM",
       "locator": "IO91RU",
       "dbwErp": 14,
@@ -10481,7 +10481,7 @@
     },
     {
       "id": 3546,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0OBW",
@@ -10496,7 +10496,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO83",
-      "dbwErp": 13,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SJ0781",
         "antennaHeight": 0,
@@ -11997,7 +11997,7 @@
       "repeater": "GB3LO",
       "rx": 1249000000,
       "ctcss": 0,
-      "txbw": 25,
+      "txbw": 2000,
       "band": "23CM",
       "locator": "JO02UL",
       "dbwErp": 9,
@@ -17067,6 +17067,30 @@
       }
     },
     {
+      "id": 4575,
+      "fac": true,
+      "type": "TV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G4KLB",
+      "town": "BOURNEMOUTH",
+      "modeCodes": [
+        "T"
+      ],
+      "tx": 1304000000,
+      "repeater": "GB3SQ",
+      "rx": 1244000000,
+      "ctcss": 0,
+      "txbw": 4000,
+      "band": "23CM",
+      "locator": "IO90BR",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SZ0993",
+        "antennaHeight": 9,
+        "polarisation": "H"
+      }
+    },
+    {
       "id": 4584,
       "fac": true,
       "type": "DM",
@@ -17308,6 +17332,30 @@
         "ngr": "TQ4397",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 4626,
+      "fac": false,
+      "type": "TV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G0IEY",
+      "town": "PORTSMOUTH",
+      "modeCodes": [
+        "T"
+      ],
+      "tx": 3406000000,
+      "repeater": "GB3FW",
+      "rx": 2430000000,
+      "ctcss": 0,
+      "txbw": 2000,
+      "band": "9CM",
+      "locator": "IO90LU",
+      "dbwErp": 16,
+      "extraDetails": {
+        "ngr": "SU6506",
+        "antennaHeight": 10,
+        "polarisation": "H"
       }
     },
     {
@@ -19372,7 +19420,7 @@
       "id": 4906,
       "fac": true,
       "type": "AP",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GW0VFF",
       "town": "CARMARTHEN",
       "modeCodes": [
@@ -19877,6 +19925,30 @@
       "dbwErp": 10,
       "extraDetails": {
         "ngr": "NF7614",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 4948,
+      "fac": false,
+      "type": "TV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "GI4DOH",
+      "town": "BANGOR",
+      "modeCodes": [
+        "T"
+      ],
+      "tx": 1310000000,
+      "repeater": "GB3DO",
+      "rx": 1248000000,
+      "ctcss": 0,
+      "txbw": 2000,
+      "band": "23CM",
+      "locator": "IO74DP",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "IJ4979",
         "antennaHeight": 10,
         "polarisation": "V"
       }
@@ -42021,6 +42093,32 @@
       "extraDetails": {
         "ngr": "SK0689",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6663,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0IRK",
+      "town": "SHIPLEY",
+      "modeCodes": [
+        "D",
+        "M:1",
+        "F"
+      ],
+      "tx": 439687500,
+      "repeater": "GB7TP",
+      "rx": 430687500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93CT",
+      "dbwErp": 10.8,
+      "extraDetails": {
+        "ngr": "SE1336",
+        "antennaHeight": 12,
         "polarisation": "V"
       }
     }
