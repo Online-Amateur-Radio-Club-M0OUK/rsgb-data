@@ -39229,7 +39229,7 @@
       "id": 6509,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G1IRG",
       "town": "NORTHAMPTON",
       "modeCodes": [
@@ -42119,6 +42119,30 @@
       "extraDetails": {
         "ngr": "SE1336",
         "antennaHeight": 12,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6664,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M5KVK",
+      "town": "ST NEOTS",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144950000,
+      "repeater": "GB7EAT",
+      "rx": 144950000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO92UF",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TL1760",
+        "antennaHeight": 5,
         "polarisation": "V"
       }
     }
