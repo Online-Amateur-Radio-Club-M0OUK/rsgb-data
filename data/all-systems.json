@@ -1357,7 +1357,7 @@
     },
     {
       "id": 756,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G1NRL",
@@ -1369,7 +1369,7 @@
       "repeater": "GB3DE",
       "rx": 434775000,
       "ctcss": 110.9,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "JO02NF",
       "dbwErp": 10,
@@ -27498,30 +27498,6 @@
       }
     },
     {
-      "id": 5637,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G4EBD",
-      "town": "POOLE",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430837500,
-      "repeater": "M0IDL",
-      "rx": 438437500,
-      "ctcss": 71.9,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO90AR",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SZ0192",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5638,
       "fac": true,
       "type": "AG",
@@ -42143,6 +42119,30 @@
       "extraDetails": {
         "ngr": "TL1760",
         "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6665,
+      "fac": true,
+      "type": "AV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G4EBD",
+      "town": "POOLE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430837500,
+      "repeater": "G4EBD",
+      "rx": 438437500,
+      "ctcss": 71.9,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO90AR",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SZ0292",
+        "antennaHeight": 9,
         "polarisation": "V"
       }
     }
