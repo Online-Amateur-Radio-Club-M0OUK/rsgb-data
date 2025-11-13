@@ -16997,7 +16997,7 @@
       "id": 4566,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM7LUN",
       "town": "UPPER LARGO",
       "modeCodes": [
@@ -38739,30 +38739,6 @@
         "ngr": "TQ5801",
         "antennaHeight": 0,
         "polarisation": ""
-      }
-    },
-    {
-      "id": 6481,
-      "fac": true,
-      "type": "AG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "2E0XFD",
-      "town": "CANTERBURY",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145337500,
-      "repeater": "MB7ILT",
-      "rx": 145337500,
-      "ctcss": 103.5,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO01NG",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TR2057",
-        "antennaHeight": 7,
-        "polarisation": "V"
       }
     },
     {
