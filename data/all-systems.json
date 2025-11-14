@@ -41154,7 +41154,7 @@
       "id": 6614,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0DWK",
       "town": "HIGH BENTHAM",
       "modeCodes": [
