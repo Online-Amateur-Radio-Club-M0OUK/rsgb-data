@@ -16120,7 +16120,7 @@
     },
     {
       "id": 4430,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0UPM",
@@ -16135,7 +16135,7 @@
       "txbw": 25,
       "band": "70CM",
       "locator": "JO01CO",
-      "dbwErp": 4.2,
+      "dbwErp": 4.1,
       "extraDetails": {
         "ngr": "TQ5391",
         "antennaHeight": 7,
@@ -16997,7 +16997,7 @@
       "id": 4566,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM7LUN",
       "town": "UPPER LARGO",
       "modeCodes": [
@@ -38306,7 +38306,7 @@
       "id": 6460,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G1SCQ",
       "town": "KING'S LYNN",
       "modeCodes": [
@@ -40385,7 +40385,7 @@
       "id": 6573,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0JML",
       "town": "GRANGE VILLA",
       "modeCodes": [
@@ -42120,6 +42120,54 @@
         "ngr": "SZ0292",
         "antennaHeight": 9,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6668,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GW0GTW",
+      "town": "TROFARTH",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "GW0GTW",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "IO83DF",
+      "dbwErp": -7,
+      "extraDetails": {
+        "ngr": "SH8372",
+        "antennaHeight": 3,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6669,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G7CDA",
+      "town": "LANCASTER",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7ULA",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO84",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SD4862",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
