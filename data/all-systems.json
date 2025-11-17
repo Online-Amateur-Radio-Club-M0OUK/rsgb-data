@@ -2799,7 +2799,7 @@
     },
     {
       "id": 922,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GM7GDE",
@@ -2813,12 +2813,12 @@
       "ctcss": 103.5,
       "txbw": 12.5,
       "band": "2M",
-      "locator": "IO75QV",
-      "dbwErp": 12,
+      "locator": "IO75",
+      "dbwErp": 14,
       "extraDetails": {
-        "ngr": "NS2367",
-        "antennaHeight": 10,
-        "polarisation": "V"
+        "ngr": "NS4971",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     },
     {
@@ -16195,7 +16195,7 @@
       "fac": false,
       "type": "AV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "M0GAV",
+      "keeperCallsign": "G3ASB",
       "town": "SHEFFIELD",
       "modeCodes": [
         "A"
@@ -24977,30 +24977,6 @@
       "dbwErp": 0,
       "extraDetails": {
         "ngr": "SJ9097",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 5397,
-      "fac": true,
-      "type": "PX",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G7TAJ",
-      "town": "BEXHILL-ON-SEA",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144950000,
-      "repeater": "GB7BEX",
-      "rx": 144950000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO00",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TQ7307",
         "antennaHeight": 0,
         "polarisation": ""
       }
@@ -42126,7 +42102,7 @@
       "id": 6668,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GW0GTW",
       "town": "TROFARTH",
       "modeCodes": [
@@ -42166,6 +42142,102 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "SD4862",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6671,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "2E0SVS",
+      "town": "ALSAGER",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430037500,
+      "repeater": "MB7INS",
+      "rx": 430037500,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SJ7955",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6672,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G1EFU",
+      "town": "WIGAN",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430012500,
+      "repeater": "MB7IJL",
+      "rx": 0,
+      "ctcss": 88.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83RL",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SJ6198",
+        "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6673,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G0NEF",
+      "town": "BRACKNELL",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430100000,
+      "repeater": "MB7IBK",
+      "rx": 430100000,
+      "ctcss": 118.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SU8869",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6674,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0VML",
+      "town": "GLENROTHES",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UML",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO86",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NO2801",
         "antennaHeight": 0,
         "polarisation": ""
       }
