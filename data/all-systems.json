@@ -1049,7 +1049,7 @@
       "id": 711,
       "fac": false,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MM0YET",
       "town": "DALRY",
       "modeCodes": [
@@ -27819,7 +27819,7 @@
       "id": 5662,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M1CYR",
       "town": "CANNOCK",
       "modeCodes": [
@@ -39563,30 +39563,6 @@
       }
     },
     {
-      "id": 6529,
-      "fac": true,
-      "type": "AG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G4ZWH",
-      "town": "EATON SOCON",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 50550000,
-      "repeater": "MB7IES",
-      "rx": 50550000,
-      "ctcss": 77,
-      "txbw": 12.5,
-      "band": "6M",
-      "locator": "IO92UF",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TL1759",
-        "antennaHeight": 9,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6530,
       "fac": true,
       "type": "DM",
@@ -42028,7 +42004,7 @@
       "id": 6663,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0IRK",
       "town": "SHIPLEY",
       "modeCodes": [
@@ -42240,6 +42216,30 @@
         "ngr": "NO2801",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6675,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0WWD",
+      "town": "PORLOCK",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "MB7UBC",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "IO81EF",
+      "dbwErp": -7,
+      "extraDetails": {
+        "ngr": "SS8548",
+        "antennaHeight": 3,
+        "polarisation": "V"
       }
     }
   ]
