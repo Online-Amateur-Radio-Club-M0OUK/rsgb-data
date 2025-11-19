@@ -2465,7 +2465,7 @@
       "id": 877,
       "fac": false,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MI1VOX",
       "town": "LIMAVADY",
       "modeCodes": [
@@ -8997,7 +8997,7 @@
     },
     {
       "id": 3164,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4WVD",
@@ -42240,6 +42240,30 @@
         "ngr": "SS8548",
         "antennaHeight": 3,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6676,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0ADH",
+      "town": "SCUNTHORPE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145262500,
+      "repeater": "MB7IFL",
+      "rx": 145262500,
+      "ctcss": 88.5,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO93",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SE8815",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
