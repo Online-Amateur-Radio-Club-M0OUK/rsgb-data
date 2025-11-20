@@ -3208,9 +3208,9 @@
     },
     {
       "id": 957,
-      "fac": false,
+      "fac": true,
       "type": "AV",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4EPX",
       "town": "ALTON HANTS",
       "modeCodes": [
@@ -3226,7 +3226,7 @@
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "SU6736",
-        "antennaHeight": 0,
+        "antennaHeight": 40,
         "polarisation": "V"
       }
     },
@@ -6116,7 +6116,7 @@
     },
     {
       "id": 2366,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "GM7SVK",
@@ -16997,7 +16997,7 @@
       "id": 4566,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM7LUN",
       "town": "UPPER LARGO",
       "modeCodes": [
@@ -19420,7 +19420,7 @@
       "id": 4906,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GW0VFF",
       "town": "CARMARTHEN",
       "modeCodes": [
@@ -31418,7 +31418,7 @@
       "id": 5974,
       "fac": true,
       "type": "AV",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GW8IOA",
       "town": "NEWPORT",
       "modeCodes": [
@@ -34963,7 +34963,7 @@
       "id": 6255,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M7GAY",
       "town": "ELSTREE",
       "modeCodes": [
@@ -41278,7 +41278,7 @@
       ],
       "tx": 433637500,
       "repeater": "MB6WE",
-      "rx": 433675000,
+      "rx": 433637500,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
@@ -42262,6 +42262,30 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "SE8815",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6677,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "GM8CZU",
+      "town": "CARDENDEN",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144937500,
+      "repeater": "GB7CZU",
+      "rx": 144937500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO86",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NT2295",
         "antennaHeight": 0,
         "polarisation": ""
       }
