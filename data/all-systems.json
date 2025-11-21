@@ -16751,7 +16751,7 @@
       "id": 4517,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G7TYP",
       "town": "ALFRETON",
       "modeCodes": [
@@ -16997,7 +16997,7 @@
       "id": 4566,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM7LUN",
       "town": "UPPER LARGO",
       "modeCodes": [
@@ -42288,6 +42288,56 @@
         "ngr": "NT2295",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6678,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4IYT",
+      "town": "LEIGHTON BUZZARD",
+      "modeCodes": [
+        "D",
+        "M:6",
+        "F"
+      ],
+      "tx": 144912500,
+      "repeater": "MB6BZ",
+      "rx": 144912500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO91QW",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SP9426",
+        "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6679,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4IYT",
+      "town": "LEIGHTON BUZZARD",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430050000,
+      "repeater": "MB7IYT",
+      "rx": 430050000,
+      "ctcss": 67,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91QW",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SP9426",
+        "antennaHeight": 8,
+        "polarisation": "V"
       }
     }
   ]
