@@ -3763,7 +3763,7 @@
     },
     {
       "id": 1028,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G1XCC",
@@ -3835,7 +3835,7 @@
     },
     {
       "id": 1037,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G1XCC",
@@ -41953,30 +41953,6 @@
       }
     },
     {
-      "id": 6661,
-      "fac": true,
-      "type": "BN",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0XER",
-      "town": "SILVERSTONE",
-      "modeCodes": [
-        "B"
-      ],
-      "tx": 1296880000,
-      "repeater": "GB3LBE",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 1.5,
-      "band": "23CM",
-      "locator": "IO92LC",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SP6744",
-        "antennaHeight": 5,
-        "polarisation": "H"
-      }
-    },
-    {
       "id": 6662,
       "fac": true,
       "type": "AP",
@@ -42338,6 +42314,30 @@
         "ngr": "SP9426",
         "antennaHeight": 8,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6680,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G1MAW",
+      "town": "NEWTOWN",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 433100000,
+      "repeater": "GB3UW",
+      "rx": 434700000,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO82",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SO0587",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
