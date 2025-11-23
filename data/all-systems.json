@@ -14375,7 +14375,7 @@
     },
     {
       "id": 4202,
-      "fac": true,
+      "fac": false,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GM0GFL",
@@ -40358,30 +40358,6 @@
       }
     },
     {
-      "id": 6574,
-      "fac": true,
-      "type": "AP",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "2E0JML",
-      "town": "GRANGE VILLA",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144800000,
-      "repeater": "MB7URS",
-      "rx": 144800000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO94EU",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "NZ2352",
-        "antennaHeight": 7,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6575,
       "fac": true,
       "type": "DV",
@@ -42336,6 +42312,54 @@
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "SO0587",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6681,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G5OTH",
+      "town": "ALDRIDGE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 144962500,
+      "repeater": "MB7IGX",
+      "rx": 144962500,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO92AN",
+      "dbwErp": -12.2,
+      "extraDetails": {
+        "ngr": "SP0498",
+        "antennaHeight": 4,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6682,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MI7DJT",
+      "town": "MAGHERAFELT",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430012500,
+      "repeater": "MI7DJT",
+      "rx": 430012500,
+      "ctcss": 110.9,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO64",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "IH8990",
         "antennaHeight": 0,
         "polarisation": ""
       }
