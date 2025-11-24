@@ -3160,7 +3160,7 @@
     },
     {
       "id": 955,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GM4COX",
@@ -6893,7 +6893,7 @@
     },
     {
       "id": 2580,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GM7GDE",
@@ -9389,7 +9389,7 @@
     },
     {
       "id": 3259,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GM6LJE",
@@ -9404,7 +9404,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO85MC",
-      "dbwErp": 13,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "NY4080",
         "antennaHeight": 8,
@@ -10238,7 +10238,7 @@
     },
     {
       "id": 3460,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "MM0BUH",
@@ -14375,7 +14375,7 @@
     },
     {
       "id": 4202,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GM0GFL",
@@ -21449,7 +21449,7 @@
     },
     {
       "id": 5106,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0UKB",
@@ -23872,7 +23872,7 @@
     },
     {
       "id": 5302,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM7RYR",
@@ -41414,7 +41414,7 @@
       "id": 6632,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM3DDQ",
       "town": "CLYDEBANK ",
       "modeCodes": [
