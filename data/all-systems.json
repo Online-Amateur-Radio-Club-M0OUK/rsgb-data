@@ -24453,7 +24453,7 @@
       "fac": true,
       "type": "PX",
       "status": "OPERATIONAL",
-      "keeperCallsign": "M0GZP",
+      "keeperCallsign": "G3KEY",
       "town": "WEMBLEY",
       "modeCodes": [
         "X"
@@ -24477,7 +24477,7 @@
       "fac": true,
       "type": "PX",
       "status": "OPERATIONAL",
-      "keeperCallsign": "M0GZP",
+      "keeperCallsign": "G3KEY",
       "town": "WEMBLEY",
       "modeCodes": [
         "X"
@@ -27843,7 +27843,7 @@
       "id": 5663,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M9STM",
       "town": "PORT GLASGOW",
       "modeCodes": [
@@ -28184,7 +28184,7 @@
       "fac": true,
       "type": "PX",
       "status": "OPERATIONAL",
-      "keeperCallsign": "M0GZP",
+      "keeperCallsign": "G3KEY",
       "town": "WEMBLEY",
       "modeCodes": [
         "X"
@@ -29287,12 +29287,11 @@
     {
       "id": 5785,
       "fac": true,
-      "type": "DM",
+      "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0NCZ",
       "town": "ASHTON-UNDER-LYNE",
       "modeCodes": [
-        "A",
         "M:10"
       ],
       "tx": 430250000,
@@ -41908,7 +41907,7 @@
       "id": 6660,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0RAS",
       "town": "WHITCHURCH",
       "modeCodes": [
@@ -42341,19 +42340,63 @@
       }
     },
     {
-      "id": 6682,
+      "id": 6683,
       "fac": true,
       "type": "AG",
       "status": "NOT OPERATIONAL",
-      "keeperCallsign": "MI7DJT",
-      "town": "MAGHERAFELT",
+      "keeperCallsign": "MI0GRN",
+      "town": "MAGHERAFELT ",
       "modeCodes": [
         "A"
       ],
-      "tx": 430012500,
-      "repeater": "MI7DJT",
-      "rx": 430012500,
+      "tx": 430037500,
+      "repeater": "MB7IMG",
+      "rx": 430037500,
       "ctcss": 110.9,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO64QS",
+      "dbwErp": 7,
+      "extraDetails": null
+    },
+    {
+      "id": 6684,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G0LCC",
+      "town": "LANGPORT",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 431087500,
+      "repeater": "G0LCC",
+      "rx": 431087500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81OB",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "ST4227",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6685,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "MI7DJT",
+      "town": "MAGHERAFELT",
+      "modeCodes": [
+        "M:1"
+      ],
+      "tx": 431087500,
+      "repeater": "MB6EZ",
+      "rx": 431087500,
+      "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO64",
