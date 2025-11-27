@@ -27843,7 +27843,7 @@
       "id": 5663,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M9STM",
       "town": "PORT GLASGOW",
       "modeCodes": [
@@ -28193,7 +28193,7 @@
       "repeater": "GB7WEM",
       "rx": 7052750,
       "ctcss": 0,
-      "txbw": 500,
+      "txbw": 0.5,
       "band": "40M",
       "locator": "IO91UN",
       "dbwErp": 14,
@@ -32167,30 +32167,6 @@
       }
     },
     {
-      "id": 6046,
-      "fac": true,
-      "type": "AV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M1CMN",
-      "town": "FOLKESTONE",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 439512500,
-      "repeater": "M1CMN",
-      "rx": 430512500,
-      "ctcss": 103.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO01",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TR2236",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6050,
       "fac": true,
       "type": "DG",
@@ -34066,7 +34042,7 @@
       "id": 6197,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM5TGA",
       "town": "KILMARNOCK",
       "modeCodes": [
@@ -40456,7 +40432,7 @@
       "id": 6579,
       "fac": true,
       "type": "TV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G3UIS",
       "town": "BLACKPOOL",
       "modeCodes": [
@@ -41928,6 +41904,30 @@
       }
     },
     {
+      "id": 6661,
+      "fac": true,
+      "type": "BN",
+      "status": "REDUCED OUTPUT",
+      "keeperCallsign": "M0XER",
+      "town": "SILVERSTONE",
+      "modeCodes": [
+        "B"
+      ],
+      "tx": 1296880000,
+      "repeater": "GB3LBE",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 1.5,
+      "band": "23CM",
+      "locator": "IO92LC",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SP6744",
+        "antennaHeight": 5,
+        "polarisation": "H"
+      }
+    },
+    {
       "id": 6662,
       "fac": true,
       "type": "AP",
@@ -42403,6 +42403,30 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "IH8990",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6686,
+      "fac": true,
+      "type": "PN",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M1CMN",
+      "town": "FOLKESTONE",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439950000,
+      "repeater": "MB7NFK",
+      "rx": 430200000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO01",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "TR2238",
         "antennaHeight": 0,
         "polarisation": ""
       }
