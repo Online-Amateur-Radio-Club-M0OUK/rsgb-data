@@ -15561,7 +15561,7 @@
       "id": 4367,
       "fac": true,
       "type": "AP",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GW0VFF",
       "town": "SWANSEA",
       "modeCodes": [
