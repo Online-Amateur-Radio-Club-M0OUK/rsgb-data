@@ -42430,6 +42430,30 @@
         "antennaHeight": 0,
         "polarisation": ""
       }
+    },
+    {
+      "id": 6689,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0TEC",
+      "town": "HARLOW",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430100000,
+      "repeater": "M0TEC",
+      "rx": 430100000,
+      "ctcss": 110.9,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO01AS",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TL4307",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
     }
   ]
 }
