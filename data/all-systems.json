@@ -27844,7 +27844,7 @@
       "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "M9STM",
+      "keeperCallsign": "MM9STM",
       "town": "PORT GLASGOW",
       "modeCodes": [
         "F"
@@ -32490,7 +32490,7 @@
       "id": 6071,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM7LUN",
       "town": "DUNS",
       "modeCodes": [
@@ -41081,7 +41081,7 @@
       "id": 6619,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "2E0OFF",
       "town": "STALYBRIDGE",
       "modeCodes": [
@@ -42343,7 +42343,7 @@
       "id": 6683,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MI0GRN",
       "town": "MAGHERAFELT ",
       "modeCodes": [
@@ -42417,9 +42417,9 @@
       "modeCodes": [
         "X"
       ],
-      "tx": 439950000,
+      "tx": 432675000,
       "repeater": "MB7NFK",
-      "rx": 430200000,
+      "rx": 432675000,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
@@ -42452,6 +42452,30 @@
       "extraDetails": {
         "ngr": "TL4307",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6692,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MM9STM",
+      "town": "PORT GLASGOW",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145287500,
+      "repeater": "MB7IPG",
+      "rx": 145287500,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO75PW",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NS3174",
+        "antennaHeight": 6,
         "polarisation": "V"
       }
     }
