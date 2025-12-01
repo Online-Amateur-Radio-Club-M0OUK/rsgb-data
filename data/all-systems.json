@@ -6624,7 +6624,7 @@
     },
     {
       "id": 2487,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0OCB",
@@ -8286,11 +8286,11 @@
     },
     {
       "id": 2946,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GD4HOZ",
-      "town": "PEEL",
+      "town": "PEEL IOM",
       "modeCodes": [
         "A"
       ],
@@ -19785,30 +19785,6 @@
       }
     },
     {
-      "id": 4936,
-      "fac": false,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G6KSM",
-      "town": "BOURNE",
-      "modeCodes": [
-        "E"
-      ],
-      "tx": 434050000,
-      "repeater": "GB7LT",
-      "rx": 434050000,
-      "ctcss": 0,
-      "txbw": 25,
-      "band": "70CM",
-      "locator": "IO92",
-      "dbwErp": 6,
-      "extraDetails": {
-        "ngr": "TF1324",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 4937,
       "fac": true,
       "type": "DG",
@@ -24542,30 +24518,6 @@
         "ngr": "ST6360",
         "antennaHeight": 0,
         "polarisation": ""
-      }
-    },
-    {
-      "id": 5361,
-      "fac": true,
-      "type": "PX",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "MW0NXT",
-      "town": "WENVOE",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144950000,
-      "repeater": "GB7NXT",
-      "rx": 144950000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO81IK",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "ST1271",
-        "antennaHeight": 7,
-        "polarisation": "V"
       }
     },
     {
@@ -29400,7 +29352,7 @@
       "locator": "IO93RE",
       "dbwErp": 7,
       "extraDetails": {
-        "ngr": "SK9768",
+        "ngr": "SK9668",
         "antennaHeight": 10,
         "polarisation": "V"
       }
@@ -37486,7 +37438,7 @@
       "id": 6416,
       "fac": true,
       "type": "AV",
-      "status": "",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G5AFL",
       "town": "NORWICH",
       "modeCodes": [
@@ -42476,6 +42428,30 @@
       "extraDetails": {
         "ngr": "NS3174",
         "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6693,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "MW0NXT",
+      "town": "WENVOE",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144937500,
+      "repeater": "GB7NXT",
+      "rx": 144937500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO81IK",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "ST1271",
+        "antennaHeight": 7,
         "polarisation": "V"
       }
     }
