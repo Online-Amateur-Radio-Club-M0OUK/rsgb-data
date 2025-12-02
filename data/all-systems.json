@@ -6991,7 +6991,7 @@
     },
     {
       "id": 2599,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0JWJ",
@@ -8751,7 +8751,7 @@
     },
     {
       "id": 3104,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G8KHF",
@@ -15561,7 +15561,7 @@
       "id": 4367,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GW0VFF",
       "town": "SWANSEA",
       "modeCodes": [
@@ -42053,7 +42053,7 @@
       "id": 6672,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G1EFU",
       "town": "WIGAN",
       "modeCodes": [
@@ -42453,6 +42453,78 @@
         "ngr": "ST1271",
         "antennaHeight": 7,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6694,
+      "fac": true,
+      "type": "RL",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G7RUP",
+      "town": "LINCOLN",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 434650000,
+      "repeater": "GB3LS-L",
+      "rx": 433050000,
+      "ctcss": 71.9,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SK9668",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6695,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G7MSG",
+      "town": "WISBECH",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145262500,
+      "repeater": "MB7IWB",
+      "rx": 145262500,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO02AP",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TF3706",
+        "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6696,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0RTU",
+      "town": "WITNEY",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145225000,
+      "repeater": "MB7ITU",
+      "rx": 145225000,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO91",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SP4113",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
