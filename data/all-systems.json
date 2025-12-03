@@ -2,7 +2,7 @@
   "data": [
     {
       "id": 111,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G7UZN",
@@ -1430,7 +1430,7 @@
     },
     {
       "id": 764,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G3XXN",
@@ -1442,10 +1442,10 @@
       "repeater": "GB3DS",
       "rx": 434925000,
       "ctcss": 71.9,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO93KH",
-      "dbwErp": 13,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SK5878",
         "antennaHeight": 9,
@@ -3787,7 +3787,7 @@
     },
     {
       "id": 1031,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G3XXN",
@@ -3802,7 +3802,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO93KJ",
-      "dbwErp": 13,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SK5886",
         "antennaHeight": 16,
@@ -5204,7 +5204,7 @@
     },
     {
       "id": 2183,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0RZR",
@@ -19810,30 +19810,6 @@
       }
     },
     {
-      "id": 4938,
-      "fac": false,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G8PUO",
-      "town": "PORTSMOUTH",
-      "modeCodes": [
-        "D"
-      ],
-      "tx": 439675000,
-      "repeater": "GB7FW",
-      "rx": 430675000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO90LU",
-      "dbwErp": 5.1,
-      "extraDetails": {
-        "ngr": "SU6506",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 4942,
       "fac": true,
       "type": "AP",
@@ -20178,7 +20154,7 @@
       "id": 4989,
       "fac": false,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0NFI",
       "town": "PRESCOT",
       "modeCodes": [
@@ -24065,13 +24041,17 @@
     },
     {
       "id": 5319,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GI0OKM",
       "town": "LISBURN",
       "modeCodes": [
-        "F"
+        "F",
+        "M",
+        "P",
+        "2",
+        "5"
       ],
       "tx": 439562500,
       "repeater": "GB7HI",
@@ -28893,36 +28873,6 @@
       }
     },
     {
-      "id": 5750,
-      "fac": true,
-      "type": "DM",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GM3AND",
-      "town": "PRESTONPANS",
-      "modeCodes": [
-        "A",
-        "D",
-        "M:1",
-        "F",
-        "P",
-        "N",
-        "7"
-      ],
-      "tx": 439362500,
-      "repeater": "GB7GX",
-      "rx": 430362500,
-      "ctcss": 103.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO85MW",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NT3774",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5753,
       "fac": true,
       "type": "AP",
@@ -30399,7 +30349,7 @@
       "id": 5901,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0BMH",
       "town": "OSWALDTWISTLE",
       "modeCodes": [
@@ -33994,7 +33944,7 @@
       "id": 6197,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "GM5TGA",
       "town": "KILMARNOCK",
       "modeCodes": [
@@ -35324,7 +35274,7 @@
       "id": 6286,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0ABL",
       "town": "LEASOWE",
       "modeCodes": [
@@ -40360,7 +40310,7 @@
       "id": 6578,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G8CAP",
       "town": "DENTON",
       "modeCodes": [
@@ -41787,7 +41737,7 @@
       "id": 6658,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "2E0EUM",
       "town": "MABLETHORPE",
       "modeCodes": [
@@ -42525,6 +42475,54 @@
         "ngr": "SP4113",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6697,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0TEC",
+      "town": "HARLOW",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UHL",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO01AS",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TL4307",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6698,
+      "fac": true,
+      "type": "PX",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4UXV",
+      "town": "HUNTINGDON",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144950000,
+      "repeater": "GB7HXA",
+      "rx": 144950000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO92VI",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TL2473",
+        "antennaHeight": 6,
+        "polarisation": "V"
       }
     }
   ]
