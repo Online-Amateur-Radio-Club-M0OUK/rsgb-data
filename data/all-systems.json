@@ -16581,7 +16581,7 @@
       "id": 4483,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM7GDE",
       "town": "GLASGOW",
       "modeCodes": [
@@ -34865,7 +34865,7 @@
       "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "M0JIT",
+      "keeperCallsign": "G8HGV",
       "town": "RAINHAM",
       "modeCodes": [
         "A"
