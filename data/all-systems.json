@@ -2679,7 +2679,7 @@
     },
     {
       "id": 907,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0FVF",
@@ -2691,7 +2691,7 @@
       "repeater": "GB3NN",
       "rx": 434650000,
       "ctcss": 94.8,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "JO02JV",
       "dbwErp": 14,
@@ -20154,7 +20154,7 @@
       "id": 4989,
       "fac": false,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0NFI",
       "town": "PRESCOT",
       "modeCodes": [
@@ -23581,9 +23581,9 @@
     },
     {
       "id": 5289,
-      "fac": false,
+      "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0TOG",
       "town": "MANCHESTER",
       "modeCodes": [
@@ -32805,7 +32805,7 @@
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0OLX",
-      "town": "BANSTEAD  SURREY",
+      "town": "BANSTEAD",
       "modeCodes": [
         "M:3"
       ],
@@ -42313,7 +42313,7 @@
       "id": 6686,
       "fac": true,
       "type": "PN",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M1CMN",
       "town": "FOLKESTONE",
       "modeCodes": [
@@ -42522,6 +42522,30 @@
       "extraDetails": {
         "ngr": "TL2473",
         "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6699,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G6VBJ",
+      "town": "CRAWLEY",
+      "modeCodes": [
+        "E"
+      ],
+      "tx": 439218750,
+      "repeater": "GB7CR",
+      "rx": 430218750,
+      "ctcss": 0,
+      "txbw": 37.5,
+      "band": "70CM",
+      "locator": "IO91VC",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TQ2536",
+        "antennaHeight": 7,
         "polarisation": "V"
       }
     }
