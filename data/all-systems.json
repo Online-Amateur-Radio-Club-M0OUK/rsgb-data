@@ -8115,7 +8115,7 @@
     },
     {
       "id": 2904,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M1FJB",
@@ -13943,7 +13943,7 @@
     },
     {
       "id": 4143,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "REDUCED OUTPUT",
       "keeperCallsign": "M5ADU",
@@ -13958,7 +13958,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO92",
-      "dbwErp": 5,
+      "dbwErp": 5.1,
       "extraDetails": {
         "ngr": "SK5244",
         "antennaHeight": 0,
@@ -20255,7 +20255,7 @@
     },
     {
       "id": 4995,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M1FJB",
