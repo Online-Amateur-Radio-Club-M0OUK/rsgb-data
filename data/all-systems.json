@@ -1859,30 +1859,6 @@
       "extraDetails": null
     },
     {
-      "id": 812,
-      "fac": false,
-      "type": "TV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M1NAS",
-      "town": "MARKFIELD",
-      "modeCodes": [
-        "T"
-      ],
-      "tx": 1318500000,
-      "repeater": "GB3GV",
-      "rx": 1249000000,
-      "ctcss": 0,
-      "txbw": 16000,
-      "band": "23CM",
-      "locator": "IO92IQ",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SK4810",
-        "antennaHeight": 0,
-        "polarisation": "H"
-      }
-    },
-    {
       "id": 821,
       "fac": true,
       "type": "DM",
@@ -40574,7 +40550,7 @@
       "id": 6593,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0WUR",
       "town": "KEMNAY",
       "modeCodes": [
