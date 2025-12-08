@@ -4219,30 +4219,6 @@
       }
     },
     {
-      "id": 1232,
-      "fac": true,
-      "type": "PN",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GM7LUN",
-      "town": "SELKIRK",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 439900000,
-      "repeater": "MB7NSK",
-      "rx": 439900000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO85",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NT5029",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 1237,
       "fac": true,
       "type": "AP",
@@ -5104,30 +5080,6 @@
         "ngr": "TL3736",
         "antennaHeight": 52,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 2157,
-      "fac": true,
-      "type": "PN",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GM7LUN",
-      "town": "SELKIRK",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 70325000,
-      "repeater": "MB7NCB",
-      "rx": 70325000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "4M",
-      "locator": "IO85",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NT4628",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -6236,54 +6188,6 @@
         "ngr": "SK3791",
         "antennaHeight": 10,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 2408,
-      "fac": true,
-      "type": "PN",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GM7LUN",
-      "town": "HAWICK",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 439900000,
-      "repeater": "MB7NHW",
-      "rx": 439900000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO85",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NT5114",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 2409,
-      "fac": true,
-      "type": "PN",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GM7LUN",
-      "town": "HAWICK",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 432650000,
-      "repeater": "MB7NHW",
-      "rx": 432650000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO85",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NT5114",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -9121,7 +9025,7 @@
       "id": 3201,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM7LUN",
       "town": "DUNS",
       "modeCodes": [
@@ -9335,30 +9239,6 @@
       "dbwErp": 13,
       "extraDetails": {
         "ngr": "SO9193",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 3254,
-      "fac": true,
-      "type": "PN",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GM7LUN",
-      "town": "SELKIRK",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 439900000,
-      "repeater": "MB7NSK",
-      "rx": 439900000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO85",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NT5029",
         "antennaHeight": 0,
         "polarisation": ""
       }
@@ -19499,7 +19379,7 @@
       "id": 4911,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0DZZ",
       "town": "GREAT CLACTON",
       "modeCodes": [
@@ -35078,30 +34958,6 @@
       }
     },
     {
-      "id": 6277,
-      "fac": true,
-      "type": "AP",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GM7LUN",
-      "town": "DUNS",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144800000,
-      "repeater": "MB7UHD",
-      "rx": 144800000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO85",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NT7354",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6278,
       "fac": true,
       "type": "AP",
@@ -42523,6 +42379,102 @@
         "ngr": "TQ2536",
         "antennaHeight": 7,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6700,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0NCW",
+      "town": "BICESTER",
+      "modeCodes": [
+        "M:3"
+      ],
+      "tx": 439662500,
+      "repeater": "GB7AE",
+      "rx": 430662500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SP6828",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6701,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M6GLD",
+      "town": "BRANDON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430087500,
+      "repeater": "M6GLD",
+      "rx": 430087500,
+      "ctcss": 118.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO02HL",
+      "dbwErp": 3,
+      "extraDetails": {
+        "ngr": "TL7788",
+        "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6703,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM7LUN",
+      "town": "DUNS ",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "MB7UDU",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "IO85",
+      "dbwErp": -7,
+      "extraDetails": {
+        "ngr": "NT7354",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6704,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM7LUN",
+      "town": "SELKIRK",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "MB7ULD",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "IO85",
+      "dbwErp": -7,
+      "extraDetails": {
+        "ngr": "NT5029",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
