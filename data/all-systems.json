@@ -23968,30 +23968,6 @@
       }
     },
     {
-      "id": 5323,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G4EGU",
-      "town": "ERITH",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 29690000,
-      "repeater": "GB3KB",
-      "rx": 29590000,
-      "ctcss": 103.5,
-      "txbw": 6,
-      "band": "10M",
-      "locator": "JO01BL",
-      "dbwErp": 9,
-      "extraDetails": {
-        "ngr": "TQ4976",
-        "antennaHeight": 3,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5326,
       "fac": true,
       "type": "DG",
@@ -26607,7 +26583,7 @@
       "id": 5582,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4NAB",
       "town": "ASHINGTON",
       "modeCodes": [
@@ -36529,7 +36505,7 @@
       "id": 6370,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "G1BHM",
       "town": "BRAYFORD",
       "modeCodes": [
@@ -39321,30 +39297,6 @@
       }
     },
     {
-      "id": 6535,
-      "fac": true,
-      "type": "PX",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "2E0JKI",
-      "town": "LANCASTER",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 21096100,
-      "repeater": "MB0LUR",
-      "rx": 21094600,
-      "ctcss": 0,
-      "txbw": 0.06,
-      "band": "15M",
-      "locator": "IO84",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SD4957",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6536,
       "fac": true,
       "type": "AG",
@@ -41569,7 +41521,7 @@
       "id": 6658,
       "fac": true,
       "type": "DG",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0EUM",
       "town": "MABLETHORPE",
       "modeCodes": [
@@ -42475,6 +42427,30 @@
         "ngr": "NT5029",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6706,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0KKN",
+      "town": "ST HELENS",
+      "modeCodes": [
+        "M:10"
+      ],
+      "tx": 144912500,
+      "repeater": "MB6KN",
+      "rx": 144912500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO83PL",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SJ5298",
+        "antennaHeight": 8,
+        "polarisation": "V"
       }
     }
   ]
