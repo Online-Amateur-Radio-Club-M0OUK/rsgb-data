@@ -6822,9 +6822,9 @@
     },
     {
       "id": 2585,
-      "fac": false,
+      "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0RIQ",
       "town": "OTLEY",
       "modeCodes": [
@@ -6835,7 +6835,7 @@
       "repeater": "GB3WF",
       "rx": 434950000,
       "ctcss": 82.5,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO93DV",
       "dbwErp": 14,
@@ -7897,7 +7897,7 @@
     },
     {
       "id": 2860,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0ZEP",
@@ -7910,10 +7910,10 @@
       "repeater": "GB3DT",
       "rx": 434600000,
       "ctcss": 71.9,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO80WU",
-      "dbwErp": 12.2,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "ST9107",
         "antennaHeight": 21,
@@ -19960,7 +19960,7 @@
     },
     {
       "id": 4987,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G3XOU",
@@ -27583,7 +27583,7 @@
       "id": 5662,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M1CYR",
       "town": "CANNOCK",
       "modeCodes": [
@@ -29143,7 +29143,7 @@
       "id": 5793,
       "fac": true,
       "type": "AV",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G8PYT",
       "town": "ROWLEY REGIS",
       "modeCodes": [
@@ -32224,7 +32224,7 @@
       "id": 6071,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM7LUN",
       "town": "DUNS",
       "modeCodes": [
