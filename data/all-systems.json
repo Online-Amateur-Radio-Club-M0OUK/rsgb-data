@@ -16899,30 +16899,6 @@
       }
     },
     {
-      "id": 4569,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0UKB",
-      "town": "ALLENDALE",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 29290000,
-      "repeater": "MB7IAE",
-      "rx": 29290000,
-      "ctcss": 118.8,
-      "txbw": 10,
-      "band": "10M",
-      "locator": "IO84VV",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "NY8456",
-        "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 4575,
       "fac": true,
       "type": "TV",
@@ -32224,7 +32200,7 @@
       "id": 6071,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM7LUN",
       "town": "DUNS",
       "modeCodes": [
@@ -42145,7 +42121,7 @@
       "id": 6692,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM9STM",
       "town": "PORT GLASGOW",
       "modeCodes": [
@@ -42450,6 +42426,30 @@
       "extraDetails": {
         "ngr": "SJ5298",
         "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6707,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M5TDC",
+      "town": "ROTHERHAM",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 144962500,
+      "repeater": "MB7IRM",
+      "rx": 144962500,
+      "ctcss": 71.9,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO93IK",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SK4593",
+        "antennaHeight": 10,
         "polarisation": "V"
       }
     }
