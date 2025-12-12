@@ -1478,7 +1478,7 @@
     },
     {
       "id": 776,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0LMK",
@@ -1493,7 +1493,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "JO01QJ",
-      "dbwErp": 12.8,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "TR3770",
         "antennaHeight": 45,
@@ -6824,7 +6824,7 @@
       "id": 2585,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0RIQ",
       "town": "OTLEY",
       "modeCodes": [
