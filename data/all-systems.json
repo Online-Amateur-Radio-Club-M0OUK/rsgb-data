@@ -9074,7 +9074,7 @@
     },
     {
       "id": 3213,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "GW6TKK",
@@ -16098,7 +16098,7 @@
       "id": 4445,
       "fac": true,
       "type": "AP",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0WNU",
       "town": "RICHMOND",
       "modeCodes": [
@@ -19379,7 +19379,7 @@
       "id": 4912,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM7RYR",
       "town": "LARGS",
       "modeCodes": [
@@ -22157,7 +22157,7 @@
       "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2M0BGK",
+      "keeperCallsign": "MM9SRU",
       "town": "PRESTONPANS",
       "modeCodes": [
         "A"
@@ -22229,7 +22229,7 @@
       "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2M0BGK",
+      "keeperCallsign": "MM9SRU",
       "town": "PRESTONPANS",
       "modeCodes": [
         "D",
@@ -22257,7 +22257,7 @@
       "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2M0BGK",
+      "keeperCallsign": "MM9SRU",
       "town": "PRESTONPANS",
       "modeCodes": [
         "A"
@@ -41771,7 +41771,7 @@
       ],
       "tx": 430012500,
       "repeater": "MB7IJL",
-      "rx": 0,
+      "rx": 430012500,
       "ctcss": 88.5,
       "txbw": 12.5,
       "band": "70CM",
@@ -42450,6 +42450,101 @@
       "extraDetails": {
         "ngr": "SK4593",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6708,
+      "fac": true,
+      "type": "PX",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M1TLK",
+      "town": "BUCKINGHAM",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 70312500,
+      "repeater": "GB7BUK",
+      "rx": 70312500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "4M",
+      "locator": "IO92",
+      "dbwErp": 11.5,
+      "extraDetails": {
+        "ngr": "SP6934",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6709,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M8IRI",
+      "town": "RAMSBOTTOM",
+      "modeCodes": [
+        "D",
+        "F"
+      ],
+      "tx": 431200000,
+      "repeater": "M8IRI",
+      "rx": 431200000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83UP",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SD7916",
+        "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6710,
+      "fac": true,
+      "type": "PX",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0SDJ",
+      "town": "FOLKESTONE",
+      "modeCodes": null,
+      "tx": 432675000,
+      "repeater": "GB7RMS",
+      "rx": 432675000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO01",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "TR2236",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6711,
+      "fac": true,
+      "type": "DV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G7TRL",
+      "town": "POULTON",
+      "modeCodes": [
+        "E"
+      ],
+      "tx": 434018750,
+      "repeater": "GB7PL",
+      "rx": 434018750,
+      "ctcss": 0,
+      "txbw": 37.5,
+      "band": "70CM",
+      "locator": "IO83MT",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "SD3437",
+        "antennaHeight": 7,
         "polarisation": "V"
       }
     }
