@@ -6410,7 +6410,7 @@
       "id": 2439,
       "fac": false,
       "type": "TV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M1ERS",
       "town": "SHEFFIELD",
       "modeCodes": [
@@ -9830,7 +9830,7 @@
       "id": 3381,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4ZPZ",
       "town": "DUKINFIELD",
       "modeCodes": [
@@ -28487,12 +28487,12 @@
       "modeCodes": [
         "F"
       ],
-      "tx": 431125000,
+      "tx": 144912500,
       "repeater": "MB6KG",
-      "rx": 431125000,
+      "rx": 144912500,
       "ctcss": 0,
       "txbw": 12.5,
-      "band": "70CM",
+      "band": "2M",
       "locator": "IO83",
       "dbwErp": 7,
       "extraDetails": {
@@ -41593,7 +41593,7 @@
       "id": 6662,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G1JKS",
       "town": "GLOSSOP",
       "modeCodes": [
@@ -42545,6 +42545,55 @@
       "extraDetails": {
         "ngr": "SD3437",
         "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6712,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "GM1DSV",
+      "town": "KIRRIEMUIR",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "GM1DSV",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "IO86KO",
+      "dbwErp": -7,
+      "extraDetails": {
+        "ngr": "NO3248",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6713,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G7MLO",
+      "town": "BURY ST EDMUNDS",
+      "modeCodes": [
+        "A",
+        "M:1"
+      ],
+      "tx": 433137500,
+      "repeater": "MB5ER",
+      "rx": 438137500,
+      "ctcss": 110.9,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO02JF",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TL8964",
+        "antennaHeight": 6,
         "polarisation": "V"
       }
     }
