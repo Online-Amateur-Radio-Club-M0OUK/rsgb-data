@@ -1768,7 +1768,7 @@
     },
     {
       "id": 801,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4EML",
@@ -1780,7 +1780,7 @@
       "repeater": "GB3GF",
       "rx": 434900000,
       "ctcss": 88.5,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO91RF",
       "dbwErp": 14,
@@ -22244,7 +22244,7 @@
       "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
-      "locator": "IO86MW",
+      "locator": "IO85MW",
       "dbwErp": 4.8,
       "extraDetails": {
         "ngr": "NT3774",
@@ -22268,7 +22268,7 @@
       "ctcss": 103.5,
       "txbw": 12.5,
       "band": "4M",
-      "locator": "IO86MW",
+      "locator": "IO85MW",
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "NT3774",
@@ -41048,30 +41048,6 @@
       }
     },
     {
-      "id": 6632,
-      "fac": true,
-      "type": "AG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "MM3DDQ",
-      "town": "CLYDEBANK ",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430037500,
-      "repeater": "MB7IOC",
-      "rx": 430037500,
-      "ctcss": 103.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO75TV",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "NS4970",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6634,
       "fac": true,
       "type": "DV",
@@ -42433,7 +42409,7 @@
       "id": 6707,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M5TDC",
       "town": "ROTHERHAM",
       "modeCodes": [
@@ -42481,12 +42457,11 @@
       "id": 6709,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M8IRI",
       "town": "RAMSBOTTOM",
       "modeCodes": [
-        "D",
-        "F"
+        "M:1"
       ],
       "tx": 431200000,
       "repeater": "M8IRI",
@@ -42594,6 +42569,30 @@
       "extraDetails": {
         "ngr": "TL8964",
         "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6714,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MM3DDQ",
+      "town": "EAST KILBRIDE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430025000,
+      "repeater": "MB7IKB",
+      "rx": 430025000,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO75VR",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NS6052",
+        "antennaHeight": 10,
         "polarisation": "V"
       }
     }
