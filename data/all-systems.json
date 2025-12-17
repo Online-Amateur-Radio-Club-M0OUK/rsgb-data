@@ -7505,9 +7505,9 @@
     },
     {
       "id": 2764,
-      "fac": false,
+      "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0JZH",
       "town": "TELFORD",
       "modeCodes": [
@@ -7516,9 +7516,9 @@
       ],
       "tx": 433200000,
       "repeater": "GB3TF",
-      "rx": 434800000,
+      "rx": 438200000,
       "ctcss": 103.5,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO82RP",
       "dbwErp": 14,
@@ -38139,7 +38139,7 @@
       "fac": true,
       "type": "DM",
       "status": "NOT OPERATIONAL",
-      "keeperCallsign": "2E0IZO",
+      "keeperCallsign": "M9SPE",
       "town": "HERNE BAY",
       "modeCodes": [
         "A",
@@ -42446,7 +42446,7 @@
       "txbw": 12.5,
       "band": "4M",
       "locator": "IO92",
-      "dbwErp": 11.5,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SP6934",
         "antennaHeight": 0,
@@ -42594,6 +42594,54 @@
         "ngr": "NS6052",
         "antennaHeight": 10,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6715,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GC0CDF",
+      "town": "CARDIFF",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430812500,
+      "repeater": "GC0CDF",
+      "rx": 438412500,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81JL",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "ST1876",
+        "antennaHeight": 20,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6716,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MM7ONH",
+      "town": "ROYBRIDGE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430050000,
+      "repeater": "MM7ONH",
+      "rx": 430050000,
+      "ctcss": 88.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO76",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NN2780",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
