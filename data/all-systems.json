@@ -4172,7 +4172,7 @@
     },
     {
       "id": 1174,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G7NBU",
@@ -4187,7 +4187,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO80GT",
-      "dbwErp": 13,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SS9605",
         "antennaHeight": 7,
@@ -6917,7 +6917,7 @@
     },
     {
       "id": 2611,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GD4HOZ",
@@ -6941,7 +6941,7 @@
     },
     {
       "id": 2612,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GD4HOZ",
@@ -13606,8 +13606,8 @@
       "town": "NESTON",
       "modeCodes": [
         "D",
-        "M:5",
-        "F"
+        "F",
+        "M:5"
       ],
       "tx": 439650000,
       "repeater": "GB7RA",
@@ -13615,12 +13615,12 @@
       "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
-      "locator": "IO83LH",
+      "locator": "IO83",
       "dbwErp": 9.5,
       "extraDetails": {
         "ngr": "SJ2978",
-        "antennaHeight": 6,
-        "polarisation": "V"
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     },
     {
@@ -33749,30 +33749,6 @@
       }
     },
     {
-      "id": 6197,
-      "fac": true,
-      "type": "DG",
-      "status": "REDUCED OUTPUT",
-      "keeperCallsign": "GM5TGA",
-      "town": "KILMARNOCK",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 144837500,
-      "repeater": "MB6KI",
-      "rx": 144837500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO75SP",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "NS4340",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6198,
       "fac": true,
       "type": "AV",
@@ -40478,7 +40454,7 @@
       "id": 6599,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0RRX",
       "town": "HELSTON",
       "modeCodes": [
@@ -42624,7 +42600,7 @@
       "id": 6716,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM7ONH",
       "town": "ROYBRIDGE",
       "modeCodes": [
@@ -42643,6 +42619,26 @@
         "antennaHeight": 0,
         "polarisation": ""
       }
+    },
+    {
+      "id": 6717,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4SZM",
+      "town": "WESTON-SUPER-MARE",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "MB7UHF",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "IO81MH",
+      "dbwErp": -7,
+      "extraDetails": null
     }
   ]
 }
