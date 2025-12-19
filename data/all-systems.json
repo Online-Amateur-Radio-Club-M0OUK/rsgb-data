@@ -7286,7 +7286,7 @@
     },
     {
       "id": 2693,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G8VRI",
@@ -7301,7 +7301,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO91DL",
-      "dbwErp": 13,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SU2076",
         "antennaHeight": 32,
@@ -10238,7 +10238,7 @@
     },
     {
       "id": 3516,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4VPD",
@@ -10246,7 +10246,8 @@
       "modeCodes": [
         "A",
         "D",
-        "F"
+        "F",
+        "M:5"
       ],
       "tx": 430950000,
       "repeater": "GB3WL",
@@ -13599,7 +13600,7 @@
     },
     {
       "id": 4129,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0ORA",
@@ -42289,7 +42290,7 @@
       "id": 6701,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M6GLD",
       "town": "BRANDON",
       "modeCodes": [
@@ -42409,7 +42410,7 @@
       "id": 6708,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M1TLK",
       "town": "BUCKINGHAM",
       "modeCodes": [
@@ -42638,7 +42639,11 @@
       "band": "70CM",
       "locator": "IO81MH",
       "dbwErp": -7,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "ST3357",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
     }
   ]
 }
