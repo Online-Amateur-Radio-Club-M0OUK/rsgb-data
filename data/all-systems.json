@@ -32349,7 +32349,7 @@
       "type": "AG",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0WNT",
-      "town": "WILLINGDON",
+      "town": "EASTBOURNE",
       "modeCodes": [
         "A"
       ],
@@ -41118,7 +41118,7 @@
       "id": 6638,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0YGL",
       "town": "BLETCHLEY",
       "modeCodes": [
@@ -42338,7 +42338,7 @@
       "id": 6704,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM7LUN",
       "town": "SELKIRK",
       "modeCodes": [
