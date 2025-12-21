@@ -6407,30 +6407,6 @@
       }
     },
     {
-      "id": 2439,
-      "fac": false,
-      "type": "TV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M1ERS",
-      "town": "SHEFFIELD",
-      "modeCodes": [
-        "T"
-      ],
-      "tx": 1310000000,
-      "repeater": "GB3TT",
-      "rx": 1278000000,
-      "ctcss": 0,
-      "txbw": 16000,
-      "band": "23CM",
-      "locator": "IO93GK",
-      "dbwErp": 12.2,
-      "extraDetails": {
-        "ngr": "SK3791",
-        "antennaHeight": 10,
-        "polarisation": "H"
-      }
-    },
-    {
       "id": 2440,
       "fac": true,
       "type": "TV",
@@ -36218,7 +36194,7 @@
       "id": 6357,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0ZZT",
       "town": "TIVERTON",
       "modeCodes": [
