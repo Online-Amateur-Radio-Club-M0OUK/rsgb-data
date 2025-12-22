@@ -3835,7 +3835,7 @@
     },
     {
       "id": 1039,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4RKY",
@@ -7187,7 +7187,7 @@
     },
     {
       "id": 2675,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4RKY",
@@ -32030,20 +32030,20 @@
       "id": 6062,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4RKY",
       "town": "SHIPHAM",
       "modeCodes": [
         "A"
       ],
-      "tx": 438387500,
-      "repeater": "G4RKY",
-      "rx": 430787500,
+      "tx": 438350000,
+      "repeater": "GB3RY",
+      "rx": 430750000,
       "ctcss": 77,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO81",
-      "dbwErp": 0,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "ST4457",
         "antennaHeight": 0,
@@ -41836,7 +41836,7 @@
       "id": 6678,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4IYT",
       "town": "LEIGHTON BUZZARD",
       "modeCodes": [
@@ -41862,7 +41862,7 @@
       "id": 6679,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4IYT",
       "town": "LEIGHTON BUZZARD",
       "modeCodes": [
@@ -42615,6 +42615,30 @@
       "band": "70CM",
       "locator": "IO81MH",
       "dbwErp": -7,
+      "extraDetails": {
+        "ngr": "ST3357",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6718,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4SZM",
+      "town": "WESTON-SUPER-MARE",
+      "modeCodes": [
+        "P"
+      ],
+      "tx": 439500000,
+      "repeater": "GB7IF",
+      "rx": 430500000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81MH",
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "ST3357",
         "antennaHeight": 10,
