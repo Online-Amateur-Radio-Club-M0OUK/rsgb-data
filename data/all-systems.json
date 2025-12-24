@@ -270,7 +270,7 @@
     },
     {
       "id": 207,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4EID",
@@ -1095,7 +1095,7 @@
     },
     {
       "id": 722,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G8DOR",
@@ -1107,7 +1107,7 @@
       "repeater": "GB3BN",
       "rx": 434600000,
       "ctcss": 118.8,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO91OJ",
       "dbwErp": 14,
@@ -1720,7 +1720,7 @@
     },
     {
       "id": 797,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4EPX",
@@ -2198,7 +2198,7 @@
     },
     {
       "id": 846,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4RKY",
@@ -2631,7 +2631,7 @@
     },
     {
       "id": 905,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4DFB",
@@ -2646,7 +2646,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO91XP",
-      "dbwErp": 13,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "TQ3296",
         "antennaHeight": 55,
@@ -6847,7 +6847,7 @@
     },
     {
       "id": 2597,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0JGX",
@@ -8483,7 +8483,7 @@
     },
     {
       "id": 3040,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0IJS",
@@ -10484,33 +10484,6 @@
       "extraDetails": {
         "ngr": "TM0195",
         "antennaHeight": 18,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 3606,
-      "fac": true,
-      "type": "DM",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GB3DRA",
-      "town": "MONIFIETH",
-      "modeCodes": [
-        "A",
-        "D",
-        "M:1",
-        "F"
-      ],
-      "tx": 439750000,
-      "repeater": "GB7DM",
-      "rx": 430750000,
-      "ctcss": 103.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO86NL",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NO4832",
-        "antennaHeight": 10,
         "polarisation": "V"
       }
     },
@@ -15338,7 +15311,7 @@
     },
     {
       "id": 4356,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0NED",
@@ -15352,7 +15325,7 @@
       "repeater": "GB3PP",
       "rx": 434975000,
       "ctcss": 82.5,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO83",
       "dbwErp": 10,
@@ -15541,7 +15514,7 @@
       "id": 4373,
       "fac": false,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GW0WZZ",
       "town": "WREXHAM",
       "modeCodes": [
@@ -20305,7 +20278,7 @@
     },
     {
       "id": 5018,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G7KPR",
@@ -20621,7 +20594,7 @@
     },
     {
       "id": 5058,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0NFI",
@@ -21185,7 +21158,7 @@
     },
     {
       "id": 5099,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G6HUI",
@@ -27681,7 +27654,7 @@
       "id": 5669,
       "fac": true,
       "type": "PX",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM0NRT",
       "town": "ABERDEEN",
       "modeCodes": [
@@ -33971,13 +33944,13 @@
       "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2E0SJA",
+      "keeperCallsign": "M8SJA",
       "town": "ASHFORD",
       "modeCodes": [
         "A"
       ],
       "tx": 144962500,
-      "repeater": "2E0SJA",
+      "repeater": "M8SJA",
       "rx": 144962500,
       "ctcss": 118.8,
       "txbw": 12.5,
