@@ -13623,7 +13623,7 @@
     },
     {
       "id": 4134,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G3GJA",
@@ -13640,7 +13640,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO93RS",
-      "dbwErp": 12.6,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SE9532",
         "antennaHeight": 20,
@@ -33625,7 +33625,7 @@
       "fac": true,
       "type": "AP",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2W0LPU",
+      "keeperCallsign": "MW0LPU",
       "town": "BRECON",
       "modeCodes": [
         "X"
@@ -38479,7 +38479,7 @@
       "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2W0LPU",
+      "keeperCallsign": "MW0LPU",
       "town": "BRECON",
       "modeCodes": [
         "M:3",
