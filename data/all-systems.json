@@ -19353,7 +19353,7 @@
       "id": 4912,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM7RYR",
       "town": "LARGS",
       "modeCodes": [
