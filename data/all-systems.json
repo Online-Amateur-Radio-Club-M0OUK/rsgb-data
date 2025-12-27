@@ -41907,7 +41907,7 @@
       "id": 6681,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G5OTH",
       "town": "ALDRIDGE",
       "modeCodes": [
@@ -42215,7 +42215,7 @@
       "id": 6699,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G6VBJ",
       "town": "CRAWLEY",
       "modeCodes": [
@@ -42640,6 +42640,30 @@
         "ngr": "ST3357",
         "antennaHeight": 10,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6719,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G8PYT",
+      "town": "ROWLEY REGIS",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 29690000,
+      "repeater": "GB3UK",
+      "rx": 29590000,
+      "ctcss": 67,
+      "txbw": 6,
+      "band": "10M",
+      "locator": "IO82",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SO9687",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
