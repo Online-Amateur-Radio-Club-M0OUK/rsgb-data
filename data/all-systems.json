@@ -39948,7 +39948,7 @@
       "id": 6575,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4LUE",
       "town": "SHEFFIELD",
       "modeCodes": [
@@ -42662,6 +42662,30 @@
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "SO9687",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6720,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MM0VIK ",
+      "town": "SCALLOWAY ",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430062500,
+      "repeater": "MM0VIK ",
+      "rx": 430062500,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IP90",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "HU3731",
         "antennaHeight": 0,
         "polarisation": ""
       }
