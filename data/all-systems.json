@@ -40476,7 +40476,7 @@
       "id": 6601,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0ULH",
       "town": "LONDON",
       "modeCodes": [
@@ -42688,6 +42688,30 @@
         "ngr": "HU3731",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6721,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G0DUQ",
+      "town": "HEDNESFORD",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 144850000,
+      "repeater": "MB6RU",
+      "rx": 144850000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO82XR",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SJ9913",
+        "antennaHeight": 10,
+        "polarisation": "V"
       }
     }
   ]
