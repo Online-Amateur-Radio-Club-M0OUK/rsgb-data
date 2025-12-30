@@ -7948,7 +7948,7 @@
       "id": 2871,
       "fac": false,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MW0GCT",
       "town": "AMLWCH",
       "modeCodes": [
@@ -9782,7 +9782,7 @@
       "id": 3367,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4MYS",
       "town": "SOUTHAMPTON",
       "modeCodes": [
@@ -42694,7 +42694,7 @@
       "id": 6721,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0DUQ",
       "town": "HEDNESFORD",
       "modeCodes": [
@@ -42713,6 +42713,24 @@
         "antennaHeight": 10,
         "polarisation": "V"
       }
+    },
+    {
+      "id": 6722,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2E1DOX",
+      "town": "SWADLINCOTE",
+      "modeCodes": null,
+      "tx": 145287500,
+      "repeater": "MB7IDY",
+      "rx": 0,
+      "ctcss": 71.9,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO92FS",
+      "dbwErp": 7,
+      "extraDetails": null
     }
   ]
 }
