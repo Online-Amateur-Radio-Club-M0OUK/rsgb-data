@@ -22566,30 +22566,6 @@
       }
     },
     {
-      "id": 5213,
-      "fac": true,
-      "type": "AP",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0UKB",
-      "town": "ALLENDALE",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144800000,
-      "repeater": "MB7UAE",
-      "rx": 144800000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO84VV",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NY8456",
-        "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5214,
       "fac": true,
       "type": "PX",
@@ -42143,7 +42119,7 @@
       "id": 6696,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0RTU",
       "town": "WITNEY",
       "modeCodes": [
@@ -42715,22 +42691,52 @@
       }
     },
     {
-      "id": 6722,
+      "id": 6723,
       "fac": true,
       "type": "AG",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "2E1DOX",
       "town": "SWADLINCOTE",
-      "modeCodes": null,
-      "tx": 145287500,
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145225000,
       "repeater": "MB7IDY",
-      "rx": 0,
-      "ctcss": 71.9,
+      "rx": 145225000,
+      "ctcss": 67,
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO92FS",
       "dbwErp": 7,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "SK2920",
+        "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6724,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M9IAN",
+      "town": "WARRINGTON",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "MB7UIA",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "IO83",
+      "dbwErp": -7,
+      "extraDetails": {
+        "ngr": "SJ6693",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
     }
   ]
 }
