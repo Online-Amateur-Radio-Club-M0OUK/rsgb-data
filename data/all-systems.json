@@ -2510,30 +2510,6 @@
       }
     },
     {
-      "id": 892,
-      "fac": false,
-      "type": "TV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G1IRG",
-      "town": "NORTHAMPTON",
-      "modeCodes": [
-        "T"
-      ],
-      "tx": 1316000000,
-      "repeater": "GB3MV",
-      "rx": 1249000000,
-      "ctcss": 0,
-      "txbw": 16000,
-      "band": "23CM",
-      "locator": "IO92NF",
-      "dbwErp": 12.3,
-      "extraDetails": {
-        "ngr": "SP7560",
-        "antennaHeight": 91,
-        "polarisation": "H"
-      }
-    },
-    {
       "id": 896,
       "fac": true,
       "type": "AV",
@@ -7948,7 +7924,7 @@
       "id": 2871,
       "fac": false,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MW0GCT",
       "town": "AMLWCH",
       "modeCodes": [
@@ -9782,7 +9758,7 @@
       "id": 3367,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4MYS",
       "town": "SOUTHAMPTON",
       "modeCodes": [
@@ -42646,7 +42622,7 @@
       "id": 6720,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "MM0VIK ",
       "town": "SCALLOWAY ",
       "modeCodes": [
@@ -42718,7 +42694,7 @@
       "id": 6724,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M9IAN",
       "town": "WARRINGTON",
       "modeCodes": [
