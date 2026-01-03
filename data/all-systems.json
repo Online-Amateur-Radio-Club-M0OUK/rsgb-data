@@ -38040,7 +38040,7 @@
       "id": 6469,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M9SPE",
       "town": "HERNE BAY",
       "modeCodes": [
@@ -39804,7 +39804,7 @@
       "id": 6569,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7HMV",
       "town": "HARPENDEN",
       "modeCodes": [
@@ -40785,7 +40785,7 @@
       "id": 6625,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G3EWE",
       "town": "WINCHESTER",
       "modeCodes": [
@@ -41665,7 +41665,7 @@
       "id": 6673,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0NEF",
       "town": "BRACKNELL",
       "modeCodes": [
@@ -42641,6 +42641,24 @@
         "antennaHeight": 10,
         "polarisation": "V"
       }
+    },
+    {
+      "id": 6722,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2E1DOX",
+      "town": "SWADLINCOTE",
+      "modeCodes": null,
+      "tx": 145287500,
+      "repeater": "MB7IDY",
+      "rx": 0,
+      "ctcss": 71.9,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO92FS",
+      "dbwErp": 7,
+      "extraDetails": null
     },
     {
       "id": 6723,
