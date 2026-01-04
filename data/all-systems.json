@@ -21085,30 +21085,6 @@
       }
     },
     {
-      "id": 5097,
-      "fac": true,
-      "type": "AV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G8PYT",
-      "town": "BIRMINGHAM",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145712500,
-      "repeater": "GB3BM-2",
-      "rx": 145112500,
-      "ctcss": 67,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO92",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SP0785",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 5098,
       "fac": true,
       "type": "AP",
@@ -23584,7 +23560,7 @@
       "id": 5302,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM7RYR",
       "town": "PORTPATRICK",
       "modeCodes": [
@@ -42643,24 +42619,6 @@
       }
     },
     {
-      "id": 6722,
-      "fac": true,
-      "type": "AG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "2E1DOX",
-      "town": "SWADLINCOTE",
-      "modeCodes": null,
-      "tx": 145287500,
-      "repeater": "MB7IDY",
-      "rx": 0,
-      "ctcss": 71.9,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO92FS",
-      "dbwErp": 7,
-      "extraDetails": null
-    },
-    {
       "id": 6723,
       "fac": true,
       "type": "AG",
@@ -42727,6 +42685,30 @@
       "extraDetails": {
         "ngr": "HU3731",
         "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6726,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G7UFS",
+      "town": "BRIDLINGTON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430062500,
+      "repeater": "MB7ICR",
+      "rx": 430062500,
+      "ctcss": 118.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO94SA",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TA1866",
+        "antennaHeight": 12,
         "polarisation": "V"
       }
     }
