@@ -7109,58 +7109,6 @@
       }
     },
     {
-      "id": 2650,
-      "fac": true,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GM4AUP",
-      "town": "AIRDRIE",
-      "modeCodes": [
-        "D",
-        "M:1",
-        "F"
-      ],
-      "tx": 145775000,
-      "repeater": "GB7DA",
-      "rx": 145175000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO85AV",
-      "dbwErp": 10,
-      "extraDetails": {
-        "ngr": "NS7567",
-        "antennaHeight": 12,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 2653,
-      "fac": true,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GM4AUP",
-      "town": "AIRDRIE",
-      "modeCodes": [
-        "D",
-        "M:1",
-        "F"
-      ],
-      "tx": 439625000,
-      "repeater": "GB7GG",
-      "rx": 430625000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO85AV",
-      "dbwErp": 10.5,
-      "extraDetails": {
-        "ngr": "NS7567",
-        "antennaHeight": 12,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 2664,
       "fac": true,
       "type": "DM",
@@ -10268,7 +10216,7 @@
       "id": 3538,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "2E0BDS",
       "town": "SKEGNESS",
       "modeCodes": [
@@ -42598,7 +42546,7 @@
       "id": 6721,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0DUQ",
       "town": "HEDNESFORD",
       "modeCodes": [
