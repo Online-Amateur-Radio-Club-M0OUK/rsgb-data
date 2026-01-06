@@ -950,7 +950,7 @@
     },
     {
       "id": 706,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "GW4KAZ",
@@ -27235,7 +27235,7 @@
       "id": 5652,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "GW5NDX",
       "town": "LLANDUDNO",
       "modeCodes": [
@@ -42658,6 +42658,30 @@
         "ngr": "TA1866",
         "antennaHeight": 12,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6727,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M7OMH",
+      "town": "BRADFORD",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430100000,
+      "repeater": "MB7IWY",
+      "rx": 430100000,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SE1527",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
