@@ -21233,7 +21233,7 @@
       "fac": true,
       "type": "AP",
       "status": "OPERATIONAL",
-      "keeperCallsign": "M0MZF",
+      "keeperCallsign": "G5RKT",
       "town": "WINCHESTER",
       "modeCodes": [
         "X"
@@ -42546,7 +42546,7 @@
       "id": 6721,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0DUQ",
       "town": "HEDNESFORD",
       "modeCodes": [
@@ -42682,6 +42682,78 @@
         "ngr": "SE1527",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6728,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM5JPB",
+      "town": "LIVINGSTON",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "GM5JPB",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "IO85",
+      "dbwErp": -7,
+      "extraDetails": {
+        "ngr": "NT0563",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6729,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0SDJ",
+      "town": "BOUGHTON ALUPH",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145587500,
+      "repeater": "GB3JD",
+      "rx": 144987500,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO01KE",
+      "dbwErp": 7.8,
+      "extraDetails": {
+        "ngr": "TR0247",
+        "antennaHeight": 12,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6730,
+      "fac": true,
+      "type": "PN",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0SDJ",
+      "town": "BOUGHTON ALUPH",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 432675000,
+      "repeater": "MB7NJD",
+      "rx": 432675000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO01KE",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "TR0247",
+        "antennaHeight": 12,
+        "polarisation": "V"
       }
     }
   ]
