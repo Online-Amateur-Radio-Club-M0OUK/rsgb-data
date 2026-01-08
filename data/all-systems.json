@@ -13622,7 +13622,7 @@
     },
     {
       "id": 4139,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0TNY",
@@ -13640,7 +13640,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO91RK",
-      "dbwErp": 12.8,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "TQ0371",
         "antennaHeight": 10,
@@ -17326,31 +17326,6 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "SU1883",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 4663,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G0NEF",
-      "town": "BRACKNELL",
-      "modeCodes": [
-        "M:3",
-        "F"
-      ],
-      "tx": 144837500,
-      "repeater": "MB6BK",
-      "rx": 144837500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO91",
-      "dbwErp": 3,
-      "extraDetails": {
-        "ngr": "SU8869",
         "antennaHeight": 0,
         "polarisation": ""
       }
@@ -41586,30 +41561,6 @@
       }
     },
     {
-      "id": 6673,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G0NEF",
-      "town": "BRACKNELL",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430100000,
-      "repeater": "MB7IBK",
-      "rx": 430100000,
-      "ctcss": 118.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO91",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SU8869",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6674,
       "fac": true,
       "type": "AP",
@@ -42718,14 +42669,14 @@
       "modeCodes": [
         "A"
       ],
-      "tx": 145587500,
+      "tx": 145600000,
       "repeater": "GB3JD",
-      "rx": 144987500,
+      "rx": 145000000,
       "ctcss": 103.5,
       "txbw": 12.5,
       "band": "2M",
       "locator": "JO01KE",
-      "dbwErp": 7.8,
+      "dbwErp": 10,
       "extraDetails": {
         "ngr": "TR0247",
         "antennaHeight": 12,
@@ -42754,6 +42705,57 @@
         "ngr": "TR0247",
         "antennaHeight": 12,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6731,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G0NEF",
+      "town": "BRACKNELL",
+      "modeCodes": [
+        "D",
+        "M:3",
+        "F",
+        "N"
+      ],
+      "tx": 434487500,
+      "repeater": "MB6BK",
+      "rx": 434487500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SU8869",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6732,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G0NEF",
+      "town": "BRACKNELL",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145237500,
+      "repeater": "MB7IBK",
+      "rx": 145237500,
+      "ctcss": 118.8,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO91",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SU8869",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
