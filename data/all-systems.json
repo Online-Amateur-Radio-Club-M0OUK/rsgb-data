@@ -3231,30 +3231,6 @@
       }
     },
     {
-      "id": 968,
-      "fac": true,
-      "type": "TV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G0UHY",
-      "town": "TORQUAY",
-      "modeCodes": [
-        "T"
-      ],
-      "tx": 1316000000,
-      "repeater": "GB3TB",
-      "rx": 1249000000,
-      "ctcss": 0,
-      "txbw": 16000,
-      "band": "23CM",
-      "locator": "IO80FM",
-      "dbwErp": 15.6,
-      "extraDetails": {
-        "ngr": "SX9168",
-        "antennaHeight": 15,
-        "polarisation": "H"
-      }
-    },
-    {
       "id": 973,
       "fac": false,
       "type": "TV",
@@ -4318,7 +4294,7 @@
       "id": 2057,
       "fac": false,
       "type": "BN",
-      "status": "OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "G4CJZ",
       "town": "BERKELEY  GLOUCS",
       "modeCodes": [
@@ -4651,30 +4627,6 @@
       }
     },
     {
-      "id": 2083,
-      "fac": false,
-      "type": "BN",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GI6ATZ",
-      "town": "ENNISKILLEN  CO.FERMANAGH",
-      "modeCodes": [
-        "B"
-      ],
-      "tx": 144487000,
-      "repeater": "GB3WGI",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 1,
-      "band": "2M",
-      "locator": "IO64",
-      "dbwErp": 30,
-      "extraDetails": {
-        "ngr": "IH0657",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 2084,
       "fac": false,
       "type": "BN",
@@ -4718,126 +4670,6 @@
       "dbwErp": 20,
       "extraDetails": {
         "ngr": "SP0277",
-        "antennaHeight": 12,
-        "polarisation": "H"
-      }
-    },
-    {
-      "id": 2090,
-      "fac": true,
-      "type": "BN",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G4JNT",
-      "town": "DORSET",
-      "modeCodes": [
-        "B"
-      ],
-      "tx": 5760905000,
-      "repeater": "GB3SCC",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 1.5,
-      "band": "6CM",
-      "locator": "IO80UU",
-      "dbwErp": 8,
-      "extraDetails": {
-        "ngr": "ST8008",
-        "antennaHeight": 12,
-        "polarisation": "H"
-      }
-    },
-    {
-      "id": 2091,
-      "fac": false,
-      "type": "BN",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G4JNT",
-      "town": "DORSET",
-      "modeCodes": [
-        "B"
-      ],
-      "tx": 3400905000,
-      "repeater": "GB3SCF",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 1.5,
-      "band": "9CM",
-      "locator": "IO80UU",
-      "dbwErp": 11,
-      "extraDetails": {
-        "ngr": "ST8008",
-        "antennaHeight": 12,
-        "polarisation": "H"
-      }
-    },
-    {
-      "id": 2092,
-      "fac": false,
-      "type": "BN",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G4JNT",
-      "town": "DORSET",
-      "modeCodes": [
-        "B"
-      ],
-      "tx": 24048905000,
-      "repeater": "GB3SCK",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 2.4,
-      "band": "24GHZ",
-      "locator": "IO80UU",
-      "dbwErp": 11,
-      "extraDetails": {
-        "ngr": "ST8008",
-        "antennaHeight": 12,
-        "polarisation": "H"
-      }
-    },
-    {
-      "id": 2093,
-      "fac": false,
-      "type": "BN",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G4JNT",
-      "town": "DORSET",
-      "modeCodes": [
-        "B"
-      ],
-      "tx": 2320905000,
-      "repeater": "GB3SCS",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 1.5,
-      "band": "13CM",
-      "locator": "IO80UU",
-      "dbwErp": 8,
-      "extraDetails": {
-        "ngr": "ST8008",
-        "antennaHeight": 12,
-        "polarisation": "H"
-      }
-    },
-    {
-      "id": 2094,
-      "fac": false,
-      "type": "BN",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G4JNT",
-      "town": "DORSET",
-      "modeCodes": [
-        "B"
-      ],
-      "tx": 10368905000,
-      "repeater": "GB3SCX",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 1.5,
-      "band": "3CM",
-      "locator": "IO80UU",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "ST8008",
         "antennaHeight": 12,
         "polarisation": "H"
       }
@@ -6603,7 +6435,7 @@
     },
     {
       "id": 2513,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0ZZT",
@@ -6628,7 +6460,7 @@
     },
     {
       "id": 2514,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0ZZT",
@@ -11735,30 +11567,6 @@
         "ngr": "SD5322",
         "antennaHeight": 0,
         "polarisation": ""
-      }
-    },
-    {
-      "id": 3873,
-      "fac": false,
-      "type": "TV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G4TAD",
-      "town": "LOWESTOFT",
-      "modeCodes": [
-        "T"
-      ],
-      "tx": 1316000000,
-      "repeater": "GB3LO",
-      "rx": 1249000000,
-      "ctcss": 0,
-      "txbw": 2000,
-      "band": "23CM",
-      "locator": "JO02UL",
-      "dbwErp": 9,
-      "extraDetails": {
-        "ngr": "TM5492",
-        "antennaHeight": 75,
-        "polarisation": "H"
       }
     },
     {
@@ -31974,7 +31782,7 @@
       "id": 6069,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "GW0GTW",
       "town": "LLANDUDNO",
       "modeCodes": [
@@ -40684,7 +40492,7 @@
       "id": 6625,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G3EWE",
       "town": "WINCHESTER",
       "modeCodes": [
@@ -42756,6 +42564,30 @@
         "ngr": "SU8869",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6733,
+      "fac": true,
+      "type": "PX",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G7KSE",
+      "town": "ST BEES",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144925000,
+      "repeater": "GB7KSE",
+      "rx": 144925000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO84EL",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NX9711",
+        "antennaHeight": 8,
+        "polarisation": "V"
       }
     }
   ]
