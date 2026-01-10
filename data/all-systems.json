@@ -1981,7 +1981,7 @@
     },
     {
       "id": 827,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G3YXZ",
@@ -1993,7 +1993,7 @@
       "repeater": "GB3HR",
       "rx": 434950000,
       "ctcss": 82.5,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO91TO",
       "dbwErp": 10.9,
@@ -4339,30 +4339,6 @@
       }
     },
     {
-      "id": 2059,
-      "fac": false,
-      "type": "BN",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G4HJW",
-      "town": "WYTON  CAMBS",
-      "modeCodes": [
-        "B"
-      ],
-      "tx": 10368750000,
-      "repeater": "GB3CAM",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 2.4,
-      "band": "3CM",
-      "locator": "IO92WI",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TL2873",
-        "antennaHeight": 30,
-        "polarisation": "H"
-      }
-    },
-    {
       "id": 2061,
       "fac": false,
       "type": "BN",
@@ -4388,7 +4364,7 @@
     },
     {
       "id": 2064,
-      "fac": false,
+      "fac": true,
       "type": "BN",
       "status": "OPERATIONAL",
       "keeperCallsign": "GM6BIG",
@@ -4670,6 +4646,126 @@
       "dbwErp": 20,
       "extraDetails": {
         "ngr": "SP0277",
+        "antennaHeight": 12,
+        "polarisation": "H"
+      }
+    },
+    {
+      "id": 2090,
+      "fac": true,
+      "type": "BN",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G4JNT",
+      "town": "DORSET",
+      "modeCodes": [
+        "B"
+      ],
+      "tx": 5760905000,
+      "repeater": "GB3SCC",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 1.5,
+      "band": "6CM",
+      "locator": "IO80UU",
+      "dbwErp": 8,
+      "extraDetails": {
+        "ngr": "ST8008",
+        "antennaHeight": 12,
+        "polarisation": "H"
+      }
+    },
+    {
+      "id": 2091,
+      "fac": true,
+      "type": "BN",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G4JNT",
+      "town": "DORSET",
+      "modeCodes": [
+        "B"
+      ],
+      "tx": 3400905000,
+      "repeater": "GB3SCF",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 1.5,
+      "band": "9CM",
+      "locator": "IO80UU",
+      "dbwErp": 11,
+      "extraDetails": {
+        "ngr": "ST8008",
+        "antennaHeight": 12,
+        "polarisation": "H"
+      }
+    },
+    {
+      "id": 2092,
+      "fac": true,
+      "type": "BN",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G4JNT",
+      "town": "DORSET",
+      "modeCodes": [
+        "B"
+      ],
+      "tx": 24048905000,
+      "repeater": "GB3SCK",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 2.4,
+      "band": "24GHZ",
+      "locator": "IO80UU",
+      "dbwErp": 11,
+      "extraDetails": {
+        "ngr": "ST8008",
+        "antennaHeight": 12,
+        "polarisation": "H"
+      }
+    },
+    {
+      "id": 2093,
+      "fac": true,
+      "type": "BN",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G4JNT",
+      "town": "DORSET",
+      "modeCodes": [
+        "B"
+      ],
+      "tx": 2320905000,
+      "repeater": "GB3SCS",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 1.5,
+      "band": "13CM",
+      "locator": "IO80UU",
+      "dbwErp": 8,
+      "extraDetails": {
+        "ngr": "ST8008",
+        "antennaHeight": 12,
+        "polarisation": "H"
+      }
+    },
+    {
+      "id": 2094,
+      "fac": true,
+      "type": "BN",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G4JNT",
+      "town": "DORSET",
+      "modeCodes": [
+        "B"
+      ],
+      "tx": 10368905000,
+      "repeater": "GB3SCX",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 1.5,
+      "band": "3CM",
+      "locator": "IO80UU",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "ST8008",
         "antennaHeight": 12,
         "polarisation": "H"
       }
@@ -9579,30 +9675,6 @@
       "extraDetails": {
         "ngr": "SU4711",
         "antennaHeight": 49,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 3381,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G4ZPZ",
-      "town": "DUKINFIELD",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430900000,
-      "repeater": "GB3PZ",
-      "rx": 438500000,
-      "ctcss": 82.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO83XL",
-      "dbwErp": 11,
-      "extraDetails": {
-        "ngr": "SJ9596",
-        "antennaHeight": 6,
         "polarisation": "V"
       }
     },
@@ -19717,7 +19789,7 @@
     },
     {
       "id": 4993,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G7FBD",
@@ -42588,6 +42660,30 @@
         "ngr": "NX9711",
         "antennaHeight": 8,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6734,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GW0KAX",
+      "town": "ABERKENFIG",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "MB7UMR",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "IO81",
+      "dbwErp": -7,
+      "extraDetails": {
+        "ngr": "SS8884",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
