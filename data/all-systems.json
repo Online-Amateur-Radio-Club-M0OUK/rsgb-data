@@ -1047,7 +1047,7 @@
     },
     {
       "id": 711,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "MM0YET",
@@ -2463,7 +2463,7 @@
     },
     {
       "id": 884,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G7KBR",
@@ -8408,7 +8408,7 @@
     },
     {
       "id": 3064,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G7KBR",
@@ -32027,7 +32027,7 @@
       "id": 6099,
       "fac": true,
       "type": "AP",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM5JET",
       "town": "NAIRN",
       "modeCodes": [
