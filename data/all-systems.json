@@ -1626,7 +1626,7 @@
       "id": 791,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4RKY",
       "town": "SOMERSET",
       "modeCodes": [
@@ -4335,6 +4335,30 @@
       "extraDetails": {
         "ngr": "SK0669",
         "antennaHeight": 7,
+        "polarisation": "H"
+      }
+    },
+    {
+      "id": 2059,
+      "fac": true,
+      "type": "BN",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G4HJW",
+      "town": "WYTON  CAMBS",
+      "modeCodes": [
+        "B"
+      ],
+      "tx": 10368750000,
+      "repeater": "GB3CAM",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 2.4,
+      "band": "3CM",
+      "locator": "IO92WI",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TL2873",
+        "antennaHeight": 30,
         "polarisation": "H"
       }
     },
@@ -8634,7 +8658,7 @@
       "id": 3140,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4WVD",
       "town": "ROCHE",
       "modeCodes": [
@@ -8731,7 +8755,7 @@
       "id": 3164,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4WVD",
       "town": "ROCHE",
       "modeCodes": [
@@ -30397,7 +30421,7 @@
       "id": 5944,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M1AEG",
       "town": "ROCHE",
       "modeCodes": [
@@ -36637,7 +36661,7 @@
       "id": 6402,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MM3DDQ",
       "town": "DALRY",
       "modeCodes": [
@@ -38933,7 +38957,7 @@
       "id": 6531,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M8DHT",
       "town": "CHORLEY",
       "modeCodes": [
@@ -42233,7 +42257,7 @@
       "id": 6714,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM3DDQ",
       "town": "EAST KILBRIDE",
       "modeCodes": [
@@ -42684,6 +42708,124 @@
         "ngr": "SS8884",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6735,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM7LUN",
+      "town": "SELKIRK",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 70362500,
+      "repeater": "MB7ISB",
+      "rx": 70362500,
+      "ctcss": 118.8,
+      "txbw": 12.5,
+      "band": "4M",
+      "locator": "IO85",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NT5029",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6736,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM7LUN",
+      "town": "GALASHIELS",
+      "modeCodes": null,
+      "tx": 145237500,
+      "repeater": "MB7IGA",
+      "rx": 145237500,
+      "ctcss": 118.8,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO85",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NT4936",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6737,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM7LUN",
+      "town": "DUNS",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 70412500,
+      "repeater": "MB7IBA",
+      "rx": 70412500,
+      "ctcss": 118.8,
+      "txbw": 12.5,
+      "band": "4M",
+      "locator": "IO85",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NT7354",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6739,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "MW3ASG",
+      "town": "CARDIFF",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MW3ASG",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO81KM",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "ST2482",
+        "antennaHeight": 9,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6740,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "MW3ASG",
+      "town": "CARDIFF",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "MW3ASG",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "IO81KM",
+      "dbwErp": -7,
+      "extraDetails": {
+        "ngr": "ST2482",
+        "antennaHeight": 9,
+        "polarisation": "V"
       }
     }
   ]
