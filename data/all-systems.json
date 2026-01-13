@@ -14279,54 +14279,6 @@
       }
     },
     {
-      "id": 4249,
-      "fac": true,
-      "type": "PN",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GM7LUN",
-      "town": "GALASHIELS",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 432650000,
-      "repeater": "MB7NLS",
-      "rx": 432650000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO85",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NT4635",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 4250,
-      "fac": true,
-      "type": "PN",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GM7LUN",
-      "town": "GALASHIELS",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 439900000,
-      "repeater": "MB7NLS",
-      "rx": 430200000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO85",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NT4635",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 4254,
       "fac": true,
       "type": "DG",
@@ -19132,7 +19084,7 @@
       "id": 4911,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "G0DZZ",
       "town": "GREAT CLACTON",
       "modeCodes": [
@@ -42519,7 +42471,7 @@
       "id": 6727,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M7OMH",
       "town": "BRADFORD",
       "modeCodes": [
@@ -42781,6 +42733,31 @@
       }
     },
     {
+      "id": 6738,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM7LUN",
+      "town": "GALASHIELS",
+      "modeCodes": [
+        "A",
+        "F"
+      ],
+      "tx": 430812500,
+      "repeater": "GB7GA",
+      "rx": 438412500,
+      "ctcss": 118.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO85",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NT4936",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
       "id": 6739,
       "fac": true,
       "type": "AP",
@@ -42825,6 +42802,30 @@
       "extraDetails": {
         "ngr": "ST2482",
         "antennaHeight": 9,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6741,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M9SJW",
+      "town": "BUSHEY",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430037500,
+      "repeater": "MB7IJW",
+      "rx": 430037500,
+      "ctcss": 118.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91TP",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TQ1494",
+        "antennaHeight": 10,
         "polarisation": "V"
       }
     }
