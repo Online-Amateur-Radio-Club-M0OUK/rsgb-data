@@ -8755,7 +8755,7 @@
       "id": 3164,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4WVD",
       "town": "ROCHE",
       "modeCodes": [
@@ -28797,30 +28797,6 @@
       }
     },
     {
-      "id": 5793,
-      "fac": true,
-      "type": "AV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G8PYT",
-      "town": "ROWLEY REGIS",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 1297100000,
-      "repeater": "GB3RM",
-      "rx": 1291100000,
-      "ctcss": 67,
-      "txbw": 25,
-      "band": "23CM",
-      "locator": "IO82",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SO9687",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 5794,
       "fac": true,
       "type": "DG",
@@ -41321,6 +41297,30 @@
       }
     },
     {
+      "id": 6666,
+      "fac": true,
+      "type": "AV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G8PYT",
+      "town": "ROWLEY REGIS",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 1297100000,
+      "repeater": "GB3RM",
+      "rx": 1257100000,
+      "ctcss": 67,
+      "txbw": 25,
+      "band": "23CM",
+      "locator": "IO82",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SO9687",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
       "id": 6668,
       "fac": true,
       "type": "AP",
@@ -42042,7 +42042,7 @@
       "id": 6707,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M5TDC",
       "town": "ROTHERHAM",
       "modeCodes": [
