@@ -3738,30 +3738,6 @@
       }
     },
     {
-      "id": 1034,
-      "fac": false,
-      "type": "TV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G3GJA",
-      "town": "HULL",
-      "modeCodes": [
-        "T"
-      ],
-      "tx": 10065000000,
-      "repeater": "GB3XY",
-      "rx": 10315000000,
-      "ctcss": 0,
-      "txbw": 1500,
-      "band": "3CM",
-      "locator": "IO93RS",
-      "dbwErp": 10.5,
-      "extraDetails": {
-        "ngr": "SE9532",
-        "antennaHeight": 18,
-        "polarisation": "H"
-      }
-    },
-    {
       "id": 1037,
       "fac": true,
       "type": "AV",
@@ -28135,30 +28111,6 @@
       }
     },
     {
-      "id": 5736,
-      "fac": true,
-      "type": "PX",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "2E0PHR",
-      "town": "LANGLEY",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144937500,
-      "repeater": "GB7LAN",
-      "rx": 144937500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO91RM",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SU9979",
-        "antennaHeight": 7,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5739,
       "fac": true,
       "type": "DG",
@@ -31336,30 +31288,6 @@
       "extraDetails": {
         "ngr": "SU6153",
         "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 6034,
-      "fac": true,
-      "type": "PX",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "2E0PHR",
-      "town": "SLOUGH",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 432675000,
-      "repeater": "GB7LAN",
-      "rx": 432675000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO91RM",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SU9979",
-        "antennaHeight": 7,
         "polarisation": "V"
       }
     },
