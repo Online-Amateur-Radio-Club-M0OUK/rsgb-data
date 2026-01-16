@@ -4603,30 +4603,6 @@
       }
     },
     {
-      "id": 2084,
-      "fac": false,
-      "type": "BN",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G0MBA",
-      "town": "POINT CLEAR ST.OSYTH",
-      "modeCodes": [
-        "B"
-      ],
-      "tx": 10368945000,
-      "repeater": "GB3PKT",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 1.5,
-      "band": "3CM",
-      "locator": "JO01MT",
-      "dbwErp": 3,
-      "extraDetails": {
-        "ngr": "TM0815",
-        "antennaHeight": 12,
-        "polarisation": "H"
-      }
-    },
-    {
       "id": 2086,
       "fac": false,
       "type": "BN",
@@ -7162,7 +7138,7 @@
     },
     {
       "id": 2709,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GI6DKQ",
@@ -13352,30 +13328,6 @@
       }
     },
     {
-      "id": 4127,
-      "fac": false,
-      "type": "TV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G7KPM",
-      "town": "CAISTOR",
-      "modeCodes": [
-        "T"
-      ],
-      "tx": 3404000000,
-      "repeater": "GB3CT",
-      "rx": 2435000000,
-      "ctcss": 0,
-      "txbw": 2000,
-      "band": "9CM",
-      "locator": "IO93UM",
-      "dbwErp": 15.5,
-      "extraDetails": {
-        "ngr": "TA1201",
-        "antennaHeight": 10,
-        "polarisation": "H"
-      }
-    },
-    {
       "id": 4129,
       "fac": true,
       "type": "DV",
@@ -15756,7 +15708,7 @@
       "id": 4434,
       "fac": false,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0UEM",
       "town": "BIRMINGHAM",
       "modeCodes": [
@@ -38685,30 +38637,6 @@
       "extraDetails": {
         "ngr": "SS2624",
         "antennaHeight": 11,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 6523,
-      "fac": true,
-      "type": "PX",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GM5AUG",
-      "town": "STORNOWAY",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144950000,
-      "repeater": "GB7STO",
-      "rx": 144950000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO68TF",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NB4135",
-        "antennaHeight": 8,
         "polarisation": "V"
       }
     },
