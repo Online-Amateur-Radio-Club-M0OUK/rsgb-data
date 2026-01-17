@@ -3738,6 +3738,30 @@
       }
     },
     {
+      "id": 1034,
+      "fac": true,
+      "type": "TV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G3GJA",
+      "town": "HULL",
+      "modeCodes": [
+        "T"
+      ],
+      "tx": 10065000000,
+      "repeater": "GB3XY",
+      "rx": 10315000000,
+      "ctcss": 0,
+      "txbw": 1500,
+      "band": "3CM",
+      "locator": "IO93RS",
+      "dbwErp": 10.5,
+      "extraDetails": {
+        "ngr": "SE9532",
+        "antennaHeight": 18,
+        "polarisation": "H"
+      }
+    },
+    {
       "id": 1037,
       "fac": true,
       "type": "AV",
@@ -4599,6 +4623,30 @@
       "extraDetails": {
         "ngr": "TM2544",
         "antennaHeight": 65,
+        "polarisation": "H"
+      }
+    },
+    {
+      "id": 2084,
+      "fac": true,
+      "type": "BN",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G0MBA",
+      "town": "POINT CLEAR ST.OSYTH",
+      "modeCodes": [
+        "B"
+      ],
+      "tx": 10368945000,
+      "repeater": "GB3PKT",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 1.5,
+      "band": "3CM",
+      "locator": "JO01MT",
+      "dbwErp": 3,
+      "extraDetails": {
+        "ngr": "TM0815",
+        "antennaHeight": 12,
         "polarisation": "H"
       }
     },
@@ -13325,6 +13373,30 @@
         "ngr": "SO6077",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 4127,
+      "fac": true,
+      "type": "TV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G7KPM",
+      "town": "CAISTOR",
+      "modeCodes": [
+        "T"
+      ],
+      "tx": 3404000000,
+      "repeater": "GB3CT",
+      "rx": 2435000000,
+      "ctcss": 0,
+      "txbw": 2000,
+      "band": "9CM",
+      "locator": "IO93UM",
+      "dbwErp": 15.5,
+      "extraDetails": {
+        "ngr": "TA1201",
+        "antennaHeight": 10,
+        "polarisation": "H"
       }
     },
     {
