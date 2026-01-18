@@ -1526,7 +1526,7 @@
     },
     {
       "id": 780,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "M1DOZ",
@@ -10119,7 +10119,7 @@
       "id": 3523,
       "fac": false,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MM1BJO",
       "town": "DALKEITH",
       "modeCodes": [
@@ -42546,7 +42546,7 @@
       "id": 6733,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7KSE",
       "town": "ST BEES",
       "modeCodes": [
