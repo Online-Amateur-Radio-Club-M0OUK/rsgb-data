@@ -3040,7 +3040,7 @@
     },
     {
       "id": 950,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0ECX",
@@ -3052,10 +3052,10 @@
       "repeater": "GB3SD",
       "rx": 434950000,
       "ctcss": 71.9,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO80SQ",
-      "dbwErp": 13,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SY6785",
         "antennaHeight": 16,
@@ -4359,30 +4359,6 @@
       "extraDetails": {
         "ngr": "TL2873",
         "antennaHeight": 30,
-        "polarisation": "H"
-      }
-    },
-    {
-      "id": 2061,
-      "fac": false,
-      "type": "BN",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GI0GDP",
-      "town": "CARRICKFERGUS",
-      "modeCodes": [
-        "B"
-      ],
-      "tx": 70027000,
-      "repeater": "GB3CFG",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 1,
-      "band": "4M",
-      "locator": "IO74BS",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "IJ3892",
-        "antennaHeight": 15,
         "polarisation": "H"
       }
     },
@@ -19713,7 +19689,7 @@
     },
     {
       "id": 4989,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0NFI",
@@ -28966,30 +28942,6 @@
       }
     },
     {
-      "id": 5810,
-      "fac": true,
-      "type": "AV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G4TAD",
-      "town": "GREAT YARMOUTH",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430837500,
-      "repeater": "GB3JS",
-      "rx": 438437500,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO02UO",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TG5105",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5811,
       "fac": true,
       "type": "DG",
@@ -37141,7 +37093,7 @@
       "id": 6437,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4TAD",
       "town": "GREAT YARMOUTH",
       "modeCodes": [
@@ -42754,6 +42706,33 @@
       "extraDetails": {
         "ngr": "TQ1494",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6742,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0YGL",
+      "town": "BLETCHLEY",
+      "modeCodes": [
+        "A",
+        "D",
+        "M:1",
+        "F"
+      ],
+      "tx": 430937500,
+      "repeater": "GB7TK",
+      "rx": 438537500,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91PX",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SP8631",
+        "antennaHeight": 6,
         "polarisation": "V"
       }
     }
