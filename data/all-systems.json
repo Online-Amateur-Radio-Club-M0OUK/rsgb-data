@@ -1381,7 +1381,7 @@
     },
     {
       "id": 761,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G1BHM",
@@ -3017,12 +3017,13 @@
     {
       "id": 948,
       "fac": true,
-      "type": "AV",
+      "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "GM7LUN",
       "town": "SELKIRK",
       "modeCodes": [
-        "A"
+        "A",
+        "F"
       ],
       "tx": 145650000,
       "repeater": "GB3SB",
@@ -13205,7 +13206,7 @@
     },
     {
       "id": 4115,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GI0VKP",
@@ -13222,7 +13223,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO74",
-      "dbwErp": 4.7,
+      "dbwErp": 4.8,
       "extraDetails": {
         "ngr": "IJ4664",
         "antennaHeight": 0,
@@ -19864,7 +19865,7 @@
     },
     {
       "id": 5007,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0GMB",
@@ -34932,30 +34933,6 @@
       }
     },
     {
-      "id": 6306,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0PTN",
-      "town": "REDDITCH",
-      "modeCodes": [
-        "M:1"
-      ],
-      "tx": 431187500,
-      "repeater": "MB6DU",
-      "rx": 431187500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO92",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SP0170",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6307,
       "fac": true,
       "type": "TV",
@@ -35746,30 +35723,6 @@
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "SU8069",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 6356,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0PTN",
-      "town": "REDDITCH",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430100000,
-      "repeater": "MB7IXO",
-      "rx": 430100000,
-      "ctcss": 67,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO92",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SP0368",
         "antennaHeight": 0,
         "polarisation": ""
       }
@@ -42734,6 +42687,30 @@
         "ngr": "SP8631",
         "antennaHeight": 6,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6744,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0PTN",
+      "town": "REDDITCH",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430100000,
+      "repeater": "MB7IXO",
+      "rx": 430100000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO92",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SP0170",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
