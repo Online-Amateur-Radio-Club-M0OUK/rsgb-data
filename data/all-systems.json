@@ -1744,7 +1744,7 @@
     },
     {
       "id": 800,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GD4HOZ",
@@ -2077,7 +2077,7 @@
     },
     {
       "id": 836,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GD4HOZ",
@@ -2101,7 +2101,7 @@
     },
     {
       "id": 837,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GD4HOZ",
@@ -2125,7 +2125,7 @@
     },
     {
       "id": 838,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GD4HOZ",
@@ -2137,7 +2137,7 @@
       "repeater": "GB3IM-S",
       "rx": 434725000,
       "ctcss": 110.9,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO74SG",
       "dbwErp": 10,
@@ -4437,7 +4437,7 @@
     },
     {
       "id": 2071,
-      "fac": false,
+      "fac": true,
       "type": "BN",
       "status": "OPERATIONAL",
       "keeperCallsign": "G3AAF",
@@ -12109,7 +12109,7 @@
       "id": 3958,
       "fac": true,
       "type": "DM",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM7RYR",
       "town": "EDINBURGH",
       "modeCodes": [
@@ -19709,33 +19709,6 @@
       "dbwErp": 10,
       "extraDetails": {
         "ngr": "SJ4396",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 4990,
-      "fac": true,
-      "type": "DM",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GM7LUN",
-      "town": "GALASHIELS",
-      "modeCodes": [
-        "A",
-        "D",
-        "M:1",
-        "F"
-      ],
-      "tx": 430900000,
-      "repeater": "GB7GA",
-      "rx": 438500000,
-      "ctcss": 118.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO85",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NT4936",
         "antennaHeight": 0,
         "polarisation": ""
       }
@@ -40771,7 +40744,7 @@
       "id": 6649,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G3MYK",
       "town": "NEWTON ABBOT ",
       "modeCodes": [
