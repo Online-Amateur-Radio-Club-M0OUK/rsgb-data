@@ -4101,7 +4101,7 @@
     },
     {
       "id": 1165,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G1SYG",
@@ -42682,6 +42682,30 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "SP0170",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6745,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G8CAP",
+      "town": "DENTON",
+      "modeCodes": [
+        "3"
+      ],
+      "tx": 431087500,
+      "repeater": "MB6TR",
+      "rx": 431087500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SJ9394",
         "antennaHeight": 0,
         "polarisation": ""
       }
