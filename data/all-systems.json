@@ -1073,7 +1073,7 @@
       "id": 713,
       "fac": false,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GW0UXJ",
       "town": "PONTYPRIDD",
       "modeCodes": [
@@ -26479,12 +26479,15 @@
     {
       "id": 5605,
       "fac": true,
-      "type": "AV",
+      "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0LMN",
       "town": "HASLINGDEN",
       "modeCodes": [
-        "A"
+        "A",
+        "F",
+        "M:3",
+        "D"
       ],
       "tx": 145737500,
       "repeater": "GB3RV",
@@ -29493,30 +29496,6 @@
         "ngr": "SJ3778",
         "antennaHeight": 15,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 5879,
-      "fac": true,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G1BHM",
-      "town": "BUDE",
-      "modeCodes": [
-        "M:1"
-      ],
-      "tx": 430962500,
-      "repeater": "GB3BU",
-      "rx": 438562500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO70",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SS2105",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -40648,7 +40627,7 @@
       "id": 6643,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G1BHM",
       "town": "BUDE",
       "modeCodes": [
@@ -42708,6 +42687,79 @@
         "ngr": "SJ9394",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6746,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M9JAK",
+      "town": "LEIGHTON BUZZARD",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430025000,
+      "repeater": "MB7IJB",
+      "rx": 0,
+      "ctcss": 67,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SP9320",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6747,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0TVA",
+      "town": "TWYFORD",
+      "modeCodes": [
+        "A",
+        "M:1"
+      ],
+      "tx": 430850000,
+      "repeater": "MB0TWY",
+      "rx": 438450000,
+      "ctcss": 118.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91NL",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "SU7877",
+        "antennaHeight": 9,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6748,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G1BHM",
+      "town": "BUDE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430962500,
+      "repeater": "GB3BU",
+      "rx": 438562500,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO70RT",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SS2306",
+        "antennaHeight": 12,
+        "polarisation": "V"
       }
     }
   ]
