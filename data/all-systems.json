@@ -2487,7 +2487,7 @@
     },
     {
       "id": 890,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G8LZO",
@@ -2499,7 +2499,7 @@
       "repeater": "GB3MR",
       "rx": 434950000,
       "ctcss": 82.5,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO83XH",
       "dbwErp": 10.4,
@@ -4509,7 +4509,7 @@
     },
     {
       "id": 2076,
-      "fac": false,
+      "fac": true,
       "type": "BN",
       "status": "OPERATIONAL",
       "keeperCallsign": "G3TQF",
@@ -4557,7 +4557,7 @@
     },
     {
       "id": 2080,
-      "fac": false,
+      "fac": true,
       "type": "BN",
       "status": "OPERATIONAL",
       "keeperCallsign": "G7KFQ",
@@ -5085,7 +5085,7 @@
     },
     {
       "id": 2192,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0RAS",
@@ -13748,7 +13748,7 @@
       "id": 4165,
       "fac": false,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0VGS",
       "town": "MORECAMBE",
       "modeCodes": [
@@ -31573,14 +31573,14 @@
       "modeCodes": [
         "A"
       ],
-      "tx": 438350000,
+      "tx": 438387500,
       "repeater": "GB3RY",
-      "rx": 430750000,
+      "rx": 430787500,
       "ctcss": 77,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO81",
-      "dbwErp": 14,
+      "dbwErp": 11.8,
       "extraDetails": {
         "ngr": "ST4457",
         "antennaHeight": 0,
@@ -40651,7 +40651,7 @@
       "id": 6646,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0XRD",
       "town": "SHORTSTOWN",
       "modeCodes": [
@@ -42759,6 +42759,30 @@
       "extraDetails": {
         "ngr": "SS2306",
         "antennaHeight": 12,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6749,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G0VGS",
+      "town": "LANCASTER",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 439700000,
+      "repeater": "GB7MB",
+      "rx": 430700000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO84OA",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SD4857",
+        "antennaHeight": 14,
         "polarisation": "V"
       }
     }
