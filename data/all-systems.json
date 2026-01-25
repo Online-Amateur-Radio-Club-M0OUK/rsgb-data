@@ -1073,7 +1073,7 @@
       "id": 713,
       "fac": false,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GW0UXJ",
       "town": "PONTYPRIDD",
       "modeCodes": [
@@ -12326,30 +12326,6 @@
       }
     },
     {
-      "id": 3983,
-      "fac": false,
-      "type": "AV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G1MAW",
-      "town": "CHELTENHAM",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430862500,
-      "repeater": "GB3RC",
-      "rx": 438462500,
-      "ctcss": 103.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SO9924",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 3987,
       "fac": true,
       "type": "DD",
@@ -13745,30 +13721,6 @@
       }
     },
     {
-      "id": 4165,
-      "fac": false,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G0VGS",
-      "town": "MORECAMBE",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 439700000,
-      "repeater": "GB7MB",
-      "rx": 430700000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO84",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SD4464",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 4166,
       "fac": true,
       "type": "AG",
@@ -14277,31 +14229,6 @@
         "ngr": "SE5369",
         "antennaHeight": 6,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 4255,
-      "fac": true,
-      "type": "DM",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G1MAW",
-      "town": "HEREFORD",
-      "modeCodes": [
-        "A",
-        "M:5"
-      ],
-      "tx": 439525000,
-      "repeater": "GB7HC",
-      "rx": 430525000,
-      "ctcss": 118.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO82",
-      "dbwErp": 9,
-      "extraDetails": {
-        "ngr": "SO5236",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -17857,7 +17784,7 @@
       "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G0FHM",
+      "keeperCallsign": "G5CBX",
       "town": "DOWNHAM MARKET",
       "modeCodes": [
         "A",
@@ -31573,9 +31500,9 @@
       "modeCodes": [
         "A"
       ],
-      "tx": 438387500,
+      "tx": 430987500,
       "repeater": "GB3RY",
-      "rx": 430787500,
+      "rx": 438587500,
       "ctcss": 77,
       "txbw": 12.5,
       "band": "70CM",
@@ -32017,7 +31944,7 @@
       "txbw": 125,
       "band": "70CM",
       "locator": "IO91LK",
-      "dbwErp": -10,
+      "dbwErp": -7,
       "extraDetails": {
         "ngr": "SU6772",
         "antennaHeight": 7,
@@ -38674,7 +38601,7 @@
       "keeperCallsign": "M8DHT",
       "town": "CHORLEY",
       "modeCodes": [
-        "M:1"
+        "M"
       ],
       "tx": 431137500,
       "repeater": "MB6JB",
@@ -42783,6 +42710,54 @@
       "extraDetails": {
         "ngr": "SD4857",
         "antennaHeight": 14,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6750,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4PZK",
+      "town": "CREDITON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430850000,
+      "repeater": "GB3MD",
+      "rx": 438450000,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO80",
+      "dbwErp": 11.8,
+      "extraDetails": {
+        "ngr": "SS6906",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6751,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4CSX",
+      "town": "PRESTON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430075000,
+      "repeater": "G4CSX",
+      "rx": 430075000,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83QR",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SD5724",
+        "antennaHeight": 8,
         "polarisation": "V"
       }
     }
