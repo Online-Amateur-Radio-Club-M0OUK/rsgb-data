@@ -4388,30 +4388,6 @@
       }
     },
     {
-      "id": 2065,
-      "fac": false,
-      "type": "BN",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G3ZFP",
-      "town": "CADDINGTON  LUTON",
-      "modeCodes": [
-        "B"
-      ],
-      "tx": 1296890000,
-      "repeater": "GB3DUN",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 2.4,
-      "band": "23CM",
-      "locator": "IO91",
-      "dbwErp": 16,
-      "extraDetails": {
-        "ngr": "TL0421",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 2067,
       "fac": false,
       "type": "BN",
@@ -20350,30 +20326,6 @@
       }
     },
     {
-      "id": 5067,
-      "fac": false,
-      "type": "AV",
-      "status": "REDUCED OUTPUT",
-      "keeperCallsign": "G8NDT",
-      "town": "BIRMINGHAM",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 1297150000,
-      "repeater": "GB3MM",
-      "rx": 1291150000,
-      "ctcss": 67,
-      "txbw": 25,
-      "band": "23CM",
-      "locator": "IO82XP",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SP0785",
-        "antennaHeight": 60,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5068,
       "fac": true,
       "type": "AG",
@@ -30157,7 +30109,7 @@
       "id": 5944,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M1AEG",
       "town": "ROCHE",
       "modeCodes": [
@@ -38163,7 +38115,7 @@
       "id": 6508,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G8NAI",
       "town": "LONGTON",
       "modeCodes": [
@@ -41275,30 +41227,6 @@
       }
     },
     {
-      "id": 6680,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G1MAW",
-      "town": "NEWTOWN",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 433100000,
-      "repeater": "GB3UW",
-      "rx": 434700000,
-      "ctcss": 103.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO82",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SO0587",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6681,
       "fac": true,
       "type": "AG",
@@ -42569,6 +42497,30 @@
       }
     },
     {
+      "id": 6743,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G8NDT",
+      "town": "BIRMINGHAM",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 1297150000,
+      "repeater": "GB3MM",
+      "rx": 1257150000,
+      "ctcss": 67,
+      "txbw": 25,
+      "band": "23CM",
+      "locator": "IO82",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SP0785",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
       "id": 6744,
       "fac": true,
       "type": "AG",
@@ -42596,7 +42548,7 @@
       "id": 6745,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G8CAP",
       "town": "DENTON",
       "modeCodes": [
