@@ -4220,30 +4220,6 @@
       }
     },
     {
-      "id": 2053,
-      "fac": true,
-      "type": "BN",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GM4ZUK",
-      "town": "TEALING  ANGUS",
-      "modeCodes": [
-        "B"
-      ],
-      "tx": 70020000,
-      "repeater": "GB3ANG",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 1,
-      "band": "4M",
-      "locator": "IO86MN",
-      "dbwErp": 20,
-      "extraDetails": {
-        "ngr": "NO3940",
-        "antennaHeight": 15,
-        "polarisation": "H"
-      }
-    },
-    {
       "id": 2054,
       "fac": false,
       "type": "BN",
@@ -11847,30 +11823,6 @@
         "ngr": "NT4436",
         "antennaHeight": 0,
         "polarisation": ""
-      }
-    },
-    {
-      "id": 3921,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "2E0CUB",
-      "town": "ST IVES",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 144812500,
-      "repeater": "MB6DH",
-      "rx": 144812500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO92WI",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TL2873",
-        "antennaHeight": 6,
-        "polarisation": "V"
       }
     },
     {
@@ -29303,7 +29255,11 @@
       "band": "70CM",
       "locator": "IO82WM",
       "dbwErp": 7,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "SO9292",
+        "antennaHeight": 5,
+        "polarisation": "V"
+      }
     },
     {
       "id": 5872,
