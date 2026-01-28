@@ -4212,11 +4212,35 @@
       "txbw": 2.4,
       "band": "24GHZ",
       "locator": "IO81",
-      "dbwErp": -3,
+      "dbwErp": 10,
       "extraDetails": {
         "ngr": "ST1885",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 2053,
+      "fac": true,
+      "type": "BN",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "GM4ZUK",
+      "town": "TEALING  ANGUS",
+      "modeCodes": [
+        "B"
+      ],
+      "tx": 70020000,
+      "repeater": "GB3ANG",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 1,
+      "band": "4M",
+      "locator": "IO86MN",
+      "dbwErp": 20,
+      "extraDetails": {
+        "ngr": "NO3940",
+        "antennaHeight": 15,
+        "polarisation": "H"
       }
     },
     {
@@ -4364,6 +4388,30 @@
       }
     },
     {
+      "id": 2065,
+      "fac": true,
+      "type": "BN",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G3ZFP",
+      "town": "CADDINGTON  LUTON",
+      "modeCodes": [
+        "B"
+      ],
+      "tx": 1296890000,
+      "repeater": "GB3DUN",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 2.4,
+      "band": "23CM",
+      "locator": "IO91",
+      "dbwErp": 16,
+      "extraDetails": {
+        "ngr": "TL0421",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
       "id": 2067,
       "fac": false,
       "type": "BN",
@@ -4408,30 +4456,6 @@
       "extraDetails": {
         "ngr": "SE7407",
         "antennaHeight": 10,
-        "polarisation": "H"
-      }
-    },
-    {
-      "id": 2074,
-      "fac": false,
-      "type": "BN",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G3TQF",
-      "town": "MARKFIELD  LEICS",
-      "modeCodes": [
-        "B"
-      ],
-      "tx": 3400955000,
-      "repeater": "GB3LEF",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 1.5,
-      "band": "9CM",
-      "locator": "IO92IQ",
-      "dbwErp": 8,
-      "extraDetails": {
-        "ngr": "SK4810",
-        "antennaHeight": 12,
         "polarisation": "H"
       }
     },
@@ -10048,7 +10072,7 @@
       "id": 3523,
       "fac": false,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM1BJO",
       "town": "DALKEITH",
       "modeCodes": [
@@ -11592,6 +11616,30 @@
         "ngr": "SD5322",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 3873,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4TAD",
+      "town": "LOWESTOFT",
+      "modeCodes": [
+        "D"
+      ],
+      "tx": 1297350000,
+      "repeater": "GB3LO",
+      "rx": 1257350000,
+      "ctcss": 94.8,
+      "txbw": 25,
+      "band": "23CM",
+      "locator": "JO02UL",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TM5492",
+        "antennaHeight": 75,
+        "polarisation": "V"
       }
     },
     {
@@ -40893,30 +40941,6 @@
       }
     },
     {
-      "id": 6665,
-      "fac": true,
-      "type": "AV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G4EBD",
-      "town": "POOLE",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430837500,
-      "repeater": "G4EBD",
-      "rx": 438437500,
-      "ctcss": 71.9,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO90AR",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SZ0292",
-        "antennaHeight": 9,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6666,
       "fac": true,
       "type": "AV",
@@ -42666,6 +42690,30 @@
       "extraDetails": {
         "ngr": "SD5724",
         "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6753,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4EBD",
+      "town": "CORFE MULLEN",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430837500,
+      "repeater": "G4EBD",
+      "rx": 438437500,
+      "ctcss": 71.9,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO80XS",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SY9895",
+        "antennaHeight": 10,
         "polarisation": "V"
       }
     }
