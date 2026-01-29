@@ -38236,30 +38236,6 @@
       }
     },
     {
-      "id": 6514,
-      "fac": true,
-      "type": "AV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G4KFK",
-      "town": "BRACKNELL",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430875000,
-      "repeater": "G4KFK",
-      "rx": 438475000,
-      "ctcss": 118.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO91PK",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SU8770",
-        "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6515,
       "fac": true,
       "type": "AG",
