@@ -13725,7 +13725,7 @@
       "fac": false,
       "type": "AV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G8EKG",
+      "keeperCallsign": "G3ALE",
       "town": "BURTON-UPON-TRENT",
       "modeCodes": [
         "A"
@@ -22330,7 +22330,7 @@
       "town": "EDINBURGH",
       "modeCodes": [
         "A",
-        "D"
+        "N"
       ],
       "tx": 430887500,
       "repeater": "GB3ED",
@@ -31732,7 +31732,7 @@
       "txbw": 125,
       "band": "70CM",
       "locator": "IO87",
-      "dbwErp": 0,
+      "dbwErp": -7,
       "extraDetails": {
         "ngr": "NH8555",
         "antennaHeight": 0,
@@ -33577,30 +33577,6 @@
         "ngr": "SU2770",
         "antennaHeight": 0,
         "polarisation": ""
-      }
-    },
-    {
-      "id": 6222,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M7EXJ",
-      "town": "WHITTON",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145312500,
-      "repeater": "MB7IMF",
-      "rx": 145312500,
-      "ctcss": 67,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO91TK",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TQ1363",
-        "antennaHeight": 10,
-        "polarisation": "V"
       }
     },
     {
@@ -41877,7 +41853,7 @@
       "id": 6717,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4SZM",
       "town": "WESTON-SUPER-MARE",
       "modeCodes": [
