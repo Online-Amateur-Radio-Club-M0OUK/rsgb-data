@@ -2225,7 +2225,7 @@
       "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "M0KRG",
+      "keeperCallsign": "G8PZT",
       "town": "KIDDERMINSTER",
       "modeCodes": [
         "A"
@@ -5160,7 +5160,7 @@
       "fac": true,
       "type": "AV",
       "status": "REDUCED OUTPUT",
-      "keeperCallsign": "M0KRG",
+      "keeperCallsign": "G8PZT",
       "town": "STOURBRIDGE",
       "modeCodes": [
         "A"
@@ -12942,7 +12942,7 @@
       "fac": true,
       "type": "AV",
       "status": "REDUCED OUTPUT",
-      "keeperCallsign": "M0KRG",
+      "keeperCallsign": "G8PZT",
       "town": "KIDDERMINSTER",
       "modeCodes": [
         "A"
@@ -12954,7 +12954,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO82",
-      "dbwErp": 13.5,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SO8278",
         "antennaHeight": 0,
@@ -16416,7 +16416,7 @@
       "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "M0KRG",
+      "keeperCallsign": "G8PZT",
       "town": "KIDDERMINSTER",
       "modeCodes": [
         "M:8"
@@ -33580,6 +33580,30 @@
       }
     },
     {
+      "id": 6222,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M9MRX",
+      "town": "WHITTON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145312500,
+      "repeater": "MB7IMF",
+      "rx": 145312500,
+      "ctcss": 67,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO91TK",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TQ1363",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 6225,
       "fac": true,
       "type": "DG",
@@ -37433,31 +37457,6 @@
         "ngr": "TR2238",
         "antennaHeight": 0,
         "polarisation": ""
-      }
-    },
-    {
-      "id": 6469,
-      "fac": true,
-      "type": "DM",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M9SPE",
-      "town": "HERNE BAY",
-      "modeCodes": [
-        "A",
-        "F"
-      ],
-      "tx": 430962500,
-      "repeater": "GB7EK",
-      "rx": 438562500,
-      "ctcss": 103.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO01NI",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TR1865",
-        "antennaHeight": 10,
-        "polarisation": "V"
       }
     },
     {
