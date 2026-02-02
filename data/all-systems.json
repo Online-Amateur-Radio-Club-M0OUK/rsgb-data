@@ -21516,30 +21516,6 @@
       }
     },
     {
-      "id": 5171,
-      "fac": true,
-      "type": "PX",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G1ZEK",
-      "town": "DERBY",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144950000,
-      "repeater": "GB7NWL",
-      "rx": 144950000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO92HU",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SK4427",
-        "antennaHeight": 4,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5172,
       "fac": true,
       "type": "AG",
@@ -33242,7 +33218,7 @@
       "id": 6204,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GI4RNP",
       "town": "NEWTOWNABBEY",
       "modeCodes": [
