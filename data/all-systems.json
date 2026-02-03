@@ -26186,7 +26186,7 @@
       "id": 5593,
       "fac": true,
       "type": "PX",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M7SVN",
       "town": "WEYMOUTH",
       "modeCodes": [
@@ -42162,7 +42162,7 @@
       "id": 6734,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GW0KAX",
       "town": "ABERKENFIG",
       "modeCodes": [
@@ -42615,6 +42615,30 @@
         "ngr": "SY9895",
         "antennaHeight": 10,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6754,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM7LUN",
+      "town": "LAUDER",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "MB7ULB",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "IO85",
+      "dbwErp": -7,
+      "extraDetails": {
+        "ngr": "NT4657",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
