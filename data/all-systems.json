@@ -16436,11 +16436,11 @@
       "id": 4546,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0LMN",
       "town": "HASLINGDEN",
       "modeCodes": [
-        "F"
+        "M:3"
       ],
       "tx": 430262500,
       "repeater": "GB7RO",
@@ -25117,30 +25117,6 @@
         "ngr": "NT5316",
         "antennaHeight": 0,
         "polarisation": ""
-      }
-    },
-    {
-      "id": 5494,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0LMN",
-      "town": "HASLINGDEN",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 144887500,
-      "repeater": "MB6RO",
-      "rx": 144887500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO83UQ",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SD7923",
-        "antennaHeight": 6,
-        "polarisation": "V"
       }
     },
     {
@@ -34789,30 +34765,6 @@
       }
     },
     {
-      "id": 6309,
-      "fac": true,
-      "type": "PX",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G8IPG",
-      "town": "WINCHESTER",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144950000,
-      "repeater": "GB7WIN",
-      "rx": 144950000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO91HB",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SU4529",
-        "antennaHeight": 40,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6310,
       "fac": true,
       "type": "DV",
@@ -35468,7 +35420,7 @@
       "fac": true,
       "type": "PX",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G8IPG",
+      "keeperCallsign": "G5RKT",
       "town": "WINCHESTER",
       "modeCodes": [
         "X"
@@ -36113,7 +36065,7 @@
       "fac": true,
       "type": "PX",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G8IPG",
+      "keeperCallsign": "G5RKT",
       "town": "WINCHESTER",
       "modeCodes": [
         "X"
@@ -36782,7 +36734,7 @@
       "fac": true,
       "type": "PX",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G8IPG",
+      "keeperCallsign": "G5RKT",
       "town": "WINCHESTER",
       "modeCodes": [
         "X"
@@ -39391,7 +39343,7 @@
       "id": 6583,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0ISI",
       "town": "ANDOVER",
       "modeCodes": [
@@ -42573,7 +42525,7 @@
       "id": 6751,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4CSX",
       "town": "PRESTON",
       "modeCodes": [
