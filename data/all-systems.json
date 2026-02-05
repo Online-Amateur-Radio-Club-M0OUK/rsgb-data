@@ -3232,30 +3232,6 @@
       }
     },
     {
-      "id": 973,
-      "fac": false,
-      "type": "TV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G8XTW",
-      "town": "MILTON KEYNES",
-      "modeCodes": [
-        "T"
-      ],
-      "tx": 10240000000,
-      "repeater": "GB3TG",
-      "rx": 10425000000,
-      "ctcss": 0,
-      "txbw": 16000,
-      "band": "3CM",
-      "locator": "IO91PX",
-      "dbwErp": -0.2,
-      "extraDetails": {
-        "ngr": "SP9030",
-        "antennaHeight": 0,
-        "polarisation": "H"
-      }
-    },
-    {
       "id": 977,
       "fac": true,
       "type": "TV",
@@ -3542,30 +3518,6 @@
         "ngr": "SK9771",
         "antennaHeight": 83,
         "polarisation": "H"
-      }
-    },
-    {
-      "id": 1009,
-      "fac": false,
-      "type": "TV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G6ZZX",
-      "town": "EASTBOURNE",
-      "modeCodes": [
-        "T"
-      ],
-      "tx": 1310000000,
-      "repeater": "GB3VX",
-      "rx": 1249000000,
-      "ctcss": 0,
-      "txbw": 25,
-      "band": "23CM",
-      "locator": "JO00",
-      "dbwErp": 11.8,
-      "extraDetails": {
-        "ngr": "TQ5701",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -40458,7 +40410,7 @@
       "id": 6649,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G3MYK",
       "town": "NEWTON ABBOT ",
       "modeCodes": [
@@ -40940,7 +40892,7 @@
       "id": 6675,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0WWD",
       "town": "PORLOCK",
       "modeCodes": [
