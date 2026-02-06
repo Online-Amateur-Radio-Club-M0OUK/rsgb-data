@@ -4196,30 +4196,6 @@
       }
     },
     {
-      "id": 2054,
-      "fac": false,
-      "type": "BN",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G8VLL",
-      "town": "NORWICH",
-      "modeCodes": [
-        "B"
-      ],
-      "tx": 2320890000,
-      "repeater": "GB3ANT",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 1.5,
-      "band": "13CM",
-      "locator": "JO02PP",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TG2208",
-        "antennaHeight": 52,
-        "polarisation": "H"
-      }
-    },
-    {
       "id": 2056,
       "fac": true,
       "type": "BN",
@@ -4412,30 +4388,6 @@
       }
     },
     {
-      "id": 2075,
-      "fac": false,
-      "type": "BN",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G3TQF",
-      "town": "MARKFIELD  LEICS",
-      "modeCodes": [
-        "B"
-      ],
-      "tx": 2320955000,
-      "repeater": "GB3LES",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 1.5,
-      "band": "13CM",
-      "locator": "IO92IQ",
-      "dbwErp": 15,
-      "extraDetails": {
-        "ngr": "SK4810",
-        "antennaHeight": 12,
-        "polarisation": "H"
-      }
-    },
-    {
       "id": 2076,
       "fac": true,
       "type": "BN",
@@ -4551,30 +4503,6 @@
       "dbwErp": 3,
       "extraDetails": {
         "ngr": "TM0815",
-        "antennaHeight": 12,
-        "polarisation": "H"
-      }
-    },
-    {
-      "id": 2086,
-      "fac": false,
-      "type": "BN",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G8IFT",
-      "town": "WEST HEATH BIRMINGHAM",
-      "modeCodes": [
-        "B"
-      ],
-      "tx": 3400900000,
-      "repeater": "GB3OHM",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 1.5,
-      "band": "9CM",
-      "locator": "IO92AJ",
-      "dbwErp": 20,
-      "extraDetails": {
-        "ngr": "SP0277",
         "antennaHeight": 12,
         "polarisation": "H"
       }
@@ -10049,7 +9977,7 @@
       "id": 3538,
       "fac": true,
       "type": "AV",
-      "status": "REDUCED OUTPUT",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "2E0BDS",
       "town": "SKEGNESS",
       "modeCodes": [
@@ -19267,30 +19195,6 @@
       "dbwErp": 10,
       "extraDetails": {
         "ngr": "NF7614",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 4948,
-      "fac": false,
-      "type": "TV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GI4DOH",
-      "town": "BANGOR",
-      "modeCodes": [
-        "T"
-      ],
-      "tx": 1310000000,
-      "repeater": "GB3DO",
-      "rx": 1248000000,
-      "ctcss": 0,
-      "txbw": 2000,
-      "band": "23CM",
-      "locator": "IO74DP",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "IJ4979",
         "antennaHeight": 10,
         "polarisation": "V"
       }
