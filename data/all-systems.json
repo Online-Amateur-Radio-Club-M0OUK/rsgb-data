@@ -11478,7 +11478,7 @@
       "id": 3871,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0XRS",
       "town": "LEYLAND",
       "modeCodes": [
@@ -25862,12 +25862,12 @@
       "ctcss": 118.8,
       "txbw": 12.5,
       "band": "2M",
-      "locator": "IO95",
+      "locator": "IO95FE",
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "NZ2887",
-        "antennaHeight": 0,
-        "polarisation": ""
+        "antennaHeight": 5,
+        "polarisation": "V"
       }
     },
     {
