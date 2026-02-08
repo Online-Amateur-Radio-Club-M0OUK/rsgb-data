@@ -5207,7 +5207,7 @@
       "id": 2275,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0NCZ",
       "town": "ASHTON-UNDER-LYNE",
       "modeCodes": [
@@ -25847,30 +25847,6 @@
       }
     },
     {
-      "id": 5580,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G4NAB",
-      "town": "ASHINGTON",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145237500,
-      "repeater": "G4NAB",
-      "rx": 145237500,
-      "ctcss": 118.8,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO95FE",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "NZ2887",
-        "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5582,
       "fac": true,
       "type": "AV",
@@ -28292,7 +28268,7 @@
       "id": 5785,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0NCZ",
       "town": "ASHTON-UNDER-LYNE",
       "modeCodes": [
@@ -42447,6 +42423,54 @@
         "ngr": "NT4657",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6755,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G8OOS",
+      "town": "GRIMSBY",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430875000,
+      "repeater": "GB3GT",
+      "rx": 438475000,
+      "ctcss": 71.9,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93WN",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TA2608",
+        "antennaHeight": 18,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6756,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G4NAB",
+      "town": "ASHINGTON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145337500,
+      "repeater": "G4NAB",
+      "rx": 145337500,
+      "ctcss": 118.8,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO95FE",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NZ2887",
+        "antennaHeight": 5,
+        "polarisation": "V"
       }
     }
   ]
