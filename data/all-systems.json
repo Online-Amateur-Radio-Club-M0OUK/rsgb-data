@@ -8833,7 +8833,7 @@
       "id": 3231,
       "fac": false,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GW8KCY",
       "town": "CARMARTHEN",
       "modeCodes": [
@@ -15609,7 +15609,7 @@
       "id": 4445,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0WNU",
       "town": "RICHMOND",
       "modeCodes": [
@@ -16316,7 +16316,7 @@
       "id": 4546,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0LMN",
       "town": "HASLINGDEN",
       "modeCodes": [
@@ -28268,7 +28268,7 @@
       "id": 5785,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0NCZ",
       "town": "ASHTON-UNDER-LYNE",
       "modeCodes": [
@@ -42471,6 +42471,78 @@
         "ngr": "NZ2887",
         "antennaHeight": 5,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6757,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G1MEI",
+      "town": "BASINGSTOKE",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "G1MEI",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "IO91KG",
+      "dbwErp": -7,
+      "extraDetails": {
+        "ngr": "SU6154",
+        "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6758,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G1MEI",
+      "town": "BASINGSTOKE",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 434487500,
+      "repeater": "MB6RG",
+      "rx": 434487500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91KG",
+      "dbwErp": 0,
+      "extraDetails": {
+        "ngr": "SU6154",
+        "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6760,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4IRX",
+      "town": "NOTTINGHAM",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7URX",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO92",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SK5533",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
