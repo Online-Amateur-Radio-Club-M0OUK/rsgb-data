@@ -13820,7 +13820,7 @@
       "id": 4202,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM0GFL",
       "town": "LERWICK",
       "modeCodes": [
@@ -42188,7 +42188,7 @@
       "id": 6744,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0PTN",
       "town": "REDDITCH",
       "modeCodes": [
@@ -42525,7 +42525,7 @@
       "id": 6760,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4IRX",
       "town": "NOTTINGHAM",
       "modeCodes": [
@@ -42543,6 +42543,30 @@
         "ngr": "SK5533",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6761,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M9LCB",
+      "town": "DONCASTER",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430012500,
+      "repeater": "MB7IDO",
+      "rx": 430012500,
+      "ctcss": 71.9,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93JO",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SE5210",
+        "antennaHeight": 7,
+        "polarisation": "V"
       }
     }
   ]
