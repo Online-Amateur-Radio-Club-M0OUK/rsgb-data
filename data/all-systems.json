@@ -13820,7 +13820,7 @@
       "id": 4202,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM0GFL",
       "town": "LERWICK",
       "modeCodes": [
@@ -28272,7 +28272,7 @@
       "keeperCallsign": "M0NCZ",
       "town": "ASHTON-UNDER-LYNE",
       "modeCodes": [
-        "M:10"
+        "A"
       ],
       "tx": 430250000,
       "repeater": "GB7XF",
@@ -42566,6 +42566,30 @@
       "extraDetails": {
         "ngr": "SE5210",
         "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6762,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0RCX",
+      "town": "SOUTH LEEDS",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 431062500,
+      "repeater": "MB6CX",
+      "rx": 431062500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93FS",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SE3129",
+        "antennaHeight": 12,
         "polarisation": "V"
       }
     }
