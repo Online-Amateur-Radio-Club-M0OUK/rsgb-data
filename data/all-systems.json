@@ -4223,7 +4223,7 @@
       "id": 2057,
       "fac": true,
       "type": "BN",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4CJZ",
       "town": "BERKELEY  GLOUCS",
       "modeCodes": [
@@ -42590,6 +42590,30 @@
       "extraDetails": {
         "ngr": "SE3129",
         "antennaHeight": 12,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6764,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M1RXO",
+      "town": "LINCOLN",
+      "modeCodes": [
+        "M:3"
+      ],
+      "tx": 439600000,
+      "repeater": "M1RXO",
+      "rx": 430600000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93RF",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SK9770",
+        "antennaHeight": 5,
         "polarisation": "V"
       }
     }
