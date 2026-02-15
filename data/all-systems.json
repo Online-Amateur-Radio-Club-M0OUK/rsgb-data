@@ -4220,30 +4220,6 @@
       }
     },
     {
-      "id": 2057,
-      "fac": true,
-      "type": "BN",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G4CJZ",
-      "town": "BERKELEY  GLOUCS",
-      "modeCodes": [
-        "B"
-      ],
-      "tx": 2320925000,
-      "repeater": "GB3BSS",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 1.5,
-      "band": "13CM",
-      "locator": "IO81SR",
-      "dbwErp": 16,
-      "extraDetails": {
-        "ngr": "SO6702",
-        "antennaHeight": 65,
-        "polarisation": "H"
-      }
-    },
-    {
       "id": 2058,
       "fac": false,
       "type": "BN",
@@ -4337,30 +4313,6 @@
         "ngr": "TL0421",
         "antennaHeight": 0,
         "polarisation": ""
-      }
-    },
-    {
-      "id": 2067,
-      "fac": false,
-      "type": "BN",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G4EPX",
-      "town": "FLEET  HANTS",
-      "modeCodes": [
-        "B"
-      ],
-      "tx": 5760920000,
-      "repeater": "GB3FNM",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 2.4,
-      "band": "6CM",
-      "locator": "IO91OF",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SU8249",
-        "antennaHeight": 20,
-        "polarisation": "H"
       }
     },
     {
@@ -37018,30 +36970,6 @@
       "extraDetails": {
         "ngr": "TF6723",
         "antennaHeight": 15,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 6461,
-      "fac": true,
-      "type": "PX",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G0WDA",
-      "town": "BLACKPOOL",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 439950000,
-      "repeater": "GB7ESC",
-      "rx": 439950000,
-      "ctcss": 0,
-      "txbw": 25,
-      "band": "70CM",
-      "locator": "IO83LT",
-      "dbwErp": 10,
-      "extraDetails": {
-        "ngr": "SD3135",
-        "antennaHeight": 8,
         "polarisation": "V"
       }
     },
