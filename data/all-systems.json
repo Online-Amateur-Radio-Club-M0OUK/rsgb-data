@@ -3232,6 +3232,30 @@
       }
     },
     {
+      "id": 973,
+      "fac": true,
+      "type": "TV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G8XTW",
+      "town": "MILTON KEYNES",
+      "modeCodes": [
+        "T"
+      ],
+      "tx": 10240000000,
+      "repeater": "GB3TG",
+      "rx": 10425000000,
+      "ctcss": 0,
+      "txbw": 16000,
+      "band": "3CM",
+      "locator": "IO91PX",
+      "dbwErp": 0,
+      "extraDetails": {
+        "ngr": "SP9030",
+        "antennaHeight": 0,
+        "polarisation": "H"
+      }
+    },
+    {
       "id": 977,
       "fac": true,
       "type": "TV",
@@ -4196,6 +4220,30 @@
       }
     },
     {
+      "id": 2054,
+      "fac": true,
+      "type": "BN",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G8VLL",
+      "town": "NORWICH",
+      "modeCodes": [
+        "B"
+      ],
+      "tx": 2320890000,
+      "repeater": "GB3ANT",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 1.5,
+      "band": "13CM",
+      "locator": "JO02PP",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TG2208",
+        "antennaHeight": 52,
+        "polarisation": "H"
+      }
+    },
+    {
       "id": 2056,
       "fac": true,
       "type": "BN",
@@ -4217,6 +4265,30 @@
         "ngr": "SP9008",
         "antennaHeight": 35,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 2057,
+      "fac": true,
+      "type": "BN",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G4CJZ",
+      "town": "BERKELEY  GLOUCS",
+      "modeCodes": [
+        "B"
+      ],
+      "tx": 2320925000,
+      "repeater": "GB3BSS",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 1.5,
+      "band": "13CM",
+      "locator": "IO81SR",
+      "dbwErp": 16,
+      "extraDetails": {
+        "ngr": "SO6702",
+        "antennaHeight": 65,
+        "polarisation": "H"
       }
     },
     {
@@ -4316,6 +4388,30 @@
       }
     },
     {
+      "id": 2067,
+      "fac": true,
+      "type": "BN",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G4EPX",
+      "town": "FLEET  HANTS",
+      "modeCodes": [
+        "B"
+      ],
+      "tx": 5760920000,
+      "repeater": "GB3FNM",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 2.4,
+      "band": "6CM",
+      "locator": "IO91OF",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SU8249",
+        "antennaHeight": 20,
+        "polarisation": "H"
+      }
+    },
+    {
       "id": 2071,
       "fac": true,
       "type": "BN",
@@ -4336,6 +4432,30 @@
       "extraDetails": {
         "ngr": "SE7407",
         "antennaHeight": 10,
+        "polarisation": "H"
+      }
+    },
+    {
+      "id": 2075,
+      "fac": true,
+      "type": "BN",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G3TQF",
+      "town": "MARKFIELD  LEICS",
+      "modeCodes": [
+        "B"
+      ],
+      "tx": 2320955000,
+      "repeater": "GB3LES",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 1.5,
+      "band": "13CM",
+      "locator": "IO92IQ",
+      "dbwErp": 15,
+      "extraDetails": {
+        "ngr": "SK4810",
+        "antennaHeight": 12,
         "polarisation": "H"
       }
     },
@@ -4413,7 +4533,7 @@
     },
     {
       "id": 2081,
-      "fac": false,
+      "fac": true,
       "type": "BN",
       "status": "OPERATIONAL",
       "keeperCallsign": "G7OCD",
@@ -4455,6 +4575,30 @@
       "dbwErp": 3,
       "extraDetails": {
         "ngr": "TM0815",
+        "antennaHeight": 12,
+        "polarisation": "H"
+      }
+    },
+    {
+      "id": 2086,
+      "fac": true,
+      "type": "BN",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G8IFT",
+      "town": "WEST HEATH BIRMINGHAM",
+      "modeCodes": [
+        "B"
+      ],
+      "tx": 3400900000,
+      "repeater": "GB3OHM",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 1.5,
+      "band": "9CM",
+      "locator": "IO92AJ",
+      "dbwErp": 20,
+      "extraDetails": {
+        "ngr": "SP0277",
         "antennaHeight": 12,
         "polarisation": "H"
       }
@@ -19911,7 +20055,7 @@
       "id": 5048,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GW5TEE",
       "town": "MOLD",
       "modeCodes": [
@@ -27805,7 +27949,7 @@
       "id": 5745,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GW5TEE",
       "town": "MOLD",
       "modeCodes": [
@@ -42542,6 +42686,30 @@
       "extraDetails": {
         "ngr": "SK9770",
         "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6765,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G1SCQ",
+      "town": "KING'S LYNN",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 433025000,
+      "repeater": "MB5KY",
+      "rx": 438025000,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO02FS",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TF6723",
+        "antennaHeight": 15,
         "polarisation": "V"
       }
     }
