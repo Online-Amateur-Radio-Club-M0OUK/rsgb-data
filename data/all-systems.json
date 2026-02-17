@@ -5303,7 +5303,7 @@
       "id": 2275,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0NCZ",
       "town": "ASHTON-UNDER-LYNE",
       "modeCodes": [
@@ -28244,7 +28244,7 @@
       "id": 5770,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4IPE",
       "town": "SCUNTHORPE",
       "modeCodes": [
@@ -36275,30 +36275,6 @@
       }
     },
     {
-      "id": 6413,
-      "fac": true,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0VOB",
-      "town": "BRADFORD",
-      "modeCodes": [
-        "M:2"
-      ],
-      "tx": 439700000,
-      "repeater": "GB3DV",
-      "rx": 430700000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO93",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SE1835",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6415,
       "fac": true,
       "type": "AG",
@@ -42436,7 +42412,7 @@
         "A"
       ],
       "tx": 430075000,
-      "repeater": "G4CSX",
+      "repeater": "MB7IRT",
       "rx": 430075000,
       "ctcss": 103.5,
       "txbw": 12.5,
@@ -42645,7 +42621,7 @@
       "id": 6762,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0RCX",
       "town": "SOUTH LEEDS",
       "modeCodes": [
@@ -42711,6 +42687,54 @@
         "ngr": "TF6723",
         "antennaHeight": 15,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6766,
+      "fac": true,
+      "type": "DV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0VOB",
+      "town": "BRADFORD",
+      "modeCodes": [
+        "M:2"
+      ],
+      "tx": 439700000,
+      "repeater": "GB3DV",
+      "rx": 430700000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93DT",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SE1734",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6767,
+      "fac": true,
+      "type": "PX",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G7TAJ",
+      "town": "BEXHILL-ON-SEA",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144950000,
+      "repeater": "GB7BEX",
+      "rx": 144950000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO00",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TQ7107",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
