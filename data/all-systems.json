@@ -3644,7 +3644,7 @@
     },
     {
       "id": 1023,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GI3NVW",
@@ -4480,30 +4480,6 @@
       "extraDetails": {
         "ngr": "SK4810",
         "antennaHeight": 10,
-        "polarisation": "H"
-      }
-    },
-    {
-      "id": 2077,
-      "fac": false,
-      "type": "BN",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G3TQF",
-      "town": "MARKFIELD  LEICS",
-      "modeCodes": [
-        "B"
-      ],
-      "tx": 10368955000,
-      "repeater": "GB3LEX",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 1.5,
-      "band": "3CM",
-      "locator": "IO92IQ",
-      "dbwErp": 10,
-      "extraDetails": {
-        "ngr": "SK4810",
-        "antennaHeight": 12,
         "polarisation": "H"
       }
     },
@@ -8587,7 +8563,7 @@
       "id": 3140,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4WVD",
       "town": "ROCHE",
       "modeCodes": [
@@ -11701,7 +11677,6 @@
         "F",
         "P",
         "N",
-        "A",
         "D"
       ],
       "tx": 144812500,
@@ -17170,8 +17145,7 @@
       "keeperCallsign": "2M0JUM",
       "town": "ALEXANDRIA",
       "modeCodes": [
-        "A",
-        "M:8"
+        "A"
       ],
       "tx": 144962500,
       "repeater": "MB7IDG",
@@ -38505,7 +38479,9 @@
       "status": "OPERATIONAL",
       "keeperCallsign": "GM7RYR",
       "town": "EDINBURGH",
-      "modeCodes": null,
+      "modeCodes": [
+        "M:1"
+      ],
       "tx": 431125000,
       "repeater": "MB6ED",
       "rx": 431125000,
@@ -41780,7 +41756,9 @@
       "status": "OPERATIONAL",
       "keeperCallsign": "MM0VIK",
       "town": "SCALLOWAY",
-      "modeCodes": null,
+      "modeCodes": [
+        "A"
+      ],
       "tx": 145337500,
       "repeater": "MB7ISI",
       "rx": 0,
@@ -42045,7 +42023,9 @@
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM7LUN",
       "town": "GALASHIELS",
-      "modeCodes": null,
+      "modeCodes": [
+        "A"
+      ],
       "tx": 145237500,
       "repeater": "MB7IGA",
       "rx": 145237500,
@@ -42284,7 +42264,7 @@
       "id": 6746,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M9JAK",
       "town": "LEIGHTON BUZZARD",
       "modeCodes": [
@@ -42735,6 +42715,30 @@
         "ngr": "TQ7107",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6769,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MM0VIK ",
+      "town": "LERWICK ",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430025000,
+      "repeater": "MB7ILU",
+      "rx": 430025000,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IP90JD",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "HU4440",
+        "antennaHeight": 5,
+        "polarisation": "V"
       }
     }
   ]
