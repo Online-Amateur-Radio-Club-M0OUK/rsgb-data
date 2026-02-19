@@ -32052,7 +32052,7 @@
       "id": 6131,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G3XOU",
       "town": "TORQUAY",
       "modeCodes": [
@@ -39031,7 +39031,7 @@
       "id": 6576,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0VXT",
       "town": "PRESTON",
       "modeCodes": [
@@ -42577,7 +42577,7 @@
       "id": 6761,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M9LCB",
       "town": "DONCASTER",
       "modeCodes": [
