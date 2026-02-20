@@ -3860,7 +3860,7 @@
     },
     {
       "id": 1049,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GW6CUR",
@@ -3875,7 +3875,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO81JL",
-      "dbwErp": 12.8,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "ST1975",
         "antennaHeight": 27,
@@ -4336,30 +4336,6 @@
       "extraDetails": {
         "ngr": "TL2873",
         "antennaHeight": 30,
-        "polarisation": "H"
-      }
-    },
-    {
-      "id": 2064,
-      "fac": true,
-      "type": "BN",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GM6BIG",
-      "town": "KILSYTH  GLASGOW",
-      "modeCodes": [
-        "B"
-      ],
-      "tx": 2320985000,
-      "repeater": "GB3CSB",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 2.4,
-      "band": "13CM",
-      "locator": "IO75XX",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NS7380",
-        "antennaHeight": 7,
         "polarisation": "H"
       }
     },
@@ -6582,7 +6558,7 @@
     },
     {
       "id": 2573,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GW6CUR",
@@ -8903,7 +8879,7 @@
     },
     {
       "id": 3231,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "GW8KCY",
@@ -13673,7 +13649,7 @@
     },
     {
       "id": 4176,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G3ALE",
@@ -27896,30 +27872,6 @@
       }
     },
     {
-      "id": 5744,
-      "fac": true,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M8KBZ",
-      "town": "WORKSOP",
-      "modeCodes": [
-        "D"
-      ],
-      "tx": 439562500,
-      "repeater": "GB7XN",
-      "rx": 430562500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO93KH",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SK5979",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5745,
       "fac": true,
       "type": "DG",
@@ -41130,7 +41082,7 @@
       "id": 6695,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G7MSG",
       "town": "WISBECH",
       "modeCodes": [
