@@ -18144,30 +18144,6 @@
       }
     },
     {
-      "id": 4839,
-      "fac": true,
-      "type": "AP",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GW0TQM",
-      "town": "MOLD",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144800000,
-      "repeater": "MB7UMD",
-      "rx": 144800000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO83",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SJ2364",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 4841,
       "fac": true,
       "type": "AP",
@@ -27872,6 +27848,31 @@
       }
     },
     {
+      "id": 5744,
+      "fac": true,
+      "type": "DV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M8KBZ",
+      "town": "WORKSOP",
+      "modeCodes": [
+        "D",
+        "M:2"
+      ],
+      "tx": 439562500,
+      "repeater": "GB7XN",
+      "rx": 430562500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93KH",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SK5979",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 5745,
       "fac": true,
       "type": "DG",
@@ -32602,30 +32603,6 @@
       "extraDetails": {
         "ngr": "SU4529",
         "antennaHeight": 40,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 6174,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0HEL",
-      "town": "LEICESTER",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430925000,
-      "repeater": "GB3LN",
-      "rx": 438525000,
-      "ctcss": 118.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO92KO",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SK5602",
-        "antennaHeight": 25,
         "polarisation": "V"
       }
     },
@@ -40921,7 +40898,7 @@
         "F"
       ],
       "tx": 431087500,
-      "repeater": "G0LCC",
+      "repeater": "MB6LP",
       "rx": 431087500,
       "ctcss": 0,
       "txbw": 12.5,
@@ -42690,6 +42667,78 @@
       "extraDetails": {
         "ngr": "HU4440",
         "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6770,
+      "fac": true,
+      "type": "AV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0HEL",
+      "town": "COALVILLE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430925000,
+      "repeater": "GB3LN",
+      "rx": 438525000,
+      "ctcss": 118.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO92IQ",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SK4809",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6771,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0MRP",
+      "town": "CORFE MULLEN",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430887500,
+      "repeater": "GB3OF",
+      "rx": 438487500,
+      "ctcss": 71.9,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO80XS",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SY9895",
+        "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6772,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G0LCC",
+      "town": "LANGPORT",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 144850000,
+      "repeater": "MB6LP",
+      "rx": 144850000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO81OB",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "ST4227",
+        "antennaHeight": 10,
         "polarisation": "V"
       }
     }
