@@ -42741,6 +42741,30 @@
         "antennaHeight": 10,
         "polarisation": "V"
       }
+    },
+    {
+      "id": 6773,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GW0WZL",
+      "town": "CAERNARFON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430037500,
+      "repeater": "MB7IPN",
+      "rx": 430037500,
+      "ctcss": 110.9,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO73UB",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SH4853",
+        "antennaHeight": 8,
+        "polarisation": "V"
+      }
     }
   ]
 }
