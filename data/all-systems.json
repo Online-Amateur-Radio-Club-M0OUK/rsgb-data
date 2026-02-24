@@ -4484,30 +4484,6 @@
       }
     },
     {
-      "id": 2081,
-      "fac": true,
-      "type": "BN",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G7OCD",
-      "town": "IPSWICH",
-      "modeCodes": [
-        "B"
-      ],
-      "tx": 2320830000,
-      "repeater": "GB3MHZ",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 2.4,
-      "band": "13CM",
-      "locator": "JO02PB",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TM2544",
-        "antennaHeight": 65,
-        "polarisation": "H"
-      }
-    },
-    {
       "id": 2084,
       "fac": true,
       "type": "BN",
@@ -10025,7 +10001,7 @@
       "id": 3538,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0BDS",
       "town": "SKEGNESS",
       "modeCodes": [
@@ -35417,17 +35393,17 @@
     {
       "id": 6365,
       "fac": true,
-      "type": "DV",
+      "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0ZZT",
       "town": "TIVERTON",
       "modeCodes": [
-        "F"
+        "A"
       ],
       "tx": 145575000,
       "repeater": "GB7MX",
       "rx": 144975000,
-      "ctcss": 0,
+      "ctcss": 77,
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO80",
@@ -42762,6 +42738,30 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "SH4853",
+        "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6776,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G7TWZ",
+      "town": "WORCESTER PARK",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 50660000,
+      "repeater": "GB7WOR",
+      "rx": 50660000,
+      "ctcss": 0,
+      "txbw": 10,
+      "band": "6M",
+      "locator": "IO91VJ",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TQ2266",
         "antennaHeight": 8,
         "polarisation": "V"
       }
