@@ -196,7 +196,7 @@
     },
     {
       "id": 199,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4TKR",
@@ -36486,30 +36486,6 @@
         "ngr": "NT2868",
         "antennaHeight": 0,
         "polarisation": ""
-      }
-    },
-    {
-      "id": 6434,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M7SSQ",
-      "town": "HARTLEPOOL",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145337500,
-      "repeater": "MB7ISQ",
-      "rx": 145337500,
-      "ctcss": 67,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO94JQ",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "NZ5132",
-        "antennaHeight": 17,
-        "polarisation": "V"
       }
     },
     {
