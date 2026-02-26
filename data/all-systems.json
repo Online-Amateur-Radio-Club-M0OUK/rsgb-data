@@ -687,7 +687,7 @@
       "id": 581,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M1DYP",
       "town": "WELWYN GARDEN CITY",
       "modeCodes": [
@@ -40533,7 +40533,7 @@
       "id": 6666,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G8PYT",
       "town": "ROWLEY REGIS",
       "modeCodes": [
@@ -42740,6 +42740,54 @@
         "ngr": "TQ2266",
         "antennaHeight": 8,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6777,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M7DSQ",
+      "town": "HARTLEPOOL",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430050000,
+      "repeater": "MB7ISQ",
+      "rx": 430050000,
+      "ctcss": 67,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO94JQ",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NZ5132",
+        "antennaHeight": 17,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6778,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GD7RVP",
+      "town": "JURBY",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145212500,
+      "repeater": "MB7IJY",
+      "rx": 145212500,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO74",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SC3699",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
