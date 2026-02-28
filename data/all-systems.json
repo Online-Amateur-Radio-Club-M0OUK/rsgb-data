@@ -23473,30 +23473,6 @@
       }
     },
     {
-      "id": 5352,
-      "fac": true,
-      "type": "PX",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0LTE",
-      "town": "READING",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 50650000,
-      "repeater": "GB7RDG",
-      "rx": 50650000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "6M",
-      "locator": "IO91LK",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SU6772",
-        "antennaHeight": 7,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5353,
       "fac": true,
       "type": "AP",
@@ -35223,30 +35199,6 @@
       }
     },
     {
-      "id": 6354,
-      "fac": true,
-      "type": "PX",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G5RKT",
-      "town": "WINCHESTER",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 50650000,
-      "repeater": "GB7WIN",
-      "rx": 50650000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "6M",
-      "locator": "IO91HB",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SU4529",
-        "antennaHeight": 40,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6355,
       "fac": true,
       "type": "AP",
@@ -35864,30 +35816,6 @@
       "extraDetails": {
         "ngr": "SU6153",
         "antennaHeight": 7,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 6393,
-      "fac": true,
-      "type": "PX",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G5RKT",
-      "town": "WINCHESTER",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144937500,
-      "repeater": "GB7WIN",
-      "rx": 144937500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO91HB",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SU4529",
-        "antennaHeight": 40,
         "polarisation": "V"
       }
     },
@@ -39630,26 +39558,6 @@
       }
     },
     {
-      "id": 6619,
-      "fac": true,
-      "type": "AG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "2E0OFF",
-      "town": "STALYBRIDGE",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430062500,
-      "repeater": "2E0OFF",
-      "rx": 430062500,
-      "ctcss": 103.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO83XL",
-      "dbwErp": 7,
-      "extraDetails": null
-    },
-    {
       "id": 6620,
       "fac": true,
       "type": "PX",
@@ -42434,7 +42342,7 @@
       "id": 6760,
       "fac": true,
       "type": "AP",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4IRX",
       "town": "NOTTINGHAM",
       "modeCodes": [
@@ -42698,7 +42606,7 @@
       "id": 6773,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GW0WZL",
       "town": "CAERNARFON",
       "modeCodes": [
@@ -42788,6 +42696,102 @@
         "ngr": "SC3699",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6780,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0LTE",
+      "town": "READING",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 50660000,
+      "repeater": "GB7RDG",
+      "rx": 50660000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "6M",
+      "locator": "IO91LK",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SU6772",
+        "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6781,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G5RKT",
+      "town": "WINCHESTER",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 50660000,
+      "repeater": "GB7WIN",
+      "rx": 50660000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "6M",
+      "locator": "IO91HB",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SU4529",
+        "antennaHeight": 40,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6782,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G5RKT",
+      "town": "WINCHESTER",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144925000,
+      "repeater": "GB7WIN",
+      "rx": 144925000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO91HB",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SU4529",
+        "antennaHeight": 40,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6783,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4SZM",
+      "town": "WESTON-SUPER-MARE",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UHF",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO81MH",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "ST3357",
+        "antennaHeight": 10,
+        "polarisation": "V"
       }
     }
   ]
