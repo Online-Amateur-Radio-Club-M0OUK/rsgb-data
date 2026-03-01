@@ -2270,7 +2270,7 @@
     },
     {
       "id": 857,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G1SCQ",
