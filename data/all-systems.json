@@ -22175,7 +22175,7 @@
     },
     {
       "id": 5236,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4TAD",
@@ -22190,7 +22190,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "JO02UL",
-      "dbwErp": 12.1,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "TM5492",
         "antennaHeight": 80,
@@ -42791,6 +42791,30 @@
       "extraDetails": {
         "ngr": "ST3357",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6784,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "MM3LSO",
+      "town": "EYEMOUTH ",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430012500,
+      "repeater": "MM3LSO",
+      "rx": 430012500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO85WU",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NT9364",
+        "antennaHeight": 8,
         "polarisation": "V"
       }
     }
