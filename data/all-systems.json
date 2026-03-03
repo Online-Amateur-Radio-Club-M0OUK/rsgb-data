@@ -33389,15 +33389,15 @@
       "id": 6229,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G8ELA",
       "town": "RAVENSDEN",
       "modeCodes": [
         "M:6"
       ],
-      "tx": 439550000,
+      "tx": 439575000,
       "repeater": "GB7BN",
-      "rx": 430550000,
+      "rx": 430575000,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
@@ -42627,6 +42627,30 @@
       }
     },
     {
+      "id": 6774,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0KOY",
+      "town": "WOODHOUSE HILL SEATON - EX12 3",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 439137500,
+      "repeater": "M0KOY",
+      "rx": 430137500,
+      "ctcss": 141.3,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO80KQ",
+      "dbwErp": 11.8,
+      "extraDetails": {
+        "ngr": "SY1989",
+        "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 6776,
       "fac": true,
       "type": "PX",
@@ -42816,6 +42840,55 @@
         "ngr": "NT9364",
         "antennaHeight": 8,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6785,
+      "fac": true,
+      "type": "PX",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM4OAS",
+      "town": "MORAR",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144950000,
+      "repeater": "GB7MOR",
+      "rx": 144950000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO76CX",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NM6791",
+        "antennaHeight": 3,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6786,
+      "fac": true,
+      "type": "DM",
+      "status": "",
+      "keeperCallsign": "M0LIP",
+      "town": "HAILSHAM ",
+      "modeCodes": [
+        "A",
+        "M:3"
+      ],
+      "tx": 145775000,
+      "repeater": "GB7PP",
+      "rx": 145175000,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO00",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TQ5809",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
