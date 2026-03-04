@@ -13211,7 +13211,7 @@
       "id": 4127,
       "fac": true,
       "type": "TV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7KPM",
       "town": "CAISTOR",
       "modeCodes": [
@@ -18000,7 +18000,7 @@
       "id": 4822,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G3TCG",
       "town": "HASTINGS",
       "modeCodes": [
@@ -31915,9 +31915,9 @@
       "modeCodes": [
         "7"
       ],
-      "tx": 439550000,
+      "tx": 439575000,
       "repeater": "2E0HOQ",
-      "rx": 430550000,
+      "rx": 430575000,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
@@ -33389,7 +33389,7 @@
       "id": 6229,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G8ELA",
       "town": "RAVENSDEN",
       "modeCodes": [
@@ -33420,9 +33420,9 @@
         "A",
         "F"
       ],
-      "tx": 439550000,
+      "tx": 439537500,
       "repeater": "GB7AT",
-      "rx": 430550000,
+      "rx": 430537500,
       "ctcss": 77,
       "txbw": 12.5,
       "band": "70CM",
@@ -41374,7 +41374,7 @@
       "id": 6716,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MM7ONH",
       "town": "ROYBRIDGE",
       "modeCodes": [
@@ -42632,7 +42632,7 @@
       "type": "AV",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0KOY",
-      "town": "WOODHOUSE HILL SEATON - EX12 3",
+      "town": "SEATON",
       "modeCodes": [
         "A"
       ],
@@ -42829,7 +42829,7 @@
         "A"
       ],
       "tx": 430012500,
-      "repeater": "MM3LSO",
+      "repeater": "MB7IBO",
       "rx": 430012500,
       "ctcss": 0,
       "txbw": 12.5,
@@ -42887,6 +42887,78 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "TQ5809",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6788,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G0FEA",
+      "town": "MENDLESHAM",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 439475000,
+      "repeater": "GB7KH",
+      "rx": 430475000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO02MG",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TM1066",
+        "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6789,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G7CDA",
+      "town": "LANCASTER",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 144912500,
+      "repeater": "MB6LN",
+      "rx": 144912500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO84",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SD4862",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6790,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G7CDA",
+      "town": "LANCASTER",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 50540000,
+      "repeater": "MB7ILR",
+      "rx": 50540000,
+      "ctcss": 82.5,
+      "txbw": 12.5,
+      "band": "6M",
+      "locator": "IO84",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SD4862",
         "antennaHeight": 0,
         "polarisation": ""
       }
