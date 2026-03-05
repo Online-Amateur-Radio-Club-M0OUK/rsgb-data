@@ -1911,7 +1911,7 @@
       "id": 823,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "MM0JRM",
       "town": "ISLE OF MULL",
       "modeCodes": [
@@ -31909,7 +31909,7 @@
       "id": 6128,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "2E0HOQ",
       "town": "WESTON SUPER MARE",
       "modeCodes": [
@@ -40103,7 +40103,7 @@
       "id": 6649,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G3MYK",
       "town": "NEWTON ABBOT ",
       "modeCodes": [
