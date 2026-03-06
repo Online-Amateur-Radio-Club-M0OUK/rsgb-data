@@ -4292,30 +4292,6 @@
       }
     },
     {
-      "id": 2058,
-      "fac": false,
-      "type": "BN",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G7EKY",
-      "town": "BUXTON",
-      "modeCodes": [
-        "B"
-      ],
-      "tx": 50000000,
-      "repeater": "GB3BUX",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 1,
-      "band": "6M",
-      "locator": "IO93BF",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SK0669",
-        "antennaHeight": 7,
-        "polarisation": "H"
-      }
-    },
-    {
       "id": 2059,
       "fac": true,
       "type": "BN",
@@ -8270,8 +8246,8 @@
       "keeperCallsign": "G8NSD",
       "town": "NORTH WINGFIELD",
       "modeCodes": [
-        "D",
-        "M:3"
+        "M:3",
+        "N"
       ],
       "tx": 431137500,
       "repeater": "MB6NW",
@@ -15775,31 +15751,6 @@
       }
     },
     {
-      "id": 4463,
-      "fac": true,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G4NAB",
-      "town": "ASHINGTON",
-      "modeCodes": [
-        "M:10",
-        "F"
-      ],
-      "tx": 439737500,
-      "repeater": "GB7HT",
-      "rx": 430737500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO95",
-      "dbwErp": 10,
-      "extraDetails": {
-        "ngr": "NZ2887",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 4465,
       "fac": true,
       "type": "AG",
@@ -18001,7 +17952,7 @@
       "fac": true,
       "type": "DM",
       "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G3TCG",
+      "keeperCallsign": "M9PWD",
       "town": "HASTINGS",
       "modeCodes": [
         "A",
@@ -18014,7 +17965,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "JO00HV",
-      "dbwErp": 12,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "TQ8212",
         "antennaHeight": 10,
@@ -19858,30 +19809,6 @@
       }
     },
     {
-      "id": 5028,
-      "fac": false,
-      "type": "AV",
-      "status": "REDUCED OUTPUT",
-      "keeperCallsign": "G8NDT",
-      "town": "SUTTON COLDFIELD",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 439337500,
-      "repeater": "GB3GB",
-      "rx": 430337500,
-      "ctcss": 67,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO92BM",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SP0696",
-        "antennaHeight": 15,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5030,
       "fac": false,
       "type": "DV",
@@ -19902,30 +19829,6 @@
       "extraDetails": {
         "ngr": "TQ0826",
         "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 5031,
-      "fac": false,
-      "type": "DV",
-      "status": "REDUCED OUTPUT",
-      "keeperCallsign": "G8NDT",
-      "town": "SUTTON COLDFIELD",
-      "modeCodes": [
-        "M:8"
-      ],
-      "tx": 439762500,
-      "repeater": "GB7GB",
-      "rx": 430762500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO92BM",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SP0696",
-        "antennaHeight": 15,
         "polarisation": "V"
       }
     },
@@ -21741,7 +21644,7 @@
       "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G4MQQ",
+      "keeperCallsign": "G6DLJ",
       "town": "WINKLEIGH",
       "modeCodes": [
         "M:1"
@@ -25821,30 +25724,6 @@
       }
     },
     {
-      "id": 5582,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G4NAB",
-      "town": "ASHINGTON",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430900000,
-      "repeater": "G4NAB",
-      "rx": 438500000,
-      "ctcss": 118.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO95",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "NZ2887",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 5583,
       "fac": true,
       "type": "AP",
@@ -29430,13 +29309,12 @@
     {
       "id": 5909,
       "fac": true,
-      "type": "DM",
+      "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G8NDT",
       "town": "ERDINGTON",
       "modeCodes": [
-        "A",
-        "M:8"
+        "A"
       ],
       "tx": 433300000,
       "repeater": "GB3YB",
@@ -38841,7 +38719,7 @@
       "fac": true,
       "type": "AV",
       "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0VXT",
+      "keeperCallsign": "G7TRL",
       "town": "PRESTON",
       "modeCodes": [
         "A"
@@ -38865,7 +38743,7 @@
       "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G7TRL",
+      "keeperCallsign": "M0VXT",
       "town": "PRESTON",
       "modeCodes": [
         "E"
@@ -40769,30 +40647,6 @@
         "ngr": "ST4227",
         "antennaHeight": 10,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 6685,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "MI7DJT",
-      "town": "MAGHERAFELT",
-      "modeCodes": [
-        "M:1"
-      ],
-      "tx": 431087500,
-      "repeater": "MB6EZ",
-      "rx": 431087500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO64",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "IH8990",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -42961,6 +42815,78 @@
         "ngr": "SD4862",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6792,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G8NDT",
+      "town": "ERDINGTON",
+      "modeCodes": [
+        "M:8"
+      ],
+      "tx": 433212500,
+      "repeater": "GB7YB",
+      "rx": 438212500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO92",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SP1193",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6793,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M5MOW",
+      "town": "WELWYN GARDEN CITY",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UWG",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO91VT",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TL2314",
+        "antennaHeight": 3,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6794,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4NAB",
+      "town": "ASHINGTON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430900000,
+      "repeater": "MB5HT",
+      "rx": 438500000,
+      "ctcss": 118.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO95FE",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "NZ2887",
+        "antennaHeight": 7,
+        "polarisation": "V"
       }
     }
   ]
