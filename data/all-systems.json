@@ -25,6 +25,30 @@
       }
     },
     {
+      "id": 129,
+      "fac": false,
+      "type": "AV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G4MEM",
+      "town": "HARROGATE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 433025000,
+      "repeater": "GB3HJ",
+      "rx": 434625000,
+      "ctcss": 118.8,
+      "txbw": 25,
+      "band": "70CM",
+      "locator": "IO94EB",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SE2263",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 138,
       "fac": false,
       "type": "AV",
@@ -19929,31 +19953,6 @@
       }
     },
     {
-      "id": 5050,
-      "fac": false,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0LIP",
-      "town": "HAILSHAM",
-      "modeCodes": [
-        "D",
-        "M:3"
-      ],
-      "tx": 439462500,
-      "repeater": "GB7PH",
-      "rx": 430462500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO00DU",
-      "dbwErp": -20,
-      "extraDetails": {
-        "ngr": "TQ5909",
-        "antennaHeight": 3,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5052,
       "fac": true,
       "type": "DM",
@@ -20400,7 +20399,7 @@
       "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2E1SCR",
+      "keeperCallsign": "G5SCR",
       "town": "SUTTON IN ASHFIELD",
       "modeCodes": [
         "F"
@@ -22608,7 +22607,7 @@
       "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2E1SCR",
+      "keeperCallsign": "G5SCR",
       "town": "SUTTON IN ASHFIELD",
       "modeCodes": [
         "A"
@@ -29819,7 +29818,7 @@
       "id": 5945,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0YDG",
       "town": "HARROGATE",
       "modeCodes": [
@@ -36274,7 +36273,7 @@
       "id": 6431,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0YDG",
       "town": "HARROGATE",
       "modeCodes": [
@@ -40989,7 +40988,7 @@
       "id": 6703,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM7LUN",
       "town": "DUNS ",
       "modeCodes": [
