@@ -13867,7 +13867,7 @@
       "id": 4202,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM0GFL",
       "town": "LERWICK",
       "modeCodes": [
@@ -19311,30 +19311,6 @@
       "ctcss": 82.5,
       "txbw": 12.5,
       "band": "2M",
-      "locator": "IO91",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TQ3668",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 4965,
-      "fac": false,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G1HIG",
-      "town": "BECKENHAM",
-      "modeCodes": [
-        "M:3"
-      ],
-      "tx": 439512500,
-      "repeater": "GB7LO",
-      "rx": 430512500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
       "locator": "IO91",
       "dbwErp": 14,
       "extraDetails": {
@@ -26753,7 +26729,7 @@
       "id": 5662,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M1CYR",
       "town": "CANNOCK",
       "modeCodes": [
@@ -42958,6 +42934,54 @@
         "ngr": "NZ2887",
         "antennaHeight": 7,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6795,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G3XOU",
+      "town": "YELVERTON",
+      "modeCodes": [
+        "M:3"
+      ],
+      "tx": 430687500,
+      "repeater": "MB0SWC",
+      "rx": 439687500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO70",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SX5368",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6796,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G3XOU",
+      "town": "YELVERTON",
+      "modeCodes": [
+        "M:3"
+      ],
+      "tx": 144912500,
+      "repeater": "MB0SWC",
+      "rx": 144912500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO70",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SX5368",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
