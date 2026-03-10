@@ -26,7 +26,7 @@
     },
     {
       "id": 129,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4MEM",
@@ -38,7 +38,7 @@
       "repeater": "GB3HJ",
       "rx": 434625000,
       "ctcss": 118.8,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO94EB",
       "dbwErp": 14,
@@ -873,6 +873,30 @@
       "extraDetails": {
         "ngr": "TF9210",
         "antennaHeight": 25,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 702,
+      "fac": true,
+      "type": "AV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G4CJZ",
+      "town": "BRISTOL",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 1297350000,
+      "repeater": "GB3AK",
+      "rx": 1277350000,
+      "ctcss": 94.8,
+      "txbw": 25,
+      "band": "23CM",
+      "locator": "IO81RO",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "ST6288",
+        "antennaHeight": 8,
         "polarisation": "V"
       }
     },
@@ -4005,7 +4029,7 @@
     },
     {
       "id": 1148,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4SDR",
@@ -4020,7 +4044,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO81TK",
-      "dbwErp": 12.1,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "ST7170",
         "antennaHeight": 20,
@@ -5951,7 +5975,7 @@
     },
     {
       "id": 2389,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G8XST",
@@ -6774,7 +6798,7 @@
     },
     {
       "id": 2626,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G8FHI",
@@ -6992,7 +7016,7 @@
     },
     {
       "id": 2677,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0ISX",
@@ -7005,7 +7029,7 @@
       "repeater": "GB3HD",
       "rx": 434825000,
       "ctcss": 82.5,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO93BP",
       "dbwErp": 11.5,
@@ -8514,7 +8538,7 @@
       "id": 3136,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "M0SGL",
       "town": "MORDEN",
       "modeCodes": [
@@ -12229,6 +12253,30 @@
       }
     },
     {
+      "id": 3983,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G1MAW",
+      "town": "CHELTENHAM",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430862500,
+      "repeater": "GB3RC",
+      "rx": 438462500,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SO9924",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
       "id": 3987,
       "fac": true,
       "type": "DD",
@@ -12447,7 +12495,7 @@
     },
     {
       "id": 4035,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0MXC",
@@ -13867,7 +13915,7 @@
       "id": 4202,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM0GFL",
       "town": "LERWICK",
       "modeCodes": [
@@ -19311,6 +19359,30 @@
       "ctcss": 82.5,
       "txbw": 12.5,
       "band": "2M",
+      "locator": "IO91",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TQ3668",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 4965,
+      "fac": true,
+      "type": "DV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G1HIG",
+      "town": "BECKENHAM",
+      "modeCodes": [
+        "M:3"
+      ],
+      "tx": 439512500,
+      "repeater": "GB7LO",
+      "rx": 430512500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
       "locator": "IO91",
       "dbwErp": 14,
       "extraDetails": {
@@ -42916,7 +42988,7 @@
       "id": 6794,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4NAB",
       "town": "ASHINGTON",
       "modeCodes": [
@@ -42982,6 +43054,30 @@
         "ngr": "SX5368",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6799,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G0WDA",
+      "town": "BLACKPOOL",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439950000,
+      "repeater": "GB7ESC",
+      "rx": 439950000,
+      "ctcss": 0,
+      "txbw": 25,
+      "band": "70CM",
+      "locator": "IO83LT",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "SD3135",
+        "antennaHeight": 8,
+        "polarisation": "V"
       }
     }
   ]
