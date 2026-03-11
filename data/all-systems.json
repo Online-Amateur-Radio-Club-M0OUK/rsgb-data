@@ -8538,7 +8538,7 @@
       "id": 3136,
       "fac": true,
       "type": "DM",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0SGL",
       "town": "MORDEN",
       "modeCodes": [
@@ -43077,6 +43077,30 @@
       "extraDetails": {
         "ngr": "SD3135",
         "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6801,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G0IJU",
+      "town": "KING'S LYNN",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UYZ",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO02FR",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "TF6315",
+        "antennaHeight": 10,
         "polarisation": "V"
       }
     }
