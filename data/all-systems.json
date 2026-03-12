@@ -1309,7 +1309,7 @@
     },
     {
       "id": 744,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0OBW",
@@ -1321,7 +1321,7 @@
       "repeater": "GB3CR",
       "rx": 434750000,
       "ctcss": 110.9,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO83",
       "dbwErp": 14,
@@ -19856,7 +19856,7 @@
     },
     {
       "id": 5021,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0OMT",
@@ -20027,7 +20027,7 @@
     },
     {
       "id": 5053,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0VGS",
@@ -40995,7 +40995,7 @@
         "M:3"
       ],
       "tx": 439662500,
-      "repeater": "GB7AE",
+      "repeater": "GB7VC",
       "rx": 430662500,
       "ctcss": 0,
       "txbw": 12.5,
@@ -42576,54 +42576,6 @@
       }
     },
     {
-      "id": 6774,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0KOY",
-      "town": "SEATON",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 439137500,
-      "repeater": "M0KOY",
-      "rx": 430137500,
-      "ctcss": 141.3,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO80KQ",
-      "dbwErp": 11.8,
-      "extraDetails": {
-        "ngr": "SY1989",
-        "antennaHeight": 7,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 6775,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G1SOM",
-      "town": "ALBION CLUB STOVAR LONG LANE B",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 438400000,
-      "repeater": "G1SOM",
-      "rx": 430800000,
-      "ctcss": 141.3,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO80KJ",
-      "dbwErp": 11.5,
-      "extraDetails": {
-        "ngr": "SY2289",
-        "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6776,
       "fac": true,
       "type": "PX",
@@ -42796,7 +42748,7 @@
       "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "MM3LSO",
+      "keeperCallsign": "MM9SCT",
       "town": "EYEMOUTH ",
       "modeCodes": [
         "A"
@@ -43101,6 +43053,54 @@
       "extraDetails": {
         "ngr": "TF6315",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6804,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM7RYR",
+      "town": "IRVINE",
+      "modeCodes": [
+        "M:6"
+      ],
+      "tx": 430912500,
+      "repeater": "GB7IR",
+      "rx": 438512500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO75",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NS3438",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6805,
+      "fac": true,
+      "type": "DV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M1CJE",
+      "town": "MANTON, MARLBOROUGH",
+      "modeCodes": [
+        "D"
+      ],
+      "tx": 439425000,
+      "repeater": "GB7AE",
+      "rx": 430425000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91CJ",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SU1668",
+        "antennaHeight": 4,
         "polarisation": "V"
       }
     }
