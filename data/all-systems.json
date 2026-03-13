@@ -41443,7 +41443,7 @@
       "id": 6723,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "2E1DOX",
       "town": "SWADLINCOTE",
       "modeCodes": [
@@ -42792,31 +42792,6 @@
       }
     },
     {
-      "id": 6786,
-      "fac": true,
-      "type": "DM",
-      "status": "",
-      "keeperCallsign": "M0LIP",
-      "town": "HAILSHAM ",
-      "modeCodes": [
-        "A",
-        "M:3"
-      ],
-      "tx": 145775000,
-      "repeater": "GB7PP",
-      "rx": 145175000,
-      "ctcss": 103.5,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO00",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TQ5809",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6788,
       "fac": true,
       "type": "DV",
@@ -43102,6 +43077,31 @@
         "ngr": "SU1668",
         "antennaHeight": 4,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6806,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0LIP",
+      "town": "HAILSHAM ",
+      "modeCodes": [
+        "A",
+        "M:3"
+      ],
+      "tx": 145775000,
+      "repeater": "GB7PP",
+      "rx": 145175000,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO00",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "TQ5809",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
