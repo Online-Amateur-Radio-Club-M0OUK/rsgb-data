@@ -32780,12 +32780,12 @@
       "keeperCallsign": "G0DMX",
       "town": "STOCKPORT",
       "modeCodes": [
-        "A"
+        "M:1"
       ],
       "tx": 430987500,
       "repeater": "GB3XR",
       "rx": 438587500,
-      "ctcss": 77,
+      "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO83XJ",
@@ -37511,7 +37511,7 @@
       "id": 6500,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0YDG",
       "town": "CLECKHEATON",
       "modeCodes": [
@@ -37896,7 +37896,7 @@
       "id": 6521,
       "fac": true,
       "type": "RL",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0YDG",
       "town": "WAKEFIELD",
       "modeCodes": [
