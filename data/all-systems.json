@@ -7147,7 +7147,9 @@
       "town": "LINCOLN",
       "modeCodes": [
         "A",
-        "F"
+        "F",
+        "D",
+        " "
       ],
       "tx": 145725000,
       "repeater": "GB3LM",
@@ -32775,7 +32777,7 @@
     {
       "id": 6193,
       "fac": true,
-      "type": "AV",
+      "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0DMX",
       "town": "STOCKPORT",
@@ -36652,30 +36654,6 @@
       "extraDetails": {
         "ngr": "SE0541",
         "antennaHeight": 7,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 6449,
-      "fac": true,
-      "type": "AP",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GM3STM",
-      "town": "AUCHINLECK",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144800000,
-      "repeater": "MB7USM",
-      "rx": 144800000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO75UL",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NS5522",
-        "antennaHeight": 10,
         "polarisation": "V"
       }
     },
@@ -41180,7 +41158,7 @@
       "id": 6710,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0SDJ",
       "town": "FOLKESTONE",
       "modeCodes": null,
