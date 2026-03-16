@@ -7148,8 +7148,7 @@
       "modeCodes": [
         "A",
         "F",
-        "D",
-        " "
+        "D"
       ],
       "tx": 145725000,
       "repeater": "GB3LM",
@@ -37489,7 +37488,7 @@
       "id": 6500,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0YDG",
       "town": "CLECKHEATON",
       "modeCodes": [
@@ -37874,7 +37873,7 @@
       "id": 6521,
       "fac": true,
       "type": "RL",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0YDG",
       "town": "WAKEFIELD",
       "modeCodes": [
@@ -42605,7 +42604,7 @@
       "id": 6778,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GD7RVP",
       "town": "JURBY",
       "modeCodes": [
