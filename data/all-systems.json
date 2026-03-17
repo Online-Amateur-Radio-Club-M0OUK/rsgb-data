@@ -42490,9 +42490,9 @@
       "modeCodes": [
         "A"
       ],
-      "tx": 430887500,
+      "tx": 430962500,
       "repeater": "GB3OF",
-      "rx": 438487500,
+      "rx": 438562500,
       "ctcss": 71.9,
       "txbw": 12.5,
       "band": "70CM",
@@ -43077,6 +43077,54 @@
       "dbwErp": 10,
       "extraDetails": {
         "ngr": "TQ5809",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6808,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G0UQY",
+      "town": "UPPER BEEDING",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145287500,
+      "repeater": "MB7IOU",
+      "rx": 145287500,
+      "ctcss": 88,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO90",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TQ1910",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6811,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM7RYR",
+      "town": "DUMBARTON",
+      "modeCodes": [
+        "E"
+      ],
+      "tx": 434050000,
+      "repeater": "GB7DM",
+      "rx": 434050000,
+      "ctcss": 0,
+      "txbw": 37.5,
+      "band": "70CM",
+      "locator": "IO75",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "NS4175",
         "antennaHeight": 0,
         "polarisation": ""
       }
