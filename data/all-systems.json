@@ -684,30 +684,6 @@
       }
     },
     {
-      "id": 581,
-      "fac": true,
-      "type": "AG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M1DYP",
-      "town": "WELWYN GARDEN CITY",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145287500,
-      "repeater": "MB7IWG",
-      "rx": 145287500,
-      "ctcss": 82.5,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO91VT",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TL2314",
-        "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 622,
       "fac": true,
       "type": "AP",
@@ -6895,7 +6871,7 @@
     },
     {
       "id": 2636,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4RKY",
@@ -20447,7 +20423,7 @@
       "id": 5089,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G5SCR",
       "town": "SUTTON IN ASHFIELD",
       "modeCodes": [
@@ -26802,7 +26778,7 @@
       "id": 5662,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M1CYR",
       "town": "CANNOCK",
       "modeCodes": [
@@ -42340,7 +42316,7 @@
       "id": 6764,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M1RXO",
       "town": "LINCOLN",
       "modeCodes": [
@@ -43127,6 +43103,30 @@
         "ngr": "NS4175",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6812,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M5MOW",
+      "town": "WELWYN GARDEN CITY",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430062500,
+      "repeater": "MB7IWG",
+      "rx": 430062500,
+      "ctcss": 82.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91VT",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TL2314",
+        "antennaHeight": 3,
+        "polarisation": "V"
       }
     }
   ]
