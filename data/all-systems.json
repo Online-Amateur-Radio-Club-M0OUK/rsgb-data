@@ -41062,7 +41062,7 @@
       "id": 6707,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M5TDC",
       "town": "ROTHERHAM",
       "modeCodes": [
@@ -41397,7 +41397,7 @@
       "id": 6723,
       "fac": true,
       "type": "AG",
-      "status": "REDUCED OUTPUT",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "2E1DOX",
       "town": "SWADLINCOTE",
       "modeCodes": [
@@ -42053,7 +42053,7 @@
       "id": 6750,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4PZK",
       "town": "CREDITON",
       "modeCodes": [
@@ -42149,7 +42149,7 @@
       "id": 6755,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G8OOS",
       "town": "GRIMSBY",
       "modeCodes": [
@@ -43152,6 +43152,78 @@
         "ngr": "SD5918",
         "antennaHeight": 3,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6815,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0KYC",
+      "town": "WALLSEND",
+      "modeCodes": [
+        "E"
+      ],
+      "tx": 434050000,
+      "repeater": "MB5TN",
+      "rx": 434050000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO95GA",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "NZ3267",
+        "antennaHeight": 11,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6816,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M9KAJ",
+      "town": "NEW ROMNEY",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7URO",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO00LW",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "TR0821",
+        "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6817,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M1SDH",
+      "town": "DURRINGTON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430075000,
+      "repeater": "MB7IDU",
+      "rx": 430075000,
+      "ctcss": 85.4,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SU1544",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
