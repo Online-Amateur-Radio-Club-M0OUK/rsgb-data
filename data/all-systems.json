@@ -18024,7 +18024,7 @@
       "id": 4822,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M9PWD",
       "town": "HASTINGS",
       "modeCodes": [
@@ -33704,7 +33704,7 @@
       "id": 6255,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M7GAY",
       "town": "ELSTREE",
       "modeCodes": [
@@ -38767,7 +38767,7 @@
       "id": 6576,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7TRL",
       "town": "PRESTON",
       "modeCodes": [
@@ -42245,7 +42245,7 @@
       "id": 6760,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4IRX",
       "town": "NOTTINGHAM",
       "modeCodes": [
@@ -42986,6 +42986,33 @@
       }
     },
     {
+      "id": 6802,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0DWK",
+      "town": "LANCASTER",
+      "modeCodes": [
+        "A",
+        "M",
+        "P",
+        "N"
+      ],
+      "tx": 439375000,
+      "repeater": "GB3LW",
+      "rx": 430375000,
+      "ctcss": 110.9,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO84OA",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SD4857",
+        "antennaHeight": 14,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 6804,
       "fac": true,
       "type": "DV",
@@ -43080,6 +43107,30 @@
         "ngr": "TQ1910",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6810,
+      "fac": true,
+      "type": "DV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0MBN",
+      "town": "SUNDERLAND",
+      "modeCodes": [
+        "E"
+      ],
+      "tx": 434018750,
+      "repeater": "GB7TW",
+      "rx": 434018750,
+      "ctcss": 0,
+      "txbw": 37.5,
+      "band": "70CM",
+      "locator": "IO94GU",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NZ3653",
+        "antennaHeight": 5,
+        "polarisation": "V"
       }
     },
     {
