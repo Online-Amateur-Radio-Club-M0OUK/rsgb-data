@@ -11290,12 +11290,12 @@
       "ctcss": 0,
       "txbw": 12.5,
       "band": "2M",
-      "locator": "IO94",
+      "locator": "IO94EW",
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "NZ2961",
-        "antennaHeight": 0,
-        "polarisation": ""
+        "antennaHeight": 10,
+        "polarisation": "V"
       }
     },
     {
@@ -20423,7 +20423,7 @@
       "id": 5089,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G5SCR",
       "town": "SUTTON IN ASHFIELD",
       "modeCodes": [
