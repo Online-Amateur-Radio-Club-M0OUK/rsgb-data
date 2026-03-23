@@ -344,7 +344,7 @@
     },
     {
       "id": 236,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4EQS",
@@ -360,7 +360,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO94SO",
-      "dbwErp": 13,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "NZ9304",
         "antennaHeight": 6,
@@ -42461,7 +42461,7 @@
       "id": 6771,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0MRP",
       "town": "CORFE MULLEN",
       "modeCodes": [
@@ -43161,7 +43161,7 @@
       "id": 6812,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M5MOW",
       "town": "WELWYN GARDEN CITY",
       "modeCodes": [
