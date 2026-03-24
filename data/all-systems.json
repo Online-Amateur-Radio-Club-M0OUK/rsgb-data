@@ -7729,7 +7729,7 @@
     },
     {
       "id": 2894,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G7KBR",
@@ -26897,30 +26897,6 @@
       }
     },
     {
-      "id": 5669,
-      "fac": true,
-      "type": "PX",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GM0NRT",
-      "town": "ABERDEEN",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144937500,
-      "repeater": "GB7NRT",
-      "rx": 144937500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO87WD",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NJ9204",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5670,
       "fac": true,
       "type": "DG",
@@ -41349,7 +41325,7 @@
       "id": 6719,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "G8PYT",
       "town": "ROWLEY REGIS",
       "modeCodes": [
@@ -43273,6 +43249,55 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "SU1544",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6820,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G6JME",
+      "town": "DALLINGTON",
+      "modeCodes": [
+        "A",
+        "M:14"
+      ],
+      "tx": 430875000,
+      "repeater": "GB7DF",
+      "rx": 438475000,
+      "ctcss": 123,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO00",
+      "dbwErp": 11.8,
+      "extraDetails": {
+        "ngr": "TQ6619",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6821,
+      "fac": true,
+      "type": "PN",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G6JME",
+      "town": "DALLINGTON",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 70487500,
+      "repeater": "MB7NRP",
+      "rx": 70487500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "4M",
+      "locator": "JO00",
+      "dbwErp": 11.8,
+      "extraDetails": {
+        "ngr": "TQ6619",
         "antennaHeight": 0,
         "polarisation": ""
       }
