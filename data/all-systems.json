@@ -32486,13 +32486,13 @@
       "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G5BSD",
+      "keeperCallsign": "G5AFL",
       "town": "DISS",
       "modeCodes": [
         "A"
       ],
       "tx": 439425000,
-      "repeater": "G5BSD",
+      "repeater": "GB3EU",
       "rx": 430425000,
       "ctcss": 110.9,
       "txbw": 12.5,
@@ -40316,7 +40316,7 @@
       "id": 6666,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "G8PYT",
       "town": "ROWLEY REGIS",
       "modeCodes": [
