@@ -26918,30 +26918,6 @@
       }
     },
     {
-      "id": 5673,
-      "fac": true,
-      "type": "PX",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GM0CQV",
-      "town": "PETERCULTER",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 432625000,
-      "repeater": "GB7CQV",
-      "rx": 432625000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO87UC",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NJ8300",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5674,
       "fac": true,
       "type": "PX",
@@ -41953,7 +41929,7 @@
       "id": 6748,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G1BHM",
       "town": "BUDE",
       "modeCodes": [
@@ -43130,6 +43106,31 @@
       }
     },
     {
+      "id": 6813,
+      "fac": true,
+      "type": "DM",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G4FET",
+      "town": "HASTINGS",
+      "modeCodes": [
+        "A",
+        "D"
+      ],
+      "tx": 430950000,
+      "repeater": "GB7SE",
+      "rx": 438550000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO00GU",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TQ8009",
+        "antennaHeight": 20,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 6814,
       "fac": true,
       "type": "AV",
@@ -43343,6 +43344,30 @@
       "extraDetails": {
         "ngr": "TQ8009",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6824,
+      "fac": true,
+      "type": "PX",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM0CQV",
+      "town": "EAST WEMYSS",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144937500,
+      "repeater": "GB7CQV",
+      "rx": 144937500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO86LD",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NT3396",
+        "antennaHeight": 35,
         "polarisation": "V"
       }
     }
