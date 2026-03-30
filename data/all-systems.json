@@ -7657,7 +7657,7 @@
       "id": 2860,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0ZEP",
       "town": "BLANDFORD",
       "modeCodes": [
@@ -34426,7 +34426,7 @@
       "id": 6310,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GI3NVW",
       "town": "OMAGH",
       "modeCodes": [
@@ -43370,6 +43370,26 @@
         "antennaHeight": 35,
         "polarisation": "V"
       }
+    },
+    {
+      "id": 6825,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0MRP",
+      "town": "LULWORTH",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145587500,
+      "repeater": "GB3DW",
+      "rx": 144987500,
+      "ctcss": 71.9,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO80VP",
+      "dbwErp": 7,
+      "extraDetails": null
     }
   ]
 }
