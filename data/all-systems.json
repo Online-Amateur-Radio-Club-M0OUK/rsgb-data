@@ -30063,7 +30063,8 @@
       "town": "WEST DRAYTON",
       "modeCodes": [
         "M:9",
-        "F"
+        "F",
+        "N"
       ],
       "tx": 434525000,
       "repeater": "MB6CW",
@@ -35695,30 +35696,6 @@
       }
     },
     {
-      "id": 6394,
-      "fac": true,
-      "type": "PN",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0AHN",
-      "town": "PEWSEY",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144937500,
-      "repeater": "MB7NPW",
-      "rx": 144937500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO91",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SU0959",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6397,
       "fac": true,
       "type": "SP",
@@ -41128,7 +41105,7 @@
       "id": 6713,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7MLO",
       "town": "BURY ST EDMUNDS",
       "modeCodes": [
@@ -42742,6 +42719,30 @@
       }
     },
     {
+      "id": 6791,
+      "fac": true,
+      "type": "DM",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G0TJH",
+      "town": "NEWHAVEN",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145787500,
+      "repeater": "GB3EB",
+      "rx": 145187500,
+      "ctcss": 88.5,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO00AS",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TQ4401",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 6792,
       "fac": true,
       "type": "DV",
@@ -43390,6 +43391,30 @@
       "locator": "IO80VP",
       "dbwErp": 7,
       "extraDetails": null
+    },
+    {
+      "id": 6826,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G0DUQ",
+      "town": "HEDNESFORD",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430012500,
+      "repeater": "MB7IRU",
+      "rx": 430012500,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO82XR",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SJ9913",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
     }
   ]
 }
