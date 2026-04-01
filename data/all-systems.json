@@ -6264,30 +6264,6 @@
       }
     },
     {
-      "id": 2441,
-      "fac": false,
-      "type": "TV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G8XTW",
-      "town": "LUTON BEDS",
-      "modeCodes": [
-        "T"
-      ],
-      "tx": 2440000000,
-      "repeater": "GB3TZ",
-      "rx": 2397000000,
-      "ctcss": 0,
-      "txbw": 16000,
-      "band": "13CM",
-      "locator": "IO91SV",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TL0521",
-        "antennaHeight": 20,
-        "polarisation": "H"
-      }
-    },
-    {
       "id": 2452,
       "fac": false,
       "type": "DV",
@@ -8882,7 +8858,7 @@
       "id": 3231,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GW8KCY",
       "town": "CARMARTHEN",
       "modeCodes": [
@@ -12963,7 +12939,7 @@
     },
     {
       "id": 4097,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G3WYW",
@@ -21389,30 +21365,6 @@
       }
     },
     {
-      "id": 5179,
-      "fac": true,
-      "type": "PN",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G7KBR",
-      "town": "EAST GRINSTEAD",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144925000,
-      "repeater": "MB7NEG",
-      "rx": 144925000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO01",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TQ3838",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 5181,
       "fac": true,
       "type": "PX",
@@ -28393,7 +28345,7 @@
       "tx": 433125000,
       "repeater": "GB7FX",
       "rx": 438125000,
-      "ctcss": 74.4,
+      "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "JO01",
@@ -43414,6 +43366,54 @@
         "ngr": "SJ9913",
         "antennaHeight": 10,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6829,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "GW0WZL",
+      "town": "CAERNARFON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145337500,
+      "repeater": "MB7IPN",
+      "rx": 145337500,
+      "ctcss": 110.9,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO73UB",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SH4853",
+        "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6830,
+      "fac": true,
+      "type": "PN",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G7KBR",
+      "town": "EAST GRINSTEAD",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144950000,
+      "repeater": "MB7NEG",
+      "rx": 144950000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO91",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TQ3838",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
