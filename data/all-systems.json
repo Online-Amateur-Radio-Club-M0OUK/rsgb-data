@@ -1791,30 +1791,6 @@
       }
     },
     {
-      "id": 807,
-      "fac": true,
-      "type": "AV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GM4ZUK",
-      "town": "BANCHORY",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145775000,
-      "repeater": "GB3GN",
-      "rx": 145175000,
-      "ctcss": 67,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO87TA",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NO7891",
-        "antennaHeight": 26,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 811,
       "fac": false,
       "type": "AV",
@@ -5229,7 +5205,7 @@
     },
     {
       "id": 2262,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0LRE",
@@ -20887,7 +20863,7 @@
       "id": 5131,
       "fac": true,
       "type": "PN",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0AHN",
       "town": "EXMOUTH",
       "modeCodes": [
@@ -37218,30 +37194,6 @@
       }
     },
     {
-      "id": 6494,
-      "fac": true,
-      "type": "AV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GM0APN",
-      "town": "INVERURIE",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145625000,
-      "repeater": "GB3NG",
-      "rx": 145025000,
-      "ctcss": 67,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO87UH",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NJ8124",
-        "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6495,
       "fac": true,
       "type": "DM",
@@ -42767,34 +42719,10 @@
       }
     },
     {
-      "id": 6795,
-      "fac": true,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G3XOU",
-      "town": "YELVERTON",
-      "modeCodes": [
-        "M:3"
-      ],
-      "tx": 430687500,
-      "repeater": "MB0SWC",
-      "rx": 439687500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO70",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SX5368",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6796,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G3XOU",
       "town": "YELVERTON",
       "modeCodes": [
@@ -43414,6 +43342,79 @@
         "ngr": "TQ3838",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6832,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G6DLJ",
+      "town": "CREDTON",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 144900000,
+      "repeater": "MB6LZ",
+      "rx": 144900000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO80",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SS6906",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6834,
+      "fac": true,
+      "type": "DM",
+      "status": "",
+      "keeperCallsign": "G6SSN",
+      "town": "BOURNE",
+      "modeCodes": [
+        "A",
+        "M:5"
+      ],
+      "tx": 430962500,
+      "repeater": "GB7KU",
+      "rx": 438562500,
+      "ctcss": 71.9,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO92TT",
+      "dbwErp": 11.8,
+      "extraDetails": {
+        "ngr": "TF0727",
+        "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6835,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M7NGY",
+      "town": "BASINGSTOKE",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 433675000,
+      "repeater": "M7NGY",
+      "rx": 433675000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91KG",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SU6253",
+        "antennaHeight": 8,
+        "polarisation": "V"
       }
     }
   ]
