@@ -3260,7 +3260,7 @@
       "id": 983,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0ZPU",
       "town": "TRING",
       "modeCodes": [
@@ -20153,7 +20153,7 @@
     },
     {
       "id": 5071,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0XDR",
@@ -39733,7 +39733,11 @@
       "band": "70CM",
       "locator": "IO83DF",
       "dbwErp": 14,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "SH8373",
+        "antennaHeight": 5,
+        "polarisation": "V"
+      }
     },
     {
       "id": 6643,
@@ -43324,7 +43328,7 @@
       "id": 6830,
       "fac": true,
       "type": "PN",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7KBR",
       "town": "EAST GRINSTEAD",
       "modeCodes": [
