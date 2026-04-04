@@ -3815,7 +3815,7 @@
       "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "GW6CUR",
+      "keeperCallsign": "MW0RUH",
       "town": "CARDIFF",
       "modeCodes": [
         "D"
@@ -6513,7 +6513,7 @@
       "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "GW6CUR",
+      "keeperCallsign": "MW0RUH",
       "town": "COWBRIDGE",
       "modeCodes": [
         "D"
@@ -11698,32 +11698,6 @@
       "extraDetails": {
         "ngr": "ST1494",
         "antennaHeight": 4,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 3901,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GW6CUR",
-      "town": "CARDIFF",
-      "modeCodes": [
-        "D",
-        "M:3",
-        "F"
-      ],
-      "tx": 431112500,
-      "repeater": "MB6CG",
-      "rx": 431112500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81KM",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "ST2080",
-        "antennaHeight": 5,
         "polarisation": "V"
       }
     },
@@ -43376,7 +43350,7 @@
       "id": 6834,
       "fac": true,
       "type": "DM",
-      "status": "",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G6SSN",
       "town": "BOURNE",
       "modeCodes": [
@@ -43418,6 +43392,30 @@
       "extraDetails": {
         "ngr": "SU6253",
         "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6836,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G0NMY",
+      "town": "STOKE-ON-TRENT",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144950000,
+      "repeater": "GB7STO",
+      "rx": 144950000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO83VA",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SJ8746",
+        "antennaHeight": 10,
         "polarisation": "V"
       }
     }
