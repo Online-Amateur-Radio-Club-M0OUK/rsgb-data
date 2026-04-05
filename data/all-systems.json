@@ -5109,7 +5109,7 @@
     },
     {
       "id": 2228,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4NOY",
