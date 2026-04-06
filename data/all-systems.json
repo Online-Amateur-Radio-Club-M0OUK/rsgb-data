@@ -5208,7 +5208,7 @@
       "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "M0LRE",
+      "keeperCallsign": "M1AKL",
       "town": "EASTBOURNE",
       "modeCodes": [
         "D"
@@ -11479,7 +11479,7 @@
       "id": 3871,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "M0XRS",
       "town": "LEYLAND",
       "modeCodes": [
@@ -21240,30 +21240,6 @@
         "ngr": "NY5835",
         "antennaHeight": 0,
         "polarisation": ""
-      }
-    },
-    {
-      "id": 5172,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M1LOU",
-      "town": "BARNSLEY",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430050000,
-      "repeater": "MB7IBY",
-      "rx": 430050000,
-      "ctcss": 71.9,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO93FO",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SE3210",
-        "antennaHeight": 14,
-        "polarisation": "V"
       }
     },
     {
@@ -31824,7 +31800,7 @@
       "locator": "IO93FO",
       "dbwErp": 11,
       "extraDetails": {
-        "ngr": "SE3205",
+        "ngr": "SE3210",
         "antennaHeight": 15,
         "polarisation": "V"
       }
@@ -43415,6 +43391,54 @@
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "SJ8746",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6837,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0TRY",
+      "town": "EASTNOR",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430800000,
+      "repeater": "MB0EMF",
+      "rx": 438400000,
+      "ctcss": 118.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO82TA",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "SO7438",
+        "antennaHeight": 12,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6838,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M1LOU",
+      "town": "BARNSLEY",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430050000,
+      "repeater": "MB7IRY",
+      "rx": 430050000,
+      "ctcss": 71.9,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93GO",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SE3611",
         "antennaHeight": 10,
         "polarisation": "V"
       }
