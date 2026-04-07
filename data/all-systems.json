@@ -23301,7 +23301,7 @@
       "id": 5353,
       "fac": true,
       "type": "AP",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G5BSD",
       "town": "SOUTH NUTFIELD",
       "modeCodes": [
@@ -41276,7 +41276,7 @@
       "id": 6728,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM5JPB",
       "town": "LIVINGSTON",
       "modeCodes": [
