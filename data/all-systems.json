@@ -23476,7 +23476,7 @@
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4OTJ",
-      "town": "FARMBOROUGH",
+      "town": "FARNBOROUGH",
       "modeCodes": [
         "A",
         "M:5"
@@ -24551,30 +24551,6 @@
         "ngr": "ST1271",
         "antennaHeight": 7,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 5459,
-      "fac": true,
-      "type": "PX",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G4OTJ",
-      "town": "FARMBOROUGH",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144925000,
-      "repeater": "GB7NBH",
-      "rx": 144925000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO81",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "ST6360",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -43067,7 +43043,7 @@
       "type": "AV",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "G1SOM",
-      "town": "ST MICHAELS RD. NORTH HILL MIN",
+      "town": "MINEHEAD",
       "modeCodes": [
         "A"
       ],
@@ -43091,7 +43067,7 @@
       "type": "AV",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0KON",
-      "town": "LYDEARD HILL CAR PARK - TAUNTO",
+      "town": "TAUNTON",
       "modeCodes": [
         "A"
       ],
@@ -43423,7 +43399,7 @@
       "id": 6838,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M1LOU",
       "town": "BARNSLEY",
       "modeCodes": [
@@ -43440,6 +43416,52 @@
       "extraDetails": {
         "ngr": "SE3611",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6840,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G4OTJ",
+      "town": "FARMBOROUGH",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144937500,
+      "repeater": "GB7NBH",
+      "rx": 144937500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO81",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "ST6360",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6841,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G5AFL",
+      "town": "EMF CAMP",
+      "modeCodes": null,
+      "tx": 50520000,
+      "repeater": "MB0IAX",
+      "rx": 50520000,
+      "ctcss": 118.8,
+      "txbw": 12.5,
+      "band": "6M",
+      "locator": "IO82TA",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SO7438",
+        "antennaHeight": 7,
         "polarisation": "V"
       }
     }
