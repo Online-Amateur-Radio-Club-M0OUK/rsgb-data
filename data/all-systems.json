@@ -26629,7 +26629,7 @@
       "id": 5663,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MM9STM",
       "town": "PORT GLASGOW",
       "modeCodes": [
@@ -42824,7 +42824,7 @@
       "id": 6808,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0UQY",
       "town": "UPPER BEEDING",
       "modeCodes": [
@@ -42833,7 +42833,7 @@
       "tx": 145287500,
       "repeater": "MB7IOU",
       "rx": 145287500,
-      "ctcss": 88,
+      "ctcss": 88.5,
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO90",
@@ -42993,7 +42993,7 @@
       "id": 6816,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M9KAJ",
       "town": "NEW ROMNEY",
       "modeCodes": [
@@ -43206,7 +43206,7 @@
       "id": 6826,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0DUQ",
       "town": "HEDNESFORD",
       "modeCodes": [
