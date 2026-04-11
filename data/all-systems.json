@@ -31205,7 +31205,7 @@
       "id": 6099,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM5JET",
       "town": "NAIRN",
       "modeCodes": [
@@ -41423,7 +41423,7 @@
       "id": 6735,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM7LUN",
       "town": "SELKIRK",
       "modeCodes": [
@@ -42289,30 +42289,6 @@
       }
     },
     {
-      "id": 6777,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M7DSQ",
-      "town": "HARTLEPOOL",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430050000,
-      "repeater": "MB7ISQ",
-      "rx": 430050000,
-      "ctcss": 67,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO94JQ",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "NZ5132",
-        "antennaHeight": 17,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6778,
       "fac": true,
       "type": "AG",
@@ -42460,7 +42436,7 @@
       "id": 6785,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM4OAS",
       "town": "MORAR",
       "modeCodes": [
@@ -43462,6 +43438,30 @@
       "extraDetails": {
         "ngr": "SO7438",
         "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6842,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M7DSQ ",
+      "town": "PETERLEE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145312500,
+      "repeater": "M7DSQ ",
+      "rx": 145312500,
+      "ctcss": 67,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO94IS",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NZ4340",
+        "antennaHeight": 17,
         "polarisation": "V"
       }
     }
