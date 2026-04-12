@@ -18119,30 +18119,6 @@
       }
     },
     {
-      "id": 4844,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "2E0MBQ",
-      "town": "CLECKHEATON",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 50530000,
-      "repeater": "MB7IWC",
-      "rx": 50530000,
-      "ctcss": 77,
-      "txbw": 10,
-      "band": "6M",
-      "locator": "IO93CR",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SE1625",
-        "antennaHeight": 9,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 4845,
       "fac": true,
       "type": "DV",
@@ -25716,30 +25692,6 @@
         "ngr": "SP2972",
         "antennaHeight": 8,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 5591,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M6ZEP",
-      "town": "DUKINFIELD",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 431100000,
-      "repeater": "M6ZEP",
-      "rx": 431100000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO83",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SJ9497",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -41447,7 +41399,7 @@
       "id": 6736,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM7LUN",
       "town": "GALASHIELS",
       "modeCodes": [
@@ -41471,7 +41423,7 @@
       "id": 6737,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM7LUN",
       "town": "DUNS",
       "modeCodes": [
