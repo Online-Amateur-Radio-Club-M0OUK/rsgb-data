@@ -13065,7 +13065,7 @@
       "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "M0LVL",
+      "keeperCallsign": "G4SDK",
       "town": "FRIZINGTON",
       "modeCodes": [
         "A"
@@ -30425,7 +30425,7 @@
       "id": 6020,
       "fac": true,
       "type": "PX",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0THH",
       "town": "MANSFIELD",
       "modeCodes": [
@@ -39546,30 +39546,6 @@
       "extraDetails": null
     },
     {
-      "id": 6638,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0YGL",
-      "town": "BLETCHLEY",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430062500,
-      "repeater": "MB7IRC",
-      "rx": 430062500,
-      "ctcss": 77,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO91PX",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SP8631",
-        "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6639,
       "fac": true,
       "type": "AP",
@@ -40581,7 +40557,7 @@
       "id": 6698,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4UXV",
       "town": "HUNTINGDON",
       "modeCodes": [
@@ -41623,7 +41599,8 @@
       "keeperCallsign": "G8CAP",
       "town": "DENTON",
       "modeCodes": [
-        "3"
+        "M:3",
+        "F"
       ],
       "tx": 431087500,
       "repeater": "MB6TR",
@@ -42966,54 +42943,6 @@
       }
     },
     {
-      "id": 6818,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G1SOM",
-      "town": "MINEHEAD",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 438400000,
-      "repeater": "G1SOM",
-      "rx": 430800000,
-      "ctcss": 141.3,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81GF",
-      "dbwErp": 11.5,
-      "extraDetails": {
-        "ngr": "SS9646",
-        "antennaHeight": 14,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 6819,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0KON",
-      "town": "TAUNTON",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 439125000,
-      "repeater": "M0KON",
-      "rx": 430125000,
-      "ctcss": 141.3,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81JC",
-      "dbwErp": 10.8,
-      "extraDetails": {
-        "ngr": "ST1833",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6820,
       "fac": true,
       "type": "DM",
@@ -43414,6 +43343,32 @@
       "extraDetails": {
         "ngr": "NZ4340",
         "antennaHeight": 17,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6843,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0UNC",
+      "town": "LEICESTER",
+      "modeCodes": [
+        "D",
+        "M:3",
+        "F"
+      ],
+      "tx": 431062500,
+      "repeater": "MB6UN",
+      "rx": 431062500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO92KN",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SP5795",
+        "antennaHeight": 10,
         "polarisation": "V"
       }
     }
