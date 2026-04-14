@@ -1671,30 +1671,6 @@
       }
     },
     {
-      "id": 796,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M1FJB",
-      "town": "SPILSBY LINCS.",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145775000,
-      "repeater": "GB3FR",
-      "rx": 145175000,
-      "ctcss": 71.9,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO03AE",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TF3568",
-        "antennaHeight": 15,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 797,
       "fac": true,
       "type": "AV",
@@ -20032,7 +20008,7 @@
       "id": 5066,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM8SJP",
       "town": "HAWICK",
       "modeCodes": [
@@ -32560,30 +32536,6 @@
       }
     },
     {
-      "id": 6198,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G5AFL",
-      "town": "WYMONDHAM",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 29650000,
-      "repeater": "GB3TX",
-      "rx": 29550000,
-      "ctcss": 94.8,
-      "txbw": 10,
-      "band": "10M",
-      "locator": "JO02NN",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TG1000",
-        "antennaHeight": 25,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6200,
       "fac": true,
       "type": "PX",
@@ -37530,30 +37482,6 @@
       }
     },
     {
-      "id": 6521,
-      "fac": true,
-      "type": "RL",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0YDG",
-      "town": "WAKEFIELD",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 438125000,
-      "repeater": "MB5YN-L",
-      "rx": 433125000,
-      "ctcss": 82.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO93HO",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SE3814",
-        "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6522,
       "fac": true,
       "type": "AP",
@@ -38207,30 +38135,6 @@
       }
     },
     {
-      "id": 6562,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G5AFL",
-      "town": "DISS",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145600000,
-      "repeater": "G5AFL",
-      "rx": 145000000,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO02NI",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TM1579",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6564,
       "fac": true,
       "type": "AP",
@@ -38570,7 +38474,7 @@
       "id": 6581,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7DPE",
       "town": "BEACONSFIELD",
       "modeCodes": [
@@ -40916,7 +40820,7 @@
       "id": 6715,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GC0CDF",
       "town": "CARDIFF",
       "modeCodes": [
@@ -41693,7 +41597,7 @@
       "id": 6749,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0VGS",
       "town": "LANCASTER",
       "modeCodes": [
@@ -43369,6 +43273,30 @@
       "extraDetails": {
         "ngr": "SP5795",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6845,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0YDG",
+      "town": "WAKEFIELD",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 433250000,
+      "repeater": "MB5WY",
+      "rx": 434850000,
+      "ctcss": 88.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93GO",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SE3814",
+        "antennaHeight": 12,
         "polarisation": "V"
       }
     }
