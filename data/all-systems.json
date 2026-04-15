@@ -1671,6 +1671,30 @@
       }
     },
     {
+      "id": 796,
+      "fac": true,
+      "type": "AV",
+      "status": "",
+      "keeperCallsign": "M1FJB",
+      "town": "SPILSBY LINCS.",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145775000,
+      "repeater": "GB3FR",
+      "rx": 145175000,
+      "ctcss": 71.9,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO03AE",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TF3568",
+        "antennaHeight": 15,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 797,
       "fac": true,
       "type": "AV",
@@ -12060,13 +12084,12 @@
     {
       "id": 3975,
       "fac": true,
-      "type": "DM",
+      "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4LUE",
       "town": "BARNSLEY",
       "modeCodes": [
-        "A",
-        "D"
+        "A"
       ],
       "tx": 145612500,
       "repeater": "GB3NA",
@@ -24851,7 +24874,7 @@
       "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G1LBU",
+      "keeperCallsign": "G7LBU",
       "town": "WASHINGTON",
       "modeCodes": [
         "A"
@@ -25067,7 +25090,7 @@
       "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G1LBU",
+      "keeperCallsign": "G7LBU",
       "town": "WASHINGTON",
       "modeCodes": [
         "D",
@@ -25284,7 +25307,7 @@
       "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G1LBU",
+      "keeperCallsign": "G7LBU",
       "town": "WASHINGTON",
       "modeCodes": [
         "A",
@@ -27754,20 +27777,18 @@
     {
       "id": 5766,
       "fac": true,
-      "type": "DM",
+      "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4LUE",
       "town": "BARNSLEY",
       "modeCodes": [
-        "A",
-        "D",
-        "F"
+        "A"
       ],
       "tx": 433150000,
       "repeater": "GB3SY",
       "rx": 434750000,
       "ctcss": 71.9,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO93SE",
       "dbwErp": 14,
@@ -27919,30 +27940,6 @@
         "ngr": "SD9401",
         "antennaHeight": 7,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 5787,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M6RWW",
-      "town": "WIDNES",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430075000,
-      "repeater": "MB7IRW",
-      "rx": 430075000,
-      "ctcss": 82.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO83",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SJ4986",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -30401,7 +30398,7 @@
       "id": 6020,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0THH",
       "town": "MANSFIELD",
       "modeCodes": [
@@ -31544,7 +31541,7 @@
       "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G1LBU",
+      "keeperCallsign": "G7LBU",
       "town": "WASHINGTON",
       "modeCodes": [
         "A"
@@ -40629,7 +40626,7 @@
       "id": 6707,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M5TDC",
       "town": "ROTHERHAM",
       "modeCodes": [
