@@ -7101,6 +7101,13 @@
       "town": "FELLING",
       "modeCodes": [
         "A",
+        " ",
+        "&",
+        "a",
+        "m",
+        "p",
+        ";",
+        " ",
         "M:10"
       ],
       "tx": 439462500,
@@ -43085,7 +43092,7 @@
       "id": 6835,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M7NGY",
       "town": "BASINGSTOKE",
       "modeCodes": [
@@ -43294,6 +43301,30 @@
       "extraDetails": {
         "ngr": "SE3814",
         "antennaHeight": 12,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6846,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M7IFP",
+      "town": "BASINGSTOKE  ",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 144850000,
+      "repeater": "M7IFP",
+      "rx": 144850000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO91KH",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SU6255",
+        "antennaHeight": 10,
         "polarisation": "V"
       }
     }
