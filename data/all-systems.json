@@ -7094,20 +7094,13 @@
     },
     {
       "id": 2735,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4MSF",
       "town": "FELLING",
       "modeCodes": [
         "A",
-        " ",
-        "&",
-        "a",
-        "m",
-        "p",
-        ";",
-        " ",
         "M:10"
       ],
       "tx": 439462500,
