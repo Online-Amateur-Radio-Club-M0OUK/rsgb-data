@@ -9367,30 +9367,6 @@
       }
     },
     {
-      "id": 3346,
-      "fac": true,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G8NDT",
-      "town": "BANBURY",
-      "modeCodes": [
-        "M:8"
-      ],
-      "tx": 430937500,
-      "repeater": "GB7EH",
-      "rx": 438537500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO92GC",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SP3645",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 3354,
       "fac": true,
       "type": "DV",
@@ -35427,30 +35403,6 @@
       }
     },
     {
-      "id": 6392,
-      "fac": true,
-      "type": "PX",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "2E0HKD",
-      "town": "BASINGSTOKE",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144937500,
-      "repeater": "GB7BSK",
-      "rx": 144937500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO91KG",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SU6153",
-        "antennaHeight": 7,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6397,
       "fac": true,
       "type": "SP",
@@ -38369,30 +38321,6 @@
         "ngr": "SD5429",
         "antennaHeight": 0,
         "polarisation": ""
-      }
-    },
-    {
-      "id": 6577,
-      "fac": true,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0VXT",
-      "town": "PRESTON",
-      "modeCodes": [
-        "E"
-      ],
-      "tx": 439218750,
-      "repeater": "GB7TL",
-      "rx": 430218750,
-      "ctcss": 0,
-      "txbw": 37.5,
-      "band": "70CM",
-      "locator": "IO83PS",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SD5032",
-        "antennaHeight": 7,
-        "polarisation": "V"
       }
     },
     {
@@ -42530,7 +42458,7 @@
       "id": 6802,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0DWK",
       "town": "LANCASTER",
       "modeCodes": [
@@ -43085,7 +43013,7 @@
       "id": 6835,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M7NGY",
       "town": "BASINGSTOKE",
       "modeCodes": [
@@ -43318,6 +43246,78 @@
       "extraDetails": {
         "ngr": "SU6255",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6847,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G8NDT",
+      "town": "BANBURY",
+      "modeCodes": [
+        "M:8"
+      ],
+      "tx": 439162500,
+      "repeater": "GB7EH",
+      "rx": 430162500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO92GC",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SP3645",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6848,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M7NGY",
+      "town": "BASINGSTOKE",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 144825000,
+      "repeater": "M7NGY",
+      "rx": 144825000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO91KG",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SU6253",
+        "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6849,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "2E0HKD",
+      "town": "BASINGSTOKE",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144925000,
+      "repeater": "GB7BSK",
+      "rx": 144925000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO91KG",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SU6153",
+        "antennaHeight": 7,
         "polarisation": "V"
       }
     }
