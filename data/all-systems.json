@@ -43320,6 +43320,30 @@
         "antennaHeight": 7,
         "polarisation": "V"
       }
+    },
+    {
+      "id": 6850,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0WWD",
+      "town": "LYNMOUTH",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "MB7UEX",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "IO81CF",
+      "dbwErp": -7,
+      "extraDetails": {
+        "ngr": "SS7449",
+        "antennaHeight": 4,
+        "polarisation": "V"
+      }
     }
   ]
 }
