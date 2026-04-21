@@ -22994,13 +22994,11 @@
       "modeCodes": [
         "F",
         "M",
-        "P",
-        "2",
-        "5"
+        "D"
       ],
-      "tx": 439562500,
+      "tx": 439537500,
       "repeater": "GB7HI",
-      "rx": 430562500,
+      "rx": 430537500,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
@@ -42845,6 +42843,30 @@
       }
     },
     {
+      "id": 6823,
+      "fac": true,
+      "type": "TV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G1TUL",
+      "town": "SPALDING",
+      "modeCodes": [
+        "T"
+      ],
+      "tx": 1322000000,
+      "repeater": "GB3FV",
+      "rx": 5665000000,
+      "ctcss": 0,
+      "txbw": 4000,
+      "band": "23CM",
+      "locator": "JO02AR",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TF3818",
+        "antennaHeight": 23,
+        "polarisation": "H"
+      }
+    },
+    {
       "id": 6824,
       "fac": true,
       "type": "PX",
@@ -43013,7 +43035,7 @@
       "id": 6835,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M7NGY",
       "town": "BASINGSTOKE",
       "modeCodes": [
