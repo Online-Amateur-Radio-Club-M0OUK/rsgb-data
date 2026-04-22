@@ -5181,7 +5181,7 @@
     },
     {
       "id": 2261,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4EML",
@@ -5952,7 +5952,7 @@
     },
     {
       "id": 2395,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "M1ERS",
@@ -42986,7 +42986,7 @@
       "id": 6832,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G6DLJ",
       "town": "CREDTON",
       "modeCodes": [
