@@ -7609,7 +7609,7 @@
       "id": 2860,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0ZEP",
       "town": "BLANDFORD",
       "modeCodes": [
@@ -41031,7 +41031,7 @@
       "id": 6729,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0SDJ",
       "town": "BOUGHTON ALUPH",
       "modeCodes": [
@@ -41055,7 +41055,7 @@
       "id": 6730,
       "fac": true,
       "type": "PN",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0SDJ",
       "town": "BOUGHTON ALUPH",
       "modeCodes": [
@@ -43365,6 +43365,30 @@
         "ngr": "SS7449",
         "antennaHeight": 4,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6852,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G1JSF",
+      "town": "MIDDLESBROUGH",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145237500,
+      "repeater": "MB7IMB",
+      "rx": 145237500,
+      "ctcss": 118.8,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO94",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NZ4714",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
