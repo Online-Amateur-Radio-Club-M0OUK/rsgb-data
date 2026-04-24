@@ -31586,7 +31586,7 @@
       "id": 6131,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G3XOU",
       "town": "TORQUAY",
       "modeCodes": [
@@ -43389,6 +43389,30 @@
         "ngr": "NZ4714",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6853,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0CSN ",
+      "town": "DUKINFIELD ",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430900000,
+      "repeater": "GB3PZ",
+      "rx": 438500000,
+      "ctcss": 82.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83WL",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SJ9497",
+        "antennaHeight": 12,
+        "polarisation": "V"
       }
     }
   ]
