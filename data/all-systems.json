@@ -10935,30 +10935,6 @@
       }
     },
     {
-      "id": 3761,
-      "fac": true,
-      "type": "AP",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0PJA",
-      "town": "SHEFFIELD",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144800000,
-      "repeater": "MB7UWR",
-      "rx": 144800000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO93II",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SK4982",
-        "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 3767,
       "fac": true,
       "type": "AG",
@@ -16066,7 +16042,7 @@
       "id": 4517,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7TYP",
       "town": "ALFRETON",
       "modeCodes": [
@@ -32284,30 +32260,6 @@
       }
     },
     {
-      "id": 6181,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0PJA",
-      "town": "KIVETON PARK",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430075000,
-      "repeater": "MB7IPA",
-      "rx": 430075000,
-      "ctcss": 110.9,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO93II",
-      "dbwErp": 0,
-      "extraDetails": {
-        "ngr": "SK4982",
-        "antennaHeight": 4,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6184,
       "fac": true,
       "type": "DM",
@@ -33431,7 +33383,7 @@
       "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2E0LLD",
+      "keeperCallsign": "M8LLD",
       "town": "TITCHFIELD",
       "modeCodes": [
         "F"
@@ -38826,30 +38778,6 @@
       }
     },
     {
-      "id": 6608,
-      "fac": true,
-      "type": "AP",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0PJA",
-      "town": "KIVETON PARK",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 439912500,
-      "repeater": "M0PJA",
-      "rx": 439912500,
-      "ctcss": 0,
-      "txbw": 125,
-      "band": "70CM",
-      "locator": "IO93II",
-      "dbwErp": -7,
-      "extraDetails": {
-        "ngr": "SK4982",
-        "antennaHeight": 4,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6609,
       "fac": true,
       "type": "PX",
@@ -42908,7 +42836,11 @@
       "band": "2M",
       "locator": "IO80VP",
       "dbwErp": 7,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "SY8281",
+        "antennaHeight": 3,
+        "polarisation": "V"
+      }
     },
     {
       "id": 6826,
