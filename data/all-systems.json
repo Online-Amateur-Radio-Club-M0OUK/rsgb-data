@@ -33307,30 +33307,6 @@
       }
     },
     {
-      "id": 6255,
-      "fac": true,
-      "type": "AG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M7GAY",
-      "town": "ELSTREE",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430100000,
-      "repeater": "MB7IGY",
-      "rx": 430100000,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO91UP",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TQ1795",
-        "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6256,
       "fac": true,
       "type": "AG",
@@ -42824,7 +42800,7 @@
       "type": "AV",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0MRP",
-      "town": "LULWORTH",
+      "town": "LULWORTH  DORSET ",
       "modeCodes": [
         "A"
       ],
@@ -43344,6 +43320,30 @@
       "extraDetails": {
         "ngr": "SJ9497",
         "antennaHeight": 12,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6855,
+      "fac": true,
+      "type": "AV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0MRP",
+      "town": "LULWORTH  DORSET ",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430962500,
+      "repeater": "GB3OF",
+      "rx": 438562500,
+      "ctcss": 71.9,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO80VP",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SY8281",
+        "antennaHeight": 5,
         "polarisation": "V"
       }
     }
