@@ -26329,31 +26329,6 @@
       }
     },
     {
-      "id": 5652,
-      "fac": true,
-      "type": "DM",
-      "status": "REDUCED OUTPUT",
-      "keeperCallsign": "GW5NDX",
-      "town": "LLANDUDNO",
-      "modeCodes": [
-        "A",
-        "F"
-      ],
-      "tx": 145787500,
-      "repeater": "GB3OG",
-      "rx": 145187500,
-      "ctcss": 110.9,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO83BH",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SH7683",
-        "antennaHeight": 15,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5653,
       "fac": true,
       "type": "PX",
@@ -43345,6 +43320,30 @@
         "ngr": "SY8281",
         "antennaHeight": 5,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6856,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GW5NDX",
+      "town": "NEBO",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145787500,
+      "repeater": "GB3OG",
+      "rx": 145187500,
+      "ctcss": 110.9,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO83",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SH8455",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
