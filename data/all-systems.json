@@ -2607,7 +2607,7 @@
     },
     {
       "id": 908,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G8VLL",
@@ -2655,7 +2655,7 @@
     },
     {
       "id": 911,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G8VLL",
@@ -2667,7 +2667,7 @@
       "repeater": "GB3NR",
       "rx": 434600000,
       "ctcss": 94.8,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "JO02PP",
       "dbwErp": 12,
@@ -10296,7 +10296,7 @@
     },
     {
       "id": 3653,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0VSE",
@@ -25233,7 +25233,7 @@
       "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G5AFL",
+      "keeperCallsign": "M0ZAH",
       "town": "WYMONDHAM",
       "modeCodes": [
         "A"
@@ -32167,7 +32167,7 @@
       "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G5AFL",
+      "keeperCallsign": "M0ZAH",
       "town": "DISS",
       "modeCodes": [
         "A"
@@ -35570,13 +35570,13 @@
       "fac": true,
       "type": "AV",
       "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G5AFL",
+      "keeperCallsign": "M0ZAH",
       "town": "NORWICH",
       "modeCodes": [
         "A"
       ],
       "tx": 430950000,
-      "repeater": "G5AFL",
+      "repeater": "M0ZAH",
       "rx": 438550000,
       "ctcss": 94.8,
       "txbw": 12.5,
@@ -37408,7 +37408,7 @@
       "fac": true,
       "type": "AV",
       "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G5AFL",
+      "keeperCallsign": "M0ZAH",
       "town": "SCOLE",
       "modeCodes": [
         "A"
@@ -42410,7 +42410,7 @@
       "id": 6806,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0LIP",
       "town": "HAILSHAM ",
       "modeCodes": [
@@ -43039,7 +43039,7 @@
       "fac": true,
       "type": "AG",
       "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G5AFL",
+      "keeperCallsign": "M0ZAH",
       "town": "EMF CAMP",
       "modeCodes": null,
       "tx": 50520000,
