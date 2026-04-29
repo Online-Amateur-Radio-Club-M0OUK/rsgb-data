@@ -3860,9 +3860,9 @@
     },
     {
       "id": 1081,
-      "fac": false,
+      "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0LGJ",
       "town": "NORWICH",
       "modeCodes": [
@@ -9590,9 +9590,9 @@
     },
     {
       "id": 3420,
-      "fac": false,
+      "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MI0CRR",
       "town": "BALLYCASTLE",
       "modeCodes": [
@@ -9688,9 +9688,9 @@
     },
     {
       "id": 3439,
-      "fac": false,
+      "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MI0CRQ",
       "town": "BALLYCASTLE",
       "modeCodes": [
@@ -12255,7 +12255,7 @@
       "id": 4004,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MI0CRR",
       "town": "BALLYCASTLE",
       "modeCodes": [
@@ -42562,9 +42562,9 @@
       "modeCodes": [
         "A"
       ],
-      "tx": 430900000,
+      "tx": 430887500,
       "repeater": "GB3LA",
-      "rx": 438500000,
+      "rx": 438487500,
       "ctcss": 82.5,
       "txbw": 12.5,
       "band": "70CM",
@@ -43278,7 +43278,7 @@
       "id": 6853,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "M0CSN ",
       "town": "DUKINFIELD ",
       "modeCodes": [
@@ -43344,6 +43344,50 @@
         "ngr": "SH8455",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6858,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MI5GTX",
+      "town": "COLERAINE",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 431087500,
+      "repeater": "MB6RO",
+      "rx": 431087500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO65QA",
+      "dbwErp": 7,
+      "extraDetails": null
+    },
+    {
+      "id": 6859,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M7IAU",
+      "town": "BASINGSTOKE",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 434525000,
+      "repeater": "M7IAU",
+      "rx": 434525000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91LG",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SU6453",
+        "antennaHeight": 20,
+        "polarisation": "V"
       }
     }
   ]
