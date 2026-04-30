@@ -21146,6 +21146,34 @@
       }
     },
     {
+      "id": 5169,
+      "fac": true,
+      "type": "DM",
+      "status": "",
+      "keeperCallsign": "M0AQC",
+      "town": "ALFORD",
+      "modeCodes": [
+        "A",
+        "D",
+        "M:3",
+        "F",
+        "N"
+      ],
+      "tx": 430887500,
+      "repeater": "GB7JM",
+      "rx": 438487500,
+      "ctcss": 71.9,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO03BI",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TF4284",
+        "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 5170,
       "fac": true,
       "type": "RL",
@@ -41824,30 +41852,6 @@
       "extraDetails": {
         "ngr": "SK4809",
         "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 6771,
-      "fac": true,
-      "type": "AV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0MRP",
-      "town": "CORFE MULLEN",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430962500,
-      "repeater": "GB3OF",
-      "rx": 438562500,
-      "ctcss": 71.9,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO80XS",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SY9895",
-        "antennaHeight": 5,
         "polarisation": "V"
       }
     },
