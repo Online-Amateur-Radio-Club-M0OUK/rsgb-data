@@ -21149,7 +21149,7 @@
       "id": 5169,
       "fac": true,
       "type": "DM",
-      "status": "",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0AQC",
       "town": "ALFORD",
       "modeCodes": [
@@ -42267,7 +42267,7 @@
       "id": 6796,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G3XOU",
       "town": "YELVERTON",
       "modeCodes": [
