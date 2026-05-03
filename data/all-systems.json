@@ -2944,7 +2944,7 @@
     },
     {
       "id": 945,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G6WWY",
@@ -2956,7 +2956,7 @@
       "repeater": "GB3RH",
       "rx": 434875000,
       "ctcss": 94.8,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO80MS",
       "dbwErp": 12,
@@ -3927,31 +3927,6 @@
       "extraDetails": {
         "ngr": "SK3791",
         "antennaHeight": 0,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 1092,
-      "fac": false,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G4SZM",
-      "town": "WESTON-SUPER-MARE",
-      "modeCodes": [
-        "D",
-        "M:2"
-      ],
-      "tx": 439487500,
-      "repeater": "GB7WB",
-      "rx": 430487500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81MH",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "ST3358",
-        "antennaHeight": 20,
         "polarisation": "V"
       }
     },
@@ -6891,31 +6866,6 @@
         "ngr": "SP3747",
         "antennaHeight": 0,
         "polarisation": ""
-      }
-    },
-    {
-      "id": 2664,
-      "fac": true,
-      "type": "DM",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0IRK",
-      "town": "SHIPLEY",
-      "modeCodes": [
-        "A",
-        "M:1"
-      ],
-      "tx": 430887500,
-      "repeater": "GB3XL",
-      "rx": 438487500,
-      "ctcss": 82.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO93CT",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SE1536",
-        "antennaHeight": 10,
-        "polarisation": "V"
       }
     },
     {
@@ -13914,7 +13864,7 @@
     },
     {
       "id": 4233,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0LMN",
@@ -42542,9 +42492,9 @@
       "modeCodes": [
         "A"
       ],
-      "tx": 430887500,
+      "tx": 439750000,
       "repeater": "GB3LA",
-      "rx": 438487500,
+      "rx": 430750000,
       "ctcss": 82.5,
       "txbw": 12.5,
       "band": "70CM",
@@ -43416,6 +43366,30 @@
         "ngr": "TQ2735",
         "antennaHeight": 5,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6861,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G0MRN",
+      "town": "FRETTENHAM",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 432800000,
+      "repeater": "MB5NN",
+      "rx": 144537500,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO02",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TG2416",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
