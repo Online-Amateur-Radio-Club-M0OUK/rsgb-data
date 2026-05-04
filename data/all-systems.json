@@ -17305,7 +17305,7 @@
     },
     {
       "id": 4755,
-      "fac": false,
+      "fac": true,
       "type": "TV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G8VPG",
@@ -17771,30 +17771,6 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "SK3454",
-        "antennaHeight": 3,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 4813,
-      "fac": true,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0JGX",
-      "town": "BECCLES",
-      "modeCodes": [
-        "E"
-      ],
-      "tx": 434018750,
-      "repeater": "GB7TX",
-      "rx": 434018750,
-      "ctcss": 0,
-      "txbw": 25,
-      "band": "70CM",
-      "locator": "JO02TK",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TM4488",
         "antennaHeight": 3,
         "polarisation": "V"
       }
@@ -41449,7 +41425,7 @@
       "id": 6754,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM7LUN",
       "town": "LAUDER",
       "modeCodes": [
@@ -43256,7 +43232,7 @@
       "id": 6855,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0MRP",
       "town": "LULWORTH  DORSET ",
       "modeCodes": [
@@ -43390,6 +43366,30 @@
         "ngr": "TG2416",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6862,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0IRK",
+      "town": "SHIPLEY",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 0,
+      "repeater": "GB3XL",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "",
+      "locator": "IO39X",
+      "dbwErp": -12.2,
+      "extraDetails": {
+        "ngr": "SE1536",
+        "antennaHeight": 10,
+        "polarisation": "V"
       }
     }
   ]
