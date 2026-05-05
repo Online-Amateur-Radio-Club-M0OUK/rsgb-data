@@ -3931,6 +3931,31 @@
       }
     },
     {
+      "id": 1092,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4SZM",
+      "town": "WESTON-SUPER-MARE",
+      "modeCodes": [
+        "D",
+        "M:2"
+      ],
+      "tx": 439487500,
+      "repeater": "GB7WB",
+      "rx": 430487500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81MH",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "ST3358",
+        "antennaHeight": 20,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 1093,
       "fac": false,
       "type": "DV",
