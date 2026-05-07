@@ -7727,7 +7727,7 @@
     },
     {
       "id": 2928,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "GW8KCY",
@@ -7743,7 +7743,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO71WW",
-      "dbwErp": 13,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SN5126",
         "antennaHeight": 8,
@@ -8393,7 +8393,7 @@
       "id": 3136,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0SGL",
       "town": "MORDEN",
       "modeCodes": [
@@ -18467,7 +18467,7 @@
       "id": 4902,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M9TTL",
       "town": "LOUGHTON",
       "modeCodes": [
@@ -43415,6 +43415,32 @@
         "ngr": "SE1536",
         "antennaHeight": 10,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6864,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0ZAH",
+      "town": "SCOLE",
+      "modeCodes": [
+        "D",
+        "M",
+        "F"
+      ],
+      "tx": 144862500,
+      "repeater": "M0ZAH",
+      "rx": 144862500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO02",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TM1579",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
