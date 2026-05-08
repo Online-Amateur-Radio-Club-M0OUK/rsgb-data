@@ -8244,7 +8244,7 @@
       "id": 3081,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0MNE",
       "town": "NEWCASTLE UPON TYNE",
       "modeCodes": [
@@ -42973,7 +42973,7 @@
         "A"
       ],
       "tx": 145312500,
-      "repeater": "M7DSQ ",
+      "repeater": "MB7ISQ ",
       "rx": 145312500,
       "ctcss": 67,
       "txbw": 12.5,
@@ -43232,7 +43232,7 @@
       "id": 6855,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0MRP",
       "town": "LULWORTH  DORSET ",
       "modeCodes": [
@@ -43369,30 +43369,6 @@
       }
     },
     {
-      "id": 6862,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0IRK",
-      "town": "SHIPLEY",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 0,
-      "repeater": "GB3XL",
-      "rx": 0,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "",
-      "locator": "IO39X",
-      "dbwErp": -12.2,
-      "extraDetails": {
-        "ngr": "SE1536",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6863,
       "fac": true,
       "type": "DM",
@@ -43441,6 +43417,30 @@
         "ngr": "TM1579",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6865,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G0ISX",
+      "town": "HUDDERSFIELD",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UHD",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO93BP",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "SE0816",
+        "antennaHeight": 4,
+        "polarisation": "V"
       }
     }
   ]
