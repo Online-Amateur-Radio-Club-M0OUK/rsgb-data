@@ -42329,12 +42329,12 @@
       "ctcss": 103.5,
       "txbw": 12.5,
       "band": "2M",
-      "locator": "JO00",
+      "locator": "JO00DU",
       "dbwErp": 10,
       "extraDetails": {
         "ngr": "TQ5809",
-        "antennaHeight": 0,
-        "polarisation": ""
+        "antennaHeight": 10,
+        "polarisation": "V"
       }
     },
     {
