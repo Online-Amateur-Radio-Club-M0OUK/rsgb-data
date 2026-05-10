@@ -25432,7 +25432,7 @@
       "id": 5572,
       "fac": true,
       "type": "DG",
-      "status": "REDUCED OUTPUT",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M7CCS",
       "town": "CHELTENHAM",
       "modeCodes": [
@@ -42169,7 +42169,7 @@
       "id": 6796,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G3XOU",
       "town": "YELVERTON",
       "modeCodes": [
@@ -43300,7 +43300,7 @@
       "id": 6859,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M7IAU",
       "town": "BASINGSTOKE",
       "modeCodes": [
