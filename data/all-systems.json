@@ -8393,7 +8393,7 @@
       "id": 3136,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "M0SGL",
       "town": "MORDEN",
       "modeCodes": [
@@ -13766,7 +13766,7 @@
     },
     {
       "id": 4221,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G7PFT",
@@ -43348,7 +43348,7 @@
       "id": 6861,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0MRN",
       "town": "FRETTENHAM",
       "modeCodes": [
@@ -43440,6 +43440,30 @@
       "extraDetails": {
         "ngr": "SE0816",
         "antennaHeight": 4,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6866,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4NAB",
+      "town": "ELLINGTON  MORPETH",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145637500,
+      "repeater": "GB3AE",
+      "rx": 145037500,
+      "ctcss": 118.8,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO95FF",
+      "dbwErp": 11,
+      "extraDetails": {
+        "ngr": "NZ2792",
+        "antennaHeight": 7,
         "polarisation": "V"
       }
     }
