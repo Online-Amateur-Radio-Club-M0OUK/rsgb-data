@@ -39667,7 +39667,7 @@
       "id": 6666,
       "fac": true,
       "type": "AV",
-      "status": "REDUCED OUTPUT",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G8PYT",
       "town": "ROWLEY REGIS",
       "modeCodes": [
@@ -42441,8 +42441,7 @@
       "keeperCallsign": "G4FET",
       "town": "HASTINGS",
       "modeCodes": [
-        "A",
-        "D"
+        "A"
       ],
       "tx": 430950000,
       "repeater": "GB7SE",
@@ -42606,12 +42605,13 @@
     {
       "id": 6822,
       "fac": true,
-      "type": "AV",
+      "type": "DM",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4FET",
       "town": "HASTINGS",
       "modeCodes": [
-        "A"
+        "A",
+        "D"
       ],
       "tx": 145612500,
       "repeater": "GB3DY",
