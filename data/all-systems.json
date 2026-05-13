@@ -30809,30 +30809,6 @@
       }
     },
     {
-      "id": 6069,
-      "fac": true,
-      "type": "DV",
-      "status": "REDUCED OUTPUT",
-      "keeperCallsign": "GW0GTW",
-      "town": "LLANDUDNO",
-      "modeCodes": [
-        "M:1"
-      ],
-      "tx": 430287500,
-      "repeater": "GB3OD",
-      "rx": 439287500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO83BH",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SH7683",
-        "antennaHeight": 15,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6070,
       "fac": true,
       "type": "DV",
@@ -42436,7 +42412,7 @@
     {
       "id": 6813,
       "fac": true,
-      "type": "DM",
+      "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4FET",
       "town": "HASTINGS",
@@ -43016,7 +42992,7 @@
       "id": 6845,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0YDG",
       "town": "WAKEFIELD",
       "modeCodes": [
@@ -43464,6 +43440,30 @@
       "extraDetails": {
         "ngr": "NZ2792",
         "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6867,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GW0GTW",
+      "town": "NEBO",
+      "modeCodes": [
+        "M:1"
+      ],
+      "tx": 439400000,
+      "repeater": "GB3OD",
+      "rx": 430400000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83DC20",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SH8455",
+        "antennaHeight": 15,
         "polarisation": "V"
       }
     }
