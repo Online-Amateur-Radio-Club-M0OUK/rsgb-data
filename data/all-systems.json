@@ -7533,7 +7533,7 @@
     },
     {
       "id": 2851,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M1FJB",
@@ -20323,7 +20323,7 @@
     },
     {
       "id": 5101,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0TKF",
@@ -43465,6 +43465,30 @@
         "ngr": "SH8455",
         "antennaHeight": 15,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6868,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4LEE",
+      "town": "HALEWOOD",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 439350000,
+      "repeater": "GB3LP",
+      "rx": 430350000,
+      "ctcss": 82.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83",
+      "dbwErp": 11,
+      "extraDetails": {
+        "ngr": "SJ4385",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
