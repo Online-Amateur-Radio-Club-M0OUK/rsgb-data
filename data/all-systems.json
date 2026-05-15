@@ -8537,30 +8537,6 @@
       }
     },
     {
-      "id": 3167,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "MW0RHD",
-      "town": "PWLLHELI",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 144962500,
-      "repeater": "MB7ILP",
-      "rx": 144962500,
-      "ctcss": 110.9,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO72TW",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SH4240",
-        "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 3170,
       "fac": true,
       "type": "DM",
@@ -41689,7 +41665,7 @@
       "id": 6769,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM0VIK ",
       "town": "LERWICK ",
       "modeCodes": [
@@ -43489,6 +43465,30 @@
         "ngr": "SJ4385",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6869,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "MW0RHD",
+      "town": "PWLLHELI",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430075000,
+      "repeater": "MB7ILP",
+      "rx": 430075000,
+      "ctcss": 110.9,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO72TW",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SH4240",
+        "antennaHeight": 9,
+        "polarisation": "V"
       }
     }
   ]
