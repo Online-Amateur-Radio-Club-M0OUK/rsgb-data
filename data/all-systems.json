@@ -3332,7 +3332,7 @@
       "id": 990,
       "fac": true,
       "type": "TV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4DHO",
       "town": "STOKE ON TRENT",
       "modeCodes": [
@@ -8533,6 +8533,30 @@
       "extraDetails": {
         "ngr": "SW9957",
         "antennaHeight": 33,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 3167,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MW0RHD",
+      "town": "PWLLHELI",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 144962500,
+      "repeater": "MB7ILP",
+      "rx": 144962500,
+      "ctcss": 110.9,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO72TW",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SH4240",
+        "antennaHeight": 6,
         "polarisation": "V"
       }
     },
@@ -13988,12 +14012,13 @@
     {
       "id": 4268,
       "fac": true,
-      "type": "AV",
+      "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G8GTZ",
       "town": "BASINGSTOKE",
       "modeCodes": [
-        "A"
+        "A",
+        "F"
       ],
       "tx": 433325000,
       "repeater": "GB3BA",
@@ -42773,30 +42798,6 @@
       }
     },
     {
-      "id": 6835,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M7NGY",
-      "town": "BASINGSTOKE",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 433675000,
-      "repeater": "M7NGY",
-      "rx": 433675000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO91KG",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SU6253",
-        "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6836,
       "fac": true,
       "type": "PX",
@@ -43276,7 +43277,7 @@
       "id": 6860,
       "fac": true,
       "type": "PN",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0HQM",
       "town": "CRAWLEY",
       "modeCodes": [
@@ -43468,26 +43469,26 @@
       }
     },
     {
-      "id": 6869,
+      "id": 6870,
       "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "MW0RHD",
-      "town": "PWLLHELI",
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M7NGY",
+      "town": "BASINGSTOKE",
       "modeCodes": [
-        "A"
+        "F"
       ],
-      "tx": 430075000,
-      "repeater": "MB7ILP",
-      "rx": 430075000,
-      "ctcss": 110.9,
+      "tx": 438325000,
+      "repeater": "GB3BA-L",
+      "rx": 433325000,
+      "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
-      "locator": "IO72TW",
+      "locator": "IO91KG66",
       "dbwErp": 7,
       "extraDetails": {
-        "ngr": "SH4240",
-        "antennaHeight": 9,
+        "ngr": "SU6253",
+        "antennaHeight": 8,
         "polarisation": "V"
       }
     }
