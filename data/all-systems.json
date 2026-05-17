@@ -16215,7 +16215,7 @@
       "id": 4566,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM7LUN",
       "town": "UPPER LARGO",
       "modeCodes": [
@@ -19707,30 +19707,6 @@
         "ngr": "SE0541",
         "antennaHeight": 7,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 5048,
-      "fac": true,
-      "type": "AG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GW5TEE",
-      "town": "MOLD",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430050000,
-      "repeater": "MB7IBT",
-      "rx": 430050000,
-      "ctcss": 110.9,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO83",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SJ2364",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -24337,7 +24313,7 @@
       "id": 5455,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M1AXM",
       "town": "ILMINSTER",
       "modeCodes": [
@@ -25974,7 +25950,7 @@
       "id": 5630,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G8TZJ",
       "town": "KENDAL",
       "modeCodes": [
@@ -27359,34 +27335,6 @@
         "ngr": "SK5979",
         "antennaHeight": 10,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 5745,
-      "fac": true,
-      "type": "DG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GW5TEE",
-      "town": "MOLD",
-      "modeCodes": [
-        "D",
-        "M:1",
-        "F",
-        "P",
-        "N"
-      ],
-      "tx": 144887500,
-      "repeater": "MB6TE",
-      "rx": 144887500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO83",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SJ2364",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -43472,7 +43420,7 @@
       "id": 6870,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M7NGY",
       "town": "BASINGSTOKE",
       "modeCodes": [
@@ -43489,6 +43437,55 @@
       "extraDetails": {
         "ngr": "SU6253",
         "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6871,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G8PUO",
+      "town": "PORTSMOUTH",
+      "modeCodes": [
+        "D"
+      ],
+      "tx": 439675000,
+      "repeater": "GB7FW",
+      "rx": 430675000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO90LU",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SU6506",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6872,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M1AXM",
+      "town": "HAYTOR VALE",
+      "modeCodes": [
+        "A",
+        "F"
+      ],
+      "tx": 430825000,
+      "repeater": "MB5HQ",
+      "rx": 438425000,
+      "ctcss": 67,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO80DN",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SX7776",
+        "antennaHeight": 10,
         "polarisation": "V"
       }
     }
