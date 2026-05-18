@@ -13161,9 +13161,9 @@
     },
     {
       "id": 4136,
-      "fac": false,
+      "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM6GRE",
       "town": "INVERNESS",
       "modeCodes": [
@@ -16215,7 +16215,7 @@
       "id": 4566,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM7LUN",
       "town": "UPPER LARGO",
       "modeCodes": [
@@ -25554,7 +25554,7 @@
       "id": 5593,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M7SVN",
       "town": "WEYMOUTH",
       "modeCodes": [
@@ -30226,7 +30226,7 @@
       "id": 6026,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0IQF",
       "town": "LUTON",
       "modeCodes": [
@@ -43372,7 +43372,7 @@
       "id": 6867,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GW0GTW",
       "town": "NEBO",
       "modeCodes": [
