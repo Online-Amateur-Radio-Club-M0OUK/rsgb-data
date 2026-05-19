@@ -13163,7 +13163,7 @@
       "id": 4136,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM6GRE",
       "town": "INVERNESS",
       "modeCodes": [
@@ -26022,7 +26022,7 @@
       "id": 5635,
       "fac": true,
       "type": "PX",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0JQQ",
       "town": "CRAMLINGTON",
       "modeCodes": [
@@ -27017,30 +27017,6 @@
       }
     },
     {
-      "id": 5717,
-      "fac": true,
-      "type": "PX",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0JQQ",
-      "town": "CRAMLINGTON",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 430200000,
-      "repeater": "GB7CNR",
-      "rx": 430200000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO95EC",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NZ2576",
-        "antennaHeight": 7,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5718,
       "fac": true,
       "type": "DV",
@@ -27292,7 +27268,7 @@
       "id": 5742,
       "fac": true,
       "type": "PX",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0JQQ",
       "town": "CRAMLINGTON",
       "modeCodes": [
@@ -40597,7 +40573,7 @@
       "id": 6721,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0DUQ",
       "town": "HEDNESFORD",
       "modeCodes": [
@@ -41614,7 +41590,7 @@
       "id": 6767,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7TAJ",
       "town": "BEXHILL-ON-SEA",
       "modeCodes": [
@@ -42628,7 +42604,7 @@
       "id": 6826,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0DUQ",
       "town": "HEDNESFORD",
       "modeCodes": [
@@ -43486,6 +43462,30 @@
       "extraDetails": {
         "ngr": "SX7776",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6874,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0ZAH",
+      "town": "SCOLE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145600000,
+      "repeater": "M0ZAH",
+      "rx": 145000000,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO02NI",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TM1579",
+        "antennaHeight": 7,
         "polarisation": "V"
       }
     }
