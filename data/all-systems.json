@@ -22432,31 +22432,6 @@
       }
     },
     {
-      "id": 5290,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "MI0JLC",
-      "town": "LISBURN",
-      "modeCodes": [
-        "F",
-        "M:5"
-      ],
-      "tx": 144825000,
-      "repeater": "MB6LB",
-      "rx": 144825000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO64",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "IJ2563",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 5292,
       "fac": true,
       "type": "DG",
@@ -35430,9 +35405,9 @@
       "modeCodes": [
         "A"
       ],
-      "tx": 439362500,
+      "tx": 439725000,
       "repeater": "GB3IH",
-      "rx": 430362500,
+      "rx": 430725000,
       "ctcss": 110.9,
       "txbw": 12.5,
       "band": "70CM",
@@ -38275,7 +38250,7 @@
       "id": 6590,
       "fac": true,
       "type": "AP",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G1AW",
       "town": "SHEFFIELD",
       "modeCodes": [
@@ -43037,7 +43012,7 @@
       "id": 6852,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G1JSF",
       "town": "MIDDLESBROUGH",
       "modeCodes": [
