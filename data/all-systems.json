@@ -2920,7 +2920,7 @@
     },
     {
       "id": 943,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G6RVS",
@@ -2932,7 +2932,7 @@
       "repeater": "GB3RE",
       "rx": 434875000,
       "ctcss": 103.5,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "JO01HH",
       "dbwErp": 10.7,
@@ -3450,7 +3450,7 @@
     },
     {
       "id": 999,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4THF",
@@ -3462,7 +3462,7 @@
       "repeater": "GB3VH",
       "rx": 434925000,
       "ctcss": 82.5,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO91VT",
       "dbwErp": 11,
@@ -27461,7 +27461,7 @@
       "id": 5762,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MI0UTY",
       "town": "MAGHERAFELT",
       "modeCodes": [
@@ -39994,30 +39994,6 @@
       }
     },
     {
-      "id": 6695,
-      "fac": true,
-      "type": "AG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G7MSG",
-      "town": "WISBECH",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145262500,
-      "repeater": "MB7IWB",
-      "rx": 145262500,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO02AP",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TF3706",
-        "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6696,
       "fac": true,
       "type": "AG",
@@ -43461,6 +43437,30 @@
       "extraDetails": {
         "ngr": "TM1579",
         "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6875,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2E0KOF",
+      "town": "STOTFOLD",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145287500,
+      "repeater": "MB7ISG",
+      "rx": 145287500,
+      "ctcss": 67,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO92VA",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TL2136",
+        "antennaHeight": 4,
         "polarisation": "V"
       }
     }
