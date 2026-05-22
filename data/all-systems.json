@@ -12386,12 +12386,14 @@
       "keeperCallsign": "G1ERJ",
       "town": "HEATHFIELD",
       "modeCodes": [
+        "A",
+        " ",
         "M:3"
       ],
       "tx": 145650000,
       "repeater": "GB7KB",
       "rx": 145050000,
-      "ctcss": 0,
+      "ctcss": 103.5,
       "txbw": 12.5,
       "band": "2M",
       "locator": "JO00CX",
@@ -23428,7 +23430,7 @@
       "id": 5379,
       "fac": true,
       "type": "PX",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0JQQ",
       "town": "CRAMLINGTON",
       "modeCodes": [
@@ -41001,33 +41003,6 @@
       "extraDetails": {
         "ngr": "TQ1494",
         "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 6742,
-      "fac": true,
-      "type": "DM",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0YGL",
-      "town": "BLETCHLEY",
-      "modeCodes": [
-        "A",
-        "D",
-        "M:1",
-        "F"
-      ],
-      "tx": 430937500,
-      "repeater": "GB7TK",
-      "rx": 438537500,
-      "ctcss": 77,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO91PX",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SP8631",
-        "antennaHeight": 6,
         "polarisation": "V"
       }
     },
