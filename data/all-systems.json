@@ -8393,7 +8393,7 @@
       "id": 3136,
       "fac": true,
       "type": "DM",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0SGL",
       "town": "MORDEN",
       "modeCodes": [
@@ -12381,13 +12381,12 @@
     {
       "id": 4059,
       "fac": true,
-      "type": "DV",
+      "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G1ERJ",
       "town": "HEATHFIELD",
       "modeCodes": [
         "A",
-        " ",
         "M:3"
       ],
       "tx": 145650000,
@@ -42384,7 +42383,7 @@
       "id": 6820,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G6JME",
       "town": "DALLINGTON",
       "modeCodes": [
@@ -42409,7 +42408,7 @@
       "id": 6821,
       "fac": true,
       "type": "PN",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G6JME",
       "town": "DALLINGTON",
       "modeCodes": [
