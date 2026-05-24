@@ -4630,7 +4630,7 @@
       "id": 2095,
       "fac": true,
       "type": "BN",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0OLX",
       "town": "REIGATE",
       "modeCodes": [
@@ -18858,30 +18858,6 @@
       }
     },
     {
-      "id": 4934,
-      "fac": true,
-      "type": "AV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "MW0XTK",
-      "town": "PWLLHELI",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145662500,
-      "repeater": "GB3PH",
-      "rx": 145062500,
-      "ctcss": 118.8,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO72SX",
-      "dbwErp": 9.4,
-      "extraDetails": {
-        "ngr": "SH3543",
-        "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 4937,
       "fac": true,
       "type": "DG",
@@ -27462,7 +27438,7 @@
       "id": 5762,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MI0UTY",
       "town": "MAGHERAFELT",
       "modeCodes": [
@@ -40633,7 +40609,7 @@
       "ctcss": 118.8,
       "txbw": 12.5,
       "band": "70CM",
-      "locator": "IO94SA",
+      "locator": "IO94VB",
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "TA1866",
@@ -43435,6 +43411,54 @@
       "extraDetails": {
         "ngr": "TL2136",
         "antennaHeight": 4,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6876,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MW0XTK",
+      "town": "ABERYSTWYTH ",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145662500,
+      "repeater": "GB3PH",
+      "rx": 145062500,
+      "ctcss": 118.8,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO72XK",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "SN5882",
+        "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6877,
+      "fac": true,
+      "type": "PX",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G0LFT",
+      "town": "HARSTON",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144950000,
+      "repeater": "GB7CAM",
+      "rx": 144950000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO02AD",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TL4250",
+        "antennaHeight": 5,
         "polarisation": "V"
       }
     }
