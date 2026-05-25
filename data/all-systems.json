@@ -19517,30 +19517,6 @@
       }
     },
     {
-      "id": 5018,
-      "fac": true,
-      "type": "DV",
-      "status": "REDUCED OUTPUT",
-      "keeperCallsign": "G7KPR",
-      "town": "GREAT MALVERN",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 145625000,
-      "repeater": "GB3GM",
-      "rx": 145025000,
-      "ctcss": 67,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO82UC",
-      "dbwErp": 11.6,
-      "extraDetails": {
-        "ngr": "SO7746",
-        "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5019,
       "fac": true,
       "type": "AP",
@@ -34109,7 +34085,7 @@
       "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2E0ULH",
+      "keeperCallsign": "M8ULH",
       "town": "LONDON",
       "modeCodes": [
         "A"
@@ -38464,30 +38440,6 @@
       }
     },
     {
-      "id": 6601,
-      "fac": true,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "2E0ULH",
-      "town": "LONDON",
-      "modeCodes": [
-        "E"
-      ],
-      "tx": 434018750,
-      "repeater": "GB7TT",
-      "rx": 434018750,
-      "ctcss": 0,
-      "txbw": 37.5,
-      "band": "70CM",
-      "locator": "IO91WL",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TQ2977",
-        "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6602,
       "fac": true,
       "type": "AP",
@@ -39032,7 +38984,11 @@
       "band": "70CM",
       "locator": "IO90KT",
       "dbwErp": 0,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "SZ6199",
+        "antennaHeight": 8,
+        "polarisation": "V"
+      }
     },
     {
       "id": 6639,
@@ -43459,6 +43415,55 @@
       "extraDetails": {
         "ngr": "TL4250",
         "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6878,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M8ULH",
+      "town": "LONDON",
+      "modeCodes": [
+        "M:7"
+      ],
+      "tx": 433662500,
+      "repeater": "MB6BP",
+      "rx": 433662500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91WL",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TQ2977",
+        "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6879,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G7KPR",
+      "town": "HOLLYBUSH",
+      "modeCodes": [
+        "A",
+        "F"
+      ],
+      "tx": 145625000,
+      "repeater": "GB3GM",
+      "rx": 145025000,
+      "ctcss": 67,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO82TA",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SO7636",
+        "antennaHeight": 7,
         "polarisation": "V"
       }
     }
