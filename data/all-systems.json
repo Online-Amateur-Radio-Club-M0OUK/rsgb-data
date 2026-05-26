@@ -2127,7 +2127,7 @@
       "id": 845,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G3ZXX",
       "town": "MERE WILTSHIRE",
       "modeCodes": [
@@ -7167,7 +7167,7 @@
       "id": 2764,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0JZH",
       "town": "TELFORD",
       "modeCodes": [
@@ -34569,7 +34569,7 @@
       "keeperCallsign": "GM0APN",
       "town": "OLDMELDRUM",
       "modeCodes": [
-        "M:5"
+        "M:11"
       ],
       "tx": 430925000,
       "repeater": "GB7EC",
@@ -43460,7 +43460,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO82TA",
-      "dbwErp": 7,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SO7636",
         "antennaHeight": 7,
