@@ -2872,7 +2872,7 @@
     },
     {
       "id": 941,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G1SLE",
@@ -2884,10 +2884,10 @@
       "repeater": "GB3RB",
       "rx": 434800000,
       "ctcss": 71.9,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO93IF",
-      "dbwErp": 4.7,
+      "dbwErp": 4.8,
       "extraDetails": {
         "ngr": "SK4770",
         "antennaHeight": 5,
@@ -6338,7 +6338,7 @@
     },
     {
       "id": 2511,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G1IRG",
@@ -11403,7 +11403,7 @@
     },
     {
       "id": 3877,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G1IRG",
@@ -19179,7 +19179,7 @@
       "id": 4987,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G3XOU",
       "town": "TAVISTOCK",
       "modeCodes": [
@@ -30814,7 +30814,7 @@
       "id": 6099,
       "fac": true,
       "type": "AP",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM5JET",
       "town": "NAIRN",
       "modeCodes": [
@@ -43374,7 +43374,7 @@
       "id": 6876,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MW0XTK",
       "town": "ABERYSTWYTH ",
       "modeCodes": [
@@ -43398,7 +43398,7 @@
       "id": 6877,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0LFT",
       "town": "HARSTON",
       "modeCodes": [
@@ -43466,6 +43466,26 @@
         "antennaHeight": 7,
         "polarisation": "V"
       }
+    },
+    {
+      "id": 6881,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MI5GTX",
+      "town": "COLERAINE",
+      "modeCodes": [
+        "M:7"
+      ],
+      "tx": 144875000,
+      "repeater": "MB6CO",
+      "rx": 144875000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO65PE",
+      "dbwErp": 7,
+      "extraDetails": null
     }
   ]
 }
