@@ -43014,7 +43014,7 @@
       "id": 6858,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MI5GTX",
       "town": "COLERAINE",
       "modeCodes": [
@@ -43034,7 +43034,7 @@
       "id": 6859,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M7IAU",
       "town": "BASINGSTOKE",
       "modeCodes": [
@@ -43486,6 +43486,30 @@
       "locator": "IO65PE",
       "dbwErp": 7,
       "extraDetails": null
+    },
+    {
+      "id": 6882,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M7NDN",
+      "town": "LIVERPOOL",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430075000,
+      "repeater": "MB7IKM",
+      "rx": 430075000,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83",
+      "dbwErp": 0,
+      "extraDetails": {
+        "ngr": "SJ3696",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
     }
   ]
 }
