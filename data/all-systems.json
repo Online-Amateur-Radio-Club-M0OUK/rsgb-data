@@ -1382,7 +1382,7 @@
     },
     {
       "id": 762,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G1YDQ",
@@ -5035,30 +5035,6 @@
       }
     },
     {
-      "id": 2219,
-      "fac": true,
-      "type": "AV",
-      "status": "REDUCED OUTPUT",
-      "keeperCallsign": "G8PZT",
-      "town": "STOURBRIDGE",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430900000,
-      "repeater": "GB3KC",
-      "rx": 438500000,
-      "ctcss": 67,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO82",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SO9384",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 2223,
       "fac": false,
       "type": "DV",
@@ -6461,7 +6437,7 @@
     },
     {
       "id": 2564,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4BLH",
@@ -43509,6 +43485,102 @@
         "ngr": "SJ3696",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6883,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4BDS",
+      "town": "LIVERPOOL",
+      "modeCodes": [
+        "M:5"
+      ],
+      "tx": 431225000,
+      "repeater": "MB6OP",
+      "rx": 431225000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SJ3596",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6884,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0YGL",
+      "town": "BLETCHLEY",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430100000,
+      "repeater": "MB7IRC",
+      "rx": 430100000,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91PX",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SP8631",
+        "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6885,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G8PZT",
+      "town": "STOURBRIDGE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430900000,
+      "repeater": "GB3KC",
+      "rx": 438500000,
+      "ctcss": 67,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO82",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SO9286",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6886,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4ZWH",
+      "town": "EATON SOCON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 50520000,
+      "repeater": "MB7IES",
+      "rx": 50520000,
+      "ctcss": 67,
+      "txbw": 10,
+      "band": "6M",
+      "locator": "IO92UF",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TL1759",
+        "antennaHeight": 9,
+        "polarisation": "V"
       }
     }
   ]
