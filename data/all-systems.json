@@ -3306,7 +3306,7 @@
     },
     {
       "id": 989,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4KVI",
@@ -3318,7 +3318,7 @@
       "repeater": "GB3UB",
       "rx": 434700000,
       "ctcss": 118.8,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO81UJ",
       "dbwErp": 8,
@@ -3541,32 +3541,6 @@
       "extraDetails": {
         "ngr": "SE2215",
         "antennaHeight": 16,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 1013,
-      "fac": false,
-      "type": "DM",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G4SZM",
-      "town": "WESTON-SUPER-MARE",
-      "modeCodes": [
-        "A",
-        "D",
-        "M:1"
-      ],
-      "tx": 145687500,
-      "repeater": "GB3WE",
-      "rx": 145087500,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO81MH",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "ST3358",
-        "antennaHeight": 20,
         "polarisation": "V"
       }
     },
@@ -7263,30 +7237,6 @@
       }
     },
     {
-      "id": 2780,
-      "fac": false,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G4SZM",
-      "town": "WESTON-SUPER-MARE",
-      "modeCodes": [
-        "M:1"
-      ],
-      "tx": 439512500,
-      "repeater": "GB7IT",
-      "rx": 430512500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81MH",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "ST3358",
-        "antennaHeight": 20,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 2783,
       "fac": true,
       "type": "DV",
@@ -7332,30 +7282,6 @@
       "extraDetails": {
         "ngr": "SJ4706",
         "antennaHeight": 30,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 2792,
-      "fac": false,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G4SZM",
-      "town": "WESTON-SUPER-MARE",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 439537500,
-      "repeater": "GB7IS",
-      "rx": 430537500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81MH",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "ST3358",
-        "antennaHeight": 20,
         "polarisation": "V"
       }
     },
