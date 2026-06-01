@@ -12428,30 +12428,6 @@
       }
     },
     {
-      "id": 4074,
-      "fac": true,
-      "type": "AP",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "MM0ROR",
-      "town": "ABERDEEN",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144800000,
-      "repeater": "MB7UAR",
-      "rx": 144800000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO87",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NJ9008",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 4077,
       "fac": false,
       "type": "DV",
@@ -17638,8 +17614,7 @@
       "keeperCallsign": "M0YDG",
       "town": "WAKEFIELD",
       "modeCodes": [
-        "A",
-        "D"
+        "A"
       ],
       "tx": 430812500,
       "repeater": "GB3BW",
@@ -19081,7 +19056,7 @@
       "id": 4987,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G3XOU",
       "town": "TAVISTOCK",
       "modeCodes": [
@@ -20145,12 +20120,12 @@
       "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
-      "locator": "IO81",
+      "locator": "IO81WL",
       "dbwErp": 10,
       "extraDetails": {
         "ngr": "ST9276",
-        "antennaHeight": 0,
-        "polarisation": ""
+        "antennaHeight": 8,
+        "polarisation": "V"
       }
     },
     {
@@ -20567,30 +20542,6 @@
       }
     },
     {
-      "id": 5139,
-      "fac": true,
-      "type": "PX",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G0JSV",
-      "town": "EYE",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144950000,
-      "repeater": "GB7PTM",
-      "rx": 144950000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO02NH",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TM1070",
-        "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5140,
       "fac": true,
       "type": "PN",
@@ -20643,7 +20594,7 @@
       "fac": true,
       "type": "AP",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G0JSV",
+      "keeperCallsign": "G5TOM",
       "town": "EYE",
       "modeCodes": [
         "X"
@@ -21882,7 +21833,7 @@
       "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G0JSV",
+      "keeperCallsign": "G5TOM",
       "town": "EYE",
       "modeCodes": [
         "A"
@@ -23283,7 +23234,7 @@
       "id": 5379,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0JQQ",
       "town": "CRAMLINGTON",
       "modeCodes": [
@@ -25852,7 +25803,7 @@
       "id": 5635,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0JQQ",
       "town": "CRAMLINGTON",
       "modeCodes": [
@@ -27098,7 +27049,7 @@
       "id": 5742,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0JQQ",
       "town": "CRAMLINGTON",
       "modeCodes": [
@@ -30251,7 +30202,7 @@
       "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G0JSV",
+      "keeperCallsign": "G5TOM",
       "town": "EYE",
       "modeCodes": [
         "A"
@@ -30695,13 +30646,12 @@
       "keeperCallsign": "M0YDG",
       "town": "WAKEFIELD",
       "modeCodes": [
-        "A",
         "D"
       ],
       "tx": 439537500,
       "repeater": "MB5WB-B",
       "rx": 430537500,
-      "ctcss": 88.5,
+      "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO93HP",
@@ -35087,7 +35037,7 @@
       "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G0JSV",
+      "keeperCallsign": "G5TOM",
       "town": "EYE",
       "modeCodes": [
         "A"
@@ -42724,7 +42674,7 @@
       "id": 6848,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M7NGY",
       "town": "BASINGSTOKE",
       "modeCodes": [
@@ -42960,7 +42910,7 @@
       "id": 6860,
       "fac": true,
       "type": "PN",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0HQM",
       "town": "CRAWLEY",
       "modeCodes": [
