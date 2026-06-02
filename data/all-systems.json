@@ -2004,30 +2004,6 @@
       }
     },
     {
-      "id": 834,
-      "fac": true,
-      "type": "AV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G6PDE",
-      "town": "IPSWICH",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 433100000,
-      "repeater": "GB3IH",
-      "rx": 434700000,
-      "ctcss": 110.9,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO02OB",
-      "dbwErp": 10.3,
-      "extraDetails": {
-        "ngr": "TM1944",
-        "antennaHeight": 41,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 836,
       "fac": true,
       "type": "AV",
@@ -20058,7 +20034,7 @@
     },
     {
       "id": 5095,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0PCF",
@@ -20073,7 +20049,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO93HI",
-      "dbwErp": 9.4,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "SK4483",
         "antennaHeight": 10,
@@ -20268,12 +20244,12 @@
       "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
-      "locator": "IO91OF",
+      "locator": "IO91",
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "SU8650",
-        "antennaHeight": 30,
-        "polarisation": "V"
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     },
     {
@@ -31196,12 +31172,12 @@
       "id": 6138,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MM6BWS",
       "town": "PETERHEAD",
       "modeCodes": [
         "F",
-        "M:1"
+        "D"
       ],
       "tx": 144837500,
       "repeater": "MB6PD",
@@ -35204,7 +35180,7 @@
       "id": 6418,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G6PDE",
       "town": "IPSWICH",
       "modeCodes": [
@@ -35217,7 +35193,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "JO02OB",
-      "dbwErp": 10.3,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "TM1944",
         "antennaHeight": 41,
@@ -35564,7 +35540,7 @@
       "id": 6438,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G1JSF",
       "town": "MIDDLESBROUGH",
       "modeCodes": [
@@ -40140,7 +40116,7 @@
       "id": 6713,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G7MLO",
       "town": "BURY ST EDMUNDS",
       "modeCodes": [
@@ -42910,7 +42886,7 @@
       "id": 6860,
       "fac": true,
       "type": "PN",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0HQM",
       "town": "CRAWLEY",
       "modeCodes": [
