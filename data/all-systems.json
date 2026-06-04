@@ -8148,7 +8148,7 @@
       "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G8KHF",
+      "keeperCallsign": "G8WWQ",
       "town": "DAVENTRY",
       "modeCodes": [
         "A",
@@ -8979,7 +8979,7 @@
     },
     {
       "id": 3318,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GJ8PVL",
@@ -13043,7 +13043,7 @@
       "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G8KHF",
+      "keeperCallsign": "G8WWQ",
       "town": "DAVENTRY",
       "modeCodes": [
         "A",
@@ -20715,7 +20715,7 @@
       "fac": true,
       "type": "PN",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G8KHF",
+      "keeperCallsign": "G8WWQ",
       "town": "DAVENTRY",
       "modeCodes": [
         "X"
@@ -41515,7 +41515,7 @@
       "id": 6783,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4SZM",
       "town": "WESTON-SUPER-MARE",
       "modeCodes": [
@@ -43432,6 +43432,30 @@
       "extraDetails": {
         "ngr": "TL1759",
         "antennaHeight": 9,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6887,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M1CMN",
+      "town": "FOLKESTONE",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UAC",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO01OC",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "TR2437",
+        "antennaHeight": 8,
         "polarisation": "V"
       }
     }
