@@ -1001,7 +1001,7 @@
       "id": 710,
       "fac": false,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G8DOR",
       "town": "NEWBURY",
       "modeCodes": [
@@ -11259,10 +11259,11 @@
       "id": 3873,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4TAD",
       "town": "LOWESTOFT",
       "modeCodes": [
+        "A",
         "D"
       ],
       "tx": 1297350000,
@@ -17539,7 +17540,7 @@
       "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G8KHF",
+      "keeperCallsign": "G8WWQ",
       "town": "DAVENTRY",
       "modeCodes": [
         "F"
@@ -26145,7 +26146,7 @@
       "id": 5662,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M1CYR",
       "town": "CANNOCK",
       "modeCodes": [
@@ -30642,7 +30643,7 @@
       "id": 6099,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM5JET",
       "town": "NAIRN",
       "modeCodes": [
@@ -43223,30 +43224,6 @@
       }
     },
     {
-      "id": 6877,
-      "fac": true,
-      "type": "PX",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G0LFT",
-      "town": "HARSTON",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144950000,
-      "repeater": "GB7CAM",
-      "rx": 144950000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO02AD",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TL4250",
-        "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6878,
       "fac": true,
       "type": "DG",
@@ -43456,6 +43433,30 @@
       "extraDetails": {
         "ngr": "TR2437",
         "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6891,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G0LFT",
+      "town": "HARSTON",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144950000,
+      "repeater": "GB7CAM",
+      "rx": 144950000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO02AD",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TL4250",
+        "antennaHeight": 5,
         "polarisation": "V"
       }
     }
