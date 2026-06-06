@@ -2510,30 +2510,6 @@
       }
     },
     {
-      "id": 904,
-      "fac": false,
-      "type": "AV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G4EGU",
-      "town": "ERITH",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 433100000,
-      "repeater": "GB3NK",
-      "rx": 434700000,
-      "ctcss": 103.5,
-      "txbw": 25,
-      "band": "70CM",
-      "locator": "JO01BL",
-      "dbwErp": 3,
-      "extraDetails": {
-        "ngr": "TQ4976",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 905,
       "fac": true,
       "type": "AV",
@@ -18471,30 +18447,6 @@
       }
     },
     {
-      "id": 4911,
-      "fac": true,
-      "type": "DV",
-      "status": "REDUCED OUTPUT",
-      "keeperCallsign": "G0DZZ",
-      "town": "GREAT CLACTON",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 439612500,
-      "repeater": "GB7CE",
-      "rx": 430612500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO01NT",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TM1616",
-        "antennaHeight": 15,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 4912,
       "fac": true,
       "type": "DM",
@@ -20231,7 +20183,7 @@
     },
     {
       "id": 5118,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G1GRD",
@@ -21446,7 +21398,7 @@
       "id": 5221,
       "fac": false,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0WMB",
       "town": "PLYMPTON",
       "modeCodes": [
@@ -38032,7 +37984,7 @@
       "id": 6590,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G1AW",
       "town": "SHEFFIELD",
       "modeCodes": [
@@ -41928,7 +41880,7 @@
       "id": 6808,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0UQY",
       "town": "UPPER BEEDING",
       "modeCodes": [
@@ -43437,6 +43389,54 @@
       }
     },
     {
+      "id": 6888,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G1SOM",
+      "town": "DULVERTON  SOMERSET",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 439125000,
+      "repeater": "G1SOM",
+      "rx": 430125000,
+      "ctcss": 141.3,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81CC",
+      "dbwErp": 10.8,
+      "extraDetails": {
+        "ngr": "SS7436",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6890,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0KON",
+      "town": "PINKERY CTR  SIMONSBATH",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 438400000,
+      "repeater": "M0KON",
+      "rx": 430800000,
+      "ctcss": 141.3,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO82AW",
+      "dbwErp": 10.8,
+      "extraDetails": {
+        "ngr": "SS7241",
+        "antennaHeight": 15,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 6891,
       "fac": true,
       "type": "PX",
@@ -43457,6 +43457,55 @@
       "extraDetails": {
         "ngr": "TL4250",
         "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6892,
+      "fac": true,
+      "type": "PX",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M8VGU",
+      "town": "HARSTON",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144950000,
+      "repeater": "GB7NUL",
+      "rx": 144950000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO02",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TL4250",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6893,
+      "fac": true,
+      "type": "DV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G0DZZ",
+      "town": "GREAT CLACTON",
+      "modeCodes": [
+        "M:3",
+        "F"
+      ],
+      "tx": 439612500,
+      "repeater": "GB7CE",
+      "rx": 430612500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO01NT",
+      "dbwErp": 11.8,
+      "extraDetails": {
+        "ngr": "TM1616",
+        "antennaHeight": 10,
         "polarisation": "V"
       }
     }
