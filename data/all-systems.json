@@ -18004,7 +18004,7 @@
       "type": "AG",
       "status": "OPERATIONAL",
       "keeperCallsign": "2E0VOV",
-      "town": "BOURNEMOUTH",
+      "town": "POOLE",
       "modeCodes": [
         "A"
       ],
@@ -37549,30 +37549,6 @@
       }
     },
     {
-      "id": 6565,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0DPH",
-      "town": "BRIDLINGTON",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145337500,
-      "repeater": "MB7IWW",
-      "rx": 145337500,
-      "ctcss": 88.5,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO94VC",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TA1769",
-        "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6566,
       "fac": true,
       "type": "RL",
@@ -43296,7 +43272,7 @@
       "id": 6884,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0YGL",
       "town": "BLETCHLEY",
       "modeCodes": [
@@ -43320,7 +43296,7 @@
       "id": 6885,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G8PZT",
       "town": "STOURBRIDGE",
       "modeCodes": [
@@ -43506,6 +43482,54 @@
       "extraDetails": {
         "ngr": "TM1616",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6894,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0DPH",
+      "town": "BRIDLINGTON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145337500,
+      "repeater": "MB7IWW",
+      "rx": 145337500,
+      "ctcss": 88.5,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO94VC",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TA1767",
+        "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6895,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0DPH",
+      "town": "BRIDLINGTON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 50520000,
+      "repeater": "MB7IWW",
+      "rx": 50520000,
+      "ctcss": 88.5,
+      "txbw": 12.5,
+      "band": "6M",
+      "locator": "IO94VC",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TA1767",
+        "antennaHeight": 6,
         "polarisation": "V"
       }
     }
