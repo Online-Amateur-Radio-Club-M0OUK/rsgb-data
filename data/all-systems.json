@@ -40214,7 +40214,7 @@
       "id": 6721,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0DUQ",
       "town": "HEDNESFORD",
       "modeCodes": [
@@ -43440,7 +43440,7 @@
       "id": 6892,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "M8VGU",
       "town": "HARSTON",
       "modeCodes": [
