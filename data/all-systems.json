@@ -25535,7 +25535,7 @@
       "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
-      "keeperCallsign": "GM3AND",
+      "keeperCallsign": "MM8BEC",
       "town": "LADYBANK",
       "modeCodes": [
         "A",
@@ -25553,7 +25553,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO86",
-      "dbwErp": 14,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "NO2710",
         "antennaHeight": 0,
@@ -30094,7 +30094,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "JO01GJ",
-      "dbwErp": 10,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "TQ7766",
         "antennaHeight": 10,
@@ -32958,7 +32958,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "JO02PQ",
-      "dbwErp": 14,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "TG2112",
         "antennaHeight": 7,
