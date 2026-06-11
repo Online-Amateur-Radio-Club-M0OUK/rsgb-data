@@ -12237,7 +12237,7 @@
       "id": 4059,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G1ERJ",
       "town": "HEATHFIELD",
       "modeCodes": [
@@ -30595,7 +30595,7 @@
       "id": 6099,
       "fac": true,
       "type": "AP",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM5JET",
       "town": "NAIRN",
       "modeCodes": [
@@ -43530,6 +43530,30 @@
       "extraDetails": {
         "ngr": "TA1767",
         "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6896,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0AWS",
+      "town": "EYKE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145262500,
+      "repeater": "MB7IBW",
+      "rx": 145262500,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO02QC",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TM3151",
+        "antennaHeight": 8,
         "polarisation": "V"
       }
     }
