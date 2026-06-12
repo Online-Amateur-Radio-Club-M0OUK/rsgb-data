@@ -20327,14 +20327,13 @@
     },
     {
       "id": 5127,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M1CVZ",
       "town": "LEIGHTON BUZZARD",
       "modeCodes": [
-        "M:4",
-        "F"
+        "M:4"
       ],
       "tx": 439675000,
       "repeater": "GB7JT",
@@ -41783,7 +41782,7 @@
       "id": 6804,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM7RYR",
       "town": "IRVINE",
       "modeCodes": [
@@ -42815,7 +42814,7 @@
       "id": 6860,
       "fac": true,
       "type": "PN",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0HQM",
       "town": "CRAWLEY",
       "modeCodes": [
@@ -43555,6 +43554,31 @@
         "ngr": "TM3151",
         "antennaHeight": 8,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6897,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M1TNW",
+      "town": "MORETON",
+      "modeCodes": [
+        "M:1",
+        "N"
+      ],
+      "tx": 431075000,
+      "repeater": "MB6TW",
+      "rx": 431075000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SJ2590",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
