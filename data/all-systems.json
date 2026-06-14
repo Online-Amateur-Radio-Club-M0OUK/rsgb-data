@@ -42120,7 +42120,7 @@
       "id": 6822,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4FET",
       "town": "HASTINGS",
       "modeCodes": [
