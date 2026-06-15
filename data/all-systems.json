@@ -32776,7 +32776,7 @@
       "id": 6253,
       "fac": true,
       "type": "AP",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM5AUG",
       "town": "COLCHESTER",
       "modeCodes": [
@@ -42120,7 +42120,7 @@
       "id": 6822,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4FET",
       "town": "HASTINGS",
       "modeCodes": [
