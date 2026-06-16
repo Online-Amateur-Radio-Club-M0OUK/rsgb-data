@@ -31537,7 +31537,7 @@
       "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2W0APD",
+      "keeperCallsign": "MW0AXD",
       "town": "SWANSEA",
       "modeCodes": [
         "M:1"
@@ -32969,7 +32969,7 @@
       "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2W0APD",
+      "keeperCallsign": "MW0AXD",
       "town": "SWANSEA",
       "modeCodes": [
         "A"
@@ -43579,6 +43579,30 @@
         "ngr": "SJ2590",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6898,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G1JKE",
+      "town": "FILEY",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 144862500,
+      "repeater": "MB6FY",
+      "rx": 144862500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO94UE",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TA1180",
+        "antennaHeight": 12,
+        "polarisation": "V"
       }
     }
   ]
