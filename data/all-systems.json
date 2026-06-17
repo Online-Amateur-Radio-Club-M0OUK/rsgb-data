@@ -42797,7 +42797,7 @@
         "F"
       ],
       "tx": 434525000,
-      "repeater": "M7IAU",
+      "repeater": "MB6BC",
       "rx": 434525000,
       "ctcss": 0,
       "txbw": 12.5,
@@ -43602,6 +43602,78 @@
       "extraDetails": {
         "ngr": "TA1180",
         "antennaHeight": 12,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6899,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G4ETN",
+      "town": "CHIPSTABLE",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144950000,
+      "repeater": "GB7SOM",
+      "rx": 144950000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO81HA",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "ST0326",
+        "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6900,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M7IAU",
+      "town": "BASINGSTOKE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430012500,
+      "repeater": "MB7IBS",
+      "rx": 430012500,
+      "ctcss": 88.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91KG",
+      "dbwErp": 0,
+      "extraDetails": {
+        "ngr": "SU6453",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6901,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G7GTI",
+      "town": "SPONDON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145287500,
+      "repeater": "MB7IDX",
+      "rx": 145287500,
+      "ctcss": 88.5,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO92HW",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SK4036",
+        "antennaHeight": 8,
         "polarisation": "V"
       }
     }
