@@ -8587,30 +8587,6 @@
       }
     },
     {
-      "id": 3214,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G0TKV",
-      "town": "READING",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 434512500,
-      "repeater": "MB6OX",
-      "rx": 434512500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO91LM",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SU6481",
-        "antennaHeight": 7,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 3231,
       "fac": true,
       "type": "DM",
@@ -15245,7 +15221,7 @@
       "id": 4434,
       "fac": false,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0UEM",
       "town": "BIRMINGHAM",
       "modeCodes": [
@@ -26097,7 +26073,7 @@
       "id": 5662,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M1CYR",
       "town": "CANNOCK",
       "modeCodes": [
@@ -40237,7 +40213,7 @@
       "id": 6723,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E1DOX",
       "town": "SWADLINCOTE",
       "modeCodes": [
@@ -43674,6 +43650,30 @@
       "extraDetails": {
         "ngr": "SK4036",
         "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6902,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G0STK",
+      "town": "HARROGATE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145262500,
+      "repeater": "MB7IHA",
+      "rx": 145262500,
+      "ctcss": 67,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO93GX",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SE3355",
+        "antennaHeight": 10,
         "polarisation": "V"
       }
     }
