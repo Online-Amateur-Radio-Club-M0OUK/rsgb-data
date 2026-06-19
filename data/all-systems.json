@@ -99,7 +99,7 @@
     },
     {
       "id": 152,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G1XCC",
@@ -3474,7 +3474,7 @@
     },
     {
       "id": 1011,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G1XCC",
@@ -5227,13 +5227,14 @@
     },
     {
       "id": 2308,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GJ8PVL",
       "town": "ST HELIER",
       "modeCodes": [
-        "A"
+        "A",
+        "D"
       ],
       "tx": 145637500,
       "repeater": "GB3GJ",
@@ -21371,13 +21372,14 @@
     },
     {
       "id": 5221,
-      "fac": false,
-      "type": "AV",
+      "fac": true,
+      "type": "AF",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0WMB",
       "town": "PLYMPTON",
       "modeCodes": [
-        "A"
+        "A",
+        "F"
       ],
       "tx": 145762500,
       "repeater": "GB3PL",
