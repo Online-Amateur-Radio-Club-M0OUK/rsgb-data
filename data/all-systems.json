@@ -15220,7 +15220,7 @@
     },
     {
       "id": 4434,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0UEM",
@@ -37430,30 +37430,6 @@
       }
     },
     {
-      "id": 6559,
-      "fac": true,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0OGR",
-      "town": "MIRFIELD",
-      "modeCodes": [
-        "M:2"
-      ],
-      "tx": 439437500,
-      "repeater": "GB7MI",
-      "rx": 430437500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO93",
-      "dbwErp": 10,
-      "extraDetails": {
-        "ngr": "SE1920",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6560,
       "fac": true,
       "type": "AP",
@@ -38081,7 +38057,7 @@
       "id": 6597,
       "fac": true,
       "type": "TV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G8YTZ",
       "town": "FOLKESTONE",
       "modeCodes": [
@@ -42098,7 +42074,7 @@
       "id": 6822,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4FET",
       "town": "HASTINGS",
       "modeCodes": [
@@ -43514,7 +43490,7 @@
       "id": 6896,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0AWS",
       "town": "EYKE",
       "modeCodes": [
