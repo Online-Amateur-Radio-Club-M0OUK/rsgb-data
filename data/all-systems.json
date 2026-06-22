@@ -25392,9 +25392,7 @@
       "town": "HASLINGDEN",
       "modeCodes": [
         "A",
-        "F",
-        "M:3",
-        "D"
+        "F"
       ],
       "tx": 145737500,
       "repeater": "GB3RV",
@@ -43318,54 +43316,6 @@
       }
     },
     {
-      "id": 6888,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G1SOM",
-      "town": "DULVERTON  SOMERSET",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 439125000,
-      "repeater": "G1SOM",
-      "rx": 430125000,
-      "ctcss": 141.3,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81CC",
-      "dbwErp": 10.8,
-      "extraDetails": {
-        "ngr": "SS7436",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 6890,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0KON",
-      "town": "PINKERY CTR  SIMONSBATH",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 438400000,
-      "repeater": "M0KON",
-      "rx": 430800000,
-      "ctcss": 141.3,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO82AW",
-      "dbwErp": 10.8,
-      "extraDetails": {
-        "ngr": "SS7241",
-        "antennaHeight": 15,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6891,
       "fac": true,
       "type": "PX",
@@ -43454,30 +43404,6 @@
       "ctcss": 88.5,
       "txbw": 12.5,
       "band": "2M",
-      "locator": "IO94VC",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TA1767",
-        "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 6895,
-      "fac": true,
-      "type": "AG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0DPH",
-      "town": "BRIDLINGTON",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 50520000,
-      "repeater": "MB7IWW",
-      "rx": 50520000,
-      "ctcss": 88.5,
-      "txbw": 12.5,
-      "band": "6M",
       "locator": "IO94VC",
       "dbwErp": 7,
       "extraDetails": {
@@ -43652,6 +43578,55 @@
       "extraDetails": {
         "ngr": "SE3355",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6905,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MW0MHR",
+      "town": "PORT TALBOT",
+      "modeCodes": [
+        "M:3"
+      ],
+      "tx": 439487500,
+      "repeater": "GB7WG",
+      "rx": 430487500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81CN",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "SS7788",
+        "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6906,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0GUC",
+      "town": "SEDGELEY",
+      "modeCodes": [
+        "D",
+        "M:4"
+      ],
+      "tx": 439525000,
+      "repeater": "GB7DD",
+      "rx": 430525000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO82WM",
+      "dbwErp": 7.8,
+      "extraDetails": {
+        "ngr": "SO9192",
+        "antennaHeight": 25,
         "polarisation": "V"
       }
     }
