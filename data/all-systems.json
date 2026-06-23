@@ -14330,35 +14330,6 @@
       }
     },
     {
-      "id": 4331,
-      "fac": true,
-      "type": "DM",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GM3AND",
-      "town": "GLENROTHES",
-      "modeCodes": [
-        "A",
-        "D",
-        "M:1",
-        "F",
-        "P",
-        "N"
-      ],
-      "tx": 430875000,
-      "repeater": "GB7XG",
-      "rx": 438475000,
-      "ctcss": 103.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO86",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NO2602",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 4332,
       "fac": true,
       "type": "DG",
@@ -43440,7 +43411,7 @@
       "id": 6897,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M1TNW",
       "town": "MORETON",
       "modeCodes": [
