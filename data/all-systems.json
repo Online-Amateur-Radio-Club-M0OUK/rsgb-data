@@ -1624,9 +1624,9 @@
     },
     {
       "id": 794,
-      "fac": false,
+      "fac": true,
       "type": "AV",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4EPX",
       "town": "FARNHAM",
       "modeCodes": [
@@ -1648,7 +1648,7 @@
     },
     {
       "id": 795,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4EPX",
@@ -1660,7 +1660,7 @@
       "repeater": "GB3FN",
       "rx": 434975000,
       "ctcss": 82.5,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO91OF",
       "dbwErp": 14,
@@ -3762,7 +3762,7 @@
     },
     {
       "id": 1070,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4TKR",
@@ -3777,7 +3777,7 @@
       "txbw": 25,
       "band": "23CM",
       "locator": "JO01NI",
-      "dbwErp": 13,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "TR1967",
         "antennaHeight": 10,
@@ -7071,7 +7071,7 @@
       "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
-      "keeperCallsign": "M0JZH",
+      "keeperCallsign": "G1DZP",
       "town": "TELFORD",
       "modeCodes": [
         "A",
@@ -21830,7 +21830,7 @@
       "id": 5260,
       "fac": false,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "M0LIH",
       "town": "FAREHAM",
       "modeCodes": [
@@ -42669,7 +42669,7 @@
       "id": 6856,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GW5NDX",
       "town": "NEBO",
       "modeCodes": [
@@ -42737,7 +42737,7 @@
       "id": 6860,
       "fac": true,
       "type": "PN",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0HQM",
       "town": "CRAWLEY",
       "modeCodes": [
@@ -43598,6 +43598,30 @@
       "extraDetails": {
         "ngr": "SO9192",
         "antennaHeight": 25,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6908,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "2M0SBP",
+      "town": "ARISAIG",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UUU",
+      "rx": 0,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO76BV",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "NM6686",
+        "antennaHeight": 6,
         "polarisation": "V"
       }
     }
