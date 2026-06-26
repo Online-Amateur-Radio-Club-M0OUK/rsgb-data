@@ -5855,7 +5855,7 @@
     },
     {
       "id": 2420,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G6CKK",
@@ -7640,7 +7640,7 @@
         "X"
       ],
       "tx": 144800000,
-      "repeater": "MB7UF",
+      "repeater": "MB7UFK",
       "rx": 144800000,
       "ctcss": 0,
       "txbw": 12.5,
@@ -7748,6 +7748,30 @@
       "dbwErp": 10,
       "extraDetails": {
         "ngr": "NX5257",
+        "antennaHeight": 30,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 2967,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G4KVI",
+      "town": "BATH",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UUB",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO81UI",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "ST7764",
         "antennaHeight": 30,
         "polarisation": "V"
       }
@@ -9557,30 +9581,6 @@
         "ngr": "NZ1637",
         "antennaHeight": 10,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 3467,
-      "fac": true,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G4VZO",
-      "town": "MALVERN",
-      "modeCodes": [
-        "M:13"
-      ],
-      "tx": 439737500,
-      "repeater": "GB7BJ",
-      "rx": 430737500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO82",
-      "dbwErp": 8,
-      "extraDetails": {
-        "ngr": "SO7643",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -12845,30 +12845,6 @@
       }
     },
     {
-      "id": 4121,
-      "fac": true,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G4VZO",
-      "town": "CLEE HILL",
-      "modeCodes": [
-        "M:13"
-      ],
-      "tx": 439412500,
-      "repeater": "GB7GT",
-      "rx": 430412500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO82",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SO6077",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 4127,
       "fac": true,
       "type": "TV",
@@ -13535,7 +13511,7 @@
         "X"
       ],
       "tx": 144800000,
-      "repeater": "MB7UT",
+      "repeater": "MB7UTC",
       "rx": 144800000,
       "ctcss": 0,
       "txbw": 12.5,
@@ -13770,7 +13746,7 @@
     },
     {
       "id": 4262,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0UPM",
@@ -21401,7 +21377,7 @@
         "X"
       ],
       "tx": 144800000,
-      "repeater": "MB7UE",
+      "repeater": "MB7UFY",
       "rx": 144800000,
       "ctcss": 0,
       "txbw": 12.5,
@@ -42092,7 +42068,7 @@
       "id": 6824,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM0CQV",
       "town": "EAST WEMYSS",
       "modeCodes": [
@@ -43411,7 +43387,7 @@
       "id": 6897,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M1TNW",
       "town": "MORETON",
       "modeCodes": [
@@ -43623,6 +43599,30 @@
         "ngr": "NM6686",
         "antennaHeight": 6,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6909,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M1TNW",
+      "town": "MORETON",
+      "modeCodes": [
+        "M:1"
+      ],
+      "tx": 439612500,
+      "repeater": "GB7MO",
+      "rx": 430612500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SJ2590",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
