@@ -9941,13 +9941,13 @@
         "X"
       ],
       "tx": 144800000,
-      "repeater": "MB7VH",
+      "repeater": "MB7UVH",
       "rx": 144800000,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO92RA",
-      "dbwErp": 1.1,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "TL0138",
         "antennaHeight": 10,
@@ -18230,7 +18230,7 @@
         "X"
       ],
       "tx": 144800000,
-      "repeater": "MB7VS",
+      "repeater": "MB7UVT",
       "rx": 144800000,
       "ctcss": 0,
       "txbw": 12.5,
@@ -25269,7 +25269,7 @@
         "X"
       ],
       "tx": 144800000,
-      "repeater": "MB7VM",
+      "repeater": "MB7UVM",
       "rx": 144800000,
       "ctcss": 0,
       "txbw": 12.5,
@@ -43575,6 +43575,30 @@
         "ngr": "SJ2590",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6910,
+      "fac": true,
+      "type": "RN",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G6YBC ",
+      "town": "ATHERTON ",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144500000,
+      "repeater": "MB7TX",
+      "rx": 144500000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO83SM",
+      "dbwErp": 11.2,
+      "extraDetails": {
+        "ngr": "SD6702",
+        "antennaHeight": 12,
+        "polarisation": "V"
       }
     }
   ]
