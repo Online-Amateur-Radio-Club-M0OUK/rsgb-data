@@ -7958,7 +7958,7 @@
         "X"
       ],
       "tx": 144800000,
-      "repeater": "MB7VU",
+      "repeater": "MB7UVU",
       "rx": 144800000,
       "ctcss": 0,
       "txbw": 12.5,
@@ -21855,13 +21855,13 @@
       "fac": true,
       "type": "AP",
       "status": "OPERATIONAL",
-      "keeperCallsign": "M0PHB",
+      "keeperCallsign": "G3PHB",
       "town": "EASTLEIGH",
       "modeCodes": [
         "X"
       ],
       "tx": 144800000,
-      "repeater": "MB7UQ",
+      "repeater": "MB7UCD",
       "rx": 144800000,
       "ctcss": 0,
       "txbw": 12.5,
@@ -26090,30 +26090,6 @@
       }
     },
     {
-      "id": 5670,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "MM0TXO",
-      "town": "INSCH",
-      "modeCodes": [
-        "M:2"
-      ],
-      "tx": 144850000,
-      "repeater": "MB6JH",
-      "rx": 144850000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO87",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "NJ5824",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 5671,
       "fac": true,
       "type": "DM",
@@ -27551,7 +27527,7 @@
       "id": 5807,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MM0TXO",
       "town": "LESLIE",
       "modeCodes": [
@@ -29372,7 +29348,7 @@
       "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "M0PHB",
+      "keeperCallsign": "G3PHB",
       "town": "CHANDLERS FORD",
       "modeCodes": [
         "A"
@@ -37385,7 +37361,7 @@
         "X"
       ],
       "tx": 144800000,
-      "repeater": "MB7UP",
+      "repeater": "MB7UPH",
       "rx": 144800000,
       "ctcss": 0,
       "txbw": 12.5,
@@ -40064,7 +40040,7 @@
       "id": 6721,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0DUQ",
       "town": "HEDNESFORD",
       "modeCodes": [
@@ -43598,6 +43574,30 @@
       "extraDetails": {
         "ngr": "SD6702",
         "antennaHeight": 12,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6912,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G5SCR",
+      "town": "SUTTON IN ASHFIELD",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 70387500,
+      "repeater": "MB7IFC",
+      "rx": 70387500,
+      "ctcss": 71.9,
+      "txbw": 12.5,
+      "band": "4M",
+      "locator": "IO93JC",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SK5058",
+        "antennaHeight": 6,
         "polarisation": "V"
       }
     }
