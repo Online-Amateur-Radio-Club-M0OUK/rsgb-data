@@ -7952,7 +7952,7 @@
       "fac": true,
       "type": "AP",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G0OCB",
+      "keeperCallsign": "G5RJD",
       "town": "CROOK",
       "modeCodes": [
         "X"
@@ -10336,7 +10336,7 @@
         "X"
       ],
       "tx": 144800000,
-      "repeater": "MB7UG",
+      "repeater": "MB7UYF",
       "rx": 144800000,
       "ctcss": 0,
       "txbw": 12.5,
@@ -13781,7 +13781,7 @@
         "X"
       ],
       "tx": 144800000,
-      "repeater": "MB7VN",
+      "repeater": "MB7UKV",
       "rx": 144800000,
       "ctcss": 0,
       "txbw": 12.5,
@@ -18352,7 +18352,7 @@
       "fac": true,
       "type": "AP",
       "status": "OPERATIONAL",
-      "keeperCallsign": "M0JKS",
+      "keeperCallsign": "G1JKS",
       "town": "BAKEWELL",
       "modeCodes": [
         "X"
@@ -21273,7 +21273,7 @@
       "id": 5221,
       "fac": true,
       "type": "AF",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0WMB",
       "town": "PLYMPTON",
       "modeCodes": [
@@ -43412,7 +43412,7 @@
       "id": 6901,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7GTI",
       "town": "SPONDON",
       "modeCodes": [
@@ -43576,6 +43576,26 @@
         "antennaHeight": 12,
         "polarisation": "V"
       }
+    },
+    {
+      "id": 6911,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0KOY",
+      "town": "WINSFORD HILL - DULVERTON  SOM",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 439125000,
+      "repeater": "M0KOY",
+      "rx": 430125000,
+      "ctcss": 141.3,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81EC",
+      "dbwErp": 10.8,
+      "extraDetails": null
     },
     {
       "id": 6912,
