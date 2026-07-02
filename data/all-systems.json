@@ -4731,7 +4731,7 @@
         "X"
       ],
       "tx": 144800000,
-      "repeater": "MB7UM",
+      "repeater": "MB7UPY",
       "rx": 144800000,
       "ctcss": 0,
       "txbw": 12.5,
@@ -4755,7 +4755,7 @@
         "X"
       ],
       "tx": 144800000,
-      "repeater": "MB7UC",
+      "repeater": "MB7UPI",
       "rx": 144800000,
       "ctcss": 0,
       "txbw": 12.5,
@@ -5425,7 +5425,7 @@
         "X"
       ],
       "tx": 144800000,
-      "repeater": "MB7UJ",
+      "repeater": "MB7UJJ",
       "rx": 144800000,
       "ctcss": 0,
       "txbw": 12.5,
@@ -12577,7 +12577,7 @@
       "id": 4097,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G3WYW",
       "town": "NEWBURY",
       "modeCodes": [
@@ -13830,7 +13830,7 @@
         "X"
       ],
       "tx": 144800000,
-      "repeater": "MB7VC",
+      "repeater": "MB7UPE",
       "rx": 144800000,
       "ctcss": 0,
       "txbw": 12.5,
@@ -21957,7 +21957,7 @@
         "X"
       ],
       "tx": 144800000,
-      "repeater": "MB7VE",
+      "repeater": "MB7UEE",
       "rx": 144800000,
       "ctcss": 0,
       "txbw": 12.5,
