@@ -9199,7 +9199,7 @@
     },
     {
       "id": 3365,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4MYS",
@@ -9258,7 +9258,7 @@
       "id": 3367,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "G4MYS",
       "town": "SOUTHAMPTON",
       "modeCodes": [
@@ -28182,7 +28182,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO92UB",
-      "dbwErp": 10,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "TL1943",
         "antennaHeight": 6,
@@ -43651,6 +43651,30 @@
       "extraDetails": {
         "ngr": "SO7636",
         "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6914,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G4AKW",
+      "town": "WOODBRIDGE",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "G4AKW",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "JO02PC",
+      "dbwErp": -7,
+      "extraDetails": {
+        "ngr": "TM2649",
+        "antennaHeight": 5,
         "polarisation": "V"
       }
     }
