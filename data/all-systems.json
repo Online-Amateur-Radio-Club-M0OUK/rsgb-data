@@ -28169,7 +28169,7 @@
       "id": 5881,
       "fac": true,
       "type": "AP",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0PLT",
       "town": "BIGGLESWADE",
       "modeCodes": [
@@ -43526,7 +43526,7 @@
       ],
       "tx": 144800000,
       "repeater": "MB7UUU",
-      "rx": 0,
+      "rx": 144800000,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "2M",
