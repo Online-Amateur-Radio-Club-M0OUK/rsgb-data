@@ -9282,7 +9282,7 @@
       "id": 3369,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4MYS",
       "town": "SOUTHAMPTON",
       "modeCodes": [
@@ -43566,7 +43566,7 @@
       "id": 6910,
       "fac": true,
       "type": "RN",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G6YBC ",
       "town": "ATHERTON ",
       "modeCodes": [
@@ -43676,6 +43676,30 @@
         "ngr": "TM2649",
         "antennaHeight": 5,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6915,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "MM0ICX",
+      "town": "PETERHEAD",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 431087500,
+      "repeater": "MB6PU",
+      "rx": 431087500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO97",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NK1245",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
