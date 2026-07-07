@@ -7141,30 +7141,6 @@
       }
     },
     {
-      "id": 2775,
-      "fac": true,
-      "type": "AP",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G7FBD",
-      "town": "BRISTOL",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144800000,
-      "repeater": "MB7UVV",
-      "rx": 144800000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO81",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "ST6570",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 2779,
       "fac": true,
       "type": "DM",
@@ -7186,30 +7162,6 @@
       "extraDetails": {
         "ngr": "IH5181",
         "antennaHeight": 20,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 2783,
-      "fac": true,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G3KYG",
-      "town": "ROMSEY",
-      "modeCodes": [
-        "M:5"
-      ],
-      "tx": 439637500,
-      "repeater": "GB7MJ",
-      "rx": 430637500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO91GA",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SU3623",
-        "antennaHeight": 15,
         "polarisation": "V"
       }
     },
@@ -26297,7 +26249,7 @@
       "id": 5692,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M7NWE",
       "town": "HERTFORD",
       "modeCodes": [
@@ -43698,6 +43650,30 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "NK1245",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6916,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G7CDA",
+      "town": "LEEDS",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 144887500,
+      "repeater": "MB6LE",
+      "rx": 144887500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO93",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SE2635",
         "antennaHeight": 0,
         "polarisation": ""
       }
