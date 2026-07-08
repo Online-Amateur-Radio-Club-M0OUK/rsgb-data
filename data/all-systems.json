@@ -41643,7 +41643,7 @@
       "id": 6808,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0UQY",
       "town": "UPPER BEEDING",
       "modeCodes": [
@@ -43494,7 +43494,7 @@
       "id": 6909,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M1TNW",
       "town": "MORETON",
       "modeCodes": [
@@ -43586,7 +43586,7 @@
       "id": 6913,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7KPR",
       "town": "LEDBURY",
       "modeCodes": [
