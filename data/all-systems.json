@@ -3858,7 +3858,7 @@
     },
     {
       "id": 1093,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4VSS",
@@ -3873,7 +3873,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO83QI",
-      "dbwErp": 12.5,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SJ5783",
         "antennaHeight": 51,
@@ -26027,30 +26027,6 @@
       }
     },
     {
-      "id": 5668,
-      "fac": true,
-      "type": "PX",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GM0CQV",
-      "town": "PETERCULTER",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144937500,
-      "repeater": "GB7CQV",
-      "rx": 144937500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO87UC",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NJ8300",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5671,
       "fac": true,
       "type": "DM",
@@ -43676,6 +43652,54 @@
         "ngr": "SE2635",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6917,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G7GTI",
+      "town": "SPONDON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430050000,
+      "repeater": "MB7IDX",
+      "rx": 430050000,
+      "ctcss": 88.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO92HW",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SK4036",
+        "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6918,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G5TOM",
+      "town": "NR EYE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 70387500,
+      "repeater": "MB7IEY",
+      "rx": 70387500,
+      "ctcss": 67,
+      "txbw": 12.5,
+      "band": "4M",
+      "locator": "JO02NH",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TM1070",
+        "antennaHeight": 6,
+        "polarisation": "V"
       }
     }
   ]
