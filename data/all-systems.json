@@ -3069,7 +3069,7 @@
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4EPX",
-      "town": "ALTON HANTS",
+      "town": "ALTON",
       "modeCodes": [
         "A"
       ],
@@ -6146,7 +6146,7 @@
       "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G0OCB",
+      "keeperCallsign": "G5RJD",
       "town": "CROOK",
       "modeCodes": [
         "A",
@@ -9432,7 +9432,7 @@
       "id": 3439,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MI0CRQ",
       "town": "BALLYCASTLE",
       "modeCodes": [
@@ -9447,8 +9447,8 @@
       "locator": "IO65VE",
       "dbwErp": 11,
       "extraDetails": {
-        "ngr": "ID1139",
-        "antennaHeight": 0,
+        "ngr": "ID1540",
+        "antennaHeight": 20,
         "polarisation": "V"
       }
     },
@@ -9525,7 +9525,7 @@
       "fac": false,
       "type": "DV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G0OCB",
+      "keeperCallsign": "G5RJD",
       "town": "CROOK",
       "modeCodes": [
         "F"
@@ -11505,7 +11505,7 @@
       "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G0OCB",
+      "keeperCallsign": "G5RJD",
       "town": "CROOK",
       "modeCodes": [
         "A",
@@ -17669,7 +17669,7 @@
       "fac": false,
       "type": "DM",
       "status": "OPERATIONAL",
-      "keeperCallsign": "M0DPH",
+      "keeperCallsign": "G3GJA",
       "town": "HULL",
       "modeCodes": [
         "A",
@@ -28098,7 +28098,7 @@
       "fac": true,
       "type": "AP",
       "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0PLT",
+      "keeperCallsign": "M9BTX",
       "town": "BIGGLESWADE",
       "modeCodes": [
         "X"
@@ -41959,7 +41959,7 @@
       "type": "AV",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0MRP",
-      "town": "LULWORTH  DORSET ",
+      "town": "LULWORTH",
       "modeCodes": [
         "A"
       ],
