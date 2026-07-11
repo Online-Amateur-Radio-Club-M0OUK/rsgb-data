@@ -43337,7 +43337,7 @@
       "ctcss": 88.5,
       "txbw": 12.5,
       "band": "70CM",
-      "locator": "IO91KG",
+      "locator": "IO91LG",
       "dbwErp": 0,
       "extraDetails": {
         "ngr": "SU6453",
@@ -43699,6 +43699,30 @@
       "extraDetails": {
         "ngr": "TM1070",
         "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6919,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M7IAU",
+      "town": "BASINGSTOKE",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UBK",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO91LG",
+      "dbwErp": 0,
+      "extraDetails": {
+        "ngr": "SU6453",
+        "antennaHeight": 10,
         "polarisation": "V"
       }
     }
