@@ -4890,7 +4890,7 @@
     },
     {
       "id": 2193,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G8YPK",
@@ -17665,31 +17665,6 @@
       }
     },
     {
-      "id": 4846,
-      "fac": false,
-      "type": "DM",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G3GJA",
-      "town": "HULL",
-      "modeCodes": [
-        "A",
-        "F"
-      ],
-      "tx": 430837500,
-      "repeater": "GB3NY",
-      "rx": 438437500,
-      "ctcss": 67,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO93RT",
-      "dbwErp": 8.5,
-      "extraDetails": {
-        "ngr": "SE9535",
-        "antennaHeight": 22,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 4849,
       "fac": true,
       "type": "DV",
@@ -23000,7 +22975,7 @@
       "id": 5379,
       "fac": true,
       "type": "PX",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0JQQ",
       "town": "CRAMLINGTON",
       "modeCodes": [
@@ -26765,7 +26740,7 @@
       "id": 5742,
       "fac": true,
       "type": "PX",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0JQQ",
       "town": "CRAMLINGTON",
       "modeCodes": [
@@ -27054,7 +27029,7 @@
     {
       "id": 5766,
       "fac": true,
-      "type": "DV",
+      "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4LUE",
       "town": "BARNSLEY",
@@ -31517,7 +31492,7 @@
       "id": 6178,
       "fac": true,
       "type": "PX",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0JQQ",
       "town": "ELLINGTON",
       "modeCodes": [
@@ -42703,7 +42678,7 @@
       "type": "AV",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4NAB",
-      "town": "ELLINGTON  MORPETH",
+      "town": "ELLINGTON ",
       "modeCodes": [
         "A"
       ],
@@ -42716,7 +42691,7 @@
       "locator": "IO95FF",
       "dbwErp": 11,
       "extraDetails": {
-        "ngr": "NZ2792",
+        "ngr": "NZ2791",
         "antennaHeight": 7,
         "polarisation": "V"
       }
@@ -43494,7 +43469,7 @@
       "id": 6910,
       "fac": true,
       "type": "RN",
-      "status": "OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "G6YBC ",
       "town": "ATHERTON ",
       "modeCodes": [
@@ -43532,7 +43507,11 @@
       "band": "70CM",
       "locator": "IO81EC",
       "dbwErp": 10.8,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "SS8734",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
     },
     {
       "id": 6912,
@@ -43723,6 +43702,80 @@
       "extraDetails": {
         "ngr": "SU6453",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6921,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G0SGR",
+      "town": "BRIDLINGTON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 50520000,
+      "repeater": "MB7ISR",
+      "rx": 50520000,
+      "ctcss": 88.5,
+      "txbw": 10,
+      "band": "6M",
+      "locator": "IO94VC",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TA1767",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6922,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0PJA",
+      "town": "HARWORTH",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430037500,
+      "repeater": "MB7IPA",
+      "rx": 430037500,
+      "ctcss": 110.9,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93LK",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SK6192",
+        "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6923,
+      "fac": true,
+      "type": "DM",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G3GJA",
+      "town": "HULL",
+      "modeCodes": [
+        "A",
+        "D",
+        "F"
+      ],
+      "tx": 430837500,
+      "repeater": "GB3NY",
+      "rx": 438437500,
+      "ctcss": 67,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93RS",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SE9532",
+        "antennaHeight": 20,
         "polarisation": "V"
       }
     }
