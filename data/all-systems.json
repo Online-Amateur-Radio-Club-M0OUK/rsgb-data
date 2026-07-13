@@ -8567,7 +8567,7 @@
       "id": 3231,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GW8KCY",
       "town": "CARMARTHEN",
       "modeCodes": [
@@ -36706,30 +36706,6 @@
       }
     },
     {
-      "id": 6527,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0ZAH",
-      "town": "SCOLE",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 70437500,
-      "repeater": "MB0LBR",
-      "rx": 70287500,
-      "ctcss": 110.9,
-      "txbw": 12.5,
-      "band": "4M",
-      "locator": "JO02NI",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TM1579",
-        "antennaHeight": 7,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6530,
       "fac": true,
       "type": "DM",
@@ -39952,7 +39928,7 @@
       "id": 6721,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0DUQ",
       "town": "HEDNESFORD",
       "modeCodes": [
@@ -42170,28 +42146,6 @@
       }
     },
     {
-      "id": 6841,
-      "fac": true,
-      "type": "AG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0ZAH",
-      "town": "EMF CAMP",
-      "modeCodes": null,
-      "tx": 50520000,
-      "repeater": "MB0IAX",
-      "rx": 50520000,
-      "ctcss": 118.8,
-      "txbw": 12.5,
-      "band": "6M",
-      "locator": "IO82TA",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SO7438",
-        "antennaHeight": 7,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6842,
       "fac": true,
       "type": "AG",
@@ -43517,7 +43471,7 @@
       "id": 6912,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G5SCR",
       "town": "SUTTON IN ASHFIELD",
       "modeCodes": [
@@ -43706,6 +43660,30 @@
       }
     },
     {
+      "id": 6920,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G0MMM",
+      "town": "DONCASTER",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430975000,
+      "repeater": "GB3HF",
+      "rx": 438575000,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93KM",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SE6004",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 6921,
       "fac": true,
       "type": "AG",
@@ -43777,6 +43755,30 @@
         "ngr": "SE9532",
         "antennaHeight": 20,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6924,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0ZAH",
+      "town": "EMF CAMP",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 439425000,
+      "repeater": "M0ZAH",
+      "rx": 430425000,
+      "ctcss": 118.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO82",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SO7438",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
