@@ -2971,7 +2971,7 @@
       "id": 951,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G8NSS",
       "town": "STOKE ON TRENT",
       "modeCodes": [
@@ -10364,7 +10364,7 @@
       "id": 3709,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4LUE",
       "town": "BARNSLEY",
       "modeCodes": [
@@ -11756,7 +11756,7 @@
       "id": 3975,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4LUE",
       "town": "BARNSLEY",
       "modeCodes": [
@@ -11780,7 +11780,7 @@
       "id": 3976,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4LUE",
       "town": "BARNSLEY",
       "modeCodes": [
@@ -11853,7 +11853,7 @@
       "id": 3987,
       "fac": true,
       "type": "DD",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4LUE",
       "town": "BARNSLEY",
       "modeCodes": [
@@ -11877,7 +11877,7 @@
       "id": 3988,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4LUE",
       "town": "BARNSLEY",
       "modeCodes": [
@@ -16824,30 +16824,6 @@
         "ngr": "NZ4218",
         "antennaHeight": 0,
         "polarisation": ""
-      }
-    },
-    {
-      "id": 4733,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G4NJI",
-      "town": "ROTHERHAM",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145287500,
-      "repeater": "MB7ILB",
-      "rx": 145287500,
-      "ctcss": 71.9,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO93HK",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SK4493",
-        "antennaHeight": 8,
-        "polarisation": "V"
       }
     },
     {
@@ -27030,7 +27006,7 @@
       "id": 5766,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4LUE",
       "town": "BARNSLEY",
       "modeCodes": [
@@ -43779,6 +43755,30 @@
         "ngr": "SO7438",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6925,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4NJI",
+      "town": "ROTHERHAM",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 144875000,
+      "repeater": "MB6LB",
+      "rx": 144875000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO93HK",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SK4493",
+        "antennaHeight": 8,
+        "polarisation": "V"
       }
     }
   ]
