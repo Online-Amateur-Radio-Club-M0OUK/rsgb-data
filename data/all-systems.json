@@ -13637,7 +13637,7 @@
       "fac": true,
       "type": "DM",
       "status": "REDUCED OUTPUT",
-      "keeperCallsign": "G4VZO",
+      "keeperCallsign": "G1MAW",
       "town": "CLEOBURY NORTH",
       "modeCodes": [
         "A",
@@ -13650,7 +13650,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO82",
-      "dbwErp": 7,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SO5986",
         "antennaHeight": 0,
@@ -13659,10 +13659,10 @@
     },
     {
       "id": 4246,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G4VZO",
+      "keeperCallsign": "G1MAW",
       "town": "CLEOBURY NORTH",
       "modeCodes": [
         "M:11"
@@ -13674,7 +13674,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO82",
-      "dbwErp": 13,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SO5986",
         "antennaHeight": 0,
@@ -18861,7 +18861,7 @@
       "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
-      "locator": "IO81SK",
+      "locator": "IO81RK",
       "dbwErp": 10,
       "extraDetails": {
         "ngr": "ST6570",
@@ -31420,7 +31420,7 @@
       "id": 6175,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM7RYR",
       "town": "DUNBAR",
       "modeCodes": [
@@ -40364,7 +40364,7 @@
       "id": 6741,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M9SJW",
       "town": "BUSHEY",
       "modeCodes": [
@@ -43416,30 +43416,6 @@
       "extraDetails": {
         "ngr": "SD6702",
         "antennaHeight": 12,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 6911,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0KOY",
-      "town": "WINSFORD HILL - DULVERTON  SOM",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 439125000,
-      "repeater": "M0KOY",
-      "rx": 430125000,
-      "ctcss": 141.3,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81EC",
-      "dbwErp": 10.8,
-      "extraDetails": {
-        "ngr": "SS8734",
-        "antennaHeight": 10,
         "polarisation": "V"
       }
     },
