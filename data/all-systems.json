@@ -295,9 +295,9 @@
     },
     {
       "id": 228,
-      "fac": false,
+      "fac": true,
       "type": "DV",
-      "status": "REDUCED OUTPUT",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0VRM",
       "town": "SOUTH CAVE",
       "modeCodes": [
@@ -29970,7 +29970,7 @@
       "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "M7SQQ",
+      "keeperCallsign": "M0SQQ",
       "town": "BURY",
       "modeCodes": [
         "A"
@@ -36854,7 +36854,7 @@
       "id": 6541,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MM7IGU",
       "town": "GARTHDEE",
       "modeCodes": [
@@ -43755,6 +43755,62 @@
         "ngr": "SK4493",
         "antennaHeight": 8,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6926,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G7FBD",
+      "town": "BRISTOL",
+      "modeCodes": [
+        "D",
+        "M:3",
+        "F",
+        "P",
+        "N"
+      ],
+      "tx": 439537500,
+      "repeater": "GB7OT",
+      "rx": 430537500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "ST6570",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6927,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G7FBD",
+      "town": "BRISTOL",
+      "modeCodes": [
+        "D",
+        "M:3",
+        "F",
+        "P",
+        "N"
+      ],
+      "tx": 439512500,
+      "repeater": "GB7UT",
+      "rx": 430512500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "ST6570",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
