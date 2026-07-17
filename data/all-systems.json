@@ -42606,7 +42606,7 @@
       "id": 6866,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4NAB",
       "town": "ELLINGTON ",
       "modeCodes": [
@@ -43743,9 +43743,9 @@
       "modeCodes": [
         "F"
       ],
-      "tx": 144875000,
+      "tx": 144900000,
       "repeater": "MB6LB",
-      "rx": 144875000,
+      "rx": 144900000,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "2M",
@@ -43811,6 +43811,30 @@
         "ngr": "ST6570",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6928,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G0FGX",
+      "town": "AXMINSTER",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145262500,
+      "repeater": "G0FGX",
+      "rx": 145262500,
+      "ctcss": 67,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO80MS",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SY2998",
+        "antennaHeight": 9,
+        "polarisation": "V"
       }
     }
   ]
