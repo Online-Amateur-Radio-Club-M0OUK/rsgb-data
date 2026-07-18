@@ -1811,6 +1811,30 @@
       "extraDetails": null
     },
     {
+      "id": 812,
+      "fac": true,
+      "type": "TV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0VSE",
+      "town": "MARKFIELD",
+      "modeCodes": [
+        "T"
+      ],
+      "tx": 1318500000,
+      "repeater": "GB3GV",
+      "rx": 1249000000,
+      "ctcss": 0,
+      "txbw": 16000,
+      "band": "23CM",
+      "locator": "IO92IQ",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SK4810",
+        "antennaHeight": 12,
+        "polarisation": "H"
+      }
+    },
+    {
       "id": 821,
       "fac": true,
       "type": "DM",
@@ -30212,7 +30236,7 @@
       "id": 6071,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM7LUN",
       "town": "DUNS",
       "modeCodes": [
