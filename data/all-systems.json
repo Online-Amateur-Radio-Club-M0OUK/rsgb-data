@@ -7295,12 +7295,14 @@
       "keeperCallsign": "G0TJH",
       "town": "NEWHAVEN",
       "modeCodes": [
-        "M:1"
+        "M:1",
+        "F",
+        "D"
       ],
       "tx": 439487500,
       "repeater": "GB7NF",
       "rx": 430487500,
-      "ctcss": 0,
+      "ctcss": 88.5,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "JO00AS",
@@ -14394,7 +14396,7 @@
       "id": 4350,
       "fac": false,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4YFF",
       "town": "STAFFORD",
       "modeCodes": [
@@ -43734,30 +43736,6 @@
       }
     },
     {
-      "id": 6924,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0ZAH",
-      "town": "EMF CAMP",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 439425000,
-      "repeater": "M0ZAH",
-      "rx": 430425000,
-      "ctcss": 118.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO82",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SO7438",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6925,
       "fac": true,
       "type": "DG",
@@ -43883,6 +43861,30 @@
         "ngr": "SO1130",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6930,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G1WYA",
+      "town": "OLDHAM",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 431237500,
+      "repeater": "G1WYA",
+      "rx": 431237500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83XM",
+      "dbwErp": 4.6,
+      "extraDetails": {
+        "ngr": "SD9403",
+        "antennaHeight": 3,
+        "polarisation": "V"
       }
     }
   ]
