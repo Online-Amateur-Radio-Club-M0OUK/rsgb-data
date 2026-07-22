@@ -3522,7 +3522,7 @@
     },
     {
       "id": 1016,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0UWS",
@@ -3816,7 +3816,9 @@
       "keeperCallsign": "G0LGJ",
       "town": "NORWICH",
       "modeCodes": [
-        "D"
+        "A",
+        "D",
+        "F"
       ],
       "tx": 439687500,
       "repeater": "GB7NB",
@@ -8641,7 +8643,7 @@
     },
     {
       "id": 3236,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G8YUQ",
@@ -8654,10 +8656,10 @@
       "repeater": "GB3TH",
       "rx": 434975000,
       "ctcss": 67,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO92",
-      "dbwErp": 13,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SK2004",
         "antennaHeight": 0,
@@ -29461,7 +29463,6 @@
       "keeperCallsign": "M0JXR",
       "town": "BRISTOL",
       "modeCodes": [
-        "A",
         "M:11"
       ],
       "tx": 439150000,
