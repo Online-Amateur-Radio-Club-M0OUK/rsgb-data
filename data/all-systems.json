@@ -74,7 +74,7 @@
     },
     {
       "id": 149,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0ISX",
@@ -43885,6 +43885,30 @@
       "extraDetails": {
         "ngr": "SJ5298",
         "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6933,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G7JQJ",
+      "town": "HARLOW",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430887500,
+      "repeater": "GB3HC",
+      "rx": 438487500,
+      "ctcss": 82.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO01BS",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TL4610",
+        "antennaHeight": 17,
         "polarisation": "V"
       }
     }
