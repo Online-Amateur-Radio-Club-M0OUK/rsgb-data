@@ -12203,7 +12203,7 @@
       "id": 4059,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G1ERJ",
       "town": "HEATHFIELD",
       "modeCodes": [
@@ -12213,7 +12213,7 @@
       "tx": 145650000,
       "repeater": "GB7KB",
       "rx": 145050000,
-      "ctcss": 103.5,
+      "ctcss": 88.5,
       "txbw": 12.5,
       "band": "2M",
       "locator": "JO00CX",
@@ -41121,7 +41121,7 @@
       ],
       "tx": 144800000,
       "repeater": "MB7UHF",
-      "rx": 0,
+      "rx": 144800000,
       "ctcss": 0,
       "txbw": 12.5,
       "band": "2M",
@@ -42346,7 +42346,7 @@
       "id": 6854,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G3VFC",
       "town": "BREDHURST",
       "modeCodes": [
@@ -43522,7 +43522,7 @@
       "id": 6917,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7GTI",
       "town": "SPONDON",
       "modeCodes": [
@@ -43910,6 +43910,54 @@
         "ngr": "TL4610",
         "antennaHeight": 17,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6935,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M8ULH",
+      "town": "LONDON",
+      "modeCodes": [
+        "M:7"
+      ],
+      "tx": 439662500,
+      "repeater": "GB7PS",
+      "rx": 430662500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91WL",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TQ2977",
+        "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6936,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G3STV",
+      "town": "BROWNHILLS",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430100000,
+      "repeater": "G3STV",
+      "rx": 430100000,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO92",
+      "dbwErp": 0,
+      "extraDetails": {
+        "ngr": "SK0506",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
