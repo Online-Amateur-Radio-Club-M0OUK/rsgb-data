@@ -42202,7 +42202,7 @@
       "id": 6847,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G8NDT",
       "town": "BANBURY",
       "modeCodes": [
@@ -43958,6 +43958,30 @@
         "ngr": "SK0506",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6937,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G0TJH",
+      "town": "HASINGS",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UHS",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO00GV",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TQ7813",
+        "antennaHeight": 10,
+        "polarisation": "V"
       }
     }
   ]
