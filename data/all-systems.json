@@ -25592,30 +25592,6 @@
       }
     },
     {
-      "id": 5638,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G6HUI",
-      "town": "CHIPPENHAM",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 144962500,
-      "repeater": "MB7IKL",
-      "rx": 144962500,
-      "ctcss": 77,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO81WL",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "ST9274",
-        "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5641,
       "fac": true,
       "type": "AG",
@@ -43982,6 +43958,54 @@
         "ngr": "TQ7813",
         "antennaHeight": 10,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6938,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G7HMV",
+      "town": "STRATFORD",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430987500,
+      "repeater": "GB3LG",
+      "rx": 438587500,
+      "ctcss": 82.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO01AM",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "TQ3983",
+        "antennaHeight": 50,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6939,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G1MAW",
+      "town": "LLANDOVERY",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145650000,
+      "repeater": "GB3WV",
+      "rx": 145050000,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO82",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SN8340",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
