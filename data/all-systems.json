@@ -4918,7 +4918,7 @@
       "id": 2193,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G8YPK",
       "town": "SOUTHEND ON SEA",
       "modeCodes": [
@@ -22979,7 +22979,7 @@
       "id": 5379,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0JQQ",
       "town": "CRAMLINGTON",
       "modeCodes": [
@@ -25475,7 +25475,7 @@
       "fac": true,
       "type": "AV",
       "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G8TZJ",
+      "keeperCallsign": "M0DWK",
       "town": "KENDAL",
       "modeCodes": [
         "A"
@@ -25563,31 +25563,6 @@
       "extraDetails": {
         "ngr": "NZ2576",
         "antennaHeight": 2,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 5636,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G6HUI",
-      "town": "KINGTON LANGLEY",
-      "modeCodes": [
-        "D",
-        "F"
-      ],
-      "tx": 144850000,
-      "repeater": "G6HUI",
-      "rx": 144850000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO81WL",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "ST9277",
-        "antennaHeight": 8,
         "polarisation": "V"
       }
     },
@@ -29500,30 +29475,6 @@
       "extraDetails": {
         "ngr": "TL0804",
         "antennaHeight": 15,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 6015,
-      "fac": true,
-      "type": "PX",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M7OOB",
-      "town": "BRACKNELL",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144937500,
-      "repeater": "GB7BRK",
-      "rx": 144937500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO91OJ",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SU8467",
-        "antennaHeight": 8,
         "polarisation": "V"
       }
     },
@@ -36833,7 +36784,7 @@
       "id": 6541,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM7IGU",
       "town": "GARTHDEE",
       "modeCodes": [
@@ -38724,30 +38675,6 @@
       "dbwErp": -7,
       "extraDetails": {
         "ngr": "SJ3204",
-        "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 6658,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "2E0EUM",
-      "town": "MABLETHORPE",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 144912500,
-      "repeater": "MB6EM",
-      "rx": 144912500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO03DI",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TF5085",
         "antennaHeight": 8,
         "polarisation": "V"
       }
@@ -43354,7 +43281,7 @@
       "id": 6910,
       "fac": true,
       "type": "RN",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G6YBC ",
       "town": "ATHERTON ",
       "modeCodes": [
@@ -44006,6 +43933,54 @@
         "ngr": "SN8340",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6940,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G6HUI",
+      "town": "KINGTON LANGLEY",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145212500,
+      "repeater": "MB7IKL",
+      "rx": 145212500,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO81WL",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "ST9276",
+        "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6941,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M9PAP",
+      "town": "MABLETHORPE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145312500,
+      "repeater": "MB7IMA",
+      "rx": 145312500,
+      "ctcss": 71.9,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO03DI",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TF5085",
+        "antennaHeight": 7,
+        "polarisation": "V"
       }
     }
   ]
