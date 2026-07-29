@@ -39496,30 +39496,6 @@
       }
     },
     {
-      "id": 6707,
-      "fac": true,
-      "type": "AG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M5TDC",
-      "town": "ROTHERHAM",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 144962500,
-      "repeater": "MB7IRM",
-      "rx": 144962500,
-      "ctcss": 71.9,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO93IK",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SK4593",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6708,
       "fac": true,
       "type": "PX",
