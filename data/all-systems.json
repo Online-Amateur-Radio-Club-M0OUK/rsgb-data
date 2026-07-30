@@ -3811,7 +3811,7 @@
     {
       "id": 1081,
       "fac": true,
-      "type": "DV",
+      "type": "DM",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0LGJ",
       "town": "NORWICH",
@@ -3823,7 +3823,7 @@
       "tx": 439687500,
       "repeater": "GB7NB",
       "rx": 430687500,
-      "ctcss": 0,
+      "ctcss": 94.8,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "JO02PN",
@@ -4911,30 +4911,6 @@
       "extraDetails": {
         "ngr": "SP8113",
         "antennaHeight": 60,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 2193,
-      "fac": true,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G8YPK",
-      "town": "SOUTHEND ON SEA",
-      "modeCodes": [
-        "M:3"
-      ],
-      "tx": 439712500,
-      "repeater": "GB7EX",
-      "rx": 430712500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO01GN",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TQ7787",
-        "antennaHeight": 20,
         "polarisation": "V"
       }
     },
@@ -18115,7 +18091,7 @@
       "id": 4902,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "M9TTL",
       "town": "LOUGHTON",
       "modeCodes": [
@@ -43956,6 +43932,30 @@
       "extraDetails": {
         "ngr": "TF5085",
         "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6942,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G0UQY",
+      "town": "UPPER BEEDING",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 29280000,
+      "repeater": "MB7IOU",
+      "rx": 29280000,
+      "ctcss": 88.5,
+      "txbw": 10,
+      "band": "10M",
+      "locator": "IO90UV",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TQ1910",
+        "antennaHeight": 5,
         "polarisation": "V"
       }
     }
