@@ -43085,30 +43085,6 @@
       }
     },
     {
-      "id": 6901,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G7GTI",
-      "town": "SPONDON",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145287500,
-      "repeater": "MB7IDX",
-      "rx": 145287500,
-      "ctcss": 88.5,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO92HW",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SK4036",
-        "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6902,
       "fac": true,
       "type": "AG",
