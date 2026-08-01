@@ -1193,9 +1193,9 @@
     },
     {
       "id": 732,
-      "fac": false,
+      "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "",
       "keeperCallsign": "G0MBA",
       "town": "COLCHESTER",
       "modeCodes": [
@@ -1205,7 +1205,7 @@
       "repeater": "GB3CE",
       "rx": 434950000,
       "ctcss": 67,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "JO01KV",
       "dbwErp": 11.5,
@@ -1241,11 +1241,11 @@
     },
     {
       "id": 739,
-      "fac": false,
+      "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "",
       "keeperCallsign": "G0MBA",
-      "town": "CLACTON ON SEA",
+      "town": "CLACTON",
       "modeCodes": [
         "A"
       ],
@@ -1253,7 +1253,7 @@
       "repeater": "GB3CL",
       "rx": 434825000,
       "ctcss": 67,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "JO01OT",
       "dbwErp": 9.3,
@@ -18091,7 +18091,7 @@
       "id": 4902,
       "fac": true,
       "type": "AG",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M9TTL",
       "town": "LOUGHTON",
       "modeCodes": [
@@ -19734,10 +19734,7 @@
       "keeperCallsign": "M0JXR",
       "town": "DUNDRY",
       "modeCodes": [
-        "M:4",
-        "D",
-        "F",
-        "N"
+        "M:4"
       ],
       "tx": 439425000,
       "repeater": "GB7YY",
@@ -43915,7 +43912,7 @@
       "id": 6942,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0UQY",
       "town": "UPPER BEEDING",
       "modeCodes": [
