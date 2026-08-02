@@ -16253,7 +16253,7 @@
       "id": 4629,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "G4XUT",
       "town": "SWINDON",
       "modeCodes": [
@@ -19728,7 +19728,7 @@
     },
     {
       "id": 5091,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0JXR",
@@ -20429,7 +20429,7 @@
     },
     {
       "id": 5155,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0MFS",
@@ -41253,7 +41253,7 @@
       "id": 6801,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0IJU",
       "town": "KING'S LYNN",
       "modeCodes": [
@@ -43930,6 +43930,78 @@
         "ngr": "TQ1910",
         "antennaHeight": 5,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6943,
+      "fac": true,
+      "type": "PX",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4TSN",
+      "town": "HUTHWAITE",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144925000,
+      "repeater": "GB7HUT",
+      "rx": 144925000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO93",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SK4658",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6944,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G1SCQ",
+      "town": "KING'S LYNN",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 70412500,
+      "repeater": "MB7IKC",
+      "rx": 70412500,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "4M",
+      "locator": "JO02FR",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TF6315",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6945,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G4TSN",
+      "town": "HUTHWAITE",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "GB7HUT",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "IO93",
+      "dbwErp": -7,
+      "extraDetails": {
+        "ngr": "SK4658",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
