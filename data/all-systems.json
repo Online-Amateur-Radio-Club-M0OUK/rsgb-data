@@ -50,9 +50,9 @@
     },
     {
       "id": 138,
-      "fac": false,
+      "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GW4IQP",
       "town": "NEWTOWN POWYS",
       "modeCodes": [
@@ -3668,7 +3668,7 @@
       "id": 1039,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4RKY",
       "town": "BRISTOL",
       "modeCodes": [
@@ -4798,7 +4798,7 @@
       "id": 2169,
       "fac": false,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0OXZ",
       "town": "EPSOM",
       "modeCodes": [
@@ -10125,7 +10125,7 @@
       "id": 3671,
       "fac": true,
       "type": "RL",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G8KOC",
       "town": "KINGS LYNN",
       "modeCodes": [
@@ -12324,7 +12324,7 @@
     },
     {
       "id": 4077,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0GET",
@@ -16253,7 +16253,7 @@
       "id": 4629,
       "fac": true,
       "type": "AV",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4XUT",
       "town": "SWINDON",
       "modeCodes": [
@@ -20190,7 +20190,7 @@
       "id": 5131,
       "fac": true,
       "type": "PN",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0AHN",
       "town": "EXMOUTH",
       "modeCodes": [
@@ -21646,7 +21646,7 @@
       "id": 5258,
       "fac": false,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0JDN",
       "town": "BEXHILL-ON-SEA",
       "modeCodes": [
@@ -24518,8 +24518,8 @@
       "id": 5537,
       "fac": true,
       "type": "AP",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "2E1LEX",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0XVY",
       "town": "BEDFORD",
       "modeCodes": [
         "X"
@@ -24908,7 +24908,7 @@
       "id": 5572,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M7CCS",
       "town": "CHELTENHAM",
       "modeCodes": [
@@ -25270,30 +25270,6 @@
       }
     },
     {
-      "id": 5615,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "2E1LEX",
-      "town": "BEDFORD",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145212500,
-      "repeater": "MB7IVY",
-      "rx": 145212500,
-      "ctcss": 77,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO92SC",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TL0547",
-        "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5617,
       "fac": true,
       "type": "AV",
@@ -25424,7 +25400,7 @@
       "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G8TZJ",
+      "keeperCallsign": "G1MAW",
       "town": "LANCASTER",
       "modeCodes": [
         "A"
@@ -27638,7 +27614,7 @@
       "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2E1LEX",
+      "keeperCallsign": "M0XVY",
       "town": "BEDFORD",
       "modeCodes": [
         "D",
@@ -30549,7 +30525,7 @@
       "id": 6117,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0LJL",
       "town": "PRESTON",
       "modeCodes": [
@@ -43085,7 +43061,7 @@
       "id": 6902,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0STK",
       "town": "HARROGATE",
       "modeCodes": [
@@ -43544,7 +43520,7 @@
       "id": 6926,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7FBD",
       "town": "BRISTOL",
       "modeCodes": [
@@ -43572,7 +43548,7 @@
       "id": 6927,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7FBD",
       "town": "BRISTOL",
       "modeCodes": [
@@ -43720,7 +43696,7 @@
       "id": 6933,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7JQJ",
       "town": "HARLOW",
       "modeCodes": [
@@ -43966,9 +43942,9 @@
       "modeCodes": [
         "A"
       ],
-      "tx": 70412500,
+      "tx": 70362500,
       "repeater": "MB7IKC",
-      "rx": 70412500,
+      "rx": 70362500,
       "ctcss": 94.8,
       "txbw": 12.5,
       "band": "4M",
@@ -44002,6 +43978,198 @@
         "ngr": "SK4658",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6947,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G7GTI",
+      "town": "SPONDON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145212500,
+      "repeater": "MB7IDX",
+      "rx": 145212500,
+      "ctcss": 88.5,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO92HW",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SK4036",
+        "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6948,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G4TGB",
+      "town": "MANSFIELD",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430050000,
+      "repeater": "G4TGB",
+      "rx": 430050000,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93JD",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SK5260",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6949,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4ZWH",
+      "town": "EATON SOCON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 29280000,
+      "repeater": "MB7IES",
+      "rx": 29280000,
+      "ctcss": 67,
+      "txbw": 10,
+      "band": "10M",
+      "locator": "IO92UF",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TL1759",
+        "antennaHeight": 9,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6950,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M9MTX",
+      "town": "WYMONDHAM",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UTX",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO02NO",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TG1203",
+        "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6951,
+      "fac": true,
+      "type": "PX",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G1FEF",
+      "town": "WOOBURN GREEN",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144925000,
+      "repeater": "GB7WBG",
+      "rx": 144925000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO91PO",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SU9189",
+        "antennaHeight": 12,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6952,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "MM0MQN",
+      "town": "MENSTRIE",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UMQ",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO86BD",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NS8596",
+        "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6953,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4CPO",
+      "town": "BIGGLESWADE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430850000,
+      "repeater": "GB3BQ",
+      "rx": 438450000,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO92",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TL2344",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6954,
+      "fac": true,
+      "type": "PN",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G6GZH",
+      "town": "TIPPS END",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144950000,
+      "repeater": "MB7NTE",
+      "rx": 144950000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO02CM",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TL5094",
+        "antennaHeight": 8,
+        "polarisation": "V"
       }
     }
   ]
