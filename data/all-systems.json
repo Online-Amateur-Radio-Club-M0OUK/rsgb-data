@@ -24799,7 +24799,7 @@
       "ctcss": 0,
       "txbw": 12.5,
       "band": "70CM",
-      "locator": "",
+      "locator": "IO92",
       "dbwErp": 11.5,
       "extraDetails": {
         "ngr": "SK5043",
@@ -25416,30 +25416,6 @@
       "extraDetails": {
         "ngr": "SD5059",
         "antennaHeight": 18,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 5630,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0DWK",
-      "town": "KENDAL",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 433350000,
-      "repeater": "GB3LF",
-      "rx": 434950000,
-      "ctcss": 110.9,
-      "txbw": 25,
-      "band": "70CM",
-      "locator": "IO84PH",
-      "dbwErp": 11.8,
-      "extraDetails": {
-        "ngr": "SD5492",
-        "antennaHeight": 10,
         "polarisation": "V"
       }
     },
@@ -27268,30 +27244,6 @@
       }
     },
     {
-      "id": 5802,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G8NDT",
-      "town": "BIRMINGHAM",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 70350000,
-      "repeater": "MB7ICB",
-      "rx": 70350000,
-      "ctcss": 67,
-      "txbw": 12.5,
-      "band": "4M",
-      "locator": "IO92BL",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SP0785",
-        "antennaHeight": 65,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5806,
       "fac": true,
       "type": "DV",
@@ -27311,31 +27263,6 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "TQ7670",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 5807,
-      "fac": true,
-      "type": "DM",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "MM0TXO",
-      "town": "LESLIE",
-      "modeCodes": [
-        "A",
-        "M:1"
-      ],
-      "tx": 430887500,
-      "repeater": "GB3HL",
-      "rx": 438487500,
-      "ctcss": 67,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO87",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NJ5824",
         "antennaHeight": 0,
         "polarisation": ""
       }
@@ -31296,30 +31223,6 @@
       }
     },
     {
-      "id": 6175,
-      "fac": true,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GM7RYR",
-      "town": "DUNBAR",
-      "modeCodes": [
-        "M:5"
-      ],
-      "tx": 145750000,
-      "repeater": "GB7DB",
-      "rx": 145150000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO85RX",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NT6877",
-        "antennaHeight": 15,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6176,
       "fac": true,
       "type": "AV",
@@ -34458,30 +34361,6 @@
         "ngr": "TQ1104",
         "antennaHeight": 10,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 6397,
-      "fac": true,
-      "type": "SP",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G3DBI",
-      "town": "ROTHERHAM",
-      "modeCodes": [
-        "S"
-      ],
-      "tx": 145762500,
-      "repeater": "MB5SB",
-      "rx": 145162500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO93",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SK5392",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -43182,7 +43061,7 @@
       "id": 6910,
       "fac": true,
       "type": "RN",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G6YBC ",
       "town": "ATHERTON ",
       "modeCodes": [
@@ -44169,6 +44048,54 @@
       "extraDetails": {
         "ngr": "TL5094",
         "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6955,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G8NDT",
+      "town": "ERDINGTON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 70350000,
+      "repeater": "MB7IYB",
+      "rx": 70350000,
+      "ctcss": 67,
+      "txbw": 12.5,
+      "band": "4M",
+      "locator": "IO92",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SP1193",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6956,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0DWK",
+      "town": "KENDAL",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 439600000,
+      "repeater": "GB7LF",
+      "rx": 430600000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO84PH",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SD5491",
+        "antennaHeight": 10,
         "polarisation": "V"
       }
     }
