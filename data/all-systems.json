@@ -31928,32 +31928,6 @@
       }
     },
     {
-      "id": 6225,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G4ZWH",
-      "town": "EATON SOCON",
-      "modeCodes": [
-        "D",
-        "M:3",
-        "F"
-      ],
-      "tx": 144900000,
-      "repeater": "MB6ES",
-      "rx": 144900000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO92UF",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TL1759",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6228,
       "fac": true,
       "type": "RL",
@@ -33169,7 +33143,7 @@
       "id": 6312,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4ZWH",
       "town": "EATON SOCON",
       "modeCodes": [
@@ -42053,7 +42027,7 @@
       "id": 6854,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G3VFC",
       "town": "BREDHURST",
       "modeCodes": [
@@ -42674,7 +42648,7 @@
       "id": 6886,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4ZWH",
       "town": "EATON SOCON",
       "modeCodes": [
@@ -43539,7 +43513,7 @@
       "ctcss": 0,
       "txbw": 12.5,
       "band": "2M",
-      "locator": "JO02EH84",
+      "locator": "JO02EH",
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "TL6470",
@@ -43911,7 +43885,7 @@
       "id": 6949,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4ZWH",
       "town": "EATON SOCON",
       "modeCodes": [
@@ -44096,6 +44070,146 @@
       "extraDetails": {
         "ngr": "SD5491",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6957,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G3DBI",
+      "town": "ROTHERHAM",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 29650000,
+      "repeater": "MB5SB",
+      "rx": 29550000,
+      "ctcss": 1750,
+      "txbw": 6,
+      "band": "10M",
+      "locator": "IO93JK",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SK5392",
+        "antennaHeight": 12,
+        "polarisation": "H"
+      }
+    },
+    {
+      "id": 6958,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM5DMR",
+      "town": "GARTLY",
+      "modeCodes": [
+        "M:1"
+      ],
+      "tx": 431087500,
+      "repeater": "MB6GY",
+      "rx": 431087500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO87OJ",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NJ5232",
+        "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6959,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4ZWH",
+      "town": "EATON SOCON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145212500,
+      "repeater": "MB7IES",
+      "rx": 145212500,
+      "ctcss": 67,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO92UF",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TL1759",
+        "antennaHeight": 9,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6960,
+      "fac": true,
+      "type": "PX",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M7KGH",
+      "town": "ROYAL WOOTTON BASSETT",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144925000,
+      "repeater": "GB7KGK",
+      "rx": 144925000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO91BM",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SU0782",
+        "antennaHeight": 3,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6962,
+      "fac": true,
+      "type": "AV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "MI0KAM",
+      "town": "PORTSTEWART",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145687500,
+      "repeater": "GB3IV",
+      "rx": 145087500,
+      "ctcss": 110.9,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "I065PE",
+      "dbwErp": 14,
+      "extraDetails": null
+    },
+    {
+      "id": 6963,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "GD4HOZ",
+      "town": "RAMSEY",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "GD4HOZ",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO74SG",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SC3988",
+        "antennaHeight": 5,
         "polarisation": "V"
       }
     }
