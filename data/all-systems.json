@@ -52,7 +52,7 @@
       "id": 138,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GW4IQP",
       "town": "NEWTOWN POWYS",
       "modeCodes": [
@@ -977,7 +977,7 @@
       "id": 709,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G8GQJ",
       "town": "AYLESBURY",
       "modeCodes": [
@@ -3091,7 +3091,7 @@
       "id": 957,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4EPX",
       "town": "ALTON",
       "modeCodes": [
@@ -8496,7 +8496,7 @@
       "id": 3201,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM7LUN",
       "town": "DUNS",
       "modeCodes": [
@@ -17963,30 +17963,6 @@
       "extraDetails": {
         "ngr": "SP8140",
         "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 4880,
-      "fac": true,
-      "type": "AV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G7ICH",
-      "town": "WIMBORNE",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145625000,
-      "repeater": "GB3PB",
-      "rx": 145025000,
-      "ctcss": 71.9,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO90AT",
-      "dbwErp": 11.8,
-      "extraDetails": {
-        "ngr": "SU0501",
-        "antennaHeight": 12,
         "polarisation": "V"
       }
     },
@@ -33143,7 +33119,7 @@
       "id": 6312,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4ZWH",
       "town": "EATON SOCON",
       "modeCodes": [
@@ -40866,7 +40842,7 @@
       "id": 6788,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0FEA",
       "town": "MENDLESHAM",
       "modeCodes": [
@@ -43035,7 +43011,7 @@
       "id": 6910,
       "fac": true,
       "type": "RN",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G6YBC ",
       "town": "ATHERTON ",
       "modeCodes": [
@@ -43623,7 +43599,7 @@
       "type": "AP",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0TJH",
-      "town": "HASINGS",
+      "town": "HASTINGS",
       "modeCodes": [
         "X"
       ],
@@ -44125,7 +44101,7 @@
       "id": 6959,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4ZWH",
       "town": "EATON SOCON",
       "modeCodes": [
@@ -44170,6 +44146,30 @@
       }
     },
     {
+      "id": 6961,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G7ICH",
+      "town": "POOLE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145625000,
+      "repeater": "GB3PB",
+      "rx": 145025000,
+      "ctcss": 71.9,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO90AR",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SZ0591",
+        "antennaHeight": 12,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 6962,
       "fac": true,
       "type": "AV",
@@ -44209,6 +44209,51 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "SC3988",
+        "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6964,
+      "fac": true,
+      "type": "AV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "MI0KAM",
+      "town": "PORTSTEWART",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145687500,
+      "repeater": "GB3IV",
+      "rx": 145087500,
+      "ctcss": 110.9,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "I065PE",
+      "dbwErp": 14,
+      "extraDetails": null
+    },
+    {
+      "id": 6966,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M7JUT",
+      "town": "MILTON KEYNES",
+      "modeCodes": [
+        "M:15",
+        "N"
+      ],
+      "tx": 434512500,
+      "repeater": "M7JUT",
+      "rx": 434512500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO92QE",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SP9153",
         "antennaHeight": 5,
         "polarisation": "V"
       }
