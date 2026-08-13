@@ -8375,7 +8375,7 @@
       "id": 3167,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MW0RHD",
       "town": "PWLLHELI",
       "modeCodes": [
@@ -40481,12 +40481,13 @@
     {
       "id": 6765,
       "fac": true,
-      "type": "AV",
+      "type": "DM",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "G1SCQ",
       "town": "KING'S LYNN",
       "modeCodes": [
-        "A"
+        "A",
+        "M:10"
       ],
       "tx": 433025000,
       "repeater": "MB5KY",
@@ -43570,30 +43571,6 @@
       }
     },
     {
-      "id": 6936,
-      "fac": true,
-      "type": "AG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G3STV",
-      "town": "BROWNHILLS",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430100000,
-      "repeater": "G3STV",
-      "rx": 430100000,
-      "ctcss": 103.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO92",
-      "dbwErp": 0,
-      "extraDetails": {
-        "ngr": "SK0506",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6937,
       "fac": true,
       "type": "AP",
@@ -43813,7 +43790,7 @@
       "id": 6947,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7GTI",
       "town": "SPONDON",
       "modeCodes": [
@@ -44234,6 +44211,30 @@
       "extraDetails": null
     },
     {
+      "id": 6965,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0JCA",
+      "town": "MOTTINGHAM  LONDON",
+      "modeCodes": [
+        "M:3"
+      ],
+      "tx": 439562500,
+      "repeater": "GB7XT",
+      "rx": 430562500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO01AK",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "TQ4272",
+        "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 6966,
       "fac": true,
       "type": "DG",
@@ -44245,7 +44246,7 @@
         "N"
       ],
       "tx": 434512500,
-      "repeater": "M7JUT",
+      "repeater": "MB6CR",
       "rx": 434512500,
       "ctcss": 0,
       "txbw": 12.5,
