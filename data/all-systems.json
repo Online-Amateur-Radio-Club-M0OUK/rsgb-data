@@ -19730,7 +19730,7 @@
       "id": 5092,
       "fac": true,
       "type": "AP",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M5LEE",
       "town": "MARYPORT",
       "modeCodes": [
@@ -42363,7 +42363,7 @@
       "id": 6872,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M1AXM",
       "town": "HAYTOR VALE",
       "modeCodes": [
