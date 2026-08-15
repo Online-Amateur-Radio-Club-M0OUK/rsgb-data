@@ -41687,30 +41687,6 @@
       }
     },
     {
-      "id": 6837,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0TRY",
-      "town": "EASTNOR",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430800000,
-      "repeater": "MB0EMF",
-      "rx": 438400000,
-      "ctcss": 118.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO82TA",
-      "dbwErp": 10,
-      "extraDetails": {
-        "ngr": "SO7438",
-        "antennaHeight": 12,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6838,
       "fac": true,
       "type": "AG",
@@ -42291,7 +42267,7 @@
       "id": 6868,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4LEE",
       "town": "HALEWOOD",
       "modeCodes": [
@@ -43355,7 +43331,7 @@
       "town": "BRISTOL",
       "modeCodes": [
         "D",
-        "M:3",
+        "M:13",
         "F",
         "P",
         "N"
@@ -43574,7 +43550,7 @@
       "id": 6937,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0TJH",
       "town": "HASTINGS",
       "modeCodes": [
@@ -44258,6 +44234,29 @@
         "antennaHeight": 5,
         "polarisation": "V"
       }
+    },
+    {
+      "id": 6968,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0JXR",
+      "town": "SOMERSET BS207BN",
+      "modeCodes": [
+        "M:13",
+        "F",
+        "P",
+        "N"
+      ],
+      "tx": 439775000,
+      "repeater": "M0JXR",
+      "rx": 430775000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81OL",
+      "dbwErp": 7,
+      "extraDetails": null
     }
   ]
 }
