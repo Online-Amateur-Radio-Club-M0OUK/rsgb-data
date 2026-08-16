@@ -15888,7 +15888,7 @@
       "id": 4566,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "GM7LUN",
       "town": "UPPER LARGO",
       "modeCodes": [
@@ -21260,7 +21260,7 @@
       "id": 5230,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M5LEE",
       "town": "MARYPORT",
       "modeCodes": [
@@ -29432,7 +29432,7 @@
       "id": 6026,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0IQF",
       "town": "LUTON",
       "modeCodes": [
@@ -44239,7 +44239,7 @@
       "id": 6968,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0JXR",
       "town": "SOMERSET BS207BN",
       "modeCodes": [
@@ -44257,6 +44257,54 @@
       "locator": "IO81OL",
       "dbwErp": 7,
       "extraDetails": null
+    },
+    {
+      "id": 6969,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G0TJH",
+      "town": "HASTINGS",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UHR",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO00HV",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TQ8212",
+        "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6970,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G8NDT",
+      "town": "STREETLY",
+      "modeCodes": [
+        "M:8"
+      ],
+      "tx": 439425000,
+      "repeater": "GB7GB",
+      "rx": 430425000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO92",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SP0898",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
     }
   ]
 }
