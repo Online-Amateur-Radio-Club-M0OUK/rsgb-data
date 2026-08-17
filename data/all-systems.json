@@ -39564,7 +39564,7 @@
       "id": 6721,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0DUQ",
       "town": "HEDNESFORD",
       "modeCodes": [
@@ -41538,30 +41538,6 @@
       "extraDetails": {
         "ngr": "SY8281",
         "antennaHeight": 3,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 6826,
-      "fac": true,
-      "type": "AG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G0DUQ",
-      "town": "HEDNESFORD",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430012500,
-      "repeater": "MB7IRU",
-      "rx": 430012500,
-      "ctcss": 103.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO82XR",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SJ9913",
-        "antennaHeight": 10,
         "polarisation": "V"
       }
     },
@@ -44239,9 +44215,9 @@
       "id": 6968,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "M0JXR",
-      "town": "SOMERSET BS207BN",
+      "town": "PORTISHEAD",
       "modeCodes": [
         "M:13",
         "F",
@@ -44256,7 +44232,11 @@
       "band": "70CM",
       "locator": "IO81OL",
       "dbwErp": 7,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "ST4775",
+        "antennaHeight": 8,
+        "polarisation": "V"
+      }
     },
     {
       "id": 6969,
@@ -44302,6 +44282,30 @@
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "SP0898",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6971,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MM7GMX",
+      "town": "UDNY STATION",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 144825000,
+      "repeater": "MM7GMX",
+      "rx": 144825000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO87",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NJ9024",
         "antennaHeight": 0,
         "polarisation": ""
       }
