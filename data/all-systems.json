@@ -28579,30 +28579,6 @@
       }
     },
     {
-      "id": 5945,
-      "fac": true,
-      "type": "AG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0YDG",
-      "town": "HARROGATE",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145225000,
-      "repeater": "MB7IHG",
-      "rx": 145225000,
-      "ctcss": 88.5,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO94EB",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SE2663",
-        "antennaHeight": 7,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5948,
       "fac": true,
       "type": "PX",
@@ -34791,30 +34767,6 @@
       }
     },
     {
-      "id": 6431,
-      "fac": true,
-      "type": "DG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0YDG",
-      "town": "HARROGATE",
-      "modeCodes": [
-        "M:5"
-      ],
-      "tx": 431075000,
-      "repeater": "MB6YN",
-      "rx": 431075000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO94EB",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SE2663",
-        "antennaHeight": 7,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6432,
       "fac": true,
       "type": "AP",
@@ -39561,30 +39513,6 @@
       }
     },
     {
-      "id": 6721,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G0DUQ",
-      "town": "HEDNESFORD",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 144850000,
-      "repeater": "MB6RU",
-      "rx": 144850000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO82XR",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SJ9913",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6723,
       "fac": true,
       "type": "AG",
@@ -40482,7 +40410,7 @@
       "id": 6765,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G1SCQ",
       "town": "KING'S LYNN",
       "modeCodes": [
@@ -44078,7 +44006,7 @@
       "id": 6961,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7ICH",
       "town": "POOLE",
       "modeCodes": [
@@ -44190,7 +44118,7 @@
       "id": 6966,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "M7JUT",
       "town": "MILTON KEYNES",
       "modeCodes": [
