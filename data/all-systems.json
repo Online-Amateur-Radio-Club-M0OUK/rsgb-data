@@ -43742,7 +43742,7 @@
       "id": 6950,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M9MTX",
       "town": "WYMONDHAM",
       "modeCodes": [
@@ -44215,7 +44215,7 @@
       }
     },
     {
-      "id": 6971,
+      "id": 6972,
       "fac": true,
       "type": "DG",
       "status": "NOT OPERATIONAL",
@@ -44225,7 +44225,7 @@
         "F"
       ],
       "tx": 144825000,
-      "repeater": "MM7GMX",
+      "repeater": "MB6MX",
       "rx": 144825000,
       "ctcss": 0,
       "txbw": 12.5,
