@@ -3091,7 +3091,7 @@
       "id": 957,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4EPX",
       "town": "ALTON",
       "modeCodes": [
@@ -10119,30 +10119,6 @@
         "ngr": "SD7716",
         "antennaHeight": 0,
         "polarisation": ""
-      }
-    },
-    {
-      "id": 3671,
-      "fac": true,
-      "type": "RL",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G8KOC",
-      "town": "KINGS LYNN",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 434700000,
-      "repeater": "GB3KL-L",
-      "rx": 433100000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO02FS",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TF6423",
-        "antennaHeight": 3,
-        "polarisation": "V"
       }
     },
     {
@@ -21253,33 +21229,6 @@
       "extraDetails": {
         "ngr": "TL1317",
         "antennaHeight": 20,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 5230,
-      "fac": true,
-      "type": "DM",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M5LEE",
-      "town": "MARYPORT",
-      "modeCodes": [
-        "A",
-        "F",
-        "M:13",
-        "D"
-      ],
-      "tx": 438387500,
-      "repeater": "GB3CU",
-      "rx": 430787500,
-      "ctcss": 77,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO84GQ",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NY0533",
-        "antennaHeight": 8,
         "polarisation": "V"
       }
     },
@@ -44237,6 +44186,29 @@
         "antennaHeight": 0,
         "polarisation": ""
       }
+    },
+    {
+      "id": 6973,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M5LEE",
+      "town": "DEARHAM / MARYPORT",
+      "modeCodes": [
+        "A",
+        "D",
+        "M:13",
+        "F"
+      ],
+      "tx": 438387500,
+      "repeater": "GB3CU",
+      "rx": 430787500,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO84GQ",
+      "dbwErp": 14,
+      "extraDetails": null
     }
   ]
 }
