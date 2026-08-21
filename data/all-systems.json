@@ -2270,7 +2270,7 @@
     },
     {
       "id": 862,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "M1NAS",
@@ -2283,7 +2283,7 @@
       "repeater": "GB3LE",
       "rx": 434700000,
       "ctcss": 77,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO92IQ",
       "dbwErp": 14,
@@ -3354,7 +3354,7 @@
     },
     {
       "id": 993,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M1NAS",
@@ -44193,7 +44193,7 @@
       "type": "DM",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "M5LEE",
-      "town": "DEARHAM / MARYPORT",
+      "town": "DEARHAM",
       "modeCodes": [
         "A",
         "D",
@@ -44208,7 +44208,11 @@
       "band": "70CM",
       "locator": "IO84GQ",
       "dbwErp": 14,
-      "extraDetails": null
+      "extraDetails": {
+        "ngr": "NY0635",
+        "antennaHeight": 6,
+        "polarisation": "V"
+      }
     }
   ]
 }
