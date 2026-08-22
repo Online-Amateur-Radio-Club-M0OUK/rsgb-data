@@ -35643,7 +35643,7 @@
       "id": 6485,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0WUR",
       "town": "KEMNAY",
       "modeCodes": [
@@ -35667,7 +35667,7 @@
       "id": 6486,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G0WUR",
       "town": "KEMNAY",
       "modeCodes": [
