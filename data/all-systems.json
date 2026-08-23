@@ -1602,7 +1602,7 @@
       "id": 791,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "",
       "keeperCallsign": "G4RKY",
       "town": "SOMERSET",
       "modeCodes": [
@@ -3668,7 +3668,7 @@
       "id": 1039,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4RKY",
       "town": "BRISTOL",
       "modeCodes": [
@@ -3714,7 +3714,7 @@
     },
     {
       "id": 1043,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4RKY",
@@ -7046,7 +7046,7 @@
     },
     {
       "id": 2763,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4RKY",
@@ -14865,10 +14865,10 @@
     },
     {
       "id": 4405,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G0OXZ",
+      "keeperCallsign": "M0ZDJ",
       "town": "HEATHROW",
       "modeCodes": [
         "M:3"
@@ -14880,7 +14880,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO91SL",
-      "dbwErp": 6,
+      "dbwErp": 7,
       "extraDetails": {
         "ngr": "TQ0775",
         "antennaHeight": 25,
@@ -20821,7 +20821,7 @@
     },
     {
       "id": 5196,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4OYX",
