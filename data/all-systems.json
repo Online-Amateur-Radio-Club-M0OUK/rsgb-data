@@ -3486,7 +3486,7 @@
       "repeater": "GB3WB",
       "rx": 434900000,
       "ctcss": 94.8,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO81MH",
       "dbwErp": 14,
@@ -30471,30 +30471,6 @@
       }
     },
     {
-      "id": 6128,
-      "fac": true,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "2E0HOQ",
-      "town": "WESTON SUPER MARE",
-      "modeCodes": [
-        "7"
-      ],
-      "tx": 439575000,
-      "repeater": "2E0HOQ",
-      "rx": 430575000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "ST3663",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6130,
       "fac": true,
       "type": "PX",
@@ -41859,7 +41835,7 @@
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0MRP",
-      "town": "LULWORTH  DORSET ",
+      "town": "LULWORTH",
       "modeCodes": [
         "A"
       ],
@@ -44067,7 +44043,7 @@
       "id": 6966,
       "fac": true,
       "type": "DG",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M7JUT",
       "town": "MILTON KEYNES",
       "modeCodes": [
@@ -44211,6 +44187,55 @@
       "extraDetails": {
         "ngr": "NY0635",
         "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6974,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G8NSS",
+      "town": "Y FFOR",
+      "modeCodes": [
+        "A",
+        "M:1"
+      ],
+      "tx": 430850000,
+      "repeater": "GB7LP",
+      "rx": 438450000,
+      "ctcss": 110.9,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO72TW",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SH3841",
+        "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6976,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G3AGM",
+      "town": "SAFFRON WALDEN",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144950000,
+      "repeater": "GB7AGM",
+      "rx": 144950000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO01BX",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TL4631",
+        "antennaHeight": 9,
         "polarisation": "V"
       }
     }
