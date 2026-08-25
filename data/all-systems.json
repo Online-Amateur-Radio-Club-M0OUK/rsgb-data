@@ -1792,7 +1792,7 @@
     },
     {
       "id": 811,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GU6EFB",
@@ -1804,7 +1804,7 @@
       "repeater": "GB3GU",
       "rx": 434925000,
       "ctcss": 71.9,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IN89RK",
       "dbwErp": 7,
@@ -12593,7 +12593,7 @@
       "id": 4103,
       "fac": true,
       "type": "AP",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MM0ROR",
       "town": "ABERDEEN",
       "modeCodes": [
@@ -25713,7 +25713,7 @@
       "id": 5662,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M1CYR",
       "town": "CANNOCK",
       "modeCodes": [
@@ -37184,30 +37184,6 @@
       }
     },
     {
-      "id": 6588,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G5BSD/R",
-      "town": "EMF CAMP",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145587500,
-      "repeater": "G5BSD",
-      "rx": 144587500,
-      "ctcss": 146.2,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO82TA",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SO7438",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6589,
       "fac": true,
       "type": "AP",
@@ -44213,6 +44189,30 @@
         "ngr": "SH3841",
         "antennaHeight": 6,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6975,
+      "fac": true,
+      "type": "PX",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G5KGG",
+      "town": "CHELMSFORD",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 7048600,
+      "repeater": "GB7KGG",
+      "rx": 7048600,
+      "ctcss": 0,
+      "txbw": 0.5,
+      "band": "40M",
+      "locator": "JO01",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TL6909",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     },
     {
