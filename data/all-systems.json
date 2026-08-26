@@ -4795,30 +4795,6 @@
       }
     },
     {
-      "id": 2169,
-      "fac": false,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G0OXZ",
-      "town": "EPSOM",
-      "modeCodes": [
-        "M:3"
-      ],
-      "tx": 439400000,
-      "repeater": "GB7EP",
-      "rx": 430400000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO91UI",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TQ2063",
-        "antennaHeight": 9,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 2181,
       "fac": true,
       "type": "DV",
@@ -42290,7 +42266,7 @@
       "id": 6881,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MI5GTX",
       "town": "COLERAINE",
       "modeCodes": [
@@ -44143,7 +44119,7 @@
       "id": 6973,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M5LEE",
       "town": "DEARHAM",
       "modeCodes": [
@@ -44170,7 +44146,7 @@
       "id": 6974,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G8NSS",
       "town": "Y FFOR",
       "modeCodes": [
