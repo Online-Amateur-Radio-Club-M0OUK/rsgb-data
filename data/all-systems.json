@@ -3860,7 +3860,7 @@
     },
     {
       "id": 1089,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M1ERS",
@@ -3875,7 +3875,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO93GK",
-      "dbwErp": 13,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SK3791",
         "antennaHeight": 0,
@@ -20284,30 +20284,6 @@
       }
     },
     {
-      "id": 5146,
-      "fac": false,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M1AXM",
-      "town": "ILMINSTER",
-      "modeCodes": [
-        "M:10"
-      ],
-      "tx": 439450000,
-      "repeater": "GB7EQ",
-      "rx": 430450000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO80MW",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "ST3016",
-        "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5151,
       "fac": true,
       "type": "AV",
@@ -20649,7 +20625,7 @@
     },
     {
       "id": 5190,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G7TRL",
@@ -44212,6 +44188,30 @@
       "extraDetails": {
         "ngr": "TL4631",
         "antennaHeight": 9,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6977,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GW3KLB",
+      "town": "OSWESTRY",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145337500,
+      "repeater": "MB7IPF",
+      "rx": 145337500,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO82JU",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SJ1928",
+        "antennaHeight": 10,
         "polarisation": "V"
       }
     }
