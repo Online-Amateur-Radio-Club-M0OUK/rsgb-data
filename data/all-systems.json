@@ -3836,7 +3836,7 @@
     },
     {
       "id": 1087,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0ZPU",
@@ -8276,7 +8276,7 @@
     },
     {
       "id": 3154,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0ZPU",
@@ -22673,7 +22673,7 @@
       "locator": "JO02",
       "dbwErp": 7,
       "extraDetails": {
-        "ngr": "TL6343",
+        "ngr": "TL6350",
         "antennaHeight": 0,
         "polarisation": ""
       }
@@ -42286,7 +42286,7 @@
       "id": 6883,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4BDS",
       "town": "LIVERPOOL",
       "modeCodes": [
@@ -43947,7 +43947,7 @@
       "id": 6965,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0JCA",
       "town": "MOTTINGHAM  LONDON",
       "modeCodes": [
@@ -44212,6 +44212,30 @@
       "extraDetails": {
         "ngr": "SJ1928",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6985,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0WOO",
+      "town": "THIRSK",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 431062500,
+      "repeater": "M0WOO",
+      "rx": 431062500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO94IG",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SE4585",
+        "antennaHeight": 2,
         "polarisation": "V"
       }
     }
