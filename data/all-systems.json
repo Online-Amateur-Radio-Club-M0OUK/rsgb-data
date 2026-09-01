@@ -9605,7 +9605,7 @@
       "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "2E0BDS",
+      "keeperCallsign": "M9LFC",
       "town": "SKEGNESS",
       "modeCodes": [
         "A"
@@ -27705,30 +27705,6 @@
       }
     },
     {
-      "id": 5881,
-      "fac": true,
-      "type": "AP",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M9BTX",
-      "town": "BIGGLESWADE",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144800000,
-      "repeater": "MB7UBG",
-      "rx": 144800000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO92UB",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TL1943",
-        "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5882,
       "fac": true,
       "type": "DM",
@@ -34714,30 +34690,6 @@
         "ngr": "TG5105",
         "antennaHeight": 10,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 6438,
-      "fac": true,
-      "type": "DG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G1JSF",
-      "town": "MIDDLESBROUGH",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 431087500,
-      "repeater": "MB6JP",
-      "rx": 431087500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO94",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "NZ4714",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -41904,7 +41856,7 @@
       "id": 6865,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0ISX",
       "town": "HUDDERSFIELD",
       "modeCodes": [
@@ -44168,6 +44120,86 @@
       }
     },
     {
+      "id": 6978,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0KON",
+      "town": "WILMOTS POOL CROWCOMBE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 439125000,
+      "repeater": "M0KON",
+      "rx": 430125000,
+      "ctcss": 141.3,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81JD",
+      "dbwErp": 10.8,
+      "extraDetails": null
+    },
+    {
+      "id": 6979,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0KOW",
+      "town": "OVER STOWEY CRICKET CLUB ",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 439137500,
+      "repeater": "M0KOW",
+      "rx": 430137500,
+      "ctcss": 141.3,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81KD",
+      "dbwErp": 10,
+      "extraDetails": null
+    },
+    {
+      "id": 6980,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0KOY",
+      "town": "QUANTOCK LODGE ALEY  OVER STOW",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 439137500,
+      "repeater": "M0KOY",
+      "rx": 430137500,
+      "ctcss": 141.3,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO80KV",
+      "dbwErp": 9,
+      "extraDetails": null
+    },
+    {
+      "id": 6981,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0KPQ",
+      "town": "WILMOTES POOL CAR PARK CROWCOM",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 439125000,
+      "repeater": "M0KPQ",
+      "rx": 430125000,
+      "ctcss": 141.3,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81JD",
+      "dbwErp": 10.8,
+      "extraDetails": null
+    },
+    {
       "id": 6985,
       "fac": true,
       "type": "DG",
@@ -44188,6 +44220,54 @@
       "extraDetails": {
         "ngr": "SE4585",
         "antennaHeight": 2,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6986,
+      "fac": true,
+      "type": "DV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G8YPK ",
+      "town": "BENFLEET",
+      "modeCodes": [
+        "M:3"
+      ],
+      "tx": 439712500,
+      "repeater": "GB7EX",
+      "rx": 430712500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO01GN",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "TQ7787",
+        "antennaHeight": 15,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6987,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M9BTX",
+      "town": "BIGGLESWADE",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UBG",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO92VC",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TL2044",
+        "antennaHeight": 8,
         "polarisation": "V"
       }
     }
