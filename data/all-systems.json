@@ -41473,7 +41473,7 @@
       "id": 6846,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M7IFP",
       "town": "BASINGSTOKE  ",
       "modeCodes": [
