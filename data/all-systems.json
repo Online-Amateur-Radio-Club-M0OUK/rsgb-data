@@ -25885,7 +25885,7 @@
       "id": 5692,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M7NWE",
       "town": "HERTFORD",
       "modeCodes": [
@@ -36995,7 +36995,7 @@
       "id": 6583,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0ISI",
       "town": "ANDOVER",
       "modeCodes": [
@@ -44269,6 +44269,54 @@
         "ngr": "TL2044",
         "antennaHeight": 8,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6988,
+      "fac": true,
+      "type": "PX",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4ETN",
+      "town": "TAUNTON",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 70312500,
+      "repeater": "GB7SOM",
+      "rx": 70312500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "4M",
+      "locator": "IO81",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "ST0326",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 6989,
+      "fac": true,
+      "type": "PX",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4ETN",
+      "town": "TAUNTON",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439950000,
+      "repeater": "GB7SOM",
+      "rx": 439950000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "ST0326",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
