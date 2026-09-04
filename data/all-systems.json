@@ -2271,7 +2271,7 @@
     },
     {
       "id": 865,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G3WIC",
@@ -2283,7 +2283,7 @@
       "repeater": "GB3LI",
       "rx": 434850000,
       "ctcss": 82.5,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO83LL",
       "dbwErp": 14,
@@ -2904,9 +2904,9 @@
       "modeCodes": [
         "A"
       ],
-      "tx": 433275000,
+      "tx": 430900000,
       "repeater": "GB3RH",
-      "rx": 434875000,
+      "rx": 438500000,
       "ctcss": 94.8,
       "txbw": 12.5,
       "band": "70CM",
@@ -6143,30 +6143,6 @@
         "ngr": "NJ4258",
         "antennaHeight": 0,
         "polarisation": ""
-      }
-    },
-    {
-      "id": 2508,
-      "fac": false,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M1ERS",
-      "town": "SHEFFIELD",
-      "modeCodes": [
-        "M:1"
-      ],
-      "tx": 439675000,
-      "repeater": "GB7SN",
-      "rx": 430675000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO93GH",
-      "dbwErp": 11,
-      "extraDetails": {
-        "ngr": "SK3481",
-        "antennaHeight": 10,
-        "polarisation": "V"
       }
     },
     {
@@ -26739,7 +26715,7 @@
       "id": 5770,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4IPE",
       "town": "SCUNTHORPE",
       "modeCodes": [
@@ -30541,31 +30517,6 @@
       "extraDetails": {
         "ngr": "NT1583",
         "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 6149,
-      "fac": true,
-      "type": "DM",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M1AXM",
-      "town": "ILMINSTER",
-      "modeCodes": [
-        "A",
-        "F"
-      ],
-      "tx": 145762500,
-      "repeater": "GB3EQ",
-      "rx": 145162500,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO80MW",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "ST3016",
-        "antennaHeight": 8,
         "polarisation": "V"
       }
     },
@@ -41470,30 +41421,6 @@
       }
     },
     {
-      "id": 6846,
-      "fac": true,
-      "type": "DG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M7IFP",
-      "town": "BASINGSTOKE  ",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 144850000,
-      "repeater": "M7IFP",
-      "rx": 144850000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO91KH",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SU6255",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6847,
       "fac": true,
       "type": "DV",
@@ -41818,7 +41745,7 @@
       "ctcss": 82.5,
       "txbw": 12.5,
       "band": "70CM",
-      "locator": "IO39X",
+      "locator": "IO93CT",
       "dbwErp": 11.1,
       "extraDetails": {
         "ngr": "SE1536",
@@ -44317,6 +44244,30 @@
         "ngr": "ST0326",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 6991,
+      "fac": true,
+      "type": "AV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G6WWY",
+      "town": "AXMINSTER",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430900000,
+      "repeater": "GB3RH",
+      "rx": 438500000,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO80MS",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SY3296",
+        "antennaHeight": 7,
+        "polarisation": "V"
       }
     }
   ]
