@@ -37183,30 +37183,6 @@
       }
     },
     {
-      "id": 6598,
-      "fac": true,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "2E0HSV",
-      "town": "NORTHAMPTON",
-      "modeCodes": [
-        "M:6"
-      ],
-      "tx": 145587500,
-      "repeater": "GB7SY",
-      "rx": 144987500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO92MF",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SP7359",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6599,
       "fac": true,
       "type": "AV",
@@ -43570,7 +43546,7 @@
       "id": 6956,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "M0DWK",
       "town": "KENDAL",
       "modeCodes": [
