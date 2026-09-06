@@ -6174,7 +6174,7 @@
       "id": 2513,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0ZZT",
       "town": "EXETER",
       "modeCodes": [
@@ -14080,7 +14080,7 @@
     },
     {
       "id": 4326,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0URF",
@@ -26715,7 +26715,7 @@
       "id": 5770,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4IPE",
       "town": "SCUNTHORPE",
       "modeCodes": [
@@ -30395,31 +30395,6 @@
       "extraDetails": {
         "ngr": "ST2884",
         "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 6138,
-      "fac": true,
-      "type": "DG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "MM6BWS",
-      "town": "PETERHEAD",
-      "modeCodes": [
-        "F",
-        "D"
-      ],
-      "tx": 144837500,
-      "repeater": "MB6PD",
-      "rx": 144837500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO97CM",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "NK1245",
-        "antennaHeight": 4,
         "polarisation": "V"
       }
     },
@@ -41660,7 +41635,7 @@
       "id": 6860,
       "fac": true,
       "type": "PN",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M0HQM",
       "town": "CRAWLEY",
       "modeCodes": [
