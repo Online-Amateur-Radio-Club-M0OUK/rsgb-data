@@ -6146,6 +6146,30 @@
       }
     },
     {
+      "id": 2508,
+      "fac": true,
+      "type": "DV",
+      "status": "",
+      "keeperCallsign": "M1ERS",
+      "town": "SHEFFIELD",
+      "modeCodes": [
+        "M:1"
+      ],
+      "tx": 439675000,
+      "repeater": "GB7SN",
+      "rx": 430675000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93GH",
+      "dbwErp": 11,
+      "extraDetails": {
+        "ngr": "SK3481",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 2511,
       "fac": true,
       "type": "DM",
@@ -38050,7 +38074,7 @@
       "type": "AP",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4BVE",
-      "town": "WORTHEN, SHREWSBURY",
+      "town": "SHREWSBURY",
       "modeCodes": [
         "X"
       ],
@@ -43521,7 +43545,7 @@
       "id": 6956,
       "fac": true,
       "type": "DV",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0DWK",
       "town": "KENDAL",
       "modeCodes": [
@@ -43996,46 +44020,6 @@
         "antennaHeight": 10,
         "polarisation": "V"
       }
-    },
-    {
-      "id": 6978,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0KON",
-      "town": "WILMOTS POOL CROWCOMBE",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 439125000,
-      "repeater": "M0KON",
-      "rx": 430125000,
-      "ctcss": 141.3,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81JD",
-      "dbwErp": 10.8,
-      "extraDetails": null
-    },
-    {
-      "id": 6979,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0KOW",
-      "town": "OVER STOWEY CRICKET CLUB ",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 439137500,
-      "repeater": "M0KOW",
-      "rx": 430137500,
-      "ctcss": 141.3,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81KD",
-      "dbwErp": 10,
-      "extraDetails": null
     },
     {
       "id": 6980,
