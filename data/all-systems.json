@@ -23816,7 +23816,7 @@
       "id": 5487,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MM6BWS",
       "town": "TURRIFF",
       "modeCodes": [
@@ -23840,7 +23840,7 @@
       "id": 5488,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MM6BWS",
       "town": "THAINSTONE",
       "modeCodes": [
@@ -24640,7 +24640,7 @@
       "id": 5562,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MM6BWS",
       "town": "TURRIFF",
       "modeCodes": [
@@ -27270,7 +27270,7 @@
       "id": 5829,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MM6BWS",
       "town": "THAINSTONE",
       "modeCodes": [
@@ -42575,7 +42575,7 @@
       "id": 6912,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G5SCR",
       "town": "SUTTON IN ASHFIELD",
       "modeCodes": [
@@ -44203,6 +44203,30 @@
         "ngr": "SY3296",
         "antennaHeight": 7,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6992,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MW0LPU",
+      "town": "LLANGORSE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145212500,
+      "repeater": "MB7IPU",
+      "rx": 145212500,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO81",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SO1128",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
