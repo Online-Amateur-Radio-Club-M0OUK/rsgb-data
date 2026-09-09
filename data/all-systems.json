@@ -42233,30 +42233,6 @@
       }
     },
     {
-      "id": 6892,
-      "fac": true,
-      "type": "PX",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M8VGU",
-      "town": "HARSTON",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144950000,
-      "repeater": "GB7NUL",
-      "rx": 144950000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO02",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TL4250",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6893,
       "fac": true,
       "type": "DV",
@@ -43089,7 +43065,7 @@
       "id": 6935,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M8ULH",
       "town": "LONDON",
       "modeCodes": [
@@ -43593,7 +43569,7 @@
       "id": 6958,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM5DMR",
       "town": "GARTLY",
       "modeCodes": [
@@ -44209,7 +44185,7 @@
       "id": 6992,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MW0LPU",
       "town": "LLANGORSE",
       "modeCodes": [
