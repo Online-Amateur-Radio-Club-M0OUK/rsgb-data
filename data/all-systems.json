@@ -44204,6 +44204,55 @@
         "antennaHeight": 0,
         "polarisation": ""
       }
+    },
+    {
+      "id": 6993,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M8CUB",
+      "town": "HUNTINGDON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145237500,
+      "repeater": "M8CUB",
+      "rx": 145237500,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO92WI",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TL2873",
+        "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6994,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M9SPE",
+      "town": "HERNE BAY",
+      "modeCodes": [
+        "A",
+        "F"
+      ],
+      "tx": 430962500,
+      "repeater": "M9SPE",
+      "rx": 438562500,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO01NI",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TR1865",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
     }
   ]
 }
