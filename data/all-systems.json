@@ -22713,7 +22713,10 @@
       "modeCodes": [
         "A",
         "D",
-        "F"
+        "F",
+        "M",
+        "N",
+        "P"
       ],
       "tx": 439362500,
       "repeater": "GB7LA",
@@ -44251,6 +44254,54 @@
       "extraDetails": {
         "ngr": "TR1865",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6996,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0YDG",
+      "town": "WAKEFIELD",
+      "modeCodes": [
+        "N"
+      ],
+      "tx": 430250000,
+      "repeater": "MB5YB",
+      "rx": 439250000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93HO",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SE3813",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6997,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "MM7HBQ",
+      "town": "LERWICK",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145287500,
+      "repeater": "MB7ILW",
+      "rx": 145287500,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IP90KD",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "HU4642",
+        "antennaHeight": 4,
         "polarisation": "V"
       }
     }
