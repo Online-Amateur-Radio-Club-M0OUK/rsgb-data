@@ -12714,30 +12714,6 @@
       }
     },
     {
-      "id": 4127,
-      "fac": true,
-      "type": "TV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G7KPM",
-      "town": "CAISTOR",
-      "modeCodes": [
-        "T"
-      ],
-      "tx": 3404000000,
-      "repeater": "GB3CT",
-      "rx": 2435000000,
-      "ctcss": 0,
-      "txbw": 2000,
-      "band": "9CM",
-      "locator": "IO93UM",
-      "dbwErp": 15.5,
-      "extraDetails": {
-        "ngr": "TA1201",
-        "antennaHeight": 10,
-        "polarisation": "H"
-      }
-    },
-    {
       "id": 4129,
       "fac": true,
       "type": "DV",
@@ -44041,6 +44017,46 @@
       "extraDetails": null
     },
     {
+      "id": 6982,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0KQY",
+      "town": "WILMOTES POOL CAR PARK CROWCOM",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 439125000,
+      "repeater": "M0KQY",
+      "rx": 430125000,
+      "ctcss": 141.3,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81JD",
+      "dbwErp": 10.8,
+      "extraDetails": null
+    },
+    {
+      "id": 6983,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G1SOM",
+      "town": "KILVE COURT - SSE ADVENTURE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 439137500,
+      "repeater": "G1SOM",
+      "rx": 430137500,
+      "ctcss": 141.3,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81JE",
+      "dbwErp": 10,
+      "extraDetails": null
+    },
+    {
       "id": 6985,
       "fac": true,
       "type": "DG",
@@ -44236,7 +44252,7 @@
       "id": 6994,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M9SPE",
       "town": "HERNE BAY",
       "modeCodes": [
