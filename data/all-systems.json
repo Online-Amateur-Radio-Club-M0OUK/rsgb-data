@@ -26811,30 +26811,6 @@
       }
     },
     {
-      "id": 5782,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GM4UYK",
-      "town": "KILMARNOCK",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 431125000,
-      "repeater": "MB6KL",
-      "rx": 431125000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO75",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "NS4239",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 5785,
       "fac": true,
       "type": "DV",
@@ -31957,7 +31933,7 @@
       "id": 6253,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM5AUG",
       "town": "COLCHESTER",
       "modeCodes": [
@@ -39997,30 +39973,6 @@
       }
     },
     {
-      "id": 6761,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M9LCB",
-      "town": "DONCASTER",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430012500,
-      "repeater": "MB7IDO",
-      "rx": 430012500,
-      "ctcss": 71.9,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO93JO",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SE5210",
-        "antennaHeight": 7,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6762,
       "fac": true,
       "type": "DG",
@@ -44318,6 +44270,30 @@
       "extraDetails": {
         "ngr": "HU4642",
         "antennaHeight": 4,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6998,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M9LCB",
+      "town": "DONCASTER",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430012500,
+      "repeater": "MB7IDO",
+      "rx": 430012500,
+      "ctcss": 71.9,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93JM",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SE5504",
+        "antennaHeight": 7,
         "polarisation": "V"
       }
     }
