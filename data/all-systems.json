@@ -23795,7 +23795,7 @@
       "id": 5487,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM6BWS",
       "town": "TURRIFF",
       "modeCodes": [
@@ -24619,7 +24619,7 @@
       "id": 5562,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM6BWS",
       "town": "TURRIFF",
       "modeCodes": [
@@ -39856,7 +39856,7 @@
       "id": 6754,
       "fac": true,
       "type": "AP",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM7LUN",
       "town": "LAUDER",
       "modeCodes": [
@@ -44060,7 +44060,7 @@
       "id": 6987,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M9BTX",
       "town": "BIGGLESWADE",
       "modeCodes": [
