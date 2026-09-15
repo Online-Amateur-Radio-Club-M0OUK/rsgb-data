@@ -4030,7 +4030,7 @@
       "id": 2000,
       "fac": true,
       "type": "BN",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GW3TKH",
       "town": "CARDIFF",
       "modeCodes": [
@@ -42265,7 +42265,7 @@
       "id": 6898,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G1JKE",
       "town": "FILEY",
       "modeCodes": [
@@ -44295,6 +44295,31 @@
         "ngr": "SE5504",
         "antennaHeight": 7,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 6999,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM4SVW",
+      "town": "GOUROCK",
+      "modeCodes": [
+        "A",
+        "M:1"
+      ],
+      "tx": 430937500,
+      "repeater": "GB7GR",
+      "rx": 438537500,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO75",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NS2276",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
