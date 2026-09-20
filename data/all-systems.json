@@ -16939,7 +16939,7 @@
       "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "M0NGT",
+      "keeperCallsign": "G0HRV",
       "town": "NOTTINGHAM",
       "modeCodes": [
         "D",
@@ -24572,7 +24572,7 @@
       "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "M0NGT",
+      "keeperCallsign": "G0HRV",
       "town": "TANSLEY NR MATLOCK",
       "modeCodes": [
         "M:1"
@@ -24596,7 +24596,7 @@
       "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "M0NGT",
+      "keeperCallsign": "G0HRV",
       "town": "KIMBERLEY",
       "modeCodes": [
         "M:1"
@@ -44320,6 +44320,30 @@
         "ngr": "SE4808",
         "antennaHeight": 3,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 7004,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G3AGM",
+      "town": "SAFFRON WALDEN",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 7051600,
+      "repeater": "GB7AGM",
+      "rx": 7051600,
+      "ctcss": 0,
+      "txbw": 0.3,
+      "band": "40M",
+      "locator": "JO01BX",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TL4631",
+        "antennaHeight": 6,
+        "polarisation": "H"
       }
     }
   ]
