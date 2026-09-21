@@ -26718,7 +26718,7 @@
       "id": 5770,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4IPE",
       "town": "SCUNTHORPE",
       "modeCodes": [
@@ -43905,26 +43905,6 @@
       }
     },
     {
-      "id": 6980,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0KOY",
-      "town": "QUANTOCK LODGE ALEY  OVER STOW",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 439137500,
-      "repeater": "M0KOY",
-      "rx": 430137500,
-      "ctcss": 141.3,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO80KV",
-      "dbwErp": 9,
-      "extraDetails": null
-    },
-    {
       "id": 6981,
       "fac": true,
       "type": "AV",
@@ -44344,6 +44324,30 @@
         "ngr": "TL4631",
         "antennaHeight": 6,
         "polarisation": "H"
+      }
+    },
+    {
+      "id": 7006,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M7UFX",
+      "town": "WATERLOOVILLE",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 434525000,
+      "repeater": "MB6FX",
+      "rx": 434525000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO90LU",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SU6808",
+        "antennaHeight": 9,
+        "polarisation": "V"
       }
     }
   ]
