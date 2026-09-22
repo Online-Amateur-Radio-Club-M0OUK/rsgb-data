@@ -8716,7 +8716,7 @@
     },
     {
       "id": 3287,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0WAQ",
@@ -8857,30 +8857,6 @@
       "locator": "IN89WE",
       "dbwErp": 14,
       "extraDetails": null
-    },
-    {
-      "id": 3319,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G4GBW",
-      "town": "ROMFORD",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 1297900000,
-      "repeater": "MB7PH",
-      "rx": 1297900000,
-      "ctcss": 110.9,
-      "txbw": 25,
-      "band": "23CM",
-      "locator": "JO01CN",
-      "dbwErp": 5.4,
-      "extraDetails": {
-        "ngr": "TQ5389",
-        "antennaHeight": 35,
-        "polarisation": "V"
-      }
     },
     {
       "id": 3329,
@@ -16061,7 +16037,7 @@
       "id": 4623,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M9TTL",
       "town": "LOUGHTON",
       "modeCodes": [
@@ -39566,7 +39542,7 @@
       "id": 6741,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M9SJW",
       "town": "BUSHEY",
       "modeCodes": [
