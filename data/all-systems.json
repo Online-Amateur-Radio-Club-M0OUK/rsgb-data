@@ -2971,7 +2971,7 @@
       "id": 951,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "G8NSS",
       "town": "STOKE ON TRENT",
       "modeCodes": [
@@ -23593,34 +23593,6 @@
       }
     },
     {
-      "id": 5455,
-      "fac": true,
-      "type": "DG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M1AXM",
-      "town": "ILMINSTER",
-      "modeCodes": [
-        "D",
-        "M:9",
-        "F",
-        "P",
-        "N"
-      ],
-      "tx": 144837500,
-      "repeater": "M1AXM",
-      "rx": 144837500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO80MW",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "ST3016",
-        "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5456,
       "fac": true,
       "type": "AG",
@@ -43881,26 +43853,6 @@
       }
     },
     {
-      "id": 6981,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0KPQ",
-      "town": "WILMOTES POOL CAR PARK CROWCOM",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 439125000,
-      "repeater": "M0KPQ",
-      "rx": 430125000,
-      "ctcss": 141.3,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81JD",
-      "dbwErp": 10.8,
-      "extraDetails": null
-    },
-    {
       "id": 6982,
       "fac": true,
       "type": "AV",
@@ -44324,6 +44276,30 @@
         "ngr": "SU6808",
         "antennaHeight": 9,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 7007,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G7CDA",
+      "town": "LEEDS",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430012500,
+      "repeater": "MB7ILE",
+      "rx": 430012500,
+      "ctcss": 82.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO93",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SE2635",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
