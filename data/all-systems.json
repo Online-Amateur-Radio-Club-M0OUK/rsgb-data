@@ -42164,7 +42164,7 @@
       "id": 6897,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M1TNW",
       "town": "MORETON",
       "modeCodes": [
