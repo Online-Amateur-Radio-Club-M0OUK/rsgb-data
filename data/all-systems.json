@@ -1171,7 +1171,7 @@
       "id": 732,
       "fac": true,
       "type": "AV",
-      "status": "",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0MBA",
       "town": "COLCHESTER",
       "modeCodes": [
@@ -1219,7 +1219,7 @@
       "id": 739,
       "fac": true,
       "type": "AV",
-      "status": "",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0MBA",
       "town": "CLACTON",
       "modeCodes": [
@@ -33903,7 +33903,7 @@
       "id": 6391,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4WTV",
       "town": "WORTHING",
       "modeCodes": [
@@ -44300,6 +44300,54 @@
         "ngr": "SE2635",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 7008,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "GM4CXF",
+      "town": "TROON",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144937500,
+      "repeater": "GB7CXF",
+      "rx": 144937500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO75QN",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NS3331",
+        "antennaHeight": 12,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 7009,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "GM4CXF",
+      "town": "TROON",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 7049450,
+      "repeater": "GB7CXF",
+      "rx": 7049450,
+      "ctcss": 0,
+      "txbw": 0.3,
+      "band": "40M",
+      "locator": "IO75QN",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NS3331",
+        "antennaHeight": 7,
+        "polarisation": "H"
       }
     }
   ]
