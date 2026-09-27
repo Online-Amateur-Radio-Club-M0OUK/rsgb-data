@@ -19854,7 +19854,7 @@
       "id": 5123,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G1JSP",
       "town": "CORBY",
       "modeCodes": [
@@ -34117,7 +34117,7 @@
       "id": 6412,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G7HPE",
       "town": "CORBY",
       "modeCodes": [
@@ -35948,31 +35948,6 @@
       "extraDetails": {
         "ngr": "SS3811",
         "antennaHeight": 11,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 6530,
-      "fac": true,
-      "type": "DM",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G4LUE",
-      "town": "KIPPAX",
-      "modeCodes": [
-        "A",
-        "D"
-      ],
-      "tx": 439362500,
-      "repeater": "GB7YK",
-      "rx": 430362500,
-      "ctcss": 71.9,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO93HS",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SE4230",
-        "antennaHeight": 7,
         "polarisation": "V"
       }
     },
@@ -44227,6 +44202,31 @@
       "extraDetails": {
         "ngr": "SE4808",
         "antennaHeight": 3,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 7003,
+      "fac": true,
+      "type": "DM",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0KXQ",
+      "town": "DRIFFIELD",
+      "modeCodes": [
+        "A",
+        "F"
+      ],
+      "tx": 145750000,
+      "repeater": "GB3YC",
+      "rx": 145150000,
+      "ctcss": 88.5,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO94SC",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "TA0169",
+        "antennaHeight": 15,
         "polarisation": "V"
       }
     },
