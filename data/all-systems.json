@@ -41826,30 +41826,6 @@
       }
     },
     {
-      "id": 6878,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M8ULH",
-      "town": "LONDON",
-      "modeCodes": [
-        "M:7"
-      ],
-      "tx": 433662500,
-      "repeater": "MB6BP",
-      "rx": 433662500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO91WL",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TQ2977",
-        "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6879,
       "fac": true,
       "type": "DM",
@@ -42888,6 +42864,30 @@
       "extraDetails": {
         "ngr": "TL4610",
         "antennaHeight": 17,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 6934,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4CJZ",
+      "town": "BRISTOL",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 430250000,
+      "repeater": "GB3XC",
+      "rx": 439250000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO81RL",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "ST6475",
+        "antennaHeight": 8,
         "polarisation": "V"
       }
     },
@@ -44160,7 +44160,7 @@
       "id": 6999,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM4SVW",
       "town": "GOUROCK",
       "modeCodes": [
