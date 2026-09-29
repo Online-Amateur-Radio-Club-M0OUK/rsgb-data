@@ -1001,7 +1001,7 @@
       "id": 711,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM0YET",
       "town": "DALRY",
       "modeCodes": [
@@ -2993,7 +2993,7 @@
     },
     {
       "id": 954,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G6DIK",
@@ -3005,7 +3005,7 @@
       "repeater": "GB3SK",
       "rx": 434750000,
       "ctcss": 103.5,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "JO01MH",
       "dbwErp": 14,
@@ -8816,7 +8816,7 @@
     },
     {
       "id": 3316,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4GBW",
@@ -8828,10 +8828,10 @@
       "repeater": "GB3HW",
       "rx": 434925000,
       "ctcss": 110.9,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "JO01CN",
-      "dbwErp": 5.5,
+      "dbwErp": 5.4,
       "extraDetails": {
         "ngr": "TQ5389",
         "antennaHeight": 35,
