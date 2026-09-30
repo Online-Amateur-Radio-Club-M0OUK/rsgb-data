@@ -953,7 +953,7 @@
       "id": 709,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G8GQJ",
       "town": "AYLESBURY",
       "modeCodes": [
@@ -2895,30 +2895,6 @@
       }
     },
     {
-      "id": 945,
-      "fac": true,
-      "type": "AV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G6WWY",
-      "town": "AXMINSTER",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430900000,
-      "repeater": "GB3RH",
-      "rx": 438500000,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO80MS",
-      "dbwErp": 12,
-      "extraDetails": {
-        "ngr": "SY3296",
-        "antennaHeight": 12,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 948,
       "fac": true,
       "type": "DM",
@@ -3666,7 +3642,7 @@
     },
     {
       "id": 1042,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G6ZZX",
@@ -16991,7 +16967,7 @@
       "id": 4773,
       "fac": true,
       "type": "DM",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G5CBX",
       "town": "DOWNHAM MARKET",
       "modeCodes": [
@@ -20896,7 +20872,7 @@
     },
     {
       "id": 5210,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0NFI",
