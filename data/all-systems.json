@@ -1193,7 +1193,7 @@
     },
     {
       "id": 734,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G3LVP",
@@ -1744,7 +1744,7 @@
     },
     {
       "id": 804,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G3LVP",
@@ -1756,10 +1756,10 @@
       "repeater": "GB3GH",
       "rx": 434725000,
       "ctcss": 118.8,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO81VU",
-      "dbwErp": 13,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SO8818",
         "antennaHeight": 10,
@@ -6387,30 +6387,6 @@
       "extraDetails": {
         "ngr": "SE2044",
         "antennaHeight": 11,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 2597,
-      "fac": true,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0JGX",
-      "town": "BECCLES",
-      "modeCodes": [
-        "M:2"
-      ],
-      "tx": 439575000,
-      "repeater": "GB7EB",
-      "rx": 430575000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO02TK",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TM4488",
-        "antennaHeight": 23,
         "polarisation": "V"
       }
     },
@@ -14650,7 +14626,7 @@
       "id": 4395,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4RKY",
       "town": "LISKEARD",
       "modeCodes": [
@@ -26836,7 +26812,7 @@
       "fac": true,
       "type": "DG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "MM0OVD",
+      "keeperCallsign": "GM5OVD",
       "town": "ARDROSSAN",
       "modeCodes": [
         "F"
@@ -30526,7 +30502,7 @@
       "keeperCallsign": "M0VOB",
       "town": "KIPPAX",
       "modeCodes": [
-        "M:2"
+        "F"
       ],
       "tx": 432800000,
       "repeater": "MB5DV",
@@ -38857,31 +38833,6 @@
       }
     },
     {
-      "id": 6713,
-      "fac": true,
-      "type": "DM",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G7MLO",
-      "town": "BURY ST EDMUNDS",
-      "modeCodes": [
-        "A",
-        "M:1"
-      ],
-      "tx": 433137500,
-      "repeater": "MB5ER",
-      "rx": 438137500,
-      "ctcss": 110.9,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO02JF",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TL8964",
-        "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6714,
       "fac": true,
       "type": "AG",
@@ -40446,30 +40397,6 @@
         "ngr": "SX5368",
         "antennaHeight": 0,
         "polarisation": ""
-      }
-    },
-    {
-      "id": 6799,
-      "fac": true,
-      "type": "PX",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G0WDA",
-      "town": "BLACKPOOL",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 439950000,
-      "repeater": "GB7ESC",
-      "rx": 439950000,
-      "ctcss": 0,
-      "txbw": 25,
-      "band": "70CM",
-      "locator": "IO83LT",
-      "dbwErp": 10,
-      "extraDetails": {
-        "ngr": "SD3135",
-        "antennaHeight": 8,
-        "polarisation": "V"
       }
     },
     {
@@ -43039,7 +42966,7 @@
       "id": 6943,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4TSN",
       "town": "HUTHWAITE",
       "modeCodes": [
