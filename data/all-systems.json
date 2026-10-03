@@ -5561,33 +5561,6 @@
       }
     },
     {
-      "id": 2356,
-      "fac": true,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0JGX",
-      "town": "BECCLES",
-      "modeCodes": [
-        "D",
-        "F",
-        "N",
-        "P"
-      ],
-      "tx": 439662500,
-      "repeater": "GB7BE",
-      "rx": 430662500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO02TK",
-      "dbwErp": 10,
-      "extraDetails": {
-        "ngr": "TM4488",
-        "antennaHeight": 15,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 2358,
       "fac": true,
       "type": "PX",
@@ -42236,7 +42209,7 @@
       "id": 6910,
       "fac": true,
       "type": "RN",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G6YBC ",
       "town": "ATHERTON ",
       "modeCodes": [
