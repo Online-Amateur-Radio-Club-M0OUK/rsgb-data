@@ -14252,7 +14252,7 @@
     },
     {
       "id": 4358,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G6VBJ",
@@ -16916,7 +16916,7 @@
       "id": 4773,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G5CBX",
       "town": "DOWNHAM MARKET",
       "modeCodes": [
@@ -20918,7 +20918,7 @@
     {
       "id": 5221,
       "fac": true,
-      "type": "AF",
+      "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0WMB",
       "town": "PLYMPTON",
@@ -21912,12 +21912,12 @@
       "keeperCallsign": "M0YDG",
       "town": "CLECKHEATON",
       "modeCodes": [
-        "M:4"
+        "A"
       ],
       "tx": 430987500,
       "repeater": "GB3YN",
       "rx": 438587500,
-      "ctcss": 0,
+      "ctcss": 82.5,
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO93CR",
@@ -41891,6 +41891,31 @@
       }
     },
     {
+      "id": 6889,
+      "fac": true,
+      "type": "DM",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M0NLO",
+      "town": "TIVERTON",
+      "modeCodes": [
+        "A",
+        "D"
+      ],
+      "tx": 439350000,
+      "repeater": "GB7TV",
+      "rx": 430350000,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO80FV",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SS9211",
+        "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 6891,
       "fac": true,
       "type": "PX",
@@ -42819,7 +42844,7 @@
       "id": 6938,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7HMV",
       "town": "STRATFORD",
       "modeCodes": [
