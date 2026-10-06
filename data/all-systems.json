@@ -1758,12 +1758,12 @@
       "ctcss": 118.8,
       "txbw": 12.5,
       "band": "70CM",
-      "locator": "IO81VU",
+      "locator": "IO81",
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "SO8818",
-        "antennaHeight": 10,
-        "polarisation": "V"
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     },
     {
@@ -17477,7 +17477,7 @@
       "id": 4853,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM0NBW",
       "town": "TRANENT",
       "modeCodes": [
@@ -39046,30 +39046,6 @@
       }
     },
     {
-      "id": 6728,
-      "fac": true,
-      "type": "AP",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GM5JPB",
-      "town": "LIVINGSTON",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 439912500,
-      "repeater": "GM5JPB",
-      "rx": 439912500,
-      "ctcss": 0,
-      "txbw": 125,
-      "band": "70CM",
-      "locator": "IO85",
-      "dbwErp": -7,
-      "extraDetails": {
-        "ngr": "NT0563",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6729,
       "fac": true,
       "type": "AV",
@@ -40928,30 +40904,6 @@
       "extraDetails": {
         "ngr": "TF0727",
         "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 6836,
-      "fac": true,
-      "type": "PX",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G0NMY",
-      "town": "STOKE-ON-TRENT",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144950000,
-      "repeater": "GB7STO",
-      "rx": 144950000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO83VA",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SJ8746",
-        "antennaHeight": 10,
         "polarisation": "V"
       }
     },
@@ -44229,6 +44181,30 @@
         "ngr": "NS3331",
         "antennaHeight": 7,
         "polarisation": "H"
+      }
+    },
+    {
+      "id": 7011,
+      "fac": true,
+      "type": "AP",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "GM5JPB",
+      "town": "BROXBURN",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "GM5JPB",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "IO85GW",
+      "dbwErp": -7,
+      "extraDetails": {
+        "ngr": "NT0871",
+        "antennaHeight": 2,
+        "polarisation": "V"
       }
     }
   ]
