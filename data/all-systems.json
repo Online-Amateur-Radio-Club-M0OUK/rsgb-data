@@ -14028,30 +14028,6 @@
       }
     },
     {
-      "id": 4329,
-      "fac": false,
-      "type": "AV",
-      "status": "REDUCED OUTPUT",
-      "keeperCallsign": "G8NDT",
-      "town": "WOLVERHAMPTON",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 438387500,
-      "repeater": "GB3WN",
-      "rx": 430787500,
-      "ctcss": 67,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO82XP",
-      "dbwErp": 13,
-      "extraDetails": {
-        "ngr": "SJ9403",
-        "antennaHeight": 30,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 4332,
       "fac": true,
       "type": "DG",
@@ -43653,50 +43629,6 @@
       "extraDetails": {
         "ngr": "SJ1928",
         "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 6982,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0KQY",
-      "town": "WILMOTES POOL CAR PARK CROWCOM",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 439125000,
-      "repeater": "M0KQY",
-      "rx": 430125000,
-      "ctcss": 141.3,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81JD",
-      "dbwErp": 10.8,
-      "extraDetails": null
-    },
-    {
-      "id": 6983,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G1SOM",
-      "town": "KILVE COURT - SSE ADVENTURE",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 439137500,
-      "repeater": "G1SOM",
-      "rx": 430137500,
-      "ctcss": 141.3,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81JE",
-      "dbwErp": 10,
-      "extraDetails": {
-        "ngr": "ST1442",
-        "antennaHeight": 6,
         "polarisation": "V"
       }
     },
