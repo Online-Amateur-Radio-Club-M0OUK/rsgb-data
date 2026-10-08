@@ -12369,30 +12369,6 @@
       }
     },
     {
-      "id": 4098,
-      "fac": true,
-      "type": "AV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0KXQ",
-      "town": "FILEY",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145750000,
-      "repeater": "GB3YC",
-      "rx": 145150000,
-      "ctcss": 88.5,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO94SE",
-      "dbwErp": 10,
-      "extraDetails": {
-        "ngr": "TA0277",
-        "antennaHeight": 15,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 4102,
       "fac": true,
       "type": "DG",
@@ -42652,7 +42628,7 @@
       "id": 6933,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G7JQJ",
       "town": "HARLOW",
       "modeCodes": [
@@ -44136,6 +44112,54 @@
       "extraDetails": {
         "ngr": "NT0871",
         "antennaHeight": 2,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 7012,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G4IDX",
+      "town": "FOLKESTONE",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 432675000,
+      "repeater": "GB7SEK",
+      "rx": 432675000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO01OC",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TR2337",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 7013,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G4IDX",
+      "town": "FOLKESTONE",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144950000,
+      "repeater": "GB7SEK",
+      "rx": 144950000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO01OC",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TR2337",
+        "antennaHeight": 10,
         "polarisation": "V"
       }
     }
