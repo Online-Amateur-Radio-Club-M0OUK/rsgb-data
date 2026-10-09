@@ -24469,7 +24469,7 @@
       "id": 5566,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M9XTA",
       "town": "CHELMSFORD",
       "modeCodes": [
