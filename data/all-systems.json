@@ -19731,7 +19731,7 @@
       "id": 5123,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G1JSP",
       "town": "CORBY",
       "modeCodes": [
@@ -26222,30 +26222,6 @@
       "extraDetails": {
         "ngr": "TQ8785",
         "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 5742,
-      "fac": true,
-      "type": "PX",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0JQQ",
-      "town": "CRAMLINGTON",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 7052750,
-      "repeater": "GB7CNR",
-      "rx": 7052750,
-      "ctcss": 0,
-      "txbw": 0.5,
-      "band": "40M",
-      "locator": "IO95EC",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NZ2576",
-        "antennaHeight": 3,
         "polarisation": "V"
       }
     },
@@ -33994,7 +33970,7 @@
       "id": 6412,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7HPE",
       "town": "CORBY",
       "modeCodes": [
@@ -42303,30 +42279,6 @@
       }
     },
     {
-      "id": 6919,
-      "fac": true,
-      "type": "AP",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M7IAU",
-      "town": "BASINGSTOKE",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144800000,
-      "repeater": "MB7UBK",
-      "rx": 144800000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO91LG",
-      "dbwErp": 0,
-      "extraDetails": {
-        "ngr": "SU6453",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6920,
       "fac": true,
       "type": "AV",
@@ -42378,7 +42330,7 @@
       "id": 6922,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0PJA",
       "town": "HARWORTH",
       "modeCodes": [
@@ -44047,7 +43999,7 @@
       "id": 7008,
       "fac": true,
       "type": "PX",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GM4CXF",
       "town": "TROON",
       "modeCodes": [
