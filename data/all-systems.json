@@ -5035,6 +5035,31 @@
       }
     },
     {
+      "id": 2293,
+      "fac": true,
+      "type": "DM",
+      "status": "REDUCED OUTPUT",
+      "keeperCallsign": "G8LZO",
+      "town": "DISLEY",
+      "modeCodes": [
+        "A",
+        "F"
+      ],
+      "tx": 145650000,
+      "repeater": "GB3MN",
+      "rx": 145050000,
+      "ctcss": 82.5,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO83XH",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SJ9781",
+        "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 2294,
       "fac": true,
       "type": "DV",
@@ -37325,7 +37350,7 @@
       "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "MM9SAT ",
+      "keeperCallsign": "MM9SAT",
       "town": "ABOYNE",
       "modeCodes": [
         "A"
@@ -39752,7 +39777,7 @@
       "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "MM0VIK ",
+      "keeperCallsign": "MM0VIK",
       "town": "LERWICK ",
       "modeCodes": [
         "A"
@@ -40863,13 +40888,13 @@
       "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "M7DSQ ",
+      "keeperCallsign": "M7DSQ",
       "town": "PETERLEE",
       "modeCodes": [
         "A"
       ],
       "tx": 145312500,
-      "repeater": "MB7ISQ ",
+      "repeater": "MB7ISQ",
       "rx": 145312500,
       "ctcss": 67,
       "txbw": 12.5,
@@ -41057,7 +41082,7 @@
       "fac": true,
       "type": "AV",
       "status": "REDUCED OUTPUT",
-      "keeperCallsign": "M0CSN ",
+      "keeperCallsign": "M0CSN",
       "town": "DUKINFIELD ",
       "modeCodes": [
         "A"
@@ -42066,7 +42091,7 @@
       "fac": true,
       "type": "RN",
       "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G6YBC ",
+      "keeperCallsign": "G6YBC",
       "town": "ATHERTON ",
       "modeCodes": [
         "X"
@@ -42355,7 +42380,7 @@
       "id": 6925,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4NJI",
       "town": "ROTHERHAM",
       "modeCodes": [
@@ -43564,7 +43589,7 @@
       "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G8YPK ",
+      "keeperCallsign": "G8YPK",
       "town": "BENFLEET",
       "modeCodes": [
         "M:3"
@@ -43854,7 +43879,7 @@
       "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "G7ANA ",
+      "keeperCallsign": "G7ANA",
       "town": "HOOTON PAGNELL ",
       "modeCodes": [
         "A"
@@ -44137,6 +44162,30 @@
         "ngr": "SE1217",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 7016,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MI0CRQ",
+      "town": "BALLYCASTLE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 70412500,
+      "repeater": "MI0CRQ",
+      "rx": 70412500,
+      "ctcss": 110.9,
+      "txbw": 12.5,
+      "band": "4M",
+      "locator": "IO65VE",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "ID1141",
+        "antennaHeight": 7,
+        "polarisation": "V"
       }
     }
   ]
