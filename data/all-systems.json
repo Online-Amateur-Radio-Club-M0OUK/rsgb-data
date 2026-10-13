@@ -44187,6 +44187,30 @@
         "antennaHeight": 7,
         "polarisation": "V"
       }
+    },
+    {
+      "id": 7017,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G6TEG",
+      "town": "WHITTLESEY",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 144887500,
+      "repeater": "MB6WZ",
+      "rx": 144887500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO92WN",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TL2797",
+        "antennaHeight": 9,
+        "polarisation": "V"
+      }
     }
   ]
 }
