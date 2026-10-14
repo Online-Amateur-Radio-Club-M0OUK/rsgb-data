@@ -21040,7 +21040,7 @@
     },
     {
       "id": 5237,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GU7DAI",
@@ -42090,7 +42090,7 @@
       "id": 6910,
       "fac": true,
       "type": "RN",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G6YBC",
       "town": "ATHERTON ",
       "modeCodes": [
@@ -43561,6 +43561,30 @@
       }
     },
     {
+      "id": 6984,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G8MLA",
+      "town": "KINGS LYNN ",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 1297100000,
+      "repeater": "MB0SHF",
+      "rx": 1291100000,
+      "ctcss": 94.8,
+      "txbw": 25,
+      "band": "23CM",
+      "locator": "JO02FS",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TF6723",
+        "antennaHeight": 18,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 6985,
       "fac": true,
       "type": "DG",
@@ -44209,6 +44233,30 @@
       "extraDetails": {
         "ngr": "TL2797",
         "antennaHeight": 9,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 7018,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0XCA",
+      "town": "READING",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430062500,
+      "repeater": "MB7ILX",
+      "rx": 430062500,
+      "ctcss": 118.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91MK",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SU7469",
+        "antennaHeight": 6,
         "polarisation": "V"
       }
     }
