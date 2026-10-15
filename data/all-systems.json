@@ -8990,16 +8990,7 @@
       "keeperCallsign": "G4MYS",
       "town": "SOUTHAMPTON",
       "modeCodes": [
-        "F",
-        "U",
-        "S",
-        "I",
-        "O",
-        "N",
-        "O",
-        "N",
-        "L",
-        "Y"
+        "F"
       ],
       "tx": 145775000,
       "repeater": "GB7IV",
@@ -12745,12 +12736,12 @@
     {
       "id": 4141,
       "fac": true,
-      "type": "RN",
+      "type": "ST",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0MBA",
       "town": "ST OSYTH",
       "modeCodes": [
-        "X"
+        "S"
       ],
       "tx": 432525000,
       "repeater": "MB7TV",
@@ -17016,12 +17007,12 @@
     {
       "id": 4794,
       "fac": true,
-      "type": "RN",
+      "type": "ST",
       "status": "OPERATIONAL",
       "keeperCallsign": "G0MBA",
       "town": "ST OSYTH",
       "modeCodes": [
-        "X"
+        "S"
       ],
       "tx": 144500000,
       "repeater": "MB7TV",
@@ -32653,12 +32644,12 @@
     {
       "id": 6317,
       "fac": true,
-      "type": "RN",
+      "type": "ST",
       "status": "OPERATIONAL",
       "keeperCallsign": "G1TZC",
       "town": "WYTHALL",
       "modeCodes": [
-        "X"
+        "S"
       ],
       "tx": 144500000,
       "repeater": "MB7TW",
@@ -42089,12 +42080,12 @@
     {
       "id": 6910,
       "fac": true,
-      "type": "RN",
+      "type": "ST",
       "status": "OPERATIONAL",
       "keeperCallsign": "G6YBC",
       "town": "ATHERTON ",
       "modeCodes": [
-        "X"
+        "S"
       ],
       "tx": 144500000,
       "repeater": "MB7TX",
@@ -44186,6 +44177,30 @@
         "ngr": "SE1217",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 7015,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0DQS",
+      "town": "ADDERLEY",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "M0DQS",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO82RW",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "SJ6439",
+        "antennaHeight": 10,
+        "polarisation": "V"
       }
     },
     {
