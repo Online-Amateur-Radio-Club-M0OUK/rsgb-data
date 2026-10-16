@@ -7270,7 +7270,7 @@
     },
     {
       "id": 2871,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "MW0GCT",
@@ -7283,7 +7283,7 @@
       "repeater": "GB3AN",
       "rx": 434800000,
       "ctcss": 110.9,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO73UJ",
       "dbwErp": 11,
@@ -14098,7 +14098,7 @@
       "id": 4350,
       "fac": false,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4YFF",
       "town": "STAFFORD",
       "modeCodes": [
@@ -36403,7 +36403,7 @@
       "id": 6572,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "MM9RAB",
       "town": "MAYBOLE",
       "modeCodes": [
@@ -44190,7 +44190,7 @@
         "X"
       ],
       "tx": 144800000,
-      "repeater": "M0DQS",
+      "repeater": "MB7UAD",
       "rx": 144800000,
       "ctcss": 0,
       "txbw": 12.5,
@@ -44231,7 +44231,7 @@
       "id": 7017,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G6TEG",
       "town": "WHITTLESEY",
       "modeCodes": [
@@ -44272,6 +44272,30 @@
       "extraDetails": {
         "ngr": "SU7469",
         "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 7019,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G7GTI",
+      "town": "SPONDON ",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 70412500,
+      "repeater": "MB7IDX",
+      "rx": 70412500,
+      "ctcss": 88.5,
+      "txbw": 12.5,
+      "band": "4M",
+      "locator": "IO92HW",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SK4036",
+        "antennaHeight": 8,
         "polarisation": "V"
       }
     }
