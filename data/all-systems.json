@@ -4198,7 +4198,7 @@
       "id": 2067,
       "fac": true,
       "type": "BN",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G4EPX",
       "town": "FLEET  HANTS",
       "modeCodes": [
@@ -11277,15 +11277,10 @@
       "id": 3937,
       "fac": true,
       "type": "DV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G8OXG",
       "town": "BEWDLEY",
-      "modeCodes": [
-        "D",
-        "M:13",
-        "F",
-        "N"
-      ],
+      "modeCodes": null,
       "tx": 439487500,
       "repeater": "GB7WF",
       "rx": 430487500,
@@ -26775,7 +26770,7 @@
       "id": 5799,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM7RYR",
       "town": "PAISLEY",
       "modeCodes": [
@@ -43310,10 +43305,7 @@
       "status": "OPERATIONAL",
       "keeperCallsign": "M7JUT",
       "town": "MILTON KEYNES",
-      "modeCodes": [
-        "M:15",
-        "N"
-      ],
+      "modeCodes": null,
       "tx": 434512500,
       "repeater": "MB6CR",
       "rx": 434512500,
@@ -44296,6 +44288,30 @@
       "extraDetails": {
         "ngr": "SK4036",
         "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 7020,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M1RKY",
+      "town": "TEAN",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144937500,
+      "repeater": "GB7SAM",
+      "rx": 144937500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO92AW",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SK0039",
+        "antennaHeight": 12,
         "polarisation": "V"
       }
     }
