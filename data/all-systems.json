@@ -43305,7 +43305,10 @@
       "status": "OPERATIONAL",
       "keeperCallsign": "M7JUT",
       "town": "MILTON KEYNES",
-      "modeCodes": null,
+      "modeCodes": [
+        "M:15",
+        "N"
+      ],
       "tx": 434512500,
       "repeater": "MB6CR",
       "rx": 434512500,
