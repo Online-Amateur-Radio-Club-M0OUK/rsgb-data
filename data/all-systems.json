@@ -26291,10 +26291,7 @@
       "status": "OPERATIONAL",
       "keeperCallsign": "G6ASK",
       "town": "TIVERTON",
-      "modeCodes": [
-        "A",
-        "F"
-      ],
+      "modeCodes": null,
       "tx": 430862500,
       "repeater": "GB3JH",
       "rx": 438462500,
@@ -44315,6 +44312,30 @@
       "extraDetails": {
         "ngr": "SK0039",
         "antennaHeight": 12,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 7021,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M7OFQ",
+      "town": "COLLIERS WOOD",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430100000,
+      "repeater": "MB7IWM",
+      "rx": 430100000,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91VJ",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TQ2770",
+        "antennaHeight": 11,
         "polarisation": "V"
       }
     }
