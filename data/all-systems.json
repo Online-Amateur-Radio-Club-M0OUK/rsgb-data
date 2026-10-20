@@ -11280,7 +11280,12 @@
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "G8OXG",
       "town": "BEWDLEY",
-      "modeCodes": null,
+      "modeCodes": [
+        "D",
+        "M:13",
+        "F",
+        "N"
+      ],
       "tx": 439487500,
       "repeater": "GB7WF",
       "rx": 430487500,
@@ -14041,16 +14046,12 @@
     },
     {
       "id": 4342,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4WTV",
       "town": "WORTHING",
-      "modeCodes": [
-        "D",
-        "M:4",
-        "F"
-      ],
+      "modeCodes": null,
       "tx": 439612500,
       "repeater": "GB7CQ",
       "rx": 430612500,
@@ -36395,7 +36396,7 @@
       "id": 6572,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM9RAB",
       "town": "MAYBOLE",
       "modeCodes": [
@@ -44336,6 +44337,30 @@
       "extraDetails": {
         "ngr": "TQ2770",
         "antennaHeight": 11,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 7022,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G8DAN",
+      "town": "ST IVES",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 433137500,
+      "repeater": "GB3AF",
+      "rx": 438137500,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO92WI",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TL2873",
+        "antennaHeight": 10,
         "polarisation": "V"
       }
     }
