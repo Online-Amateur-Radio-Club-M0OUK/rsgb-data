@@ -15431,32 +15431,6 @@
       }
     },
     {
-      "id": 4522,
-      "fac": true,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G8XYJ",
-      "town": "TENBURY WELLS",
-      "modeCodes": [
-        "D",
-        "M:1",
-        "F"
-      ],
-      "tx": 439700000,
-      "repeater": "GB7VO",
-      "rx": 430700000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO82QJ",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SO5975",
-        "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 4525,
       "fac": true,
       "type": "AP",
@@ -17507,30 +17481,6 @@
       "extraDetails": {
         "ngr": "SU6815",
         "antennaHeight": 4,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 4865,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "2E0VOV",
-      "town": "POOLE",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145287500,
-      "repeater": "MB7IPD",
-      "rx": 145287500,
-      "ctcss": 71.9,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO90AR",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SZ0494",
-        "antennaHeight": 7,
         "polarisation": "V"
       }
     },
@@ -44176,7 +44126,7 @@
       "id": 7015,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0DQS",
       "town": "ADDERLEY",
       "modeCodes": [
@@ -44248,7 +44198,7 @@
       "id": 7018,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0XCA",
       "town": "READING",
       "modeCodes": [
@@ -44361,6 +44311,55 @@
       "extraDetails": {
         "ngr": "TL2873",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 7023,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MM7IZF",
+      "town": "INVERURIE ",
+      "modeCodes": [
+        "M:1"
+      ],
+      "tx": 144900000,
+      "repeater": "MB6IH",
+      "rx": 144900000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO87TH",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NJ7622",
+        "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 7024,
+      "fac": true,
+      "type": "DM",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G8XYJ",
+      "town": "LUDLOW",
+      "modeCodes": [
+        "A",
+        "F"
+      ],
+      "tx": 439337500,
+      "repeater": "GB7VO",
+      "rx": 430337500,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO82RJ",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "SO5975",
+        "antennaHeight": 6,
         "polarisation": "V"
       }
     }
