@@ -11277,7 +11277,7 @@
       "id": 3937,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G8OXG",
       "town": "BEWDLEY",
       "modeCodes": [
@@ -12873,30 +12873,6 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "IH5570",
-        "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 4153,
-      "fac": true,
-      "type": "AP",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0TUM",
-      "town": "NORWICH",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144800000,
-      "repeater": "MB7UTM",
-      "rx": 144800000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO02OQ",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TG1514",
         "antennaHeight": 6,
         "polarisation": "V"
       }
@@ -20884,10 +20860,7 @@
       "status": "OPERATIONAL",
       "keeperCallsign": "G7HMV",
       "town": "HARPENDEN",
-      "modeCodes": [
-        "A",
-        "F"
-      ],
+      "modeCodes": null,
       "tx": 145612500,
       "repeater": "GB7VR",
       "rx": 145012500,
@@ -28952,7 +28925,7 @@
       "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "GW7VFJ",
+      "keeperCallsign": "GW80GI",
       "town": "HOLYWELL",
       "modeCodes": [
         "A"
@@ -38580,7 +38553,9 @@
       "status": "OPERATIONAL",
       "keeperCallsign": "M0SDJ",
       "town": "FOLKESTONE",
-      "modeCodes": null,
+      "modeCodes": [
+        "X"
+      ],
       "tx": 432675000,
       "repeater": "GB7RMS",
       "rx": 432675000,
@@ -44360,6 +44335,30 @@
       "extraDetails": {
         "ngr": "SO5975",
         "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 7025,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G7JQJ",
+      "town": "HARLOW",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145587500,
+      "repeater": "GB3HX",
+      "rx": 144987500,
+      "ctcss": 85.4,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO01BS",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TL4610",
+        "antennaHeight": 17,
         "polarisation": "V"
       }
     }
