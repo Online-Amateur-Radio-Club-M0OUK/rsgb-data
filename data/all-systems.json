@@ -11280,12 +11280,7 @@
       "status": "OPERATIONAL",
       "keeperCallsign": "G8OXG",
       "town": "BEWDLEY",
-      "modeCodes": [
-        "D",
-        "M:13",
-        "F",
-        "N"
-      ],
+      "modeCodes": null,
       "tx": 439487500,
       "repeater": "GB7WF",
       "rx": 430487500,
@@ -42191,7 +42186,7 @@
       "id": 6920,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0MMM",
       "town": "DONCASTER",
       "modeCodes": [
@@ -42513,7 +42508,7 @@
       "id": 6934,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "G4CJZ",
       "town": "BRISTOL",
       "modeCodes": [
@@ -43593,7 +43588,7 @@
       "id": 6989,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4ETN",
       "town": "TAUNTON",
       "modeCodes": [
