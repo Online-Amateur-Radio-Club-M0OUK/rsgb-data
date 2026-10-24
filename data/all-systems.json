@@ -11280,7 +11280,12 @@
       "status": "OPERATIONAL",
       "keeperCallsign": "G8OXG",
       "town": "BEWDLEY",
-      "modeCodes": null,
+      "modeCodes": [
+        "D",
+        "M:13",
+        "F",
+        "N"
+      ],
       "tx": 439487500,
       "repeater": "GB7WF",
       "rx": 430487500,
@@ -20850,7 +20855,7 @@
     },
     {
       "id": 5229,
-      "fac": false,
+      "fac": true,
       "type": "DM",
       "status": "OPERATIONAL",
       "keeperCallsign": "G7HMV",
@@ -20863,7 +20868,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO91TU",
-      "dbwErp": 12.4,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "TL1317",
         "antennaHeight": 20,
@@ -41393,7 +41398,7 @@
       "id": 6874,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0ZAH",
       "town": "SCOLE",
       "modeCodes": [
@@ -44127,7 +44132,7 @@
         "A"
       ],
       "tx": 70412500,
-      "repeater": "MI0CRQ",
+      "repeater": "MB7IBE",
       "rx": 70412500,
       "ctcss": 110.9,
       "txbw": 12.5,
