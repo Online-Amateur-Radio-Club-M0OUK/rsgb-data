@@ -8569,14 +8569,12 @@
     },
     {
       "id": 3272,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G1HZI",
       "town": "HEXHAM",
-      "modeCodes": [
-        "M:10"
-      ],
+      "modeCodes": null,
       "tx": 439575000,
       "repeater": "GB7YI",
       "rx": 430575000,
@@ -11284,7 +11282,8 @@
         "D",
         "M:13",
         "F",
-        "N"
+        "N",
+        "P"
       ],
       "tx": 439487500,
       "repeater": "GB7WF",
@@ -11621,30 +11620,6 @@
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "SU9566",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 3983,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G1MAW",
-      "town": "CHELTENHAM",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430862500,
-      "repeater": "GB3RC",
-      "rx": 438462500,
-      "ctcss": 103.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO81",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SO9924",
         "antennaHeight": 0,
         "polarisation": ""
       }
@@ -13377,30 +13352,6 @@
       "ctcss": 103.5,
       "txbw": 12.5,
       "band": "2M",
-      "locator": "IO82",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SO5986",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 4246,
-      "fac": true,
-      "type": "DV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G1MAW",
-      "town": "CLEOBURY NORTH",
-      "modeCodes": [
-        "M:11"
-      ],
-      "tx": 439437500,
-      "repeater": "GB7BX",
-      "rx": 430437500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
       "locator": "IO82",
       "dbwErp": 14,
       "extraDetails": {
@@ -41200,32 +41151,6 @@
       }
     },
     {
-      "id": 6864,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0ZAH",
-      "town": "SCOLE",
-      "modeCodes": [
-        "D",
-        "M",
-        "F"
-      ],
-      "tx": 144862500,
-      "repeater": "M0ZAH",
-      "rx": 144862500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO02",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TM1579",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6865,
       "fac": true,
       "type": "AP",
@@ -42603,30 +42528,6 @@
         "ngr": "TQ3983",
         "antennaHeight": 50,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 6939,
-      "fac": true,
-      "type": "AV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G1MAW",
-      "town": "LLANDOVERY",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145650000,
-      "repeater": "GB3WV",
-      "rx": 145050000,
-      "ctcss": 103.5,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO82",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SN8340",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
