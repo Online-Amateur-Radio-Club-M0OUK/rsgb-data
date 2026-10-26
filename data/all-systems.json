@@ -28876,7 +28876,7 @@
       "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
-      "keeperCallsign": "GW80GI",
+      "keeperCallsign": "GW8OGI",
       "town": "HOLYWELL",
       "modeCodes": [
         "A"
@@ -37306,7 +37306,9 @@
       "status": "OPERATIONAL",
       "keeperCallsign": "M8LNX",
       "town": "GOSPORT",
-      "modeCodes": null,
+      "modeCodes": [
+        "M:3"
+      ],
       "tx": 439437500,
       "repeater": "M8LNX",
       "rx": 430437500,
@@ -41679,30 +41681,6 @@
       }
     },
     {
-      "id": 6896,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M0AWS",
-      "town": "EYKE",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145262500,
-      "repeater": "MB7IBW",
-      "rx": 145262500,
-      "ctcss": 94.8,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "JO02QC",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TM3151",
-        "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6897,
       "fac": true,
       "type": "DG",
@@ -44260,6 +44238,54 @@
       "extraDetails": {
         "ngr": "TL4610",
         "antennaHeight": 17,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 7027,
+      "fac": true,
+      "type": "DG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G8AWO",
+      "town": "HATFIELD",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 434475000,
+      "repeater": "G8AWO",
+      "rx": 434475000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO91",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TL2208",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 7028,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G4LYB",
+      "town": "CROMER",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145762500,
+      "repeater": "MB5NC",
+      "rx": 145162500,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "JO02PW",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TG224I",
+        "antennaHeight": 20,
         "polarisation": "V"
       }
     }
