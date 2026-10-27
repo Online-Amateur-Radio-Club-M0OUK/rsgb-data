@@ -9204,7 +9204,7 @@
     },
     {
       "id": 3432,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G1ERJ",
@@ -13978,7 +13978,10 @@
       "status": "OPERATIONAL",
       "keeperCallsign": "G4WTV",
       "town": "WORTHING",
-      "modeCodes": null,
+      "modeCodes": [
+        "M:4",
+        "F"
+      ],
       "tx": 439612500,
       "repeater": "GB7CQ",
       "rx": 430612500,
@@ -44286,6 +44289,54 @@
       "extraDetails": {
         "ngr": "TG224I",
         "antennaHeight": 20,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 7030,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G8XYJ",
+      "town": "MUCH WENLOCK",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430875000,
+      "repeater": "GB3VP",
+      "rx": 438475000,
+      "ctcss": 103.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO82QL",
+      "dbwErp": 11.8,
+      "extraDetails": {
+        "ngr": "SO5987",
+        "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 7032,
+      "fac": true,
+      "type": "PX",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M7TAW",
+      "town": "PETERSFIELD",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 7051600,
+      "repeater": "GB7PTR",
+      "rx": 7051600,
+      "ctcss": 0,
+      "txbw": 0.5,
+      "band": "40M",
+      "locator": "IO91MA",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SU7523",
+        "antennaHeight": 6,
         "polarisation": "V"
       }
     }
