@@ -30866,30 +30866,6 @@
       }
     },
     {
-      "id": 6204,
-      "fac": true,
-      "type": "DV",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "GI4RNP",
-      "town": "NEWTOWNABBEY",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 439562500,
-      "repeater": "GB7GI",
-      "rx": 430562500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO74BQ",
-      "dbwErp": 10.8,
-      "extraDetails": {
-        "ngr": "IJ3183",
-        "antennaHeight": 3,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6206,
       "fac": true,
       "type": "AP",
@@ -44338,6 +44314,30 @@
         "ngr": "SU7523",
         "antennaHeight": 6,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 7033,
+      "fac": true,
+      "type": "PX",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G6PHF",
+      "town": "LANCASTER",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 7048500,
+      "repeater": "GB7LAN",
+      "rx": 7048500,
+      "ctcss": 0,
+      "txbw": 0.5,
+      "band": "40M",
+      "locator": "IO84",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "SD4759",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
