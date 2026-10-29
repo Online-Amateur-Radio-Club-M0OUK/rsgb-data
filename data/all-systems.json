@@ -8574,7 +8574,9 @@
       "status": "OPERATIONAL",
       "keeperCallsign": "G1HZI",
       "town": "HEXHAM",
-      "modeCodes": null,
+      "modeCodes": [
+        "M:10"
+      ],
       "tx": 439575000,
       "repeater": "GB7YI",
       "rx": 430575000,
@@ -13681,7 +13683,7 @@
     },
     {
       "id": 4303,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G7SAI",
@@ -17049,30 +17051,6 @@
       }
     },
     {
-      "id": 4818,
-      "fac": true,
-      "type": "AP",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G7HMV",
-      "town": "HARPENDEN",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144800000,
-      "repeater": "MB7UVR",
-      "rx": 144800000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO91TU",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "TL1317",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 4822,
       "fac": true,
       "type": "DM",
@@ -19811,30 +19789,6 @@
       }
     },
     {
-      "id": 5135,
-      "fac": true,
-      "type": "PN",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G7HMV",
-      "town": "LEIGHTON BUZZARD",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144937500,
-      "repeater": "MB7NLB",
-      "rx": 144937500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO91QV",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SP9323",
-        "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5140,
       "fac": true,
       "type": "PN",
@@ -20814,7 +20768,10 @@
       "status": "OPERATIONAL",
       "keeperCallsign": "G7HMV",
       "town": "HARPENDEN",
-      "modeCodes": null,
+      "modeCodes": [
+        "A",
+        "F"
+      ],
       "tx": 145612500,
       "repeater": "GB7VR",
       "rx": 145012500,
@@ -26169,7 +26126,10 @@
       "status": "OPERATIONAL",
       "keeperCallsign": "G6ASK",
       "town": "TIVERTON",
-      "modeCodes": null,
+      "modeCodes": [
+        "A",
+        "F"
+      ],
       "tx": 430862500,
       "repeater": "GB3JH",
       "rx": 438462500,
@@ -26445,30 +26405,6 @@
       "extraDetails": {
         "ngr": "SK5840",
         "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 5779,
-      "fac": true,
-      "type": "AV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GW7VFJ",
-      "town": "HOLYWELL",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 439150000,
-      "repeater": "GW7VFJ",
-      "rx": 430150000,
-      "ctcss": 110.9,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO83JF",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SJ2171",
-        "antennaHeight": 6,
         "polarisation": "V"
       }
     },
@@ -35618,30 +35554,6 @@
       }
     },
     {
-      "id": 6531,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M8DHT",
-      "town": "CHORLEY",
-      "modeCodes": [
-        "M"
-      ],
-      "tx": 431137500,
-      "repeater": "MB6JB",
-      "rx": 431137500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO83QP",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SD5918",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6536,
       "fac": true,
       "type": "AG",
@@ -44266,6 +44178,30 @@
         "ngr": "TG224I",
         "antennaHeight": 20,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 7029,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GW8OGI",
+      "town": "MOLD",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430962500,
+      "repeater": "MB5HG",
+      "rx": 438562500,
+      "ctcss": 110.9,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SJ1964",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     },
     {
