@@ -975,7 +975,7 @@
     },
     {
       "id": 710,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "G8DOR",
@@ -987,7 +987,7 @@
       "repeater": "GB3AW",
       "rx": 434850000,
       "ctcss": 71.9,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO91GH",
       "dbwErp": 14,
@@ -25242,7 +25242,7 @@
       "id": 5662,
       "fac": true,
       "type": "DG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M1CYR",
       "town": "CANNOCK",
       "modeCodes": [
@@ -41167,7 +41167,7 @@
       "id": 6871,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G8PUO",
       "town": "PORTSMOUTH",
       "modeCodes": [
@@ -44015,7 +44015,7 @@
       "id": 7021,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M7OFQ",
       "town": "COLLIERS WOOD",
       "modeCodes": [
@@ -44229,6 +44229,30 @@
       }
     },
     {
+      "id": 7031,
+      "fac": true,
+      "type": "DV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G7TRL",
+      "town": "PRESTON",
+      "modeCodes": [
+        "E"
+      ],
+      "tx": 439218750,
+      "repeater": "GB7TL",
+      "rx": 430218750,
+      "ctcss": 0,
+      "txbw": 37.5,
+      "band": "70CM",
+      "locator": "IO83RU",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "SD6238",
+        "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
       "id": 7032,
       "fac": true,
       "type": "PX",
@@ -44274,6 +44298,54 @@
         "ngr": "SD4759",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 7034,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M8DHT",
+      "town": "CHORLEY",
+      "modeCodes": [
+        "M:10"
+      ],
+      "tx": 439150000,
+      "repeater": "GB7CH",
+      "rx": 430150000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83QP",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SD5918",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 7035,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G8DAN",
+      "town": "ST IVES",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 430300000,
+      "repeater": "GB7ON",
+      "rx": 439300000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO92WI",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TL2873",
+        "antennaHeight": 12,
+        "polarisation": "V"
       }
     }
   ]
