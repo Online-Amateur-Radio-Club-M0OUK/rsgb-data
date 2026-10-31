@@ -1909,7 +1909,7 @@
     },
     {
       "id": 825,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G8IQP",
@@ -1927,7 +1927,7 @@
       "dbwErp": 14,
       "extraDetails": {
         "ngr": "SK3645",
-        "antennaHeight": 0,
+        "antennaHeight": 6,
         "polarisation": "V"
       }
     },
@@ -29759,30 +29759,6 @@
       }
     },
     {
-      "id": 6117,
-      "fac": true,
-      "type": "DG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M0LJL",
-      "town": "PRESTON",
-      "modeCodes": [
-        "M:1"
-      ],
-      "tx": 431150000,
-      "repeater": "MB6LL",
-      "rx": 431150000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO83",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SD5724",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6122,
       "fac": true,
       "type": "AP",
@@ -44087,7 +44063,7 @@
       "id": 7024,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G8XYJ",
       "town": "LUDLOW",
       "modeCodes": [
@@ -44346,6 +44322,30 @@
         "ngr": "TL2873",
         "antennaHeight": 12,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 7036,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G6TEQ",
+      "town": "TORQUAY",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 438487500,
+      "repeater": "GB7TQ-L",
+      "rx": 430887500,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO80",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SX9265",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
