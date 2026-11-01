@@ -1023,7 +1023,7 @@
     },
     {
       "id": 713,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "GW0UXJ",
@@ -1038,7 +1038,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO81IO",
-      "dbwErp": 12.1,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "ST0991",
         "antennaHeight": 25,
@@ -12315,7 +12315,7 @@
       "id": 4097,
       "fac": true,
       "type": "DM",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G3WYW",
       "town": "NEWBURY",
       "modeCodes": [
@@ -43219,7 +43219,7 @@
       "id": 6984,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G8MLA",
       "town": "KINGS LYNN ",
       "modeCodes": [
@@ -44346,6 +44346,30 @@
         "ngr": "SX9265",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 7037,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M7HQU",
+      "town": "BOURNEMOUTH",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145287500,
+      "repeater": "M7HQU",
+      "rx": 145287500,
+      "ctcss": 71.9,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO90AS",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SZ0496",
+        "antennaHeight": 4,
+        "polarisation": "V"
       }
     }
   ]
