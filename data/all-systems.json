@@ -2947,7 +2947,7 @@
       "id": 951,
       "fac": true,
       "type": "AV",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G8NSS",
       "town": "STOKE ON TRENT",
       "modeCodes": [
@@ -13507,30 +13507,6 @@
         "ngr": "SS8593",
         "antennaHeight": 8,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 4288,
-      "fac": true,
-      "type": "PN",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GM7LUN",
-      "town": "GALASHIELS",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 432650000,
-      "repeater": "MB7NSB",
-      "rx": 432650000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO85",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NT4436",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -24143,7 +24119,7 @@
       "id": 5554,
       "fac": true,
       "type": "DM",
-      "status": "REDUCED OUTPUT",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G6JME",
       "town": "HEATHFIELD",
       "modeCodes": [
@@ -36903,30 +36879,6 @@
       }
     },
     {
-      "id": 6624,
-      "fac": true,
-      "type": "AG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G5BSD",
-      "town": "SOUTH NUTFIELD",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430075000,
-      "repeater": "G5BSD",
-      "rx": 430075000,
-      "ctcss": 88.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO91",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TQ2948",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6625,
       "fac": true,
       "type": "DG",
@@ -41910,30 +41862,6 @@
       }
     },
     {
-      "id": 6917,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G7GTI",
-      "town": "SPONDON",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430050000,
-      "repeater": "MB7IDX",
-      "rx": 430050000,
-      "ctcss": 88.5,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO92HW",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SK4036",
-        "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6918,
       "fac": true,
       "type": "AG",
@@ -44280,7 +44208,7 @@
       "id": 7034,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M8DHT",
       "town": "CHORLEY",
       "modeCodes": [
@@ -44370,6 +44298,54 @@
         "ngr": "SZ0496",
         "antennaHeight": 4,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 7038,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G7GTI",
+      "town": "SPONDON  DERBY",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 433237500,
+      "repeater": "GB3DJ",
+      "rx": 438237500,
+      "ctcss": 88.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO92HW",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SK4036",
+        "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 7039,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM7LUN",
+      "town": "SELKIRK",
+      "modeCodes": [
+        "M:1"
+      ],
+      "tx": 430962500,
+      "repeater": "GB7SA",
+      "rx": 438562500,
+      "ctcss": 118.8,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO85",
+      "dbwErp": 11.8,
+      "extraDetails": {
+        "ngr": "NT4728",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
