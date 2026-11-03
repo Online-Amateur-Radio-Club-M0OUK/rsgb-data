@@ -39216,7 +39216,7 @@
       "id": 6754,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM7LUN",
       "town": "LAUDER",
       "modeCodes": [
@@ -43582,7 +43582,7 @@
       "id": 7007,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7CDA",
       "town": "LEEDS",
       "modeCodes": [
@@ -43871,7 +43871,7 @@
       "id": 7019,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7GTI",
       "town": "SPONDON ",
       "modeCodes": [
