@@ -21267,30 +21267,6 @@
       }
     },
     {
-      "id": 5282,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "2E0JML",
-      "town": "DUNSTABLE",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145237500,
-      "repeater": "MB7IJM",
-      "rx": 145237500,
-      "ctcss": 67,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO91RV",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "TL0122",
-        "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5284,
       "fac": true,
       "type": "AG",
@@ -28059,30 +28035,6 @@
       }
     },
     {
-      "id": 5957,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G1OHH",
-      "town": "LANCASTER",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 431212500,
-      "repeater": "MB6LR",
-      "rx": 431212500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO84",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SD4662",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 5960,
       "fac": true,
       "type": "AV",
@@ -30273,7 +30225,7 @@
       "keeperCallsign": "MW0AXD",
       "town": "SWANSEA",
       "modeCodes": [
-        "M:1"
+        "D"
       ],
       "tx": 431062500,
       "repeater": "MB6DS",
@@ -34446,10 +34398,7 @@
       "keeperCallsign": "G6PHF",
       "town": "LANCASTER",
       "modeCodes": [
-        "D",
-        "M:1",
-        "F",
-        "N"
+        "D"
       ],
       "tx": 439525000,
       "repeater": "MB5LA",
@@ -35730,13 +35679,12 @@
       "keeperCallsign": "G6PHF",
       "town": "LANCASTER",
       "modeCodes": [
-        "A",
-        "D"
+        "M:1"
       ],
       "tx": 145650000,
       "repeater": "MB5LC",
       "rx": 145050000,
-      "ctcss": 110.9,
+      "ctcss": 0,
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO84",
@@ -39763,54 +39711,6 @@
         "ngr": "TM1066",
         "antennaHeight": 8,
         "polarisation": "V"
-      }
-    },
-    {
-      "id": 6789,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G7CDA",
-      "town": "LANCASTER",
-      "modeCodes": [
-        "F"
-      ],
-      "tx": 144912500,
-      "repeater": "MB6LN",
-      "rx": 144912500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO84",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SD4862",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
-      "id": 6790,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G7CDA",
-      "town": "LANCASTER",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 50540000,
-      "repeater": "MB7ILR",
-      "rx": 50540000,
-      "ctcss": 82.5,
-      "txbw": 12.5,
-      "band": "6M",
-      "locator": "IO84",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SD4862",
-        "antennaHeight": 0,
-        "polarisation": ""
       }
     },
     {
@@ -44306,7 +44206,7 @@
       "type": "AV",
       "status": "NOT OPERATIONAL",
       "keeperCallsign": "G7GTI",
-      "town": "SPONDON  DERBY",
+      "town": "SPONDON",
       "modeCodes": [
         "A"
       ],
@@ -44344,6 +44244,78 @@
       "dbwErp": 11.8,
       "extraDetails": {
         "ngr": "NT4728",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 7040,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "2E0JML",
+      "town": "EDMONDSLEY",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145337500,
+      "repeater": "MB7IJM",
+      "rx": 145337500,
+      "ctcss": 67,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO94LU",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "NZ2349",
+        "antennaHeight": 8,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 7041,
+      "fac": true,
+      "type": "AP",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GM5GAZ",
+      "town": "ARDROSSAN",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 144800000,
+      "repeater": "MB7UAR",
+      "rx": 144800000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO75",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "NS2342",
+        "antennaHeight": 0,
+        "polarisation": ""
+      }
+    },
+    {
+      "id": 7042,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M7XMV",
+      "town": "TRURO",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145312500,
+      "repeater": "MB7IMV",
+      "rx": 145312500,
+      "ctcss": 82.5,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO70",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SW8346",
         "antennaHeight": 0,
         "polarisation": ""
       }
