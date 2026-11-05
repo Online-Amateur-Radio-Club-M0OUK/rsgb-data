@@ -6218,30 +6218,6 @@
       }
     },
     {
-      "id": 2525,
-      "fac": true,
-      "type": "PN",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "GM7LUN",
-      "town": "GALASHIELS",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 439900000,
-      "repeater": "MB7NSB",
-      "rx": 439900000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO85",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NT4436",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 2564,
       "fac": true,
       "type": "DV",
@@ -6851,7 +6827,7 @@
     },
     {
       "id": 2757,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M1ERD",
@@ -6866,7 +6842,7 @@
       "txbw": 12.5,
       "band": "2M",
       "locator": "IO70JB",
-      "dbwErp": 12.5,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SW6821",
         "antennaHeight": 8,
@@ -13507,6 +13483,30 @@
         "ngr": "SS8593",
         "antennaHeight": 8,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 4288,
+      "fac": true,
+      "type": "PN",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "GM7LUN",
+      "town": "GALASHIELS",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 432650000,
+      "repeater": "MB7NSB",
+      "rx": 432650000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO85",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NT4436",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     },
     {
@@ -28652,9 +28652,9 @@
       "modeCodes": [
         "A"
       ],
-      "tx": 145225000,
+      "tx": 145237500,
       "repeater": "MB7IBD",
-      "rx": 145225000,
+      "rx": 145237500,
       "ctcss": 77,
       "txbw": 12.5,
       "band": "2M",
@@ -37454,7 +37454,7 @@
       "id": 6661,
       "fac": true,
       "type": "BN",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0XER",
       "town": "SILVERSTONE",
       "modeCodes": [
@@ -38126,7 +38126,7 @@
       "id": 6701,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "M6GLD",
       "town": "BRANDON",
       "modeCodes": [
