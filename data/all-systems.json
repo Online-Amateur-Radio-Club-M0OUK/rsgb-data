@@ -6826,30 +6826,6 @@
       }
     },
     {
-      "id": 2757,
-      "fac": true,
-      "type": "AV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M1ERD",
-      "town": "HELSTON",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145625000,
-      "repeater": "GB3SI",
-      "rx": 145025000,
-      "ctcss": 77,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO70JB",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "SW6821",
-        "antennaHeight": 8,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 2758,
       "fac": true,
       "type": "DV",
@@ -23045,30 +23021,6 @@
       }
     },
     {
-      "id": 5440,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M7KWB",
-      "town": "STAFFORD",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 145225000,
-      "repeater": "M7KWB",
-      "rx": 145225000,
-      "ctcss": 103.5,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO82",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SJ8221",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 5441,
       "fac": true,
       "type": "PX",
@@ -26515,9 +26467,9 @@
       "modeCodes": [
         "A"
       ],
-      "tx": 145225000,
+      "tx": 145237500,
       "repeater": "MB7IGG",
-      "rx": 145225000,
+      "rx": 145237500,
       "ctcss": 77,
       "txbw": 12.5,
       "band": "2M",
@@ -27195,9 +27147,9 @@
       "modeCodes": [
         "A"
       ],
-      "tx": 145225000,
+      "tx": 145287500,
       "repeater": "M1CNX",
-      "rx": 145225000,
+      "rx": 145287500,
       "ctcss": 71.9,
       "txbw": 12.5,
       "band": "2M",
@@ -27844,15 +27796,15 @@
       "id": 5943,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "2E0VDD",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M9LIN",
       "town": "WEYMOUTH",
       "modeCodes": [
         "A"
       ],
-      "tx": 145225000,
+      "tx": 145237500,
       "repeater": "MB7IWD",
-      "rx": 145225000,
+      "rx": 145237500,
       "ctcss": 71.9,
       "txbw": 12.5,
       "band": "2M",
@@ -28995,9 +28947,9 @@
       "modeCodes": [
         "A"
       ],
-      "tx": 145225000,
+      "tx": 145287500,
       "repeater": "MB7IMM",
-      "rx": 145225000,
+      "rx": 145287500,
       "ctcss": 77,
       "txbw": 12.5,
       "band": "2M",
@@ -29335,9 +29287,9 @@
       "modeCodes": [
         "A"
       ],
-      "tx": 145225000,
+      "tx": 145287500,
       "repeater": "MB7IYA",
-      "rx": 145225000,
+      "rx": 145287500,
       "ctcss": 94.8,
       "txbw": 12.5,
       "band": "2M",
@@ -31441,9 +31393,9 @@
       "modeCodes": [
         "A"
       ],
-      "tx": 145225000,
+      "tx": 145312500,
       "repeater": "MB7IRH",
-      "rx": 145225000,
+      "rx": 145312500,
       "ctcss": 136.5,
       "txbw": 12.5,
       "band": "2M",
@@ -35079,9 +35031,9 @@
       "modeCodes": [
         "A"
       ],
-      "tx": 145225000,
+      "tx": 145287500,
       "repeater": "MB7ICH",
-      "rx": 145225000,
+      "rx": 145287500,
       "ctcss": 103.5,
       "txbw": 12.5,
       "band": "2M",
@@ -38012,9 +37964,9 @@
       "modeCodes": [
         "A"
       ],
-      "tx": 145225000,
+      "tx": 145262500,
       "repeater": "MB7ITU",
-      "rx": 145225000,
+      "rx": 145262500,
       "ctcss": 77,
       "txbw": 12.5,
       "band": "2M",
@@ -38492,9 +38444,9 @@
       "modeCodes": [
         "A"
       ],
-      "tx": 145225000,
+      "tx": 145312500,
       "repeater": "MB7IDY",
-      "rx": 145225000,
+      "rx": 145312500,
       "ctcss": 67,
       "txbw": 12.5,
       "band": "2M",
@@ -42447,7 +42399,7 @@
       "id": 6951,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G1FEF",
       "town": "WOOBURN GREEN",
       "modeCodes": [
@@ -44318,6 +44270,54 @@
         "ngr": "SW8346",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 7043,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G8LAW",
+      "town": "BLACKBURN",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 433075000,
+      "repeater": "GB3ZM",
+      "rx": 438075000,
+      "ctcss": 82.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO83RS",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "SD6530",
+        "antennaHeight": 176,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 7044,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0BMN",
+      "town": "WOLVERHAMPTON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430062500,
+      "repeater": "MB7IPW",
+      "rx": 430062500,
+      "ctcss": 82.5,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO82WN",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SO8996",
+        "antennaHeight": 10,
+        "polarisation": "V"
       }
     }
   ]
