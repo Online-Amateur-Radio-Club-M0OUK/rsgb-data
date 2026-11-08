@@ -23369,7 +23369,7 @@
       "id": 5488,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM6BWS",
       "town": "THAINSTONE",
       "modeCodes": [
@@ -26727,7 +26727,7 @@
       "id": 5829,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM6BWS",
       "town": "THAINSTONE",
       "modeCodes": [
@@ -27796,7 +27796,7 @@
       "id": 5943,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M9LIN",
       "town": "WEYMOUTH",
       "modeCodes": [
@@ -28942,7 +28942,7 @@
       "fac": true,
       "type": "AG",
       "status": "OPERATIONAL",
-      "keeperCallsign": "M0JIC",
+      "keeperCallsign": "G0MMM",
       "town": "DONCASTER",
       "modeCodes": [
         "A"
@@ -38075,30 +38075,6 @@
       }
     },
     {
-      "id": 6701,
-      "fac": true,
-      "type": "AG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M6GLD",
-      "town": "BRANDON",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430087500,
-      "repeater": "M6GLD",
-      "rx": 430087500,
-      "ctcss": 118.8,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "JO02HL",
-      "dbwErp": 3,
-      "extraDetails": {
-        "ngr": "TL7788",
-        "antennaHeight": 7,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6703,
       "fac": true,
       "type": "AP",
@@ -44317,6 +44293,30 @@
       "extraDetails": {
         "ngr": "SO8996",
         "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 7045,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M6GLD",
+      "town": "BRANDON",
+      "modeCodes": [
+        "M:1"
+      ],
+      "tx": 433637500,
+      "repeater": "MB6WT",
+      "rx": 433637500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "JO02HL",
+      "dbwErp": 0,
+      "extraDetails": {
+        "ngr": "TL7788",
+        "antennaHeight": 7,
         "polarisation": "V"
       }
     }
