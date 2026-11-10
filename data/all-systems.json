@@ -36932,9 +36932,9 @@
       "modeCodes": [
         "A"
       ],
-      "tx": 145225000,
+      "tx": 145312500,
       "repeater": "MB7IOR",
-      "rx": 145225000,
+      "rx": 145312500,
       "ctcss": 67,
       "txbw": 12.5,
       "band": "2M",
@@ -43771,7 +43771,7 @@
       "id": 7022,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G8DAN",
       "town": "ST IVES",
       "modeCodes": [
