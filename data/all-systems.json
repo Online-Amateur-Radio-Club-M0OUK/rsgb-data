@@ -40996,7 +40996,7 @@
       "id": 6875,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "2E0KOF",
       "town": "STOTFOLD",
       "modeCodes": [
@@ -44318,6 +44318,30 @@
         "ngr": "TL7788",
         "antennaHeight": 7,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 7048,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G0RSN",
+      "town": "MINEHEAD",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145762500,
+      "repeater": "GB3MA",
+      "rx": 145162500,
+      "ctcss": 94.8,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO81",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "SS9646",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
