@@ -19257,30 +19257,6 @@
       }
     },
     {
-      "id": 5092,
-      "fac": true,
-      "type": "AP",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "M5LEE",
-      "town": "MARYPORT",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 144800000,
-      "repeater": "MB7UCU",
-      "rx": 144800000,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO84GQ",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NY0533",
-        "antennaHeight": 3,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 5095,
       "fac": true,
       "type": "AV",
@@ -25420,9 +25396,9 @@
       "modeCodes": [
         "A"
       ],
-      "tx": 145225000,
+      "tx": 145212500,
       "repeater": "MB7IHE",
-      "rx": 145225000,
+      "rx": 145212500,
       "ctcss": 82.5,
       "txbw": 12.5,
       "band": "2M",
@@ -28580,9 +28556,9 @@
       "modeCodes": [
         "A"
       ],
-      "tx": 145225000,
+      "tx": 145312500,
       "repeater": "MB7INR",
-      "rx": 145225000,
+      "rx": 145312500,
       "ctcss": 94.8,
       "txbw": 12.5,
       "band": "2M",
@@ -40730,7 +40706,7 @@
       "id": 6860,
       "fac": true,
       "type": "PN",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0HQM",
       "town": "CRAWLEY",
       "modeCodes": [
