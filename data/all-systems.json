@@ -42700,31 +42700,6 @@
       }
     },
     {
-      "id": 6966,
-      "fac": true,
-      "type": "DG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M7JUT",
-      "town": "MILTON KEYNES",
-      "modeCodes": [
-        "M:15",
-        "N"
-      ],
-      "tx": 434512500,
-      "repeater": "MB6CR",
-      "rx": 434512500,
-      "ctcss": 0,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO92QE",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SP9153",
-        "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6968,
       "fac": true,
       "type": "DV",
@@ -44318,6 +44293,55 @@
         "ngr": "SS9646",
         "antennaHeight": 0,
         "polarisation": ""
+      }
+    },
+    {
+      "id": 7050,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "GI4RNP",
+      "town": "LISBURN",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145262500,
+      "repeater": "MB7IGI",
+      "rx": 145262500,
+      "ctcss": 110.9,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO64XN",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "IJ2667",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 7051,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M7JUT",
+      "town": "LAVENDON",
+      "modeCodes": [
+        "M:15",
+        "N"
+      ],
+      "tx": 144900000,
+      "repeater": "MB6CR",
+      "rx": 144900000,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO92QE",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SP9153",
+        "antennaHeight": 7,
+        "polarisation": "V"
       }
     }
   ]
