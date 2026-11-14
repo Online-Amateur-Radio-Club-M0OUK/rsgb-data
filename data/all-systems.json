@@ -34151,30 +34151,6 @@
       }
     },
     {
-      "id": 6451,
-      "fac": true,
-      "type": "AP",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G1ZRN",
-      "town": "STOURPORT ON SEVERN",
-      "modeCodes": [
-        "X"
-      ],
-      "tx": 439912500,
-      "repeater": "G1ZRN",
-      "rx": 439912500,
-      "ctcss": 0,
-      "txbw": 125,
-      "band": "70CM",
-      "locator": "IO82",
-      "dbwErp": -7,
-      "extraDetails": {
-        "ngr": "SO8172",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 6453,
       "fac": true,
       "type": "AG",
@@ -42730,7 +42706,7 @@
       "id": 6969,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G0TJH",
       "town": "HASTINGS",
       "modeCodes": [
@@ -44083,7 +44059,7 @@
       "id": 7038,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "REDUCED OUTPUT",
       "keeperCallsign": "G7GTI",
       "town": "SPONDON",
       "modeCodes": [
