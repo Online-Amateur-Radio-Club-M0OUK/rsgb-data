@@ -1147,7 +1147,7 @@
       "id": 730,
       "fac": true,
       "type": "AV",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G8NDT",
       "town": "BIRMINGHAM",
       "modeCodes": [
@@ -1157,7 +1157,7 @@
       "repeater": "GB3CB",
       "rx": 434950000,
       "ctcss": 67,
-      "txbw": 25,
+      "txbw": 12.5,
       "band": "70CM",
       "locator": "IO92BL",
       "dbwErp": 14,
@@ -43722,7 +43722,7 @@
       "id": 7023,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM7IZF",
       "town": "INVERURIE ",
       "modeCodes": [
