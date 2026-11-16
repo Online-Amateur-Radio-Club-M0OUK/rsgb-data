@@ -29305,7 +29305,7 @@
       "id": 6099,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GM5JET",
       "town": "NAIRN",
       "modeCodes": [
@@ -44317,6 +44317,54 @@
       "extraDetails": {
         "ngr": "SP9153",
         "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 7052,
+      "fac": true,
+      "type": "DV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G7HMV",
+      "town": "HARPENDEN",
+      "modeCodes": [
+        "E"
+      ],
+      "tx": 434018750,
+      "repeater": "GB7HT",
+      "rx": 434018750,
+      "ctcss": 0,
+      "txbw": 37.5,
+      "band": "70CM",
+      "locator": "IO91TU",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "TL1317",
+        "antennaHeight": 20,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 7053,
+      "fac": true,
+      "type": "DG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M0VTK",
+      "town": "TAL Y BONT",
+      "modeCodes": [
+        "F"
+      ],
+      "tx": 431087500,
+      "repeater": "MB6DW",
+      "rx": 431087500,
+      "ctcss": 0,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO72WS",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SH5921",
+        "antennaHeight": 5,
         "polarisation": "V"
       }
     }
