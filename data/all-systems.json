@@ -43626,7 +43626,7 @@
       "id": 7019,
       "fac": true,
       "type": "AG",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "G7GTI",
       "town": "SPONDON ",
       "modeCodes": [
