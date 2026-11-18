@@ -12318,7 +12318,7 @@
       "id": 4103,
       "fac": true,
       "type": "AP",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "MM0ROR",
       "town": "ABERDEEN",
       "modeCodes": [
@@ -25487,30 +25487,6 @@
       }
     },
     {
-      "id": 5699,
-      "fac": true,
-      "type": "AG",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G7RPG",
-      "town": "DUDLEY",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 144912500,
-      "repeater": "MB7IUG",
-      "rx": 144912500,
-      "ctcss": 71.9,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO82",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SO9292",
-        "antennaHeight": 0,
-        "polarisation": ""
-      }
-    },
-    {
       "id": 5701,
       "fac": true,
       "type": "AG",
@@ -32616,31 +32592,6 @@
       }
     },
     {
-      "id": 6342,
-      "fac": true,
-      "type": "DM",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "M5LEE",
-      "town": "WORKINGTON",
-      "modeCodes": [
-        "A",
-        "F"
-      ],
-      "tx": 145637500,
-      "repeater": "GB3MX",
-      "rx": 145037500,
-      "ctcss": 77,
-      "txbw": 12.5,
-      "band": "2M",
-      "locator": "IO84FP",
-      "dbwErp": 14,
-      "extraDetails": {
-        "ngr": "NX9926",
-        "antennaHeight": 6,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6343,
       "fac": true,
       "type": "AV",
@@ -39020,7 +38971,7 @@
       "id": 6753,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4EBD",
       "town": "CORFE MULLEN",
       "modeCodes": [
@@ -43626,7 +43577,7 @@
       "id": 7019,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7GTI",
       "town": "SPONDON ",
       "modeCodes": [
@@ -44365,6 +44316,55 @@
       "extraDetails": {
         "ngr": "SH5921",
         "antennaHeight": 5,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 7054,
+      "fac": true,
+      "type": "DM",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M5LEE",
+      "town": "MARYPORT",
+      "modeCodes": [
+        "A",
+        "F"
+      ],
+      "tx": 145637500,
+      "repeater": "GB3MX",
+      "rx": 145037500,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO84GQ",
+      "dbwErp": 14,
+      "extraDetails": {
+        "ngr": "NY0533",
+        "antennaHeight": 6,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 7055,
+      "fac": true,
+      "type": "AG",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "M7JUT",
+      "town": "LAVENDON",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430012500,
+      "repeater": "MB7ILD",
+      "rx": 430012500,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO92QE",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SP9153",
+        "antennaHeight": 7,
         "polarisation": "V"
       }
     }
