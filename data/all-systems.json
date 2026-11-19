@@ -38968,30 +38968,6 @@
       }
     },
     {
-      "id": 6753,
-      "fac": true,
-      "type": "AV",
-      "status": "OPERATIONAL",
-      "keeperCallsign": "G4EBD",
-      "town": "CORFE MULLEN",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 430837500,
-      "repeater": "G4EBD",
-      "rx": 438437500,
-      "ctcss": 71.9,
-      "txbw": 12.5,
-      "band": "70CM",
-      "locator": "IO80XS",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "SY9895",
-        "antennaHeight": 10,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6754,
       "fac": true,
       "type": "AP",
@@ -44365,6 +44341,30 @@
       "extraDetails": {
         "ngr": "SP9153",
         "antennaHeight": 7,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 7056,
+      "fac": true,
+      "type": "AV",
+      "status": "OPERATIONAL",
+      "keeperCallsign": "G4EBD",
+      "town": "POOLE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430837500,
+      "repeater": "G4EBD",
+      "rx": 438437500,
+      "ctcss": 71.9,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO90AR",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SZ0292",
+        "antennaHeight": 11,
         "polarisation": "V"
       }
     }
