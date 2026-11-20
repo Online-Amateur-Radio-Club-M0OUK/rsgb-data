@@ -17645,7 +17645,7 @@
       "id": 4906,
       "fac": true,
       "type": "AP",
-      "status": "OPERATIONAL",
+      "status": "NOT OPERATIONAL",
       "keeperCallsign": "GW0VFF",
       "town": "CARMARTHEN",
       "modeCodes": [
@@ -44365,6 +44365,30 @@
       "extraDetails": {
         "ngr": "SZ0292",
         "antennaHeight": 11,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 7057,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M7OYW",
+      "town": "GRIMETHORPE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 145262500,
+      "repeater": "MB7IYW",
+      "rx": 145262500,
+      "ctcss": 110.9,
+      "txbw": 12.5,
+      "band": "2M",
+      "locator": "IO93HN",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "SE4108",
+        "antennaHeight": 10,
         "polarisation": "V"
       }
     }
