@@ -34659,54 +34659,6 @@
       }
     },
     {
-      "id": 6485,
-      "fac": true,
-      "type": "AG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G0WUR",
-      "town": "KEMNAY",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 50540000,
-      "repeater": "MB7ISC",
-      "rx": 50540000,
-      "ctcss": 103.5,
-      "txbw": 12.5,
-      "band": "6M",
-      "locator": "IO87SF",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "NJ7316",
-        "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
-      "id": 6486,
-      "fac": true,
-      "type": "AG",
-      "status": "NOT OPERATIONAL",
-      "keeperCallsign": "G0WUR",
-      "town": "KEMNAY",
-      "modeCodes": [
-        "A"
-      ],
-      "tx": 70362500,
-      "repeater": "MB7ISC",
-      "rx": 70362500,
-      "ctcss": 103.5,
-      "txbw": 12.5,
-      "band": "4M",
-      "locator": "IO87SF",
-      "dbwErp": 7,
-      "extraDetails": {
-        "ngr": "NJ7316",
-        "antennaHeight": 5,
-        "polarisation": "V"
-      }
-    },
-    {
       "id": 6487,
       "fac": true,
       "type": "AP",
@@ -44202,7 +44154,7 @@
       "id": 7050,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GI4RNP",
       "town": "LISBURN",
       "modeCodes": [
