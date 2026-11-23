@@ -18720,7 +18720,7 @@
     },
     {
       "id": 5030,
-      "fac": false,
+      "fac": true,
       "type": "DV",
       "status": "OPERATIONAL",
       "keeperCallsign": "G4LRP",
@@ -20643,7 +20643,7 @@
     },
     {
       "id": 5225,
-      "fac": false,
+      "fac": true,
       "type": "AV",
       "status": "OPERATIONAL",
       "keeperCallsign": "M0DKR",
@@ -20658,7 +20658,7 @@
       "txbw": 12.5,
       "band": "70CM",
       "locator": "IO83MR",
-      "dbwErp": 12.6,
+      "dbwErp": 14,
       "extraDetails": {
         "ngr": "SD3627",
         "antennaHeight": 8,
@@ -42709,7 +42709,7 @@
       "id": 6975,
       "fac": true,
       "type": "PX",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G5KGG",
       "town": "CHELMSFORD",
       "modeCodes": [
@@ -44106,7 +44106,7 @@
       "id": 7045,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M6GLD",
       "town": "BRANDON",
       "modeCodes": [
@@ -44340,6 +44340,30 @@
       "dbwErp": 7,
       "extraDetails": {
         "ngr": "SE4108",
+        "antennaHeight": 10,
+        "polarisation": "V"
+      }
+    },
+    {
+      "id": 7059,
+      "fac": true,
+      "type": "AG",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "M8BJL",
+      "town": "EPSOM",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430075000,
+      "repeater": "MB7IKK",
+      "rx": 430075000,
+      "ctcss": 77,
+      "txbw": 12.5,
+      "band": "70CMS",
+      "locator": "IO91UI",
+      "dbwErp": 7,
+      "extraDetails": {
+        "ngr": "TQ2062",
         "antennaHeight": 10,
         "polarisation": "V"
       }
