@@ -42757,7 +42757,7 @@
       "id": 6977,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "GW3KLB",
       "town": "OSWESTRY",
       "modeCodes": [
@@ -44082,7 +44082,7 @@
       "id": 7044,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0BMN",
       "town": "WOLVERHAMPTON",
       "modeCodes": [
