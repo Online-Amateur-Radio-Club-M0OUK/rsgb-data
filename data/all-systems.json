@@ -44367,6 +44367,30 @@
         "antennaHeight": 10,
         "polarisation": "V"
       }
+    },
+    {
+      "id": 7062,
+      "fac": true,
+      "type": "PX",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "MW5KRO",
+      "town": "LLANFAIRPWLLGWYNGYLL",
+      "modeCodes": [
+        "X"
+      ],
+      "tx": 439912500,
+      "repeater": "MB7UKO",
+      "rx": 439912500,
+      "ctcss": 0,
+      "txbw": 125,
+      "band": "70CM",
+      "locator": "IO73UE",
+      "dbwErp": -7,
+      "extraDetails": {
+        "ngr": "SH4867",
+        "antennaHeight": 3,
+        "polarisation": "V"
+      }
     }
   ]
 }
