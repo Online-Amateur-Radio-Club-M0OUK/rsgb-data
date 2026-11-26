@@ -29037,7 +29037,7 @@
       "id": 6062,
       "fac": true,
       "type": "AV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G4RKY",
       "town": "SHIPHAM",
       "modeCodes": [
@@ -42805,7 +42805,7 @@
       "id": 6985,
       "fac": true,
       "type": "DG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M0WOO",
       "town": "THIRSK",
       "modeCodes": [
@@ -43866,7 +43866,7 @@
       "id": 7035,
       "fac": true,
       "type": "DV",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G8DAN",
       "town": "ST IVES",
       "modeCodes": [
@@ -43938,7 +43938,7 @@
       "id": 7038,
       "fac": true,
       "type": "AV",
-      "status": "REDUCED OUTPUT",
+      "status": "OPERATIONAL",
       "keeperCallsign": "G7GTI",
       "town": "SPONDON",
       "modeCodes": [
@@ -44348,7 +44348,7 @@
       "id": 7059,
       "fac": true,
       "type": "AG",
-      "status": "NOT OPERATIONAL",
+      "status": "OPERATIONAL",
       "keeperCallsign": "M8BJL",
       "town": "EPSOM",
       "modeCodes": [
@@ -44390,6 +44390,30 @@
         "ngr": "SH4867",
         "antennaHeight": 3,
         "polarisation": "V"
+      }
+    },
+    {
+      "id": 7063,
+      "fac": true,
+      "type": "AV",
+      "status": "NOT OPERATIONAL",
+      "keeperCallsign": "G8PYT",
+      "town": "STOURBRIDGE",
+      "modeCodes": [
+        "A"
+      ],
+      "tx": 430825000,
+      "repeater": "GB3SO",
+      "rx": 438425000,
+      "ctcss": 67,
+      "txbw": 12.5,
+      "band": "70CM",
+      "locator": "IO82",
+      "dbwErp": 10,
+      "extraDetails": {
+        "ngr": "SO8984",
+        "antennaHeight": 0,
+        "polarisation": ""
       }
     }
   ]
